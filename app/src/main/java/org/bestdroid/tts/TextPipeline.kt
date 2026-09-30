@@ -1,6 +1,7 @@
 package org.bestdroid.tts
 
 import java.util.regex.Pattern
+import kotlin.math.roundToInt
 
 /**
  * Turns the text a TTS client hands over into what the engine can render.
@@ -60,6 +61,161 @@ object TextPipeline {
             }
         }
         return out.toString()
+    }
+
+    // ------------------------------------------------------------------
+    // SSML segments: prosody rate/pitch per section, break pauses.
+    // TalkBack itself sends plain text plus per-utterance rate/pitch, but
+    // any client may send SSML; honored subset mirrors TrueVoiceDroid:
+    // <prosody rate pitch>, <break time strength>, <speak>, structural
+    // tags as boundaries. Everything else is stripped by prepare().
+    // Scales are 0-100, 50 neutral — same as TrueVoiceDroid.
+    // ------------------------------------------------------------------
+
+    data class SsmlSegment(
+        val text: String,
+        val rate: Int = 50,
+        val pitch: Int = 50,
+        val gapAfterMs: Int = 0
+    )
+
+    private data class ProsodyContext(val rate: Int = 50, val pitch: Int = 50)
+
+    fun splitSsml(input: String): List<SsmlSegment> {
+        val segments = mutableListOf<SsmlSegment>()
+        var context = ProsodyContext()
+        val stack = ArrayDeque<ProsodyContext>()
+        val buffer = StringBuilder()
+        var pendingGapMs = 0
+        var sawTag = false
+
+        fun flush() {
+            val text = buffer.toString()
+            buffer.clear()
+            if (text.isBlank() && pendingGapMs == 0 &&
+                context.rate == 50 && context.pitch == 50
+            ) return
+            segments.add(SsmlSegment(text, context.rate, context.pitch, pendingGapMs))
+            pendingGapMs = 0
+        }
+
+        var index = 0
+        while (index < input.length) {
+            val tagStart = input.indexOf('<', index)
+            if (tagStart < 0) {
+                buffer.append(input.substring(index))
+                break
+            }
+            buffer.append(input.substring(index, tagStart))
+            val tagEnd = input.indexOf('>', tagStart)
+            if (tagEnd < 0) break // unterminated tag: drop the remainder
+            sawTag = true
+            val tag = input.substring(tagStart + 1, tagEnd)
+            index = tagEnd + 1
+            if (tag.startsWith("!--")) continue // comment runs to tagEnd anyway
+            val isClosing = tag.startsWith("/")
+            val body = if (isClosing) tag.drop(1) else tag
+            val name = body.takeWhile { !it.isWhitespace() && it != '/' }.lowercase()
+            when (name) {
+                "prosody" -> {
+                    flush()
+                    if (isClosing) {
+                        context = stack.removeLastOrNull() ?: context
+                    } else {
+                        stack.addLast(context)
+                        ssmlAttribute("pitch", body)?.let { ssmlPitchValue(it) }?.let {
+                            context = context.copy(pitch = it)
+                        }
+                        ssmlAttribute("rate", body)?.let { ssmlRateValue(it) }?.let {
+                            context = context.copy(rate = it)
+                        }
+                    }
+                }
+                "break" -> {
+                    flush()
+                    pendingGapMs = (pendingGapMs + ssmlBreakMs(body)).coerceIn(0, 10000)
+                }
+                else -> {
+                    // Boundary (speak/p/s/voice/emphasis/lang/say-as/audio/
+                    // unknown): text still spoken via prepare(); the tag
+                    // itself only splits segments so prosody stays aligned.
+                    flush()
+                    buffer.append(' ')
+                }
+            }
+        }
+        buffer.append("")
+        flush()
+        if (!sawTag) return listOf(SsmlSegment(input, 50, 50, 0))
+        return segments.filter { it.text.isNotBlank() || it.gapAfterMs > 0 }
+    }
+
+    private fun ssmlAttribute(name: String, body: String): String? {
+        val m = Pattern.compile(
+            name + "\\s*=\\s*\"([^\"]*)\"" + "|" + name + "\\s*=\\s*'([^']*)'" + "|" +
+                name + "\\s*=\\s*([^\\s/>]+)"
+        ).matcher(body)
+        if (!m.find()) return null
+        return m.group(1) ?: m.group(2) ?: m.group(3)
+    }
+
+    private fun ssmlSeconds(text: String): Double? {
+        val t = text.trim().lowercase()
+        if (t.endsWith("ms")) return t.dropLast(2).toDoubleOrNull()?.div(1000.0)
+        if (t.endsWith("s")) return t.dropLast(1).toDoubleOrNull()
+        return t.toDoubleOrNull()?.div(1000.0)
+    }
+
+    private fun ssmlBreakMs(body: String): Int {
+        ssmlAttribute("time", body)?.let { ssmlSeconds(it) }?.let {
+            return (it * 1000.0).toInt().coerceIn(0, 10000)
+        }
+        return when (ssmlAttribute("strength", body)?.lowercase()) {
+            "none" -> 0
+            "x-weak" -> 50
+            "weak" -> 100
+            "medium" -> 250
+            "strong" -> 500
+            "x-strong" -> 1000
+            else -> 250
+        }
+    }
+
+    private fun ssmlPitchValue(text: String): Int? {
+        when (text.trim().lowercase()) {
+            "x-low" -> return 15
+            "low" -> return 25
+            "medium" -> return 50
+            "high" -> return 75
+            "x-high" -> return 90
+        }
+        val v = text.trim().lowercase()
+        if (v.endsWith("%")) {
+            return v.dropLast(1).toDoubleOrNull()
+                ?.let { (50.0 + it).roundToInt().coerceIn(0, 100) }
+        }
+        val st = v.indexOf("st")
+        if (st >= 0) {
+            return v.substring(0, st).toDoubleOrNull()
+                ?.let { (50.0 + it * 6.0).roundToInt().coerceIn(0, 100) }
+        }
+        return null
+    }
+
+    private fun ssmlRateValue(text: String): Int? {
+        when (text.trim().lowercase()) {
+            "x-slow" -> return 10
+            "slow" -> return 25
+            "medium" -> return 50
+            "fast" -> return 75
+            "x-fast" -> return 90
+        }
+        val v = text.trim().lowercase()
+        if (v.endsWith("%")) {
+            return v.dropLast(1).toDoubleOrNull()
+                ?.let { (50.0 + (it - 100.0) * 0.5).roundToInt().coerceIn(0, 100) }
+        }
+        return null
     }
 
     // ------------------------------------------------------------------

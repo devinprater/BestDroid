@@ -299,32 +299,92 @@ class BestDroidService : TextToSpeechService() {
             finalText.length * p.getInt(KEY_TIMEOUT_PER_CHAR_MS, DEFAULT_TIMEOUT_PER_CHAR_MS)
 
         // 4) Native synth on an executor under a proportional timeout.
+        // SSML-aware: split prosody/break sections first; plain text takes
+        // the identical single-segment path it always has.
         val synthBuild = build
+        val segments = try {
+            TextPipeline.splitSsml(text)
+        } catch (t: Throwable) {
+            listOf(TextPipeline.SsmlSegment(text, 50, 50, 0))
+        }
+        val multiSegment = segments.size != 1 || segments[0].rate != 50 ||
+            segments[0].pitch != 50 || segments[0].gapAfterMs != 0
         val synthBytes = checkNotNull(encoded)
         val synthPitch = enginePitch
         val synthRate = engineRate
-        val chunkList = chunkBytes(synthBytes)
+        data class SegPlan(
+            val chunks: List<ByteArray>,
+            val pitch: Int,
+            val rate: Int,
+            val gapAfterMs: Int
+        )
+        val segPlans: List<SegPlan>
+        val chunkList: List<ByteArray>
+        if (!multiSegment) {
+            segPlans = listOf(SegPlan(chunkBytes(synthBytes), synthPitch, synthRate, 0))
+            chunkList = segPlans[0].chunks
+        } else {
+            segPlans = segments.mapNotNull { seg ->
+                val segPrepared = try {
+                    TextPipeline.prepare(seg.text, activeLanguage)
+                } catch (t: Throwable) {
+                    ""
+                }
+                if (segPrepared.isBlank()) {
+                    if (seg.gapAfterMs > 0) SegPlan(emptyList(), synthPitch, synthRate, seg.gapAfterMs)
+                    else null
+                } else {
+                    val segEncoded = try {
+                        VoiceCatalog.encodeForBuild(segPrepared, info)
+                    } catch (t: Throwable) {
+                        null
+                    } ?: return@mapNotNull null
+                    val segRate = EngineParameters.engineRate(
+                        (rate * seg.rate / 50.0).roundToInt()
+                    )
+                    val segPitch = EngineParameters.enginePitch(
+                        (pitch * seg.pitch / 50.0).roundToInt()
+                    )
+                    SegPlan(chunkBytes(segEncoded), segPitch, segRate, seg.gapAfterMs)
+                }
+            }
+            chunkList = segPlans.flatMap { it.chunks }
+        }
         android.util.Log.i(
             "BestDroid",
             "synth start build=$synthBuild chars=${finalText.length} " +
-                "chunks=${chunkList.size} timeout=${timeoutMs}ms rate=$rate"
+                "segments=${segPlans.size} chunks=${chunkList.size} " +
+                "timeout=${timeoutMs}ms rate=$rate"
         )
-        val future = nativeExecutor.submit<List<ShortArray>> {
+        val future = nativeExecutor.submit<SegSynth> {
             val out = mutableListOf<ShortArray>()
-            for (chunk in chunkList) {
-                if (stopped.get()) break
-                val pcm = try {
-                    NativeBst.nativeSay(synthBuild, chunk, synthPitch, synthRate)
-                } catch (e: Throwable) {
-                    android.util.Log.e("BestDroid", "nativeSay failed", e)
-                    null
+            val verbatim = mutableSetOf<Int>()
+            val gaps = mutableMapOf<Int, Int>()
+            for (plan in segPlans) {
+                for (chunk in plan.chunks) {
+                    if (stopped.get()) break
+                    val pcm = try {
+                        NativeBst.nativeSay(synthBuild, chunk, plan.pitch, plan.rate)
+                    } catch (e: Throwable) {
+                        android.util.Log.e("BestDroid", "nativeSay failed", e)
+                        null
+                    }
+                    if (pcm != null && pcm.isNotEmpty()) out.add(pcm)
                 }
-                if (pcm != null && pcm.isNotEmpty()) out.add(pcm)
+                if (plan.gapAfterMs > 0 && !stopped.get()) {
+                    // Gap silence is materialized below once the sample rate
+                    // is known. Empty arrays are never emitted by nativeSay
+                    // (isNotEmpty guard above), so they are safe markers;
+                    // the duration map rides alongside.
+                    out.add(ShortArray(0))
+                    verbatim.add(out.lastIndex)
+                    gaps[out.lastIndex] = plan.gapAfterMs
+                }
             }
-            out
+            SegSynth(out, verbatim, gaps)
         }
 
-        val chunks: List<ShortArray>? = try {
+        val synth: SegSynth? = try {
             future.get(timeoutMs.toLong(), TimeUnit.MILLISECONDS)
         } catch (e: java.util.concurrent.TimeoutException) {
             android.util.Log.w("BestDroid", "native synth timed out after ${timeoutMs}ms")
@@ -341,9 +401,20 @@ class BestDroidService : TextToSpeechService() {
             0
         }.takeIf { it > 0 } ?: 11025
 
+        // Materialize <break> gaps as exact silence at the build's rate.
+        val chunks: List<ShortArray>? = synth?.chunks?.mapIndexed { index, pcm ->
+            val gapMs = synth.gaps[index]
+            if (pcm.isEmpty() && gapMs != null && gapMs > 0) {
+                ShortArray((gapMs * nativeRate / 1000).coerceIn(1, nativeRate * 10))
+            } else {
+                pcm
+            }
+        }
+        val verbatim = synth?.verbatim ?: emptySet()
+
         val hasSpeech = chunks != null && chunks.any { pcm -> pcm.any { it != 0.toShort() } }
         if (hasSpeech && !stopped.get()) {
-            val frames = streamPcm(callback, nativeRate, chunks!!)
+            val frames = streamPcm(callback, nativeRate, chunks!!, verbatim)
             android.util.Log.i(
                 "BestDroid",
                 "request done build=$synthBuild rate=$rate pitch=$pitch frames=$frames"
@@ -370,6 +441,15 @@ class BestDroidService : TextToSpeechService() {
         }
         fallbackOrError(text, rate, pitch, callback, "native produced no speech")
     }
+
+    /** Native synth result: PCM per chunk, <break> gap markers, and chunk
+     * indexes whose pauses must stream verbatim (the shortener skips them,
+     * so an explicit break keeps its full duration). */
+    private data class SegSynth(
+        val chunks: List<ShortArray>,
+        val verbatim: Set<Int>,
+        val gaps: Map<Int, Int>
+    )
 
     /** Splits encoded bytes into chunks at spaces (never mid-word). */
     private fun chunkBytes(bytes: ByteArray): List<ByteArray> {
@@ -401,7 +481,12 @@ class BestDroidService : TextToSpeechService() {
         return out
     }
 
-    private fun streamPcm(callback: SynthesisCallback, sampleRate: Int, chunks: List<ShortArray>): Int {
+    private fun streamPcm(
+        callback: SynthesisCallback,
+        sampleRate: Int,
+        chunks: List<ShortArray>,
+        verbatimIndices: Set<Int> = emptySet()
+    ): Int {
         try {
             callback.start(sampleRate, AudioFormat.ENCODING_PCM_16BIT, 1)
         } catch (t: Throwable) {
@@ -423,11 +508,13 @@ class BestDroidService : TextToSpeechService() {
         data class Ready(val pcm: ShortArray, val len: Int)
         val ready = ArrayList<Ready>(chunks.size)
         var peak = 0
-        for (pcm in chunks) {
+        for ((index, pcm) in chunks.withIndex()) {
             if (stopped.get()) break
             val use: ShortArray
             val useLen: Int
-            if (shortener != null) {
+            // Explicit <break> silence streams verbatim: the shortener would
+            // otherwise eat the very pause the client asked for.
+            if (shortener != null && index !in verbatimIndices) {
                 val buf = ShortArray(pcm.size)
                 val n = try {
                     shortener.process(pcm, pcm.size, buf)
@@ -518,8 +605,14 @@ class BestDroidService : TextToSpeechService() {
         android.util.Log.w("BestDroid", "fallback engaged: $reason")
         val packageName = prefs(this).getString(KEY_FALLBACK_PACKAGE, DEFAULT_FALLBACK_PACKAGE)
             ?: DEFAULT_FALLBACK_PACKAGE
+        // Google would read SSML tags aloud; hand it the tag-stripped text.
+        val fallbackText = try {
+            if ('<' in text && '>' in text) TextPipeline.stripTags(TextPipeline.decodeEntities(text)) else text
+        } catch (t: Throwable) {
+            text
+        }
         try {
-            val pcm = synthesizeWithFallback(text, rate, pitch, packageName)
+            val pcm = synthesizeWithFallback(fallbackText, rate, pitch, packageName)
             if (pcm != null && pcm.samples.any { it != 0.toShort() } && !stopped.get()) {
                 streamPcm(callback, pcm.rate, listOf(pcm.samples))
                 return

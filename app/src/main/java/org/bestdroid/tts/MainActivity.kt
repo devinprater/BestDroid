@@ -198,6 +198,10 @@ class MainActivity : AppCompatActivity() {
             val bar = findViewById<SeekBar>(R.id.rateBar)
             bar.progress = (rate - 25).coerceIn(0, bar.max)
         }
+        intent.getIntExtra(EXTRA_PITCH, -1).takeIf { it >= 0 }?.let { pitch ->
+            val bar = findViewById<SeekBar>(R.id.pitchBar)
+            bar.progress = (pitch - 25).coerceIn(0, bar.max)
+        }
         android.util.Log.i(
             TAG,
             "autospeak: build=${builds[spinner.selectedItemPosition]} text=$text"
@@ -231,5 +235,6 @@ class MainActivity : AppCompatActivity() {
         const val EXTRA_VOICE = "voice"
         const val EXTRA_NO_VOICE = "novoice"
         const val EXTRA_RATE = "rate"
+        const val EXTRA_PITCH = "pitch"
     }
 }
