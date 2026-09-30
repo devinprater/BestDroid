@@ -12,8 +12,8 @@ project(bestdroid C)
 # Pinned engine source: the vendor/openbst submodule
 # (Mudb0y/openbst @ a151e78). Falls back to a local checkout for
 # developers who already have one; the submodule is authoritative.
-if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/../../../vendor/openbst/src")
-    set(OPENBST_DIR "${CMAKE_CURRENT_SOURCE_DIR}/../../../vendor/openbst")
+if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/../../../../vendor/openbst/src")
+    set(OPENBST_DIR "${CMAKE_CURRENT_SOURCE_DIR}/../../../../vendor/openbst")
 else()
     set(OPENBST_DIR "C:/src/openbst-mirror")
 endif()
