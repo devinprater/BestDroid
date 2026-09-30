@@ -1,0 +1,3675 @@
+23-20E3	Taste #
+2A-20E3	Taste *
+30-20E3	Taste 0
+31-20E3	Taste 1
+32-20E3	Taste 2
+33-20E3	Taste 3
+34-20E3	Taste 4
+35-20E3	Taste 5
+36-20E3	Taste 6
+37-20E3	Taste 7
+38-20E3	Taste 8
+39-20E3	Taste 9
+A1	umgekehrtes Ausrufezeichen
+A2	Cent
+A3	Pfund Sterling
+A4	Unbekannte Whrung
+A5	Yen
+A7	Paragraf
+A8	Trema
+A9	Copyright
+AB	nach links weisendes Guillemet
+AC	Negationszeichen
+AE	Registered-Trademark
+B0	Grad Alkohol
+B1	Plusminuszeichen
+B2	hochgestellte Zwei
+B3	hochgestellte Drei
+B4	Akut
+B5	Mikro-Zeichen
+B6	Absatzzeichen
+B7	Mittelpunkt
+B9	hochgestellte Eins
+BB	nach rechts weisendes Guillemet
+BF	umgekehrtes Fragezeichen
+D7	Multiplikation
+F7	Division
+58F	Armenischer Dram
+60B	Afghanischer Afghani
+60C	arabisches Komma
+61B	arabisches Semikolon
+61F	arabisches Fragezeichen
+9F3	Bangladesch-Taka
+E3F	Thailndischer Baht
+17DB	Kambodschanischer Riel
+2010	Bindestrich
+2013	Halbgeviertstrich
+2014	Geviertstrich
+2015	waagerechter Strich
+2018	Apostroph links
+2019	Apostroph rechts
+201A	Apostroph rechts unten
+201C	ffnendes doppeltes Anfhrungszeichen oben
+201D	schlieendes doppeltes Anfhrungszeichen oben
+201E	ffnendes doppeltes Anfhrungszeichen unten
+2020	Langkreuz
+2021	Zweibalkenkreuz
+2022	Aufzhlungspunkt
+2026	Ellipse
+2027	Silbentrennungspunkt
+2030	Promille
+2032	Prime
+2033	Doppelprime
+2034	Dreistrich
+2038	Caret
+203B	Komejirushi
+203C	doppeltes Ausrufezeichen
+203D	Interrobang
+203E	berstrich
+2042	Asterism
+2049	Ausrufe- und Fragezeichen
+207B	hochgestelltes Minuszeichen
+20A1	Costa-Rica-Coln
+20A5	Millzeichen
+20A6	Nigerianischer Naira
+20A7	Spanische Peseta
+20A9	Won
+20AA	Israelischer Neuer Schekel
+20AB	Vietnamesischer Dong
+20AC	Euro
+20AD	Laotischer Kip
+20AE	Mongolischer Tgrg
+20B1	Peso
+20B2	Paraguayischer Guaran
+20B4	Ukrainische Hrywnja
+20B5	Ghanaischer Cedi
+20B8	Kasachischer Tenge
+20B9	Indische Rupie
+20BA	Trkische Lira
+20BC	Aserbaidschan-Manat
+20BD	Rubel
+20BE	Georgischer Lari
+20BF	Bitcoin-Zeichen
+2117	Copyrightzeichen fr Audioaufnahme
+2122	Markenzeichen
+2139	Buchstabe i in blauem Quadrat
+2190	nach links weisender Pfeil
+2191	nach oben weisender Pfeil
+2192	nach rechts weisender Pfeil
+2193	nach unten weisender Pfeil
+2194	Pfeil nach links und rechts
+2195	Pfeil nach oben und unten
+2196	Pfeil nach links oben
+2197	Pfeil nach rechts oben
+2198	Pfeil nach rechts unten
+2199	Pfeil nach links unten
+219A	durchgestrichener Pfeil nach links
+219B	durchgestrichener Pfeil nach rechts
+219C	Wellenpfeil nach links
+219D	Wellenpfeil nach rechts
+219E	Pfeil mit Doppelspitze nach links
+219F	Pfeil mit Doppelspitze nach oben
+21A0	Pfeil mit Doppelspitze nach rechts
+21A1	Pfeil mit Doppelspitze nach unten
+21A2	Pfeilschwanz nach links
+21A3	Pfeilschwanz nach rechts
+21A4	Pfeil nach links von Strich weglaufend
+21A5	Pfeil nach oben von Strich weglaufend
+21A6	Pfeil nach rechts von Strich weglaufend
+21A7	Pfeil nach unten von Strich weglaufend
+21A8	Pfeil nach oben und unten mit Unterstrich
+21A9	geschwungener Pfeil nach links
+21AA	geschwungener Pfeil nach rechts
+21AB	Pfeil nach links mit Schleife
+21AC	Pfeil nach rechts mit Schleife
+21AD	Wellenpfeil nach links und rechts
+21AE	durchgestrichener Pfeil nach links und rechts
+21AF	Zickzack-Pfeil nach unten
+21B0	Pfeil nach oben mit Spitze nach links
+21B1	Pfeil nach oben mit Spitze nach rechts
+21B2	Pfeil nach unten mit Spitze nach links
+21B3	Pfeil nach unten mit Spitze nach rechts
+21B4	Pfeil nach rechts mit Spitze nach unten
+21B5	Pfeil nach unten mit Ecke nach links
+21B6	Halbkreisfrmiger Pfeil gegen Uhrzeigersinn oben
+21B7	Halbkreisfrmiger Pfeil im Uhrzeigersinn oben
+21B8	Pfeil nach Nordwesten auf langen Strich zulaufend
+21B9	Pfeil nach links auf Strich zulaufend ber Pfeil nach rechts auf Strich zulaufend
+21BA	Kreisfrmiger Pfeil gegen Uhrzeigersinn
+21BB	Kreisfrmiger Pfeil im Uhrzeigersinn
+21BC	Harpune nach links mit Zacken nach oben
+21BD	Harpune nach links mit Zacken nach unten
+21BE	Harpune nach oben mit Zacken nach rechts
+21BF	Harpune nach oben mit Zacken nach links
+21C0	Harpune nach rechts mit Zacken nach oben
+21C1	Harpune nach rechts mit Zacken nach unten
+21C2	Harpune nach unten mit Zacken nach rechts
+21C3	Harpune nach unten mit Zacken nach links
+21C4	Pfeil nach rechts ber Pfeil nach links
+21C5	nach oben und nach unten weisende Pfeile
+21C6	Linkspfeil ber Rechtspfeil
+2206	Inkrement
+2207	Nabla
+2208	Element
+2212	Minuszeichen
+221A	Quadratwurzel
+221E	Unendlichkeitszeichen
+2229	Schnittmenge
+222A	Vereinigungsmenge
+2248	ungefhr gleich
+2260	ungleich
+2261	identisch
+2264	kleiner als oder gleich
+2265	grer als oder gleich
+2282	Teilmenge
+231A	Armbanduhr
+231B	Sanduhr
+2328	Tastatur
+23CF	Auswerfen
+23E9	Doppelpfeile nach rechts
+23EA	Zurckspulen
+23EB	Doppelpfeile nach oben
+23EC	Doppelpfeile nach unten
+23ED	Nchster Titel
+23EE	Vorheriger Titel
+23EF	Wiedergabe oder Pause
+23F0	Wecker
+23F1	Stoppuhr
+23F2	Zeitschaltuhr
+23F3	laufende Sanduhr
+23F8	Pause
+23F9	Stopp
+23FA	Aufnehmen
+24C2	Buchstabe M in Kreis
+25AA	kleines schwarzes Quadrat
+25AB	kleines weies Quadrat
+25B2	geflltes nach oben weisendes Dreieck
+25B6	Wiedergabe
+25BC	geflltes nach unten weisendes Dreieck
+25C0	Pfeil zurck
+25CA	Raute
+25CB	hohler Kreis
+25CF	gefllter Kreis
+25EF	groer hohler Kreis
+25FB	mittelgroes weies Quadrat
+25FC	mittelgroes schwarzes Quadrat
+25FD	mittelkleines weies Quadrat
+25FE	mittelkleines schwarzes Quadrat
+2600	Sonne
+2601	Wolke
+2602	Regenschirm
+2603	Schneemann im Schnee
+2604	Komet
+260E	Telefon
+2611	abgehaktes Kstchen
+2614	Regenschirm im Regen
+2615	Heigetrnk
+2618	Kleeblatt
+261D	nach oben weisender Zeigefinger von vorne
+261D-1F3FB	nach oben weisender Zeigefinger von vorne helle Hautfarbe
+261D-1F3FC	nach oben weisender Zeigefinger von vorne mittelhelle Hautfarbe
+261D-1F3FD	nach oben weisender Zeigefinger von vorne mittlere Hautfarbe
+261D-1F3FE	nach oben weisender Zeigefinger von vorne mitteldunkle Hautfarbe
+261D-1F3FF	nach oben weisender Zeigefinger von vorne dunkle Hautfarbe
+2620	Totenkopf mit gekreuzten Knochen
+2622	Radioaktiv
+2623	Biogefhrdung
+2626	orthodoxes Kreuz
+262A	Hilal und Stern
+262E	Friedenszeichen
+262F	Yin und Yang
+2638	Dharma-Rad
+2639	dsteres Gesicht
+263A	lchelndes Gesicht
+2640	Frauensymbol
+2642	Mnnersymbol
+2648	Widder Sternzeichen
+2649	Stier Sternzeichen
+264A	Zwilling Sternzeichen
+264B	Krebs Sternzeichen
+264C	Lwe Sternzeichen
+264D	Jungfrau Sternzeichen
+264E	Waage Sternzeichen
+264F	Skorpion Sternzeichen
+2650	Schtze Sternzeichen
+2651	Steinbock Sternzeichen
+2652	Wassermann Sternzeichen
+2653	Fische Sternzeichen
+265F	Bauer Schach
+2660	Pik
+2663	Kreuz
+2665	Herz
+2666	Karo
+2668	heie Quellen
+266A	Achtelnote
+266D	Erniedrigungszeichen
+266F	Erhhungszeichen
+267B	Recycling-Symbol
+267E	Unendlichkeit
+267F	Symbol Rollstuhl
+2692	Hammer und Pickel
+2693	Anker
+2694	gekreuzte Schwerter
+2695	skulapstab
+2696	Waage
+2697	Destillierapparat
+2699	Zahnrad
+269B	Atomzeichen
+269C	Lilie
+26A0	Warnung
+26A1	Hochspannung
+26A7	Transgender-Symbol
+26AA	weier Punkt
+26AB	schwarzer Punkt
+26B0	Sarg
+26B1	Urne
+26BD	Fuball
+26BE	Baseball
+26C4	Schneemann ohne Schneeflocken
+26C5	Sonne hinter Wolke
+26C8	Wolke mit Blitz und Regen
+26CE	Schlangentrger
+26CF	Pickel
+26D1	Rettungshelm
+26D3	Ketten
+26D4	Zutritt verboten
+26E9	Shinto-Schrein
+26EA	Kirche
+26F0	Berg
+26F1	aufgestellter Sonnenschirm
+26F2	Springbrunnen
+26F3	Golffahne
+26F4	Fhre
+26F5	Segelboot
+26F7	Skifahrerin
+26F8	Schlittschuh
+26F9	Person mit Ball
+26F9-200D-2640	Frau mit Ball
+26F9-200D-2642	Mann mit Ball
+26F9-1F3FB	Person mit Ball helle Hautfarbe
+26F9-1F3FB-200D-2640	Frau mit Ball helle Hautfarbe
+26F9-1F3FB-200D-2642	Mann mit Ball helle Hautfarbe
+26F9-1F3FC	Person mit Ball mittelhelle Hautfarbe
+26F9-1F3FC-200D-2640	Frau mit Ball mittelhelle Hautfarbe
+26F9-1F3FC-200D-2642	Mann mit Ball mittelhelle Hautfarbe
+26F9-1F3FD	Person mit Ball mittlere Hautfarbe
+26F9-1F3FD-200D-2640	Frau mit Ball mittlere Hautfarbe
+26F9-1F3FD-200D-2642	Mann mit Ball mittlere Hautfarbe
+26F9-1F3FE	Person mit Ball mitteldunkle Hautfarbe
+26F9-1F3FE-200D-2640	Frau mit Ball mitteldunkle Hautfarbe
+26F9-1F3FE-200D-2642	Mann mit Ball mitteldunkle Hautfarbe
+26F9-1F3FF	Person mit Ball dunkle Hautfarbe
+26F9-1F3FF-200D-2640	Frau mit Ball dunkle Hautfarbe
+26F9-1F3FF-200D-2642	Mann mit Ball dunkle Hautfarbe
+26FA	Zelt
+26FD	Tanksule
+2702	Schere
+2705	weies Hkchen
+2708	Flugzeug
+2709	Briefumschlag
+270A	erhobene Faust
+270A-1F3FB	erhobene Faust helle Hautfarbe
+270A-1F3FC	erhobene Faust mittelhelle Hautfarbe
+270A-1F3FD	erhobene Faust mittlere Hautfarbe
+270A-1F3FE	erhobene Faust mitteldunkle Hautfarbe
+270A-1F3FF	erhobene Faust dunkle Hautfarbe
+270B	erhobene Hand
+270B-1F3FB	erhobene Hand helle Hautfarbe
+270B-1F3FC	erhobene Hand mittelhelle Hautfarbe
+270B-1F3FD	erhobene Hand mittlere Hautfarbe
+270B-1F3FE	erhobene Hand mitteldunkle Hautfarbe
+270B-1F3FF	erhobene Hand dunkle Hautfarbe
+270C	Victory-Geste
+270C-1F3FB	Victory-Geste helle Hautfarbe
+270C-1F3FC	Victory-Geste mittelhelle Hautfarbe
+270C-1F3FD	Victory-Geste mittlere Hautfarbe
+270C-1F3FE	Victory-Geste mitteldunkle Hautfarbe
+270C-1F3FF	Victory-Geste dunkle Hautfarbe
+270D	schreibende Hand
+270D-1F3FB	schreibende Hand helle Hautfarbe
+270D-1F3FC	schreibende Hand mittelhelle Hautfarbe
+270D-1F3FD	schreibende Hand mittlere Hautfarbe
+270D-1F3FE	schreibende Hand mitteldunkle Hautfarbe
+270D-1F3FF	schreibende Hand dunkle Hautfarbe
+270F	Bleistift
+2712	schwarzer Federhalter
+2714	krftiges Hkchen
+2716	mal
+271D	rmisches Kreuz
+2721	Davidstern
+2728	funkelnde Sterne
+2733	achtzackiger Stern
+2734	achtstrahliger Stern
+2744	Schneeflocke
+2747	Funkeln
+274C	Kreuzzeichen
+274E	angekreuztes Kstchen
+2753	rotes Fragezeichen
+2754	weies Fragezeichen
+2755	weies Ausrufezeichen
+2757	rotes Ausrufezeichen
+2763	Herz als Ausrufezeichen
+2764	rotes Herz
+2764-200D-1F525	Herz in Flammen
+2764-200D-1FA79	Herz mit Verband
+2795	plus
+2796	minus
+2797	geteilt durch
+27A1	Pfeil nach rechts
+27B0	Schleife
+27BF	Doppelschleife
+2934	geschwungener Pfeil nach oben
+2935	geschwungener Pfeil nach unten
+2B05	Pfeil nach links
+2B06	Pfeil nach oben
+2B07	Pfeil nach unten
+2B1B	groes schwarzes Quadrat
+2B1C	groes weies Quadrat
+2B50	weier mittelgroer Stern
+2B55	hohler roter Kreis
+3001	ideografisches Komma
+3002	ideografischer Punkt
+3008	ffnende spitze Klammer
+3009	schlieende spitze Klammer
+300A	ffnende doppelte spitze Klammer
+300B	schlieende doppelte spitze Klammer
+300C	ffnende Eckklammer
+300D	schlieende Eckklammer
+300E	ffnende weie Eckklammer
+300F	schlieende weie Eckklammer
+3010	ffnende schwarze konkave Klammer
+3011	schlieende schwarze konkave Klammer
+3014	ffnende stumpfe Klammer
+3015	schlieende stumpfe Klammer
+3016	ffnende hohle konkave Klammer
+3017	schlieende hohle konkave Klammer
+3030	Wellenlinie
+303D	Teilalternationszeichen
+30FB	Katakana-Mittelpunkt
+3297	Schriftzeichen fr Gratulation
+3299	Schriftzeichen fr Geheimnis
+1F004	Mahjong-Stein
+1F0CF	Jokerkarte
+1F170	Grobuchstabe A in rotem Quadrat
+1F171	Grobuchstabe B in rotem Quadrat
+1F17E	Grobuchstabe O in rotem Quadrat
+1F17F	Grobuchstabe P in blauem Quadrat
+1F18E	Grobuchstaben AB in rotem Quadrat
+1F191	Grobuchstaben CL in rotem Quadrat
+1F192	Wort Cool in blauem Quadrat
+1F193	Wort Free in blauem Quadrat
+1F194	Grobuchstaben ID in lila Quadrat
+1F195	Wort New in blauem Quadrat
+1F196	Grobuchstaben NG in blauem Quadrat
+1F197	Grobuchstaben OK in blauem Quadrat
+1F198	SOS-Zeichen
+1F199	Schriftzug UP im blauen Quadrat
+1F19A	Schriftzug VS in orangem Quadrat
+1F1E6-1F1E8	Flagge Ascension
+1F1E6-1F1E9	Flagge Andorra
+1F1E6-1F1EA	Flagge Vereinigte Arabische Emirate
+1F1E6-1F1EB	Flagge Afghanistan
+1F1E6-1F1EC	Flagge Antigua und Barbuda
+1F1E6-1F1EE	Flagge Anguilla
+1F1E6-1F1F1	Flagge Albanien
+1F1E6-1F1F2	Flagge Armenien
+1F1E6-1F1F4	Flagge Angola
+1F1E6-1F1F6	Flagge Antarktis
+1F1E6-1F1F7	Flagge Argentinien
+1F1E6-1F1F8	Flagge Amerikanisch-Samoa
+1F1E6-1F1F9	Flagge sterreich
+1F1E6-1F1FA	Flagge Australien
+1F1E6-1F1FC	Flagge Aruba
+1F1E6-1F1FD	Flagge landinseln
+1F1E6-1F1FF	Flagge Aserbaidschan
+1F1E7-1F1E6	Flagge Bosnien und Herzegowina
+1F1E7-1F1E7	Flagge Barbados
+1F1E7-1F1E9	Flagge Bangladesch
+1F1E7-1F1EA	Flagge Belgien
+1F1E7-1F1EB	Flagge Burkina Faso
+1F1E7-1F1EC	Flagge Bulgarien
+1F1E7-1F1ED	Flagge Bahrain
+1F1E7-1F1EE	Flagge Burundi
+1F1E7-1F1EF	Flagge Benin
+1F1E7-1F1F1	Flagge St. Barthlemy
+1F1E7-1F1F2	Flagge Bermuda
+1F1E7-1F1F3	Flagge Brunei Darussalam
+1F1E7-1F1F4	Flagge Bolivien
+1F1E7-1F1F6	Flagge Karibische Niederlande
+1F1E7-1F1F7	Flagge Brasilien
+1F1E7-1F1F8	Flagge Bahamas
+1F1E7-1F1F9	Flagge Bhutan
+1F1E7-1F1FB	Flagge Bouvetinsel
+1F1E7-1F1FC	Flagge Botsuana
+1F1E7-1F1FE	Flagge Belarus
+1F1E7-1F1FF	Flagge Belize
+1F1E8-1F1E6	Flagge Kanada
+1F1E8-1F1E8	Flagge Kokosinseln
+1F1E8-1F1E9	Flagge Kongo-Kinshasa
+1F1E8-1F1EB	Flagge Zentralafrikanische Republik
+1F1E8-1F1EC	Flagge Kongo-Brazzaville
+1F1E8-1F1ED	Flagge Schweiz
+1F1E8-1F1EE	Flagge Cte dIvoire
+1F1E8-1F1F0	Flagge Cookinseln
+1F1E8-1F1F1	Flagge Chile
+1F1E8-1F1F2	Flagge Kamerun
+1F1E8-1F1F3	Flagge China
+1F1E8-1F1F4	Flagge Kolumbien
+1F1E8-1F1F5	Flagge Clipperton-Insel
+1F1E8-1F1F7	Flagge Costa Rica
+1F1E8-1F1FA	Flagge Kuba
+1F1E8-1F1FB	Flagge Cabo Verde
+1F1E8-1F1FC	Flagge Curaao
+1F1E8-1F1FD	Flagge Weihnachtsinsel
+1F1E8-1F1FE	Flagge Zypern
+1F1E8-1F1FF	Flagge Tschechien
+1F1E9-1F1EA	Flagge Deutschland
+1F1E9-1F1EC	Flagge Diego Garcia
+1F1E9-1F1EF	Flagge Dschibuti
+1F1E9-1F1F0	Flagge Dnemark
+1F1E9-1F1F2	Flagge Dominica
+1F1E9-1F1F4	Flagge Dominikanische Republik
+1F1E9-1F1FF	Flagge Algerien
+1F1EA-1F1E6	Flagge Ceuta und Melilla
+1F1EA-1F1E8	Flagge Ecuador
+1F1EA-1F1EA	Flagge Estland
+1F1EA-1F1EC	Flagge gypten
+1F1EA-1F1ED	Flagge Westsahara
+1F1EA-1F1F7	Flagge Eritrea
+1F1EA-1F1F8	Flagge Spanien
+1F1EA-1F1F9	Flagge thiopien
+1F1EA-1F1FA	Flagge Europische Union
+1F1EB-1F1EE	Flagge Finnland
+1F1EB-1F1EF	Flagge Fidschi
+1F1EB-1F1F0	Flagge Falklandinseln
+1F1EB-1F1F2	Flagge Mikronesien
+1F1EB-1F1F4	Flagge Frer
+1F1EB-1F1F7	Flagge Frankreich
+1F1EC-1F1E6	Flagge Gabun
+1F1EC-1F1E7	Flagge Vereinigtes Knigreich
+1F1EC-1F1E9	Flagge Grenada
+1F1EC-1F1EA	Flagge Georgien
+1F1EC-1F1EB	Flagge Franzsisch-Guayana
+1F1EC-1F1EC	Flagge Guernsey
+1F1EC-1F1ED	Flagge Ghana
+1F1EC-1F1EE	Flagge Gibraltar
+1F1EC-1F1F1	Flagge Grnland
+1F1EC-1F1F2	Flagge Gambia
+1F1EC-1F1F3	Flagge Guinea
+1F1EC-1F1F5	Flagge Guadeloupe
+1F1EC-1F1F6	Flagge quatorialguinea
+1F1EC-1F1F7	Flagge Griechenland
+1F1EC-1F1F8	Flagge Sdgeorgien und die Sdlichen Sandwichinseln
+1F1EC-1F1F9	Flagge Guatemala
+1F1EC-1F1FA	Flagge Guam
+1F1EC-1F1FC	Flagge Guinea-Bissau
+1F1EC-1F1FE	Flagge Guyana
+1F1ED-1F1F0	Flagge Sonderverwaltungsregion Hongkong
+1F1ED-1F1F2	Flagge Heard und McDonaldinseln
+1F1ED-1F1F3	Flagge Honduras
+1F1ED-1F1F7	Flagge Kroatien
+1F1ED-1F1F9	Flagge Haiti
+1F1ED-1F1FA	Flagge Ungarn
+1F1EE-1F1E8	Flagge Kanarische Inseln
+1F1EE-1F1E9	Flagge Indonesien
+1F1EE-1F1EA	Flagge Irland
+1F1EE-1F1F1	Flagge Israel
+1F1EE-1F1F2	Flagge Isle of Man
+1F1EE-1F1F3	Flagge Indien
+1F1EE-1F1F4	Flagge Britisches Territorium im Indischen Ozean
+1F1EE-1F1F6	Flagge Irak
+1F1EE-1F1F7	Flagge Iran
+1F1EE-1F1F8	Flagge Island
+1F1EE-1F1F9	Flagge Italien
+1F1EF-1F1EA	Flagge Jersey
+1F1EF-1F1F2	Flagge Jamaika
+1F1EF-1F1F4	Flagge Jordanien
+1F1EF-1F1F5	Flagge Japan
+1F1F0-1F1EA	Flagge Kenia
+1F1F0-1F1EC	Flagge Kirgisistan
+1F1F0-1F1ED	Flagge Kambodscha
+1F1F0-1F1EE	Flagge Kiribati
+1F1F0-1F1F2	Flagge Komoren
+1F1F0-1F1F3	Flagge St. Kitts und Nevis
+1F1F0-1F1F5	Flagge Nordkorea
+1F1F0-1F1F7	Flagge Sdkorea
+1F1F0-1F1FC	Flagge Kuwait
+1F1F0-1F1FE	Flagge Kaimaninseln
+1F1F0-1F1FF	Flagge Kasachstan
+1F1F1-1F1E6	Flagge Laos
+1F1F1-1F1E7	Flagge Libanon
+1F1F1-1F1E8	Flagge St. Lucia
+1F1F1-1F1EE	Flagge Liechtenstein
+1F1F1-1F1F0	Flagge Sri Lanka
+1F1F1-1F1F7	Flagge Liberia
+1F1F1-1F1F8	Flagge Lesotho
+1F1F1-1F1F9	Flagge Litauen
+1F1F1-1F1FA	Flagge Luxemburg
+1F1F1-1F1FB	Flagge Lettland
+1F1F1-1F1FE	Flagge Libyen
+1F1F2-1F1E6	Flagge Marokko
+1F1F2-1F1E8	Flagge Monaco
+1F1F2-1F1E9	Flagge Republik Moldau
+1F1F2-1F1EA	Flagge Montenegro
+1F1F2-1F1EB	Flagge St. Martin
+1F1F2-1F1EC	Flagge Madagaskar
+1F1F2-1F1ED	Flagge Marshallinseln
+1F1F2-1F1F0	Flagge Nordmazedonien
+1F1F2-1F1F1	Flagge Mali
+1F1F2-1F1F2	Flagge Myanmar
+1F1F2-1F1F3	Flagge Mongolei
+1F1F2-1F1F4	Flagge Sonderverwaltungsregion Macau
+1F1F2-1F1F5	Flagge Nrdliche Marianen
+1F1F2-1F1F6	Flagge Martinique
+1F1F2-1F1F7	Flagge Mauretanien
+1F1F2-1F1F8	Flagge Montserrat
+1F1F2-1F1F9	Flagge Malta
+1F1F2-1F1FA	Flagge Mauritius
+1F1F2-1F1FB	Flagge Malediven
+1F1F2-1F1FC	Flagge Malawi
+1F1F2-1F1FD	Flagge Mexiko
+1F1F2-1F1FE	Flagge Malaysia
+1F1F2-1F1FF	Flagge Mosambik
+1F1F3-1F1E6	Flagge Namibia
+1F1F3-1F1E8	Flagge Neukaledonien
+1F1F3-1F1EA	Flagge Niger
+1F1F3-1F1EB	Flagge Norfolkinsel
+1F1F3-1F1EC	Flagge Nigeria
+1F1F3-1F1EE	Flagge Nicaragua
+1F1F3-1F1F1	Flagge Niederlande
+1F1F3-1F1F4	Flagge Norwegen
+1F1F3-1F1F5	Flagge Nepal
+1F1F3-1F1F7	Flagge Nauru
+1F1F3-1F1FA	Flagge Niue
+1F1F3-1F1FF	Flagge Neuseeland
+1F1F4-1F1F2	Flagge Oman
+1F1F5-1F1E6	Flagge Panama
+1F1F5-1F1EA	Flagge Peru
+1F1F5-1F1EB	Flagge Franzsisch-Polynesien
+1F1F5-1F1EC	Flagge Papua-Neuguinea
+1F1F5-1F1ED	Flagge Philippinen
+1F1F5-1F1F0	Flagge Pakistan
+1F1F5-1F1F1	Flagge Polen
+1F1F5-1F1F2	Flagge St. Pierre und Miquelon
+1F1F5-1F1F3	Flagge Pitcairninseln
+1F1F5-1F1F7	Flagge Puerto Rico
+1F1F5-1F1F8	Flagge Palstinensische Autonomiegebiete
+1F1F5-1F1F9	Flagge Portugal
+1F1F5-1F1FC	Flagge Palau
+1F1F5-1F1FE	Flagge Paraguay
+1F1F6-1F1E6	Flagge Katar
+1F1F7-1F1EA	Flagge Runion
+1F1F7-1F1F4	Flagge Rumnien
+1F1F7-1F1F8	Flagge Serbien
+1F1F7-1F1FA	Flagge Russland
+1F1F7-1F1FC	Flagge Ruanda
+1F1F8-1F1E6	Flagge Saudi-Arabien
+1F1F8-1F1E7	Flagge Salomonen
+1F1F8-1F1E8	Flagge Seychellen
+1F1F8-1F1E9	Flagge Sudan
+1F1F8-1F1EA	Flagge Schweden
+1F1F8-1F1EC	Flagge Singapur
+1F1F8-1F1ED	Flagge St. Helena
+1F1F8-1F1EE	Flagge Slowenien
+1F1F8-1F1EF	Flagge Spitzbergen und Jan Mayen
+1F1F8-1F1F0	Flagge Slowakei
+1F1F8-1F1F1	Flagge Sierra Leone
+1F1F8-1F1F2	Flagge San Marino
+1F1F8-1F1F3	Flagge Senegal
+1F1F8-1F1F4	Flagge Somalia
+1F1F8-1F1F7	Flagge Suriname
+1F1F8-1F1F8	Flagge Sdsudan
+1F1F8-1F1F9	Flagge So Tom und Prncipe
+1F1F8-1F1FB	Flagge El Salvador
+1F1F8-1F1FD	Flagge Sint Maarten
+1F1F8-1F1FE	Flagge Syrien
+1F1F8-1F1FF	Flagge Eswatini
+1F1F9-1F1E6	Flagge Tristan da Cunha
+1F1F9-1F1E8	Flagge Turks- und Caicosinseln
+1F1F9-1F1E9	Flagge Tschad
+1F1F9-1F1EB	Flagge Franzsische Sd- und Antarktisgebiete
+1F1F9-1F1EC	Flagge Togo
+1F1F9-1F1ED	Flagge Thailand
+1F1F9-1F1EF	Flagge Tadschikistan
+1F1F9-1F1F0	Flagge Tokelau
+1F1F9-1F1F1	Flagge Timor-Leste
+1F1F9-1F1F2	Flagge Turkmenistan
+1F1F9-1F1F3	Flagge Tunesien
+1F1F9-1F1F4	Flagge Tonga
+1F1F9-1F1F7	Flagge Trkei
+1F1F9-1F1F9	Flagge Trinidad und Tobago
+1F1F9-1F1FB	Flagge Tuvalu
+1F1F9-1F1FC	Flagge Taiwan
+1F1F9-1F1FF	Flagge Tansania
+1F1FA-1F1E6	Flagge Ukraine
+1F1FA-1F1EC	Flagge Uganda
+1F1FA-1F1F2	Flagge Amerikanische berseeinseln
+1F1FA-1F1F3	Flagge Vereinte Nationen
+1F1FA-1F1F8	Flagge Vereinigte Staaten
+1F1FA-1F1FE	Flagge Uruguay
+1F1FA-1F1FF	Flagge Usbekistan
+1F1FB-1F1E6	Flagge Vatikanstadt
+1F1FB-1F1E8	Flagge St. Vincent und die Grenadinen
+1F1FB-1F1EA	Flagge Venezuela
+1F1FB-1F1EC	Flagge Britische Jungferninseln
+1F1FB-1F1EE	Flagge Amerikanische Jungferninseln
+1F1FB-1F1F3	Flagge Vietnam
+1F1FB-1F1FA	Flagge Vanuatu
+1F1FC-1F1EB	Flagge Wallis und Futuna
+1F1FC-1F1F8	Flagge Samoa
+1F1FD-1F1F0	Flagge Kosovo
+1F1FE-1F1EA	Flagge Jemen
+1F1FE-1F1F9	Flagge Mayotte
+1F1FF-1F1E6	Flagge Sdafrika
+1F1FF-1F1F2	Flagge Sambia
+1F1FF-1F1FC	Flagge Simbabwe
+1F201	Schriftzeichen koko
+1F202	Schriftzeichen sa
+1F21A	Schriftzeichen fr gratis
+1F22F	Schriftzeichen fr reserviert
+1F232	Schriftzeichen fr verbieten
+1F233	Schriftzeichen fr Zimmer frei
+1F234	Schriftzeichen fr Note zum Bestehen
+1F235	Schriftzeichen fr Kein Zimmer frei
+1F236	Schriftzeichen fr nicht gratis
+1F237	Schriftzeichen fr Monatsbetrag
+1F238	Schriftzeichen fr anwenden
+1F239	Schriftzeichen fr Rabatt
+1F23A	Schriftzeichen fr Geffnet
+1F250	Schriftzeichen fr Schnppchen
+1F251	Schriftzeichen fr akzeptieren
+1F300	Wirbel
+1F301	neblig
+1F302	geschlossener Regenschirm
+1F303	Sternenhimmel
+1F304	Sonnenaufgang ber Bergen
+1F305	Sonnenaufgang ber dem Meer
+1F306	Abendstimmung in der Stadt
+1F307	Sonnenuntergang in der Stadt
+1F308	Regenbogen
+1F309	Brcke vor Nachthimmel
+1F30A	Welle
+1F30B	Vulkan
+1F30C	Milchstrae
+1F30D	Globus mit Europa und Afrika
+1F30E	Globus mit Amerika
+1F30F	Globus mit Asien und Australien
+1F310	Globus mit Meridianen
+1F311	Neumond
+1F312	erstes Mondviertel
+1F313	zunehmender Halbmond
+1F314	zweites Mondviertel
+1F315	Vollmond
+1F316	drittes Mondviertel
+1F317	abnehmender Halbmond
+1F318	letztes Mondviertel
+1F319	Mondsichel
+1F31A	Neumond mit Gesicht
+1F31B	Mondsichel mit Gesicht links
+1F31C	Mondsichel mit Gesicht rechts
+1F31D	Vollmond mit Gesicht
+1F31E	Sonne mit Gesicht
+1F31F	funkelnder Stern
+1F320	Sternschnuppe
+1F321	Thermometer
+1F324	Sonne hinter kleiner Wolke
+1F325	Sonne hinter groer Wolke
+1F326	Sonne hinter Regenwolke
+1F327	Wolke mit Regen
+1F328	Wolke mit Schnee
+1F329	Wolke mit Blitz
+1F32A	Wirbelsturm
+1F32B	Nebel
+1F32C	Wind
+1F32D	Hotdog
+1F32E	Taco
+1F32F	Burrito
+1F330	Kastanie
+1F331	Spross
+1F332	Nadelbaum
+1F333	Laubbaum
+1F334	Palme
+1F335	Kaktus
+1F336	Peperoni
+1F337	Tulpe
+1F338	Kirschblte
+1F339	Rose
+1F33A	Hibiskus
+1F33B	Sonnenblume
+1F33C	gelbe Blte
+1F33D	Maiskolben
+1F33E	Reishre
+1F33F	Kruter
+1F340	Glcksklee
+1F341	Ahornblatt
+1F342	Laub
+1F343	Bltter im Wind
+1F344	Fliegenpilz
+1F345	Tomate
+1F346	Aubergine
+1F347	Trauben
+1F348	Honigmelone
+1F349	Wassermelone
+1F34A	Mandarine
+1F34B	Zitrone
+1F34C	Banane
+1F34D	Ananas
+1F34E	roter Apfel
+1F34F	grner Apfel
+1F350	Birne
+1F351	Pfirsich
+1F352	Kirschen
+1F353	Erdbeere
+1F354	Hamburger
+1F355	Pizza
+1F356	Fleischhachse
+1F357	Hhnchenschenkel
+1F358	Reiscracker
+1F359	Reisbllchen
+1F35A	Reis in Schssel
+1F35B	Reis mit Curry
+1F35C	Schssel und Essstbchen
+1F35D	Spaghetti
+1F35E	Brot
+1F35F	Pommes frites
+1F360	gerstete Skartoffel
+1F361	Dango
+1F362	Oden
+1F363	Sushi
+1F364	frittierte Garnele
+1F365	Fischfrikadelle
+1F366	Softeis
+1F367	Wassereis
+1F368	Eiscreme
+1F369	Donut
+1F36A	Keks
+1F36B	Schokoladentafel
+1F36C	Bonbon
+1F36D	Lutscher
+1F36E	Pudding
+1F36F	Honigtopf
+1F370	Torte
+1F371	Bento-Box
+1F372	Topf mit Essen
+1F373	Spiegelei in Bratpfanne
+1F374	Gabel und Messer
+1F375	Teetasse ohne Henkel
+1F376	Sake-Flasche und -Tasse
+1F377	Weinglas
+1F378	Cocktailglas
+1F379	Cocktail
+1F37A	Bierkrug
+1F37B	Bierkrge
+1F37C	Babyflasche
+1F37D	Teller mit Messer und Gabel
+1F37E	Flasche mit knallendem Korken
+1F37F	Popcorn
+1F380	pinke Schleife
+1F381	Geschenk
+1F382	Geburtstagskuchen
+1F383	Halloweenkrbis
+1F384	Weihnachtsbaum
+1F385	Weihnachtsmann
+1F385-1F3FB	Weihnachtsmann helle Hautfarbe
+1F385-1F3FC	Weihnachtsmann mittelhelle Hautfarbe
+1F385-1F3FD	Weihnachtsmann mittlere Hautfarbe
+1F385-1F3FE	Weihnachtsmann mitteldunkle Hautfarbe
+1F385-1F3FF	Weihnachtsmann dunkle Hautfarbe
+1F386	Feuerwerk
+1F387	Wunderkerze
+1F388	Luftballon
+1F389	Konfettibombe
+1F38A	Konfettiball
+1F38B	Tanabata-Baum
+1F38C	berkreuzte Flaggen
+1F38D	Piniendekoration
+1F38E	japanische Puppen
+1F38F	traditionelle japanische Windscke
+1F390	japanisches Windspiel
+1F391	traditionelles Mondfest
+1F392	Schulranzen
+1F393	Doktorhut
+1F396	Militrorden
+1F397	Gedenkschleife
+1F399	Studiomikrofon
+1F39A	Schieberegler
+1F39B	Drehregler
+1F39E	Filmstreifen
+1F39F	Eintrittskarten
+1F3A0	Karussellpferd
+1F3A1	Riesenrad
+1F3A2	Achterbahn
+1F3A3	Angel mit Fisch
+1F3A4	Mikrofon
+1F3A5	Filmkamera
+1F3A6	Kinosymbol
+1F3A7	Kopfhrer
+1F3A8	Mischpalette
+1F3A9	Zylinder
+1F3AA	Zirkuszelt
+1F3AB	Ticket
+1F3AC	Filmklappe
+1F3AD	Masken
+1F3AE	Gamepad
+1F3AF	Darts
+1F3B0	Spielautomat
+1F3B1	Billardkugel
+1F3B2	Spielwrfel
+1F3B3	Bowling
+1F3B4	japanische Blumenkarte
+1F3B5	Musiknote
+1F3B6	Musiknoten
+1F3B7	Saxofon
+1F3B8	Gitarre
+1F3B9	Klaviatur
+1F3BA	Trompete
+1F3BB	Geige
+1F3BC	Notenschlssel
+1F3BD	Laufshirt
+1F3BE	Tennisball
+1F3BF	Ski
+1F3C0	Basketball
+1F3C1	Zielflagge
+1F3C2	Snowboarderin
+1F3C2-1F3FB	Snowboarderin helle Hautfarbe
+1F3C2-1F3FC	Snowboarderin mittelhelle Hautfarbe
+1F3C2-1F3FD	Snowboarderin mittlere Hautfarbe
+1F3C2-1F3FE	Snowboarderin mitteldunkle Hautfarbe
+1F3C2-1F3FF	Snowboarderin dunkle Hautfarbe
+1F3C3	laufende Person
+1F3C3-200D-2640	laufende Frau
+1F3C3-200D-2642	laufender Mann
+1F3C3-1F3FB	laufende Person helle Hautfarbe
+1F3C3-1F3FB-200D-2640	laufende Frau helle Hautfarbe
+1F3C3-1F3FB-200D-2642	laufender Mann helle Hautfarbe
+1F3C3-1F3FC	laufende Person mittelhelle Hautfarbe
+1F3C3-1F3FC-200D-2640	laufende Frau mittelhelle Hautfarbe
+1F3C3-1F3FC-200D-2642	laufender Mann mittelhelle Hautfarbe
+1F3C3-1F3FD	laufende Person mittlere Hautfarbe
+1F3C3-1F3FD-200D-2640	laufende Frau mittlere Hautfarbe
+1F3C3-1F3FD-200D-2642	laufender Mann mittlere Hautfarbe
+1F3C3-1F3FE	laufende Person mitteldunkle Hautfarbe
+1F3C3-1F3FE-200D-2640	laufende Frau mitteldunkle Hautfarbe
+1F3C3-1F3FE-200D-2642	laufender Mann mitteldunkle Hautfarbe
+1F3C3-1F3FF	laufende Person dunkle Hautfarbe
+1F3C3-1F3FF-200D-2640	laufende Frau dunkle Hautfarbe
+1F3C3-1F3FF-200D-2642	laufender Mann dunkle Hautfarbe
+1F3C4	Surferin
+1F3C4-200D-2640	Surferin
+1F3C4-200D-2642	Surfer
+1F3C4-1F3FB	Surferin helle Hautfarbe
+1F3C4-1F3FB-200D-2640	Surferin helle Hautfarbe
+1F3C4-1F3FB-200D-2642	Surfer helle Hautfarbe
+1F3C4-1F3FC	Surferin mittelhelle Hautfarbe
+1F3C4-1F3FC-200D-2640	Surferin mittelhelle Hautfarbe
+1F3C4-1F3FC-200D-2642	Surfer mittelhelle Hautfarbe
+1F3C4-1F3FD	Surferin mittlere Hautfarbe
+1F3C4-1F3FD-200D-2640	Surferin mittlere Hautfarbe
+1F3C4-1F3FD-200D-2642	Surfer mittlere Hautfarbe
+1F3C4-1F3FE	Surferin mitteldunkle Hautfarbe
+1F3C4-1F3FE-200D-2640	Surferin mitteldunkle Hautfarbe
+1F3C4-1F3FE-200D-2642	Surfer mitteldunkle Hautfarbe
+1F3C4-1F3FF	Surferin dunkle Hautfarbe
+1F3C4-1F3FF-200D-2640	Surferin dunkle Hautfarbe
+1F3C4-1F3FF-200D-2642	Surfer dunkle Hautfarbe
+1F3C5	Sportmedaille
+1F3C6	Pokal
+1F3C7	Pferderennen
+1F3C7-1F3FB	Pferderennen helle Hautfarbe
+1F3C7-1F3FC	Pferderennen mittelhelle Hautfarbe
+1F3C7-1F3FD	Pferderennen mittlere Hautfarbe
+1F3C7-1F3FE	Pferderennen mitteldunkle Hautfarbe
+1F3C7-1F3FF	Pferderennen dunkle Hautfarbe
+1F3C8	Football
+1F3C9	Rugbyball
+1F3CA	Schwimmerin
+1F3CA-200D-2640	Schwimmerin
+1F3CA-200D-2642	Schwimmer
+1F3CA-1F3FB	Schwimmerin helle Hautfarbe
+1F3CA-1F3FB-200D-2640	Schwimmerin helle Hautfarbe
+1F3CA-1F3FB-200D-2642	Schwimmer helle Hautfarbe
+1F3CA-1F3FC	Schwimmerin mittelhelle Hautfarbe
+1F3CA-1F3FC-200D-2640	Schwimmerin mittelhelle Hautfarbe
+1F3CA-1F3FC-200D-2642	Schwimmer mittelhelle Hautfarbe
+1F3CA-1F3FD	Schwimmerin mittlere Hautfarbe
+1F3CA-1F3FD-200D-2640	Schwimmerin mittlere Hautfarbe
+1F3CA-1F3FD-200D-2642	Schwimmer mittlere Hautfarbe
+1F3CA-1F3FE	Schwimmerin mitteldunkle Hautfarbe
+1F3CA-1F3FE-200D-2640	Schwimmerin mitteldunkle Hautfarbe
+1F3CA-1F3FE-200D-2642	Schwimmer mitteldunkle Hautfarbe
+1F3CA-1F3FF	Schwimmerin dunkle Hautfarbe
+1F3CA-1F3FF-200D-2640	Schwimmerin dunkle Hautfarbe
+1F3CA-1F3FF-200D-2642	Schwimmer dunkle Hautfarbe
+1F3CB	Gewichtheberin
+1F3CB-200D-2640	Gewichtheberin
+1F3CB-200D-2642	Gewichtheber
+1F3CB-1F3FB	Gewichtheberin helle Hautfarbe
+1F3CB-1F3FB-200D-2640	Gewichtheberin helle Hautfarbe
+1F3CB-1F3FB-200D-2642	Gewichtheber helle Hautfarbe
+1F3CB-1F3FC	Gewichtheberin mittelhelle Hautfarbe
+1F3CB-1F3FC-200D-2640	Gewichtheberin mittelhelle Hautfarbe
+1F3CB-1F3FC-200D-2642	Gewichtheber mittelhelle Hautfarbe
+1F3CB-1F3FD	Gewichtheberin mittlere Hautfarbe
+1F3CB-1F3FD-200D-2640	Gewichtheberin mittlere Hautfarbe
+1F3CB-1F3FD-200D-2642	Gewichtheber mittlere Hautfarbe
+1F3CB-1F3FE	Gewichtheberin mitteldunkle Hautfarbe
+1F3CB-1F3FE-200D-2640	Gewichtheberin mitteldunkle Hautfarbe
+1F3CB-1F3FE-200D-2642	Gewichtheber mitteldunkle Hautfarbe
+1F3CB-1F3FF	Gewichtheberin dunkle Hautfarbe
+1F3CB-1F3FF-200D-2640	Gewichtheberin dunkle Hautfarbe
+1F3CB-1F3FF-200D-2642	Gewichtheber dunkle Hautfarbe
+1F3CC	Golferin
+1F3CC-200D-2640	Golferin
+1F3CC-200D-2642	Golfer
+1F3CC-1F3FB	Golferin helle Hautfarbe
+1F3CC-1F3FB-200D-2640	Golferin helle Hautfarbe
+1F3CC-1F3FB-200D-2642	Golfer helle Hautfarbe
+1F3CC-1F3FC	Golferin mittelhelle Hautfarbe
+1F3CC-1F3FC-200D-2640	Golferin mittelhelle Hautfarbe
+1F3CC-1F3FC-200D-2642	Golfer mittelhelle Hautfarbe
+1F3CC-1F3FD	Golferin mittlere Hautfarbe
+1F3CC-1F3FD-200D-2640	Golferin mittlere Hautfarbe
+1F3CC-1F3FD-200D-2642	Golfer mittlere Hautfarbe
+1F3CC-1F3FE	Golferin mitteldunkle Hautfarbe
+1F3CC-1F3FE-200D-2640	Golferin mitteldunkle Hautfarbe
+1F3CC-1F3FE-200D-2642	Golfer mitteldunkle Hautfarbe
+1F3CC-1F3FF	Golferin dunkle Hautfarbe
+1F3CC-1F3FF-200D-2640	Golferin dunkle Hautfarbe
+1F3CC-1F3FF-200D-2642	Golfer dunkle Hautfarbe
+1F3CD	Motorrad
+1F3CE	Rennauto
+1F3CF	Kricket
+1F3D0	Volleyball
+1F3D1	Feldhockey
+1F3D2	Eishockey
+1F3D3	Tischtennis
+1F3D4	schneebedeckter Berg
+1F3D5	Camping
+1F3D6	Strand mit Sonnenschirm
+1F3D7	Kran
+1F3D8	Wohnhuser
+1F3D9	Skyline
+1F3DA	verfallenes Haus
+1F3DB	antikes Gebude
+1F3DC	Wste
+1F3DD	einsame Insel
+1F3DE	Nationalpark
+1F3DF	Stadion
+1F3E0	Haus
+1F3E1	Haus mit Garten
+1F3E2	Brogebude
+1F3E3	japanisches Postgebude
+1F3E4	Postgebude
+1F3E5	Krankenhaus
+1F3E6	Bank
+1F3E7	Symbol Geldautomat
+1F3E8	Hotel
+1F3E9	Stundenhotel
+1F3EA	Minimarkt
+1F3EB	Schule
+1F3EC	Kaufhaus
+1F3ED	Fabrik
+1F3EE	rote Papierlaterne
+1F3EF	japanisches Schloss
+1F3F0	Schloss
+1F3F3	weie Flagge
+1F3F3-200D-26A7	Transgender-Flagge
+1F3F3-200D-1F308	Regenbogenflagge
+1F3F4	schwarze Flagge
+1F3F4-200D-2620	Piratenflagge
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	Flagge England
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	Flagge Schottland
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	Flagge Wales
+1F3F5	Rosette
+1F3F7	Etikett
+1F3F8	Badminton
+1F3F9	Pfeil und Bogen
+1F3FA	Amphore
+1F3FB	helle Hautfarbe
+1F3FC	mittelhelle Hautfarbe
+1F3FD	mittlere Hautfarbe
+1F3FE	mitteldunkle Hautfarbe
+1F3FF	dunkle Hautfarbe
+1F400	Ratte
+1F401	Maus
+1F402	Ochse
+1F403	Wasserbffel
+1F404	Kuh
+1F405	Tiger
+1F406	Leopard
+1F407	Hase
+1F408	Katze
+1F408-200D-2B1B	schwarze Katze
+1F409	Drache
+1F40A	Krokodil
+1F40B	Wal
+1F40C	Schnecke
+1F40D	Schlange
+1F40E	Pferd
+1F40F	Widder
+1F410	Ziege
+1F411	Schaf
+1F412	Affe
+1F413	Hahn
+1F414	Huhn
+1F415	Hund
+1F415-200D-1F9BA	Assistenzhund
+1F416	Schwein
+1F417	Wildschwein
+1F418	Elefant
+1F419	Oktopus
+1F41A	Schneckenhaus
+1F41B	Raupe
+1F41C	Ameise
+1F41D	Biene
+1F41E	Marienkfer
+1F41F	Fisch
+1F420	Tropenfisch
+1F421	Kugelfisch
+1F422	Schildkrte
+1F423	schlpfendes Kken
+1F424	Kken
+1F425	Kken von vorne
+1F426	Vogel
+1F427	Pinguin
+1F428	Koala
+1F429	Pudel
+1F42A	Dromedar
+1F42B	Kamel
+1F42C	Delfin
+1F42D	Musegesicht
+1F42E	Kuhgesicht
+1F42F	Tigergesicht
+1F430	Hasengesicht
+1F431	Katzengesicht
+1F432	Drachengesicht
+1F433	blasender Wal
+1F434	Pferdegesicht
+1F435	Affengesicht
+1F436	Hundegesicht
+1F437	Schweinegesicht
+1F438	Frosch
+1F439	Hamster
+1F43A	Wolf
+1F43B	Br
+1F43B-200D-2744	Eisbr
+1F43C	Panda
+1F43D	Schweinerssel
+1F43E	Tatzenabdrcke
+1F43F	Streifenhrnchen
+1F440	Augen
+1F441	Auge
+1F441-200D-1F5E8	Auge in Sprechblase
+1F442	Ohr
+1F442-1F3FB	Ohr helle Hautfarbe
+1F442-1F3FC	Ohr mittelhelle Hautfarbe
+1F442-1F3FD	Ohr mittlere Hautfarbe
+1F442-1F3FE	Ohr mitteldunkle Hautfarbe
+1F442-1F3FF	Ohr dunkle Hautfarbe
+1F443	Nase
+1F443-1F3FB	Nase helle Hautfarbe
+1F443-1F3FC	Nase mittelhelle Hautfarbe
+1F443-1F3FD	Nase mittlere Hautfarbe
+1F443-1F3FE	Nase mitteldunkle Hautfarbe
+1F443-1F3FF	Nase dunkle Hautfarbe
+1F444	Mund
+1F445	Zunge
+1F446	nach oben weisender Zeigefinger von hinten
+1F446-1F3FB	nach oben weisender Zeigefinger von hinten helle Hautfarbe
+1F446-1F3FC	nach oben weisender Zeigefinger von hinten mittelhelle Hautfarbe
+1F446-1F3FD	nach oben weisender Zeigefinger von hinten mittlere Hautfarbe
+1F446-1F3FE	nach oben weisender Zeigefinger von hinten mitteldunkle Hautfarbe
+1F446-1F3FF	nach oben weisender Zeigefinger von hinten dunkle Hautfarbe
+1F447	nach unten weisender Zeigefinger
+1F447-1F3FB	nach unten weisender Zeigefinger helle Hautfarbe
+1F447-1F3FC	nach unten weisender Zeigefinger mittelhelle Hautfarbe
+1F447-1F3FD	nach unten weisender Zeigefinger mittlere Hautfarbe
+1F447-1F3FE	nach unten weisender Zeigefinger mitteldunkle Hautfarbe
+1F447-1F3FF	nach unten weisender Zeigefinger dunkle Hautfarbe
+1F448	nach links weisender Zeigefinger
+1F448-1F3FB	nach links weisender Zeigefinger helle Hautfarbe
+1F448-1F3FC	nach links weisender Zeigefinger mittelhelle Hautfarbe
+1F448-1F3FD	nach links weisender Zeigefinger mittlere Hautfarbe
+1F448-1F3FE	nach links weisender Zeigefinger mitteldunkle Hautfarbe
+1F448-1F3FF	nach links weisender Zeigefinger dunkle Hautfarbe
+1F449	nach rechts weisender Zeigefinger
+1F449-1F3FB	nach rechts weisender Zeigefinger helle Hautfarbe
+1F449-1F3FC	nach rechts weisender Zeigefinger mittelhelle Hautfarbe
+1F449-1F3FD	nach rechts weisender Zeigefinger mittlere Hautfarbe
+1F449-1F3FE	nach rechts weisender Zeigefinger mitteldunkle Hautfarbe
+1F449-1F3FF	nach rechts weisender Zeigefinger dunkle Hautfarbe
+1F44A	geballte Faust
+1F44A-1F3FB	geballte Faust helle Hautfarbe
+1F44A-1F3FC	geballte Faust mittelhelle Hautfarbe
+1F44A-1F3FD	geballte Faust mittlere Hautfarbe
+1F44A-1F3FE	geballte Faust mitteldunkle Hautfarbe
+1F44A-1F3FF	geballte Faust dunkle Hautfarbe
+1F44B	winkende Hand
+1F44B-1F3FB	winkende Hand helle Hautfarbe
+1F44B-1F3FC	winkende Hand mittelhelle Hautfarbe
+1F44B-1F3FD	winkende Hand mittlere Hautfarbe
+1F44B-1F3FE	winkende Hand mitteldunkle Hautfarbe
+1F44B-1F3FF	winkende Hand dunkle Hautfarbe
+1F44C	OK-Zeichen
+1F44C-1F3FB	OK-Zeichen helle Hautfarbe
+1F44C-1F3FC	OK-Zeichen mittelhelle Hautfarbe
+1F44C-1F3FD	OK-Zeichen mittlere Hautfarbe
+1F44C-1F3FE	OK-Zeichen mitteldunkle Hautfarbe
+1F44C-1F3FF	OK-Zeichen dunkle Hautfarbe
+1F44D	Daumen hoch
+1F44D-1F3FB	Daumen hoch helle Hautfarbe
+1F44D-1F3FC	Daumen hoch mittelhelle Hautfarbe
+1F44D-1F3FD	Daumen hoch mittlere Hautfarbe
+1F44D-1F3FE	Daumen hoch mitteldunkle Hautfarbe
+1F44D-1F3FF	Daumen hoch dunkle Hautfarbe
+1F44E	Daumen runter
+1F44E-1F3FB	Daumen runter helle Hautfarbe
+1F44E-1F3FC	Daumen runter mittelhelle Hautfarbe
+1F44E-1F3FD	Daumen runter mittlere Hautfarbe
+1F44E-1F3FE	Daumen runter mitteldunkle Hautfarbe
+1F44E-1F3FF	Daumen runter dunkle Hautfarbe
+1F44F	klatschende Hnde
+1F44F-1F3FB	klatschende Hnde helle Hautfarbe
+1F44F-1F3FC	klatschende Hnde mittelhelle Hautfarbe
+1F44F-1F3FD	klatschende Hnde mittlere Hautfarbe
+1F44F-1F3FE	klatschende Hnde mitteldunkle Hautfarbe
+1F44F-1F3FF	klatschende Hnde dunkle Hautfarbe
+1F450	offene Hnde
+1F450-1F3FB	offene Hnde helle Hautfarbe
+1F450-1F3FC	offene Hnde mittelhelle Hautfarbe
+1F450-1F3FD	offene Hnde mittlere Hautfarbe
+1F450-1F3FE	offene Hnde mitteldunkle Hautfarbe
+1F450-1F3FF	offene Hnde dunkle Hautfarbe
+1F451	Krone
+1F452	Damenhut
+1F453	Brille
+1F454	Hemd mit Krawatte
+1F455	T-Shirt
+1F456	Jeans
+1F457	Kleid
+1F458	Kimono
+1F459	Bikini
+1F45A	Bluse
+1F45B	Geldbrse
+1F45C	Handtasche
+1F45D	Clutch
+1F45E	Herrenschuh
+1F45F	Sportschuh
+1F460	Stckelschuh
+1F461	Damensandale
+1F462	Damenstiefel
+1F463	Fuabdrcke
+1F464	Silhouette einer Bste
+1F465	Silhouette mehrerer Bsten
+1F466	Junge
+1F466-1F3FB	Junge helle Hautfarbe
+1F466-1F3FC	Junge mittelhelle Hautfarbe
+1F466-1F3FD	Junge mittlere Hautfarbe
+1F466-1F3FE	Junge mitteldunkle Hautfarbe
+1F466-1F3FF	Junge dunkle Hautfarbe
+1F467	Mdchen
+1F467-1F3FB	Mdchen helle Hautfarbe
+1F467-1F3FC	Mdchen mittelhelle Hautfarbe
+1F467-1F3FD	Mdchen mittlere Hautfarbe
+1F467-1F3FE	Mdchen mitteldunkle Hautfarbe
+1F467-1F3FF	Mdchen dunkle Hautfarbe
+1F468	Mann
+1F468-200D-2695	Arzt
+1F468-200D-2696	Richter
+1F468-200D-2708	Pilot
+1F468-200D-2764-200D-1F468	Liebespaar Mann Mann
+1F468-200D-2764-200D-1F48B-200D-1F468	sich kssendes Paar Mann Mann
+1F468-200D-1F33E	Bauer
+1F468-200D-1F373	Koch
+1F468-200D-1F37C	stillender Mann
+1F468-200D-1F393	Student
+1F468-200D-1F3A4	Snger
+1F468-200D-1F3A8	Knstler
+1F468-200D-1F3EB	Lehrer
+1F468-200D-1F3ED	Fabrikarbeiter
+1F468-200D-1F466	Familie Mann Junge
+1F468-200D-1F466-200D-1F466	Familie Mann Junge und Junge
+1F468-200D-1F467	Familie Mann Mdchen
+1F468-200D-1F467-200D-1F466	Familie Mann Mdchen und Junge
+1F468-200D-1F467-200D-1F467	Familie Mann Mdchen und Mdchen
+1F468-200D-1F468-200D-1F466	Familie Mann Mann und Junge
+1F468-200D-1F468-200D-1F466-200D-1F466	Familie Mann Mann Junge und Junge
+1F468-200D-1F468-200D-1F467	Familie Mann Mann und Mdchen
+1F468-200D-1F468-200D-1F467-200D-1F466	Familie Mann Mann Mdchen und Junge
+1F468-200D-1F468-200D-1F467-200D-1F467	Familie Mann Mann Mdchen und Mdchen
+1F468-200D-1F469-200D-1F466	Familie Mann Frau und Junge
+1F468-200D-1F469-200D-1F466-200D-1F466	Familie Mann Frau Junge und Junge
+1F468-200D-1F469-200D-1F467	Familie Mann Frau und Mdchen
+1F468-200D-1F469-200D-1F467-200D-1F466	Familie Mann Frau Mdchen und Junge
+1F468-200D-1F469-200D-1F467-200D-1F467	Familie Mann Frau Mdchen und Mdchen
+1F468-200D-1F4BB	IT-Experte
+1F468-200D-1F4BC	Broangestellter
+1F468-200D-1F527	Mechaniker
+1F468-200D-1F52C	Wissenschaftler
+1F468-200D-1F680	Astronaut
+1F468-200D-1F692	Feuerwehrmann
+1F468-200D-1F9AF	Mann mit Gehstock
+1F468-200D-1F9B0	Mann rotes Haar
+1F468-200D-1F9B1	Mann lockiges Haar
+1F468-200D-1F9B2	Mann Glatze
+1F468-200D-1F9B3	Mann weies Haar
+1F468-200D-1F9BC	Mann in elektrischem Rollstuhl
+1F468-200D-1F9BD	Mann in manuellem Rollstuhl
+1F468-1F3FB	Mann helle Hautfarbe
+1F468-1F3FB-200D-2695	Arzt helle Hautfarbe
+1F468-1F3FB-200D-2696	Richter helle Hautfarbe
+1F468-1F3FB-200D-2708	Pilot helle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	Liebespaar Mann Mann und helle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	Liebespaar Mann Mann helle Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	Liebespaar Mann Mann helle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	Liebespaar Mann Mann helle Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	Liebespaar Mann Mann helle Hautfarbe und dunkle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Mann Mann und helle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Mann Mann helle Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Mann Mann helle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Mann Mann helle Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Mann Mann helle Hautfarbe und dunkle Hautfarbe
+1F468-1F3FB-200D-1F33E	Bauer helle Hautfarbe
+1F468-1F3FB-200D-1F373	Koch helle Hautfarbe
+1F468-1F3FB-200D-1F37C	stillender Mann helle Hautfarbe
+1F468-1F3FB-200D-1F393	Student helle Hautfarbe
+1F468-1F3FB-200D-1F3A4	Snger helle Hautfarbe
+1F468-1F3FB-200D-1F3A8	Knstler helle Hautfarbe
+1F468-1F3FB-200D-1F3EB	Lehrer helle Hautfarbe
+1F468-1F3FB-200D-1F3ED	Fabrikarbeiter helle Hautfarbe
+1F468-1F3FB-200D-1F4BB	IT-Experte helle Hautfarbe
+1F468-1F3FB-200D-1F4BC	Broangestellter helle Hautfarbe
+1F468-1F3FB-200D-1F527	Mechaniker helle Hautfarbe
+1F468-1F3FB-200D-1F52C	Wissenschaftler helle Hautfarbe
+1F468-1F3FB-200D-1F680	Astronaut helle Hautfarbe
+1F468-1F3FB-200D-1F692	Feuerwehrmann helle Hautfarbe
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	Hndchen haltende Mnner helle Hautfarbe mittelhelle Hautfarbe
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	Hndchen haltende Mnner helle Hautfarbe mittlere Hautfarbe
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	Hndchen haltende Mnner helle Hautfarbe mitteldunkle Hautfarbe
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	Hndchen haltende Mnner helle Hautfarbe dunkle Hautfarbe
+1F468-1F3FB-200D-1F9AF	Mann mit Gehstock helle Hautfarbe
+1F468-1F3FB-200D-1F9B0	Mann helle Hautfarbe rotes Haar
+1F468-1F3FB-200D-1F9B1	Mann helle Hautfarbe lockiges Haar
+1F468-1F3FB-200D-1F9B2	Mann helle Hautfarbe Glatze
+1F468-1F3FB-200D-1F9B3	Mann helle Hautfarbe weies Haar
+1F468-1F3FB-200D-1F9BC	Mann in elektrischem Rollstuhl helle Hautfarbe
+1F468-1F3FB-200D-1F9BD	Mann in manuellem Rollstuhl helle Hautfarbe
+1F468-1F3FC	Mann mittelhelle Hautfarbe
+1F468-1F3FC-200D-2695	Arzt mittelhelle Hautfarbe
+1F468-1F3FC-200D-2696	Richter mittelhelle Hautfarbe
+1F468-1F3FC-200D-2708	Pilot mittelhelle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	Liebespaar Mann Mann mittelhelle Hautfarbe und helle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	Liebespaar Mann Mann und mittelhelle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	Liebespaar Mann Mann mittelhelle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	Liebespaar Mann Mann mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	Liebespaar Mann Mann mittelhelle Hautfarbe und dunkle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Mann Mann mittelhelle Hautfarbe und helle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Mann Mann und mittelhelle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Mann Mann mittelhelle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Mann Mann mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Mann Mann mittelhelle Hautfarbe und dunkle Hautfarbe
+1F468-1F3FC-200D-1F33E	Bauer mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F373	Koch mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F37C	stillender Mann mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F393	Student mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F3A4	Snger mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F3A8	Knstler mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F3EB	Lehrer mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F3ED	Fabrikarbeiter mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F4BB	IT-Experte mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F4BC	Broangestellter mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F527	Mechaniker mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F52C	Wissenschaftler mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F680	Astronaut mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F692	Feuerwehrmann mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	Hndchen haltende Mnner mittelhelle Hautfarbe helle Hautfarbe
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	Hndchen haltende Mnner mittelhelle Hautfarbe mittlere Hautfarbe
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	Hndchen haltende Mnner mittelhelle Hautfarbe mitteldunkle Hautfarbe
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	Hndchen haltende Mnner mittelhelle Hautfarbe dunkle Hautfarbe
+1F468-1F3FC-200D-1F9AF	Mann mit Gehstock mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F9B0	Mann mittelhelle Hautfarbe rotes Haar
+1F468-1F3FC-200D-1F9B1	Mann mittelhelle Hautfarbe lockiges Haar
+1F468-1F3FC-200D-1F9B2	Mann mittelhelle Hautfarbe Glatze
+1F468-1F3FC-200D-1F9B3	Mann mittelhelle Hautfarbe weies Haar
+1F468-1F3FC-200D-1F9BC	Mann in elektrischem Rollstuhl mittelhelle Hautfarbe
+1F468-1F3FC-200D-1F9BD	Mann in manuellem Rollstuhl mittelhelle Hautfarbe
+1F468-1F3FD	Mann mittlere Hautfarbe
+1F468-1F3FD-200D-2695	Arzt mittlere Hautfarbe
+1F468-1F3FD-200D-2696	Richter mittlere Hautfarbe
+1F468-1F3FD-200D-2708	Pilot mittlere Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	Liebespaar Mann Mann mittlere Hautfarbe und helle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	Liebespaar Mann Mann mittlere Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	Liebespaar Mann Mann und mittlere Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	Liebespaar Mann Mann mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	Liebespaar Mann Mann mittlere Hautfarbe und dunkle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Mann Mann mittlere Hautfarbe und helle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Mann Mann mittlere Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Mann Mann und mittlere Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Mann Mann mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Mann Mann mittlere Hautfarbe und dunkle Hautfarbe
+1F468-1F3FD-200D-1F33E	Bauer mittlere Hautfarbe
+1F468-1F3FD-200D-1F373	Koch mittlere Hautfarbe
+1F468-1F3FD-200D-1F37C	stillender Mann mittlere Hautfarbe
+1F468-1F3FD-200D-1F393	Student mittlere Hautfarbe
+1F468-1F3FD-200D-1F3A4	Snger mittlere Hautfarbe
+1F468-1F3FD-200D-1F3A8	Knstler mittlere Hautfarbe
+1F468-1F3FD-200D-1F3EB	Lehrer mittlere Hautfarbe
+1F468-1F3FD-200D-1F3ED	Fabrikarbeiter mittlere Hautfarbe
+1F468-1F3FD-200D-1F4BB	IT-Experte mittlere Hautfarbe
+1F468-1F3FD-200D-1F4BC	Broangestellter mittlere Hautfarbe
+1F468-1F3FD-200D-1F527	Mechaniker mittlere Hautfarbe
+1F468-1F3FD-200D-1F52C	Wissenschaftler mittlere Hautfarbe
+1F468-1F3FD-200D-1F680	Astronaut mittlere Hautfarbe
+1F468-1F3FD-200D-1F692	Feuerwehrmann mittlere Hautfarbe
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	Hndchen haltende Mnner mittlere Hautfarbe helle Hautfarbe
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	Hndchen haltende Mnner mittlere Hautfarbe mittelhelle Hautfarbe
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	Hndchen haltende Mnner mittlere Hautfarbe mitteldunkle Hautfarbe
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	Hndchen haltende Mnner mittlere Hautfarbe dunkle Hautfarbe
+1F468-1F3FD-200D-1F9AF	Mann mit Gehstock mittlere Hautfarbe
+1F468-1F3FD-200D-1F9B0	Mann mittlere Hautfarbe rotes Haar
+1F468-1F3FD-200D-1F9B1	Mann mittlere Hautfarbe lockiges Haar
+1F468-1F3FD-200D-1F9B2	Mann mittlere Hautfarbe Glatze
+1F468-1F3FD-200D-1F9B3	Mann mittlere Hautfarbe weies Haar
+1F468-1F3FD-200D-1F9BC	Mann in elektrischem Rollstuhl mittlere Hautfarbe
+1F468-1F3FD-200D-1F9BD	Mann in manuellem Rollstuhl mittlere Hautfarbe
+1F468-1F3FE	Mann mitteldunkle Hautfarbe
+1F468-1F3FE-200D-2695	Arzt mitteldunkle Hautfarbe
+1F468-1F3FE-200D-2696	Richter mitteldunkle Hautfarbe
+1F468-1F3FE-200D-2708	Pilot mitteldunkle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	Liebespaar Mann Mann mitteldunkle Hautfarbe und helle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	Liebespaar Mann Mann mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	Liebespaar Mann Mann mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	Liebespaar Mann Mann und mitteldunkle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	Liebespaar Mann Mann mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Mann Mann mitteldunkle Hautfarbe und helle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Mann Mann mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Mann Mann mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Mann Mann und mitteldunkle Hautfarbe
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Mann Mann mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F468-1F3FE-200D-1F33E	Bauer mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F373	Koch mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F37C	stillender Mann mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F393	Student mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F3A4	Snger mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F3A8	Knstler mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F3EB	Lehrer mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F3ED	Fabrikarbeiter mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F4BB	IT-Experte mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F4BC	Broangestellter mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F527	Mechaniker mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F52C	Wissenschaftler mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F680	Astronaut mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F692	Feuerwehrmann mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	Hndchen haltende Mnner mitteldunkle Hautfarbe helle Hautfarbe
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	Hndchen haltende Mnner mitteldunkle Hautfarbe mittelhelle Hautfarbe
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	Hndchen haltende Mnner mitteldunkle Hautfarbe mittlere Hautfarbe
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	Hndchen haltende Mnner mitteldunkle Hautfarbe dunkle Hautfarbe
+1F468-1F3FE-200D-1F9AF	Mann mit Gehstock mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F9B0	Mann mitteldunkle Hautfarbe rotes Haar
+1F468-1F3FE-200D-1F9B1	Mann mitteldunkle Hautfarbe lockiges Haar
+1F468-1F3FE-200D-1F9B2	Mann mitteldunkle Hautfarbe Glatze
+1F468-1F3FE-200D-1F9B3	Mann mitteldunkle Hautfarbe weies Haar
+1F468-1F3FE-200D-1F9BC	Mann in elektrischem Rollstuhl mitteldunkle Hautfarbe
+1F468-1F3FE-200D-1F9BD	Mann in manuellem Rollstuhl mitteldunkle Hautfarbe
+1F468-1F3FF	Mann dunkle Hautfarbe
+1F468-1F3FF-200D-2695	Arzt dunkle Hautfarbe
+1F468-1F3FF-200D-2696	Richter dunkle Hautfarbe
+1F468-1F3FF-200D-2708	Pilot dunkle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	Liebespaar Mann Mann dunkle Hautfarbe und helle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	Liebespaar Mann Mann dunkle Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	Liebespaar Mann Mann dunkle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	Liebespaar Mann Mann dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	Liebespaar Mann Mann und dunkle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Mann Mann dunkle Hautfarbe und helle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Mann Mann dunkle Hautfarbe und mittelhelle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Mann Mann dunkle Hautfarbe und mittlere Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Mann Mann dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Mann Mann und dunkle Hautfarbe
+1F468-1F3FF-200D-1F33E	Bauer dunkle Hautfarbe
+1F468-1F3FF-200D-1F373	Koch dunkle Hautfarbe
+1F468-1F3FF-200D-1F37C	stillender Mann dunkle Hautfarbe
+1F468-1F3FF-200D-1F393	Student dunkle Hautfarbe
+1F468-1F3FF-200D-1F3A4	Snger dunkle Hautfarbe
+1F468-1F3FF-200D-1F3A8	Knstler dunkle Hautfarbe
+1F468-1F3FF-200D-1F3EB	Lehrer dunkle Hautfarbe
+1F468-1F3FF-200D-1F3ED	Fabrikarbeiter dunkle Hautfarbe
+1F468-1F3FF-200D-1F4BB	IT-Experte dunkle Hautfarbe
+1F468-1F3FF-200D-1F4BC	Broangestellter dunkle Hautfarbe
+1F468-1F3FF-200D-1F527	Mechaniker dunkle Hautfarbe
+1F468-1F3FF-200D-1F52C	Wissenschaftler dunkle Hautfarbe
+1F468-1F3FF-200D-1F680	Astronaut dunkle Hautfarbe
+1F468-1F3FF-200D-1F692	Feuerwehrmann dunkle Hautfarbe
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	Hndchen haltende Mnner dunkle Hautfarbe helle Hautfarbe
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	Hndchen haltende Mnner dunkle Hautfarbe mittelhelle Hautfarbe
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	Hndchen haltende Mnner dunkle Hautfarbe mittlere Hautfarbe
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	Hndchen haltende Mnner dunkle Hautfarbe mitteldunkle Hautfarbe
+1F468-1F3FF-200D-1F9AF	Mann mit Gehstock dunkle Hautfarbe
+1F468-1F3FF-200D-1F9B0	Mann dunkle Hautfarbe rotes Haar
+1F468-1F3FF-200D-1F9B1	Mann dunkle Hautfarbe lockiges Haar
+1F468-1F3FF-200D-1F9B2	Mann dunkle Hautfarbe Glatze
+1F468-1F3FF-200D-1F9B3	Mann dunkle Hautfarbe weies Haar
+1F468-1F3FF-200D-1F9BC	Mann in elektrischem Rollstuhl dunkle Hautfarbe
+1F468-1F3FF-200D-1F9BD	Mann in manuellem Rollstuhl dunkle Hautfarbe
+1F469	Frau
+1F469-200D-2695	rztin
+1F469-200D-2696	Richterin
+1F469-200D-2708	Pilotin
+1F469-200D-2764-200D-1F468	Liebespaar Frau Mann
+1F469-200D-2764-200D-1F469	Liebespaar Frau Frau
+1F469-200D-2764-200D-1F48B-200D-1F468	sich kssendes Paar Frau Mann
+1F469-200D-2764-200D-1F48B-200D-1F469	sich kssendes Paar Frau Frau
+1F469-200D-1F33E	Buerin
+1F469-200D-1F373	Kchin
+1F469-200D-1F37C	stillende Frau
+1F469-200D-1F393	Studentin
+1F469-200D-1F3A4	Sngerin
+1F469-200D-1F3A8	Knstlerin
+1F469-200D-1F3EB	Lehrerin
+1F469-200D-1F3ED	Fabrikarbeiterin
+1F469-200D-1F466	Familie Frau Junge
+1F469-200D-1F466-200D-1F466	Familie Frau Junge und Junge
+1F469-200D-1F467	Familie Frau Mdchen
+1F469-200D-1F467-200D-1F466	Familie Frau Mdchen und Junge
+1F469-200D-1F467-200D-1F467	Familie Frau Mdchen und Mdchen
+1F469-200D-1F469-200D-1F466	Familie Frau Frau und Junge
+1F469-200D-1F469-200D-1F466-200D-1F466	Familie Frau Frau Junge und Junge
+1F469-200D-1F469-200D-1F467	Familie Frau Frau und Mdchen
+1F469-200D-1F469-200D-1F467-200D-1F466	Familie Frau Frau Mdchen und Junge
+1F469-200D-1F469-200D-1F467-200D-1F467	Familie Frau Frau Mdchen und Mdchen
+1F469-200D-1F4BB	IT-Expertin
+1F469-200D-1F4BC	Broangestellte
+1F469-200D-1F527	Mechanikerin
+1F469-200D-1F52C	Wissenschaftlerin
+1F469-200D-1F680	Astronautin
+1F469-200D-1F692	Feuerwehrfrau
+1F469-200D-1F9AF	Frau mit Gehstock
+1F469-200D-1F9B0	Frau rotes Haar
+1F469-200D-1F9B1	Frau lockiges Haar
+1F469-200D-1F9B2	Frau Glatze
+1F469-200D-1F9B3	Frau weies Haar
+1F469-200D-1F9BC	Frau in elektrischem Rollstuhl
+1F469-200D-1F9BD	Frau in manuellem Rollstuhl
+1F469-1F3FB	Frau helle Hautfarbe
+1F469-1F3FB-200D-2695	rztin helle Hautfarbe
+1F469-1F3FB-200D-2696	Richterin helle Hautfarbe
+1F469-1F3FB-200D-2708	Pilotin helle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	Liebespaar Frau Mann und helle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	Liebespaar Frau Mann helle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	Liebespaar Frau Mann helle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	Liebespaar Frau Mann helle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	Liebespaar Frau Mann helle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	Liebespaar Frau Frau und helle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	Liebespaar Frau Frau helle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	Liebespaar Frau Frau helle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	Liebespaar Frau Frau helle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	Liebespaar Frau Frau helle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Frau Mann und helle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Frau Mann helle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Frau Mann helle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Frau Mann helle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Frau Mann helle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	sich kssendes Paar Frau Frau und helle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	sich kssendes Paar Frau Frau helle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	sich kssendes Paar Frau Frau helle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	sich kssendes Paar Frau Frau helle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	sich kssendes Paar Frau Frau helle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FB-200D-1F33E	Buerin helle Hautfarbe
+1F469-1F3FB-200D-1F373	Kchin helle Hautfarbe
+1F469-1F3FB-200D-1F37C	stillende Frau helle Hautfarbe
+1F469-1F3FB-200D-1F393	Studentin helle Hautfarbe
+1F469-1F3FB-200D-1F3A4	Sngerin helle Hautfarbe
+1F469-1F3FB-200D-1F3A8	Knstlerin helle Hautfarbe
+1F469-1F3FB-200D-1F3EB	Lehrerin helle Hautfarbe
+1F469-1F3FB-200D-1F3ED	Fabrikarbeiterin helle Hautfarbe
+1F469-1F3FB-200D-1F4BB	IT-Expertin helle Hautfarbe
+1F469-1F3FB-200D-1F4BC	Broangestellte helle Hautfarbe
+1F469-1F3FB-200D-1F527	Mechanikerin helle Hautfarbe
+1F469-1F3FB-200D-1F52C	Wissenschaftlerin helle Hautfarbe
+1F469-1F3FB-200D-1F680	Astronautin helle Hautfarbe
+1F469-1F3FB-200D-1F692	Feuerwehrfrau helle Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	Mann und Frau halten Hnde helle Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	Mann und Frau halten Hnde helle Hautfarbe mittlere Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	Mann und Frau halten Hnde helle Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	Mann und Frau halten Hnde helle Hautfarbe dunkle Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	Hndchen haltende Frauen helle Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	Hndchen haltende Frauen helle Hautfarbe mittlere Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	Hndchen haltende Frauen helle Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	Hndchen haltende Frauen helle Hautfarbe dunkle Hautfarbe
+1F469-1F3FB-200D-1F9AF	Frau mit Gehstock helle Hautfarbe
+1F469-1F3FB-200D-1F9B0	Frau helle Hautfarbe rotes Haar
+1F469-1F3FB-200D-1F9B1	Frau helle Hautfarbe lockiges Haar
+1F469-1F3FB-200D-1F9B2	Frau helle Hautfarbe Glatze
+1F469-1F3FB-200D-1F9B3	Frau helle Hautfarbe weies Haar
+1F469-1F3FB-200D-1F9BC	Frau in elektrischem Rollstuhl helle Hautfarbe
+1F469-1F3FB-200D-1F9BD	Frau in manuellem Rollstuhl helle Hautfarbe
+1F469-1F3FC	Frau mittelhelle Hautfarbe
+1F469-1F3FC-200D-2695	rztin mittelhelle Hautfarbe
+1F469-1F3FC-200D-2696	Richterin mittelhelle Hautfarbe
+1F469-1F3FC-200D-2708	Pilotin mittelhelle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	Liebespaar Frau Mann mittelhelle Hautfarbe und helle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	Liebespaar Frau Mann und mittelhelle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	Liebespaar Frau Mann mittelhelle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	Liebespaar Frau Mann mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	Liebespaar Frau Mann mittelhelle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	Liebespaar Frau Frau mittelhelle Hautfarbe und helle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	Liebespaar Frau Frau und mittelhelle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	Liebespaar Frau Frau mittelhelle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	Liebespaar Frau Frau mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	Liebespaar Frau Frau mittelhelle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Frau Mann mittelhelle Hautfarbe und helle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Frau Mann und mittelhelle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Frau Mann mittelhelle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Frau Mann mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Frau Mann mittelhelle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	sich kssendes Paar Frau Frau mittelhelle Hautfarbe und helle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	sich kssendes Paar Frau Frau und mittelhelle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	sich kssendes Paar Frau Frau mittelhelle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	sich kssendes Paar Frau Frau mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	sich kssendes Paar Frau Frau mittelhelle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FC-200D-1F33E	Buerin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F373	Kchin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F37C	stillende Frau mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F393	Studentin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F3A4	Sngerin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F3A8	Knstlerin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F3EB	Lehrerin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F3ED	Fabrikarbeiterin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F4BB	IT-Expertin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F4BC	Broangestellte mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F527	Mechanikerin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F52C	Wissenschaftlerin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F680	Astronautin mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F692	Feuerwehrfrau mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	Mann und Frau halten Hnde mittelhelle Hautfarbe helle Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	Mann und Frau halten Hnde mittelhelle Hautfarbe mittlere Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	Mann und Frau halten Hnde mittelhelle Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	Mann und Frau halten Hnde mittelhelle Hautfarbe dunkle Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	Hndchen haltende Frauen mittelhelle Hautfarbe helle Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	Hndchen haltende Frauen mittelhelle Hautfarbe mittlere Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	Hndchen haltende Frauen mittelhelle Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	Hndchen haltende Frauen mittelhelle Hautfarbe dunkle Hautfarbe
+1F469-1F3FC-200D-1F9AF	Frau mit Gehstock mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F9B0	Frau mittelhelle Hautfarbe rotes Haar
+1F469-1F3FC-200D-1F9B1	Frau mittelhelle Hautfarbe lockiges Haar
+1F469-1F3FC-200D-1F9B2	Frau mittelhelle Hautfarbe Glatze
+1F469-1F3FC-200D-1F9B3	Frau mittelhelle Hautfarbe weies Haar
+1F469-1F3FC-200D-1F9BC	Frau in elektrischem Rollstuhl mittelhelle Hautfarbe
+1F469-1F3FC-200D-1F9BD	Frau in manuellem Rollstuhl mittelhelle Hautfarbe
+1F469-1F3FD	Frau mittlere Hautfarbe
+1F469-1F3FD-200D-2695	rztin mittlere Hautfarbe
+1F469-1F3FD-200D-2696	Richterin mittlere Hautfarbe
+1F469-1F3FD-200D-2708	Pilotin mittlere Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	Liebespaar Frau Mann mittlere Hautfarbe und helle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	Liebespaar Frau Mann mittlere Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	Liebespaar Frau Mann und mittlere Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	Liebespaar Frau Mann mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	Liebespaar Frau Mann mittlere Hautfarbe und dunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	Liebespaar Frau Frau mittlere Hautfarbe und helle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	Liebespaar Frau Frau mittlere Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	Liebespaar Frau Frau und mittlere Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	Liebespaar Frau Frau mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	Liebespaar Frau Frau mittlere Hautfarbe und dunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Frau Mann mittlere Hautfarbe und helle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Frau Mann mittlere Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Frau Mann und mittlere Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Frau Mann mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Frau Mann mittlere Hautfarbe und dunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	sich kssendes Paar Frau Frau mittlere Hautfarbe und helle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	sich kssendes Paar Frau Frau mittlere Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	sich kssendes Paar Frau Frau und mittlere Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	sich kssendes Paar Frau Frau mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	sich kssendes Paar Frau Frau mittlere Hautfarbe und dunkle Hautfarbe
+1F469-1F3FD-200D-1F33E	Buerin mittlere Hautfarbe
+1F469-1F3FD-200D-1F373	Kchin mittlere Hautfarbe
+1F469-1F3FD-200D-1F37C	stillende Frau mittlere Hautfarbe
+1F469-1F3FD-200D-1F393	Studentin mittlere Hautfarbe
+1F469-1F3FD-200D-1F3A4	Sngerin mittlere Hautfarbe
+1F469-1F3FD-200D-1F3A8	Knstlerin mittlere Hautfarbe
+1F469-1F3FD-200D-1F3EB	Lehrerin mittlere Hautfarbe
+1F469-1F3FD-200D-1F3ED	Fabrikarbeiterin mittlere Hautfarbe
+1F469-1F3FD-200D-1F4BB	IT-Expertin mittlere Hautfarbe
+1F469-1F3FD-200D-1F4BC	Broangestellte mittlere Hautfarbe
+1F469-1F3FD-200D-1F527	Mechanikerin mittlere Hautfarbe
+1F469-1F3FD-200D-1F52C	Wissenschaftlerin mittlere Hautfarbe
+1F469-1F3FD-200D-1F680	Astronautin mittlere Hautfarbe
+1F469-1F3FD-200D-1F692	Feuerwehrfrau mittlere Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	Mann und Frau halten Hnde mittlere Hautfarbe helle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	Mann und Frau halten Hnde mittlere Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	Mann und Frau halten Hnde mittlere Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	Mann und Frau halten Hnde mittlere Hautfarbe dunkle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	Hndchen haltende Frauen mittlere Hautfarbe helle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	Hndchen haltende Frauen mittlere Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	Hndchen haltende Frauen mittlere Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	Hndchen haltende Frauen mittlere Hautfarbe dunkle Hautfarbe
+1F469-1F3FD-200D-1F9AF	Frau mit Gehstock mittlere Hautfarbe
+1F469-1F3FD-200D-1F9B0	Frau mittlere Hautfarbe rotes Haar
+1F469-1F3FD-200D-1F9B1	Frau mittlere Hautfarbe lockiges Haar
+1F469-1F3FD-200D-1F9B2	Frau mittlere Hautfarbe Glatze
+1F469-1F3FD-200D-1F9B3	Frau mittlere Hautfarbe weies Haar
+1F469-1F3FD-200D-1F9BC	Frau in elektrischem Rollstuhl mittlere Hautfarbe
+1F469-1F3FD-200D-1F9BD	Frau in manuellem Rollstuhl mittlere Hautfarbe
+1F469-1F3FE	Frau mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2695	rztin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2696	Richterin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2708	Pilotin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	Liebespaar Frau Mann mitteldunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	Liebespaar Frau Mann mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	Liebespaar Frau Mann mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	Liebespaar Frau Mann und mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	Liebespaar Frau Mann mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	Liebespaar Frau Frau mitteldunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	Liebespaar Frau Frau mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	Liebespaar Frau Frau mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	Liebespaar Frau Frau und mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	Liebespaar Frau Frau mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Frau Mann mitteldunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Frau Mann mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Frau Mann mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Frau Mann und mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Frau Mann mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	sich kssendes Paar Frau Frau mitteldunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	sich kssendes Paar Frau Frau mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	sich kssendes Paar Frau Frau mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	sich kssendes Paar Frau Frau und mitteldunkle Hautfarbe
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	sich kssendes Paar Frau Frau mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F469-1F3FE-200D-1F33E	Buerin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F373	Kchin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F37C	stillende Frau mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F393	Studentin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F3A4	Sngerin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F3A8	Knstlerin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F3EB	Lehrerin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F3ED	Fabrikarbeiterin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F4BB	IT-Expertin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F4BC	Broangestellte mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F527	Mechanikerin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F52C	Wissenschaftlerin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F680	Astronautin mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F692	Feuerwehrfrau mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	Mann und Frau halten Hnde mitteldunkle Hautfarbe helle Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	Mann und Frau halten Hnde mitteldunkle Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	Mann und Frau halten Hnde mitteldunkle Hautfarbe mittlere Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	Mann und Frau halten Hnde mitteldunkle Hautfarbe dunkle Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	Hndchen haltende Frauen mitteldunkle Hautfarbe helle Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	Hndchen haltende Frauen mitteldunkle Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	Hndchen haltende Frauen mitteldunkle Hautfarbe mittlere Hautfarbe
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	Hndchen haltende Frauen mitteldunkle Hautfarbe dunkle Hautfarbe
+1F469-1F3FE-200D-1F9AF	Frau mit Gehstock mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F9B0	Frau mitteldunkle Hautfarbe rotes Haar
+1F469-1F3FE-200D-1F9B1	Frau mitteldunkle Hautfarbe lockiges Haar
+1F469-1F3FE-200D-1F9B2	Frau mitteldunkle Hautfarbe Glatze
+1F469-1F3FE-200D-1F9B3	Frau mitteldunkle Hautfarbe weies Haar
+1F469-1F3FE-200D-1F9BC	Frau in elektrischem Rollstuhl mitteldunkle Hautfarbe
+1F469-1F3FE-200D-1F9BD	Frau in manuellem Rollstuhl mitteldunkle Hautfarbe
+1F469-1F3FF	Frau dunkle Hautfarbe
+1F469-1F3FF-200D-2695	rztin dunkle Hautfarbe
+1F469-1F3FF-200D-2696	Richterin dunkle Hautfarbe
+1F469-1F3FF-200D-2708	Pilotin dunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	Liebespaar Frau Mann dunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	Liebespaar Frau Mann dunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	Liebespaar Frau Mann dunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	Liebespaar Frau Mann dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	Liebespaar Frau Mann und dunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	Liebespaar Frau Frau dunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	Liebespaar Frau Frau dunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	Liebespaar Frau Frau dunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	Liebespaar Frau Frau dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	Liebespaar Frau Frau und dunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	sich kssendes Paar Frau Mann dunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	sich kssendes Paar Frau Mann dunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	sich kssendes Paar Frau Mann dunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	sich kssendes Paar Frau Mann dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	sich kssendes Paar Frau Mann und dunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	sich kssendes Paar Frau Frau dunkle Hautfarbe und helle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	sich kssendes Paar Frau Frau dunkle Hautfarbe und mittelhelle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	sich kssendes Paar Frau Frau dunkle Hautfarbe und mittlere Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	sich kssendes Paar Frau Frau dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	sich kssendes Paar Frau Frau und dunkle Hautfarbe
+1F469-1F3FF-200D-1F33E	Buerin dunkle Hautfarbe
+1F469-1F3FF-200D-1F373	Kchin dunkle Hautfarbe
+1F469-1F3FF-200D-1F37C	stillende Frau dunkle Hautfarbe
+1F469-1F3FF-200D-1F393	Studentin dunkle Hautfarbe
+1F469-1F3FF-200D-1F3A4	Sngerin dunkle Hautfarbe
+1F469-1F3FF-200D-1F3A8	Knstlerin dunkle Hautfarbe
+1F469-1F3FF-200D-1F3EB	Lehrerin dunkle Hautfarbe
+1F469-1F3FF-200D-1F3ED	Fabrikarbeiterin dunkle Hautfarbe
+1F469-1F3FF-200D-1F4BB	IT-Expertin dunkle Hautfarbe
+1F469-1F3FF-200D-1F4BC	Broangestellte dunkle Hautfarbe
+1F469-1F3FF-200D-1F527	Mechanikerin dunkle Hautfarbe
+1F469-1F3FF-200D-1F52C	Wissenschaftlerin dunkle Hautfarbe
+1F469-1F3FF-200D-1F680	Astronautin dunkle Hautfarbe
+1F469-1F3FF-200D-1F692	Feuerwehrfrau dunkle Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	Mann und Frau halten Hnde dunkle Hautfarbe helle Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	Mann und Frau halten Hnde dunkle Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	Mann und Frau halten Hnde dunkle Hautfarbe mittlere Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	Mann und Frau halten Hnde dunkle Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	Hndchen haltende Frauen dunkle Hautfarbe helle Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	Hndchen haltende Frauen dunkle Hautfarbe mittelhelle Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	Hndchen haltende Frauen dunkle Hautfarbe mittlere Hautfarbe
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	Hndchen haltende Frauen dunkle Hautfarbe mitteldunkle Hautfarbe
+1F469-1F3FF-200D-1F9AF	Frau mit Gehstock dunkle Hautfarbe
+1F469-1F3FF-200D-1F9B0	Frau dunkle Hautfarbe rotes Haar
+1F469-1F3FF-200D-1F9B1	Frau dunkle Hautfarbe lockiges Haar
+1F469-1F3FF-200D-1F9B2	Frau dunkle Hautfarbe Glatze
+1F469-1F3FF-200D-1F9B3	Frau dunkle Hautfarbe weies Haar
+1F469-1F3FF-200D-1F9BC	Frau in elektrischem Rollstuhl dunkle Hautfarbe
+1F469-1F3FF-200D-1F9BD	Frau in manuellem Rollstuhl dunkle Hautfarbe
+1F46A	Familie
+1F46B	Mann und Frau halten Hnde
+1F46B-1F3FB	Mann und Frau halten Hnde helle Hautfarbe
+1F46B-1F3FC	Mann und Frau halten Hnde mittelhelle Hautfarbe
+1F46B-1F3FD	Mann und Frau halten Hnde mittlere Hautfarbe
+1F46B-1F3FE	Mann und Frau halten Hnde mitteldunkle Hautfarbe
+1F46B-1F3FF	Mann und Frau halten Hnde dunkle Hautfarbe
+1F46C	Hndchen haltende Mnner
+1F46C-1F3FB	Hndchen haltende Mnner helle Hautfarbe
+1F46C-1F3FC	Hndchen haltende Mnner mittelhelle Hautfarbe
+1F46C-1F3FD	Hndchen haltende Mnner mittlere Hautfarbe
+1F46C-1F3FE	Hndchen haltende Mnner mitteldunkle Hautfarbe
+1F46C-1F3FF	Hndchen haltende Mnner dunkle Hautfarbe
+1F46D	Hndchen haltende Frauen
+1F46D-1F3FB	Hndchen haltende Frauen helle Hautfarbe
+1F46D-1F3FC	Hndchen haltende Frauen mittelhelle Hautfarbe
+1F46D-1F3FD	Hndchen haltende Frauen mittlere Hautfarbe
+1F46D-1F3FE	Hndchen haltende Frauen mitteldunkle Hautfarbe
+1F46D-1F3FF	Hndchen haltende Frauen dunkle Hautfarbe
+1F46E	Polizistin
+1F46E-200D-2640	Polizistin
+1F46E-200D-2642	Polizist
+1F46E-1F3FB	Polizistin helle Hautfarbe
+1F46E-1F3FB-200D-2640	Polizistin helle Hautfarbe
+1F46E-1F3FB-200D-2642	Polizist helle Hautfarbe
+1F46E-1F3FC	Polizistin mittelhelle Hautfarbe
+1F46E-1F3FC-200D-2640	Polizistin mittelhelle Hautfarbe
+1F46E-1F3FC-200D-2642	Polizist mittelhelle Hautfarbe
+1F46E-1F3FD	Polizistin mittlere Hautfarbe
+1F46E-1F3FD-200D-2640	Polizistin mittlere Hautfarbe
+1F46E-1F3FD-200D-2642	Polizist mittlere Hautfarbe
+1F46E-1F3FE	Polizistin mitteldunkle Hautfarbe
+1F46E-1F3FE-200D-2640	Polizistin mitteldunkle Hautfarbe
+1F46E-1F3FE-200D-2642	Polizist mitteldunkle Hautfarbe
+1F46E-1F3FF	Polizistin dunkle Hautfarbe
+1F46E-1F3FF-200D-2640	Polizistin dunkle Hautfarbe
+1F46E-1F3FF-200D-2642	Polizist dunkle Hautfarbe
+1F46F	Personen mit Hasenohren
+1F46F-200D-2640	Frauen mit Hasenohren
+1F46F-200D-2642	Mnner mit Hasenohren
+1F470	Person mit Schleier
+1F470-200D-2640	Frau mit Schleier
+1F470-200D-2642	Mann mit Schleier
+1F470-1F3FB	Person mit Schleier helle Hautfarbe
+1F470-1F3FB-200D-2640	Frau mit Schleier helle Hautfarbe
+1F470-1F3FB-200D-2642	Mann mit Schleier helle Hautfarbe
+1F470-1F3FC	Person mit Schleier mittelhelle Hautfarbe
+1F470-1F3FC-200D-2640	Frau mit Schleier mittelhelle Hautfarbe
+1F470-1F3FC-200D-2642	Mann mit Schleier mittelhelle Hautfarbe
+1F470-1F3FD	Person mit Schleier mittlere Hautfarbe
+1F470-1F3FD-200D-2640	Frau mit Schleier mittlere Hautfarbe
+1F470-1F3FD-200D-2642	Mann mit Schleier mittlere Hautfarbe
+1F470-1F3FE	Person mit Schleier mitteldunkle Hautfarbe
+1F470-1F3FE-200D-2640	Frau mit Schleier mitteldunkle Hautfarbe
+1F470-1F3FE-200D-2642	Mann mit Schleier mitteldunkle Hautfarbe
+1F470-1F3FF	Person mit Schleier dunkle Hautfarbe
+1F470-1F3FF-200D-2640	Frau mit Schleier dunkle Hautfarbe
+1F470-1F3FF-200D-2642	Mann mit Schleier dunkle Hautfarbe
+1F471	Person blondes Haar
+1F471-200D-2640	Frau blond
+1F471-200D-2642	Mann blond
+1F471-1F3FB	Person helle Hautfarbe blondes Haar
+1F471-1F3FB-200D-2640	Frau helle Hautfarbe blond
+1F471-1F3FB-200D-2642	Mann helle Hautfarbe blond
+1F471-1F3FC	Person mittelhelle Hautfarbe blondes Haar
+1F471-1F3FC-200D-2640	Frau mittelhelle Hautfarbe blond
+1F471-1F3FC-200D-2642	Mann mittelhelle Hautfarbe blond
+1F471-1F3FD	Person mittlere Hautfarbe blondes Haar
+1F471-1F3FD-200D-2640	Frau mittlere Hautfarbe blond
+1F471-1F3FD-200D-2642	Mann mittlere Hautfarbe blond
+1F471-1F3FE	Person mitteldunkle Hautfarbe blondes Haar
+1F471-1F3FE-200D-2640	Frau mitteldunkle Hautfarbe blond
+1F471-1F3FE-200D-2642	Mann mitteldunkle Hautfarbe blond
+1F471-1F3FF	Person dunkle Hautfarbe blondes Haar
+1F471-1F3FF-200D-2640	Frau dunkle Hautfarbe blond
+1F471-1F3FF-200D-2642	Mann dunkle Hautfarbe blond
+1F472	Mann mit chinesischem Hut
+1F472-1F3FB	Mann mit chinesischem Hut helle Hautfarbe
+1F472-1F3FC	Mann mit chinesischem Hut mittelhelle Hautfarbe
+1F472-1F3FD	Mann mit chinesischem Hut mittlere Hautfarbe
+1F472-1F3FE	Mann mit chinesischem Hut mitteldunkle Hautfarbe
+1F472-1F3FF	Mann mit chinesischem Hut dunkle Hautfarbe
+1F473	Person mit Turban
+1F473-200D-2640	Frau mit Turban
+1F473-200D-2642	Mann mit Turban
+1F473-1F3FB	Person mit Turban helle Hautfarbe
+1F473-1F3FB-200D-2640	Frau mit Turban helle Hautfarbe
+1F473-1F3FB-200D-2642	Mann mit Turban helle Hautfarbe
+1F473-1F3FC	Person mit Turban mittelhelle Hautfarbe
+1F473-1F3FC-200D-2640	Frau mit Turban mittelhelle Hautfarbe
+1F473-1F3FC-200D-2642	Mann mit Turban mittelhelle Hautfarbe
+1F473-1F3FD	Person mit Turban mittlere Hautfarbe
+1F473-1F3FD-200D-2640	Frau mit Turban mittlere Hautfarbe
+1F473-1F3FD-200D-2642	Mann mit Turban mittlere Hautfarbe
+1F473-1F3FE	Person mit Turban mitteldunkle Hautfarbe
+1F473-1F3FE-200D-2640	Frau mit Turban mitteldunkle Hautfarbe
+1F473-1F3FE-200D-2642	Mann mit Turban mitteldunkle Hautfarbe
+1F473-1F3FF	Person mit Turban dunkle Hautfarbe
+1F473-1F3FF-200D-2640	Frau mit Turban dunkle Hautfarbe
+1F473-1F3FF-200D-2642	Mann mit Turban dunkle Hautfarbe
+1F474	lterer Mann
+1F474-1F3FB	lterer Mann helle Hautfarbe
+1F474-1F3FC	lterer Mann mittelhelle Hautfarbe
+1F474-1F3FD	lterer Mann mittlere Hautfarbe
+1F474-1F3FE	lterer Mann mitteldunkle Hautfarbe
+1F474-1F3FF	lterer Mann dunkle Hautfarbe
+1F475	ltere Frau
+1F475-1F3FB	ltere Frau helle Hautfarbe
+1F475-1F3FC	ltere Frau mittelhelle Hautfarbe
+1F475-1F3FD	ltere Frau mittlere Hautfarbe
+1F475-1F3FE	ltere Frau mitteldunkle Hautfarbe
+1F475-1F3FF	ltere Frau dunkle Hautfarbe
+1F476	Baby
+1F476-1F3FB	Baby helle Hautfarbe
+1F476-1F3FC	Baby mittelhelle Hautfarbe
+1F476-1F3FD	Baby mittlere Hautfarbe
+1F476-1F3FE	Baby mitteldunkle Hautfarbe
+1F476-1F3FF	Baby dunkle Hautfarbe
+1F477	Bauarbeiterin
+1F477-200D-2640	Bauarbeiterin
+1F477-200D-2642	Bauarbeiter
+1F477-1F3FB	Bauarbeiterin helle Hautfarbe
+1F477-1F3FB-200D-2640	Bauarbeiterin helle Hautfarbe
+1F477-1F3FB-200D-2642	Bauarbeiter helle Hautfarbe
+1F477-1F3FC	Bauarbeiterin mittelhelle Hautfarbe
+1F477-1F3FC-200D-2640	Bauarbeiterin mittelhelle Hautfarbe
+1F477-1F3FC-200D-2642	Bauarbeiter mittelhelle Hautfarbe
+1F477-1F3FD	Bauarbeiterin mittlere Hautfarbe
+1F477-1F3FD-200D-2640	Bauarbeiterin mittlere Hautfarbe
+1F477-1F3FD-200D-2642	Bauarbeiter mittlere Hautfarbe
+1F477-1F3FE	Bauarbeiterin mitteldunkle Hautfarbe
+1F477-1F3FE-200D-2640	Bauarbeiterin mitteldunkle Hautfarbe
+1F477-1F3FE-200D-2642	Bauarbeiter mitteldunkle Hautfarbe
+1F477-1F3FF	Bauarbeiterin dunkle Hautfarbe
+1F477-1F3FF-200D-2640	Bauarbeiterin dunkle Hautfarbe
+1F477-1F3FF-200D-2642	Bauarbeiter dunkle Hautfarbe
+1F478	Prinzessin
+1F478-1F3FB	Prinzessin helle Hautfarbe
+1F478-1F3FC	Prinzessin mittelhelle Hautfarbe
+1F478-1F3FD	Prinzessin mittlere Hautfarbe
+1F478-1F3FE	Prinzessin mitteldunkle Hautfarbe
+1F478-1F3FF	Prinzessin dunkle Hautfarbe
+1F479	Ungeheuer
+1F47A	Kobold
+1F47B	Gespenst
+1F47C	Putte
+1F47C-1F3FB	Putte helle Hautfarbe
+1F47C-1F3FC	Putte mittelhelle Hautfarbe
+1F47C-1F3FD	Putte mittlere Hautfarbe
+1F47C-1F3FE	Putte mitteldunkle Hautfarbe
+1F47C-1F3FF	Putte dunkle Hautfarbe
+1F47D	Auerirdischer
+1F47E	Computerspiel-Monster
+1F47F	wtendes Gesicht mit Hrnern
+1F480	Totenkopf
+1F481	Infoschalter-Mitarbeiterin
+1F481-200D-2640	Infoschalter-Mitarbeiterin
+1F481-200D-2642	Infoschalter-Mitarbeiter
+1F481-1F3FB	Infoschalter-Mitarbeiterin helle Hautfarbe
+1F481-1F3FB-200D-2640	Infoschalter-Mitarbeiterin helle Hautfarbe
+1F481-1F3FB-200D-2642	Infoschalter-Mitarbeiter helle Hautfarbe
+1F481-1F3FC	Infoschalter-Mitarbeiterin mittelhelle Hautfarbe
+1F481-1F3FC-200D-2640	Infoschalter-Mitarbeiterin mittelhelle Hautfarbe
+1F481-1F3FC-200D-2642	Infoschalter-Mitarbeiter mittelhelle Hautfarbe
+1F481-1F3FD	Infoschalter-Mitarbeiterin mittlere Hautfarbe
+1F481-1F3FD-200D-2640	Infoschalter-Mitarbeiterin mittlere Hautfarbe
+1F481-1F3FD-200D-2642	Infoschalter-Mitarbeiter mittlere Hautfarbe
+1F481-1F3FE	Infoschalter-Mitarbeiterin mitteldunkle Hautfarbe
+1F481-1F3FE-200D-2640	Infoschalter-Mitarbeiterin mitteldunkle Hautfarbe
+1F481-1F3FE-200D-2642	Infoschalter-Mitarbeiter mitteldunkle Hautfarbe
+1F481-1F3FF	Infoschalter-Mitarbeiterin dunkle Hautfarbe
+1F481-1F3FF-200D-2640	Infoschalter-Mitarbeiterin dunkle Hautfarbe
+1F481-1F3FF-200D-2642	Infoschalter-Mitarbeiter dunkle Hautfarbe
+1F482	Wachmann/Wachfrau
+1F482-200D-2640	Wachsoldatin
+1F482-200D-2642	Wachsoldat
+1F482-1F3FB	Wachmann/Wachfrau helle Hautfarbe
+1F482-1F3FB-200D-2640	Wachsoldatin helle Hautfarbe
+1F482-1F3FB-200D-2642	Wachsoldat helle Hautfarbe
+1F482-1F3FC	Wachmann/Wachfrau mittelhelle Hautfarbe
+1F482-1F3FC-200D-2640	Wachsoldatin mittelhelle Hautfarbe
+1F482-1F3FC-200D-2642	Wachsoldat mittelhelle Hautfarbe
+1F482-1F3FD	Wachmann/Wachfrau mittlere Hautfarbe
+1F482-1F3FD-200D-2640	Wachsoldatin mittlere Hautfarbe
+1F482-1F3FD-200D-2642	Wachsoldat mittlere Hautfarbe
+1F482-1F3FE	Wachmann/Wachfrau mitteldunkle Hautfarbe
+1F482-1F3FE-200D-2640	Wachsoldatin mitteldunkle Hautfarbe
+1F482-1F3FE-200D-2642	Wachsoldat mitteldunkle Hautfarbe
+1F482-1F3FF	Wachmann/Wachfrau dunkle Hautfarbe
+1F482-1F3FF-200D-2640	Wachsoldatin dunkle Hautfarbe
+1F482-1F3FF-200D-2642	Wachsoldat dunkle Hautfarbe
+1F483	tanzende Frau
+1F483-1F3FB	tanzende Frau helle Hautfarbe
+1F483-1F3FC	tanzende Frau mittelhelle Hautfarbe
+1F483-1F3FD	tanzende Frau mittlere Hautfarbe
+1F483-1F3FE	tanzende Frau mitteldunkle Hautfarbe
+1F483-1F3FF	tanzende Frau dunkle Hautfarbe
+1F484	Lippenstift
+1F485	Nagellack
+1F485-1F3FB	Nagellack helle Hautfarbe
+1F485-1F3FC	Nagellack mittelhelle Hautfarbe
+1F485-1F3FD	Nagellack mittlere Hautfarbe
+1F485-1F3FE	Nagellack mitteldunkle Hautfarbe
+1F485-1F3FF	Nagellack dunkle Hautfarbe
+1F486	Person die eine Kopfmassage bekommt
+1F486-200D-2640	Frau die eine Kopfmassage bekommt
+1F486-200D-2642	Mann der eine Kopfmassage bekommt
+1F486-1F3FB	Person die eine Kopfmassage bekommt helle Hautfarbe
+1F486-1F3FB-200D-2640	Frau die eine Kopfmassage bekommt helle Hautfarbe
+1F486-1F3FB-200D-2642	Mann der eine Kopfmassage bekommt helle Hautfarbe
+1F486-1F3FC	Person die eine Kopfmassage bekommt mittelhelle Hautfarbe
+1F486-1F3FC-200D-2640	Frau die eine Kopfmassage bekommt mittelhelle Hautfarbe
+1F486-1F3FC-200D-2642	Mann der eine Kopfmassage bekommt mittelhelle Hautfarbe
+1F486-1F3FD	Person die eine Kopfmassage bekommt mittlere Hautfarbe
+1F486-1F3FD-200D-2640	Frau die eine Kopfmassage bekommt mittlere Hautfarbe
+1F486-1F3FD-200D-2642	Mann der eine Kopfmassage bekommt mittlere Hautfarbe
+1F486-1F3FE	Person die eine Kopfmassage bekommt mitteldunkle Hautfarbe
+1F486-1F3FE-200D-2640	Frau die eine Kopfmassage bekommt mitteldunkle Hautfarbe
+1F486-1F3FE-200D-2642	Mann der eine Kopfmassage bekommt mitteldunkle Hautfarbe
+1F486-1F3FF	Person die eine Kopfmassage bekommt dunkle Hautfarbe
+1F486-1F3FF-200D-2640	Frau die eine Kopfmassage bekommt dunkle Hautfarbe
+1F486-1F3FF-200D-2642	Mann der eine Kopfmassage bekommt dunkle Hautfarbe
+1F487	Person beim Haareschneiden
+1F487-200D-2640	Frau beim Haareschneiden
+1F487-200D-2642	Mann beim Haareschneiden
+1F487-1F3FB	Person beim Haareschneiden helle Hautfarbe
+1F487-1F3FB-200D-2640	Frau beim Haareschneiden helle Hautfarbe
+1F487-1F3FB-200D-2642	Mann beim Haareschneiden helle Hautfarbe
+1F487-1F3FC	Person beim Haareschneiden mittelhelle Hautfarbe
+1F487-1F3FC-200D-2640	Frau beim Haareschneiden mittelhelle Hautfarbe
+1F487-1F3FC-200D-2642	Mann beim Haareschneiden mittelhelle Hautfarbe
+1F487-1F3FD	Person beim Haareschneiden mittlere Hautfarbe
+1F487-1F3FD-200D-2640	Frau beim Haareschneiden mittlere Hautfarbe
+1F487-1F3FD-200D-2642	Mann beim Haareschneiden mittlere Hautfarbe
+1F487-1F3FE	Person beim Haareschneiden mitteldunkle Hautfarbe
+1F487-1F3FE-200D-2640	Frau beim Haareschneiden mitteldunkle Hautfarbe
+1F487-1F3FE-200D-2642	Mann beim Haareschneiden mitteldunkle Hautfarbe
+1F487-1F3FF	Person beim Haareschneiden dunkle Hautfarbe
+1F487-1F3FF-200D-2640	Frau beim Haareschneiden dunkle Hautfarbe
+1F487-1F3FF-200D-2642	Mann beim Haareschneiden dunkle Hautfarbe
+1F488	Barbershop-Sule
+1F489	Spritze
+1F48A	Kapsel
+1F48B	Kussabdruck
+1F48C	Liebesbrief
+1F48D	Ring
+1F48E	Edelstein
+1F48F	sich kssendes Paar
+1F490	Blumenstrau
+1F491	Liebespaar
+1F492	Hochzeit
+1F493	schlagendes Herz
+1F494	gebrochenes Herz
+1F495	zwei Herzen
+1F496	funkelndes Herz
+1F497	wachsendes Herz
+1F498	Herz mit Pfeil
+1F499	blaues Herz
+1F49A	grnes Herz
+1F49B	gelbes Herz
+1F49C	lila Herz
+1F49D	Herz mit Schleife
+1F49E	kreisende Herzen
+1F49F	Herzdekoration
+1F4A0	Rautenform mit Punkt
+1F4A1	Glhbirne
+1F4A2	rger
+1F4A3	Bombe
+1F4A4	Schlafen
+1F4A5	Zusammensto
+1F4A6	Schweitropfen
+1F4A7	Tropfen
+1F4A8	Staubwolke
+1F4A9	Kothaufen
+1F4AA	angespannter Bizeps
+1F4AA-1F3FB	angespannter Bizeps helle Hautfarbe
+1F4AA-1F3FC	angespannter Bizeps mittelhelle Hautfarbe
+1F4AA-1F3FD	angespannter Bizeps mittlere Hautfarbe
+1F4AA-1F3FE	angespannter Bizeps mitteldunkle Hautfarbe
+1F4AA-1F3FF	angespannter Bizeps dunkle Hautfarbe
+1F4AB	schwindlig
+1F4AC	Sprechblase mit drei Punkten
+1F4AD	Gedankenblase
+1F4AE	Blumenstempel
+1F4AF	100 Punkte
+1F4B0	Geldsack
+1F4B1	Geldwechsel
+1F4B2	Dollarzeichen extrafett
+1F4B3	Kreditkarte
+1F4B4	Yen-Banknote
+1F4B5	Dollar-Banknote
+1F4B6	Euro-Banknote
+1F4B7	Pfund-Banknote
+1F4B8	Geldschein mit Flgeln
+1F4B9	steigende Kurve mit Yen-Zeichen
+1F4BA	Sitzplatz
+1F4BB	Laptop
+1F4BC	Aktentasche
+1F4BD	Minidisc
+1F4BE	Diskette
+1F4BF	CD
+1F4C0	DVD
+1F4C1	Ordner
+1F4C2	geffneter Ordner
+1F4C3	teilweise eingerolltes Blatt
+1F4C4	Vorderseite eines Blattes
+1F4C5	Kalender
+1F4C6	Abreikalender
+1F4C7	Rotationskartei
+1F4C8	Aufwrtstrend
+1F4C9	Abwrtstrend
+1F4CA	Balkendiagramm
+1F4CB	Klemmbrett
+1F4CC	Reizwecke
+1F4CD	Stecknadel
+1F4CE	Broklammer
+1F4CF	Lineal
+1F4D0	dreieckiges Lineal
+1F4D1	Pagemarker
+1F4D2	Spiralblock
+1F4D3	Notizbuch
+1F4D4	Notizbuch mit dekorativem Einband
+1F4D5	geschlossenes Buch
+1F4D6	offenes Buch
+1F4D7	grnes Buch
+1F4D8	blaues Buch
+1F4D9	orangefarbenes Buch
+1F4DA	Bcherstapel
+1F4DB	Namensschild
+1F4DC	Schriftrolle
+1F4DD	Papier und Bleistift
+1F4DE	Telefonhrer
+1F4DF	Pager
+1F4E0	Faxgert
+1F4E1	Satellitenschssel
+1F4E2	Lautsprecher
+1F4E3	Megafon
+1F4E4	Postausgang
+1F4E5	Posteingang
+1F4E6	Paket
+1F4E7	E-Mail
+1F4E8	eingehender Briefumschlag
+1F4E9	Umschlag mit Pfeil
+1F4EA	geschlossener Briefkasten ohne Post
+1F4EB	geschlossener Briefkasten mit Post
+1F4EC	offener Briefkasten mit Post
+1F4ED	offener Briefkasten ohne Post
+1F4EE	Briefkasten
+1F4EF	Posthorn
+1F4F0	Zeitung
+1F4F1	Mobiltelefon
+1F4F2	Mobiltelefon mit Pfeil
+1F4F3	Vibrationsmodus
+1F4F4	Mobiltelefon aus
+1F4F5	Mobiltelefone verboten
+1F4F6	balkenfrmige Signalstrkenanzeige
+1F4F7	Fotoapparat
+1F4F8	Fotoapparat mit Blitz
+1F4F9	Videokamera
+1F4FA	Fernseher
+1F4FB	Radio
+1F4FC	Videokassette
+1F4FD	Filmprojektor
+1F4FF	Gebetskette
+1F500	Zufallsmodus
+1F501	Wiederholen
+1F502	Titel wiederholen
+1F503	kreisfrmige Pfeile im Uhrzeigersinn
+1F504	Pfeile gegen den Uhrzeigersinn
+1F505	Taste Dimmen
+1F506	Heller-Taste
+1F507	durchgestrichener Lautsprecher
+1F508	Lautsprecher mit geringer Lautstrke
+1F509	Lautsprecher mit mittlerer Lautstrke
+1F50A	Lautsprecher mit hoher Lautstrke
+1F50B	Batterie
+1F50C	Netzstecker
+1F50D	Lupe nach links
+1F50E	Lupe nach rechts
+1F50F	Schloss mit Fller
+1F510	Schloss mit Schlssel
+1F511	Schlssel
+1F512	geschlossenes Schloss
+1F513	offenes Schloss
+1F514	Glocke
+1F515	durchgestrichene Glocke
+1F516	Lesezeichen
+1F517	Verknpfungssymbol
+1F518	Optionsfeld
+1F519	BACK-Pfeil
+1F51A	END-Pfeil
+1F51B	ON-Pfeil
+1F51C	SOON-Pfeil
+1F51D	TOP-Pfeil
+1F51E	Minderjhrige verboten
+1F51F	Taste 10
+1F520	Eingabesymbol lateinische Grobuchstaben
+1F521	Eingabesymbol lateinische Kleinbuchstaben
+1F522	Eingabesymbol Zahlen
+1F523	Eingabesymbol Sonderzeichen
+1F524	Eingabesymbol lateinische Buchstaben
+1F525	Feuer
+1F526	Taschenlampe
+1F527	Schraubenschlssel
+1F528	Hammer
+1F529	Mutter und Schraube
+1F52A	Kchenmesser
+1F52B	Wasserpistole
+1F52C	Mikroskop
+1F52D	Teleskop
+1F52E	Kristallkugel
+1F52F	Hexagramm mit Punkt
+1F530	japanisches Anfnger-Zeichen
+1F531	Dreizack
+1F532	schwarze quadratische Schaltflche
+1F533	weie quadratische Schaltflche
+1F534	roter Punkt
+1F535	blauer Punkt
+1F536	groe orangefarbene Raute
+1F537	groe blaue Raute
+1F538	kleine orangefarbene Raute
+1F539	kleine blaue Raute
+1F53A	rotes Dreieck mit der Spitze nach oben
+1F53B	rotes Dreieck mit der Spitze nach unten
+1F53C	Aufwrts-Schaltflche
+1F53D	Abwrts-Schaltflche
+1F549	om
+1F54A	Taube
+1F54B	Kaaba
+1F54C	Moschee
+1F54D	Synagoge
+1F54E	Menora
+1F550	100 Uhr
+1F551	200 Uhr
+1F552	300 Uhr
+1F553	400 Uhr
+1F554	500 Uhr
+1F555	600 Uhr
+1F556	700 Uhr
+1F557	800 Uhr
+1F558	900 Uhr
+1F559	1000 Uhr
+1F55A	1100 Uhr
+1F55B	Ziffernblatt 1200 Uhr
+1F55C	130 Uhr
+1F55D	230 Uhr
+1F55E	330 Uhr
+1F55F	430 Uhr
+1F560	530 Uhr
+1F561	630 Uhr
+1F562	730 Uhr
+1F563	830 Uhr
+1F564	930 Uhr
+1F565	1030 Uhr
+1F566	1130 Uhr
+1F567	1230 Uhr
+1F56F	Kerze
+1F570	Kaminuhr
+1F573	Loch
+1F574	schwebender Mann im Anzug
+1F574-1F3FB	schwebender Mann im Anzug helle Hautfarbe
+1F574-1F3FC	schwebender Mann im Anzug mittelhelle Hautfarbe
+1F574-1F3FD	schwebender Mann im Anzug mittlere Hautfarbe
+1F574-1F3FE	schwebender Mann im Anzug mitteldunkle Hautfarbe
+1F574-1F3FF	schwebender Mann im Anzug dunkle Hautfarbe
+1F575	Detektivin
+1F575-200D-2640	Detektivin
+1F575-200D-2642	Detektiv
+1F575-1F3FB	Detektivin helle Hautfarbe
+1F575-1F3FB-200D-2640	Detektivin helle Hautfarbe
+1F575-1F3FB-200D-2642	Detektiv helle Hautfarbe
+1F575-1F3FC	Detektivin mittelhelle Hautfarbe
+1F575-1F3FC-200D-2640	Detektivin mittelhelle Hautfarbe
+1F575-1F3FC-200D-2642	Detektiv mittelhelle Hautfarbe
+1F575-1F3FD	Detektivin mittlere Hautfarbe
+1F575-1F3FD-200D-2640	Detektivin mittlere Hautfarbe
+1F575-1F3FD-200D-2642	Detektiv mittlere Hautfarbe
+1F575-1F3FE	Detektivin mitteldunkle Hautfarbe
+1F575-1F3FE-200D-2640	Detektivin mitteldunkle Hautfarbe
+1F575-1F3FE-200D-2642	Detektiv mitteldunkle Hautfarbe
+1F575-1F3FF	Detektivin dunkle Hautfarbe
+1F575-1F3FF-200D-2640	Detektivin dunkle Hautfarbe
+1F575-1F3FF-200D-2642	Detektiv dunkle Hautfarbe
+1F576	Sonnenbrille
+1F577	Spinne
+1F578	Spinnennetz
+1F579	Joystick
+1F57A	tanzender Mann
+1F57A-1F3FB	tanzender Mann helle Hautfarbe
+1F57A-1F3FC	tanzender Mann mittelhelle Hautfarbe
+1F57A-1F3FD	tanzender Mann mittlere Hautfarbe
+1F57A-1F3FE	tanzender Mann mitteldunkle Hautfarbe
+1F57A-1F3FF	tanzender Mann dunkle Hautfarbe
+1F587	verhakte Broklammern
+1F58A	Kugelschreiber
+1F58B	Fllhalter
+1F58C	Pinsel
+1F58D	Wachsmalstift
+1F590	Hand mit gespreizten Fingern
+1F590-1F3FB	Hand mit gespreizten Fingern helle Hautfarbe
+1F590-1F3FC	Hand mit gespreizten Fingern mittelhelle Hautfarbe
+1F590-1F3FD	Hand mit gespreizten Fingern mittlere Hautfarbe
+1F590-1F3FE	Hand mit gespreizten Fingern mitteldunkle Hautfarbe
+1F590-1F3FF	Hand mit gespreizten Fingern dunkle Hautfarbe
+1F595	Mittelfinger
+1F595-1F3FB	Mittelfinger helle Hautfarbe
+1F595-1F3FC	Mittelfinger mittelhelle Hautfarbe
+1F595-1F3FD	Mittelfinger mittlere Hautfarbe
+1F595-1F3FE	Mittelfinger mitteldunkle Hautfarbe
+1F595-1F3FF	Mittelfinger dunkle Hautfarbe
+1F596	vulkanischer Gru
+1F596-1F3FB	vulkanischer Gru helle Hautfarbe
+1F596-1F3FC	vulkanischer Gru mittelhelle Hautfarbe
+1F596-1F3FD	vulkanischer Gru mittlere Hautfarbe
+1F596-1F3FE	vulkanischer Gru mitteldunkle Hautfarbe
+1F596-1F3FF	vulkanischer Gru dunkle Hautfarbe
+1F5A4	schwarzes Herz
+1F5A5	Desktopcomputer
+1F5A8	Drucker
+1F5B1	Computermaus
+1F5B2	Trackball
+1F5BC	gerahmtes Bild
+1F5C2	Karteireiter
+1F5C3	Karteikasten
+1F5C4	Aktenschrank
+1F5D1	Papierkorb
+1F5D2	Notizblock
+1F5D3	Spiralkalender
+1F5DC	Schraubzwinge
+1F5DD	alter Schlssel
+1F5DE	zusammengerollte Zeitung
+1F5E1	Dolch
+1F5E3	sprechender Kopf
+1F5E8	Sprechblase links
+1F5EF	Sprechblase fr wtende Aussage rechts
+1F5F3	Urne mit Wahlzettel
+1F5FA	Weltkarte
+1F5FB	Fuji
+1F5FC	Tokyo Tower
+1F5FD	Freiheitsstatue
+1F5FE	Umriss von Japan
+1F5FF	Statue
+1F600	grinsendes Gesicht
+1F601	strahlendes Gesicht mit lachenden Augen
+1F602	Gesicht mit Freudentrnen
+1F603	grinsendes Gesicht mit groen Augen
+1F604	grinsendes Gesicht mit lachenden Augen
+1F605	grinsendes Gesicht mit Schweitropfen
+1F606	grinsendes Gesicht mit zusammengekniffenen Augen
+1F607	lchelndes Gesicht mit Heiligenschein
+1F608	grinsendes Gesicht mit Hrnern
+1F609	zwinkerndes Gesicht
+1F60A	lchelndes Gesicht mit lachenden Augen
+1F60B	sich die Lippen leckendes Gesicht
+1F60C	erleichtertes Gesicht
+1F60D	lchelndes Gesicht mit herzfrmigen Augen
+1F60E	lchelndes Gesicht mit Sonnenbrille
+1F60F	sffisant lchelndes Gesicht
+1F610	neutrales Gesicht
+1F611	ausdrucksloses Gesicht
+1F612	verstimmtes Gesicht
+1F613	bedrcktes Gesicht mit Schwei
+1F614	nachdenkliches Gesicht
+1F615	verwundertes Gesicht
+1F616	verwirrtes Gesicht
+1F617	kssendes Gesicht
+1F618	Kuss zuwerfendes Gesicht
+1F619	kssendes Gesicht mit lchelnden Augen
+1F61A	kssendes Gesicht mit geschlossenen Augen
+1F61B	Gesicht mit herausgestreckter Zunge
+1F61C	zwinkerndes Gesicht mit herausgestreckter Zunge
+1F61D	Gesicht mit herausgestreckter Zunge und zusammengekniffenen Augen
+1F61E	enttuschtes Gesicht
+1F61F	besorgtes Gesicht
+1F620	verrgertes Gesicht
+1F621	schmollendes Gesicht
+1F622	weinendes Gesicht
+1F623	entschlossenes Gesicht
+1F624	schnaubendes Gesicht
+1F625	trauriges aber erleichtertes Gesicht
+1F626	entsetztes Gesicht
+1F627	qualvolles Gesicht
+1F628	ngstliches Gesicht
+1F629	erschpftes Gesicht
+1F62A	schlfriges Gesicht
+1F62B	mdes Gesicht
+1F62C	Grimassen schneidendes Gesicht
+1F62D	heulendes Gesicht
+1F62E	Gesicht mit offenem Mund
+1F62E-200D-1F4A8	Gesicht das ausatmet
+1F62F	verdutztes Gesicht
+1F630	besorgtes Gesicht mit Schweitropfen
+1F631	vor Angst schreiendes Gesicht
+1F632	erstauntes Gesicht
+1F633	errtetes Gesicht mit groen Augen
+1F634	schlafendes Gesicht
+1F635	benommenes Gesicht
+1F635-200D-1F4AB	Gesicht mit Spiralen als Augen
+1F636	Gesicht ohne Mund
+1F636-200D-1F32B	Gesicht in Wolken
+1F637	Gesicht mit Atemschutzmaske
+1F638	grinsende Katze mit lachenden Augen
+1F639	Katze mit Freudentrnen
+1F63A	grinsende Katze
+1F63B	lachende Katze mit Herzen als Augen
+1F63C	verwegen lchelnde Katze
+1F63D	kssende Katze
+1F63E	schmollende Katze
+1F63F	weinende Katze
+1F640	erschpfte Katze
+1F641	betrbtes Gesicht
+1F642	leicht lchelndes Gesicht
+1F643	umgekehrtes Gesicht
+1F644	Augen verdrehendes Gesicht
+1F645	Person mit berkreuzten Armen
+1F645-200D-2640	Frau mit berkreuzten Armen
+1F645-200D-2642	Mann mit berkreuzten Armen
+1F645-1F3FB	Person mit berkreuzten Armen helle Hautfarbe
+1F645-1F3FB-200D-2640	Frau mit berkreuzten Armen helle Hautfarbe
+1F645-1F3FB-200D-2642	Mann mit berkreuzten Armen helle Hautfarbe
+1F645-1F3FC	Person mit berkreuzten Armen mittelhelle Hautfarbe
+1F645-1F3FC-200D-2640	Frau mit berkreuzten Armen mittelhelle Hautfarbe
+1F645-1F3FC-200D-2642	Mann mit berkreuzten Armen mittelhelle Hautfarbe
+1F645-1F3FD	Person mit berkreuzten Armen mittlere Hautfarbe
+1F645-1F3FD-200D-2640	Frau mit berkreuzten Armen mittlere Hautfarbe
+1F645-1F3FD-200D-2642	Mann mit berkreuzten Armen mittlere Hautfarbe
+1F645-1F3FE	Person mit berkreuzten Armen mitteldunkle Hautfarbe
+1F645-1F3FE-200D-2640	Frau mit berkreuzten Armen mitteldunkle Hautfarbe
+1F645-1F3FE-200D-2642	Mann mit berkreuzten Armen mitteldunkle Hautfarbe
+1F645-1F3FF	Person mit berkreuzten Armen dunkle Hautfarbe
+1F645-1F3FF-200D-2640	Frau mit berkreuzten Armen dunkle Hautfarbe
+1F645-1F3FF-200D-2642	Mann mit berkreuzten Armen dunkle Hautfarbe
+1F646	Person mit Hnden auf dem Kopf
+1F646-200D-2640	Frau mit Hnden auf dem Kopf
+1F646-200D-2642	Mann mit Hnden auf dem Kopf
+1F646-1F3FB	Person mit Hnden auf dem Kopf helle Hautfarbe
+1F646-1F3FB-200D-2640	Frau mit Hnden auf dem Kopf helle Hautfarbe
+1F646-1F3FB-200D-2642	Mann mit Hnden auf dem Kopf helle Hautfarbe
+1F646-1F3FC	Person mit Hnden auf dem Kopf mittelhelle Hautfarbe
+1F646-1F3FC-200D-2640	Frau mit Hnden auf dem Kopf mittelhelle Hautfarbe
+1F646-1F3FC-200D-2642	Mann mit Hnden auf dem Kopf mittelhelle Hautfarbe
+1F646-1F3FD	Person mit Hnden auf dem Kopf mittlere Hautfarbe
+1F646-1F3FD-200D-2640	Frau mit Hnden auf dem Kopf mittlere Hautfarbe
+1F646-1F3FD-200D-2642	Mann mit Hnden auf dem Kopf mittlere Hautfarbe
+1F646-1F3FE	Person mit Hnden auf dem Kopf mitteldunkle Hautfarbe
+1F646-1F3FE-200D-2640	Frau mit Hnden auf dem Kopf mitteldunkle Hautfarbe
+1F646-1F3FE-200D-2642	Mann mit Hnden auf dem Kopf mitteldunkle Hautfarbe
+1F646-1F3FF	Person mit Hnden auf dem Kopf dunkle Hautfarbe
+1F646-1F3FF-200D-2640	Frau mit Hnden auf dem Kopf dunkle Hautfarbe
+1F646-1F3FF-200D-2642	Mann mit Hnden auf dem Kopf dunkle Hautfarbe
+1F647	sich verbeugende Person
+1F647-200D-2640	sich verbeugende Frau
+1F647-200D-2642	sich verbeugender Mann
+1F647-1F3FB	sich verbeugende Person helle Hautfarbe
+1F647-1F3FB-200D-2640	sich verbeugende Frau helle Hautfarbe
+1F647-1F3FB-200D-2642	sich verbeugender Mann helle Hautfarbe
+1F647-1F3FC	sich verbeugende Person mittelhelle Hautfarbe
+1F647-1F3FC-200D-2640	sich verbeugende Frau mittelhelle Hautfarbe
+1F647-1F3FC-200D-2642	sich verbeugender Mann mittelhelle Hautfarbe
+1F647-1F3FD	sich verbeugende Person mittlere Hautfarbe
+1F647-1F3FD-200D-2640	sich verbeugende Frau mittlere Hautfarbe
+1F647-1F3FD-200D-2642	sich verbeugender Mann mittlere Hautfarbe
+1F647-1F3FE	sich verbeugende Person mitteldunkle Hautfarbe
+1F647-1F3FE-200D-2640	sich verbeugende Frau mitteldunkle Hautfarbe
+1F647-1F3FE-200D-2642	sich verbeugender Mann mitteldunkle Hautfarbe
+1F647-1F3FF	sich verbeugende Person dunkle Hautfarbe
+1F647-1F3FF-200D-2640	sich verbeugende Frau dunkle Hautfarbe
+1F647-1F3FF-200D-2642	sich verbeugender Mann dunkle Hautfarbe
+1F648	sich die Augen zuhaltendes Affengesicht
+1F649	sich die Ohren zuhaltendes Affengesicht
+1F64A	sich den Mund zuhaltendes Affengesicht
+1F64B	Person mit erhobenem Arm
+1F64B-200D-2640	Frau mit erhobenem Arm
+1F64B-200D-2642	Mann mit erhobenem Arm
+1F64B-1F3FB	Person mit erhobenem Arm helle Hautfarbe
+1F64B-1F3FB-200D-2640	Frau mit erhobenem Arm helle Hautfarbe
+1F64B-1F3FB-200D-2642	Mann mit erhobenem Arm helle Hautfarbe
+1F64B-1F3FC	Person mit erhobenem Arm mittelhelle Hautfarbe
+1F64B-1F3FC-200D-2640	Frau mit erhobenem Arm mittelhelle Hautfarbe
+1F64B-1F3FC-200D-2642	Mann mit erhobenem Arm mittelhelle Hautfarbe
+1F64B-1F3FD	Person mit erhobenem Arm mittlere Hautfarbe
+1F64B-1F3FD-200D-2640	Frau mit erhobenem Arm mittlere Hautfarbe
+1F64B-1F3FD-200D-2642	Mann mit erhobenem Arm mittlere Hautfarbe
+1F64B-1F3FE	Person mit erhobenem Arm mitteldunkle Hautfarbe
+1F64B-1F3FE-200D-2640	Frau mit erhobenem Arm mitteldunkle Hautfarbe
+1F64B-1F3FE-200D-2642	Mann mit erhobenem Arm mitteldunkle Hautfarbe
+1F64B-1F3FF	Person mit erhobenem Arm dunkle Hautfarbe
+1F64B-1F3FF-200D-2640	Frau mit erhobenem Arm dunkle Hautfarbe
+1F64B-1F3FF-200D-2642	Mann mit erhobenem Arm dunkle Hautfarbe
+1F64C	zwei erhobene Handflchen
+1F64C-1F3FB	zwei erhobene Handflchen helle Hautfarbe
+1F64C-1F3FC	zwei erhobene Handflchen mittelhelle Hautfarbe
+1F64C-1F3FD	zwei erhobene Handflchen mittlere Hautfarbe
+1F64C-1F3FE	zwei erhobene Handflchen mitteldunkle Hautfarbe
+1F64C-1F3FF	zwei erhobene Handflchen dunkle Hautfarbe
+1F64D	missmutige Person
+1F64D-200D-2640	missmutige Frau
+1F64D-200D-2642	missmutiger Mann
+1F64D-1F3FB	missmutige Person helle Hautfarbe
+1F64D-1F3FB-200D-2640	missmutige Frau helle Hautfarbe
+1F64D-1F3FB-200D-2642	missmutiger Mann helle Hautfarbe
+1F64D-1F3FC	missmutige Person mittelhelle Hautfarbe
+1F64D-1F3FC-200D-2640	missmutige Frau mittelhelle Hautfarbe
+1F64D-1F3FC-200D-2642	missmutiger Mann mittelhelle Hautfarbe
+1F64D-1F3FD	missmutige Person mittlere Hautfarbe
+1F64D-1F3FD-200D-2640	missmutige Frau mittlere Hautfarbe
+1F64D-1F3FD-200D-2642	missmutiger Mann mittlere Hautfarbe
+1F64D-1F3FE	missmutige Person mitteldunkle Hautfarbe
+1F64D-1F3FE-200D-2640	missmutige Frau mitteldunkle Hautfarbe
+1F64D-1F3FE-200D-2642	missmutiger Mann mitteldunkle Hautfarbe
+1F64D-1F3FF	missmutige Person dunkle Hautfarbe
+1F64D-1F3FF-200D-2640	missmutige Frau dunkle Hautfarbe
+1F64D-1F3FF-200D-2642	missmutiger Mann dunkle Hautfarbe
+1F64E	schmollende Person
+1F64E-200D-2640	schmollende Frau
+1F64E-200D-2642	schmollender Mann
+1F64E-1F3FB	schmollende Person helle Hautfarbe
+1F64E-1F3FB-200D-2640	schmollende Frau helle Hautfarbe
+1F64E-1F3FB-200D-2642	schmollender Mann helle Hautfarbe
+1F64E-1F3FC	schmollende Person mittelhelle Hautfarbe
+1F64E-1F3FC-200D-2640	schmollende Frau mittelhelle Hautfarbe
+1F64E-1F3FC-200D-2642	schmollender Mann mittelhelle Hautfarbe
+1F64E-1F3FD	schmollende Person mittlere Hautfarbe
+1F64E-1F3FD-200D-2640	schmollende Frau mittlere Hautfarbe
+1F64E-1F3FD-200D-2642	schmollender Mann mittlere Hautfarbe
+1F64E-1F3FE	schmollende Person mitteldunkle Hautfarbe
+1F64E-1F3FE-200D-2640	schmollende Frau mitteldunkle Hautfarbe
+1F64E-1F3FE-200D-2642	schmollender Mann mitteldunkle Hautfarbe
+1F64E-1F3FF	schmollende Person dunkle Hautfarbe
+1F64E-1F3FF-200D-2640	schmollende Frau dunkle Hautfarbe
+1F64E-1F3FF-200D-2642	schmollender Mann dunkle Hautfarbe
+1F64F	betende Hnde
+1F64F-1F3FB	betende Hnde helle Hautfarbe
+1F64F-1F3FC	betende Hnde mittelhelle Hautfarbe
+1F64F-1F3FD	betende Hnde mittlere Hautfarbe
+1F64F-1F3FE	betende Hnde mitteldunkle Hautfarbe
+1F64F-1F3FF	betende Hnde dunkle Hautfarbe
+1F680	Rakete
+1F681	Hubschrauber
+1F682	Dampflokomotive
+1F683	Eisenbahnwagen
+1F684	Hochgeschwindigkeitszug mit spitzer Nase
+1F685	Hochgeschwindigkeitszug
+1F686	Zug
+1F687	U-Bahn
+1F688	S-Bahn
+1F689	Bahnhof
+1F68A	Straenbahn
+1F68B	Straenbahnwagen
+1F68C	Bus
+1F68D	Bus von vorne
+1F68E	Oberleitungsbus
+1F68F	Bushaltestelle
+1F690	Kleinbus
+1F691	Krankenwagen
+1F692	Feuerwehrauto
+1F693	Polizeiwagen
+1F694	Vorderansicht Polizeiwagen
+1F695	Taxi
+1F696	Taxi von vorne
+1F697	Auto
+1F698	Auto von vorne
+1F699	Wohnmobil
+1F69A	Lieferwagen
+1F69B	Sattelzug
+1F69C	Traktor
+1F69D	Einschienenbahn
+1F69E	Bergbahn
+1F69F	Schwebebahn
+1F6A0	Bergschwebebahn
+1F6A1	Bergseilbahn
+1F6A2	Schiff
+1F6A3	Person im Ruderboot
+1F6A3-200D-2640	Frau im Ruderboot
+1F6A3-200D-2642	Mann im Ruderboot
+1F6A3-1F3FB	Person im Ruderboot helle Hautfarbe
+1F6A3-1F3FB-200D-2640	Frau im Ruderboot helle Hautfarbe
+1F6A3-1F3FB-200D-2642	Mann im Ruderboot helle Hautfarbe
+1F6A3-1F3FC	Person im Ruderboot mittelhelle Hautfarbe
+1F6A3-1F3FC-200D-2640	Frau im Ruderboot mittelhelle Hautfarbe
+1F6A3-1F3FC-200D-2642	Mann im Ruderboot mittelhelle Hautfarbe
+1F6A3-1F3FD	Person im Ruderboot mittlere Hautfarbe
+1F6A3-1F3FD-200D-2640	Frau im Ruderboot mittlere Hautfarbe
+1F6A3-1F3FD-200D-2642	Mann im Ruderboot mittlere Hautfarbe
+1F6A3-1F3FE	Person im Ruderboot mitteldunkle Hautfarbe
+1F6A3-1F3FE-200D-2640	Frau im Ruderboot mitteldunkle Hautfarbe
+1F6A3-1F3FE-200D-2642	Mann im Ruderboot mitteldunkle Hautfarbe
+1F6A3-1F3FF	Person im Ruderboot dunkle Hautfarbe
+1F6A3-1F3FF-200D-2640	Frau im Ruderboot dunkle Hautfarbe
+1F6A3-1F3FF-200D-2642	Mann im Ruderboot dunkle Hautfarbe
+1F6A4	Schnellboot
+1F6A5	horizontale Verkehrsampel
+1F6A6	vertikale Verkehrsampel
+1F6A7	Baustellenabsperrung
+1F6A8	Polizeilicht
+1F6A9	Wimpel
+1F6AA	Tr
+1F6AB	Verboten
+1F6AC	Zigarette
+1F6AD	Rauchverbot
+1F6AE	Symbol Papierkorb
+1F6AF	Abfall verboten
+1F6B0	Trinkwasser
+1F6B1	Kein Trinkwasser
+1F6B2	Fahrrad
+1F6B3	Fahrrder verboten
+1F6B4	Radfahrerin
+1F6B4-200D-2640	Radfahrerin
+1F6B4-200D-2642	Radfahrer
+1F6B4-1F3FB	Radfahrerin helle Hautfarbe
+1F6B4-1F3FB-200D-2640	Radfahrerin helle Hautfarbe
+1F6B4-1F3FB-200D-2642	Radfahrer helle Hautfarbe
+1F6B4-1F3FC	Radfahrerin mittelhelle Hautfarbe
+1F6B4-1F3FC-200D-2640	Radfahrerin mittelhelle Hautfarbe
+1F6B4-1F3FC-200D-2642	Radfahrer mittelhelle Hautfarbe
+1F6B4-1F3FD	Radfahrerin mittlere Hautfarbe
+1F6B4-1F3FD-200D-2640	Radfahrerin mittlere Hautfarbe
+1F6B4-1F3FD-200D-2642	Radfahrer mittlere Hautfarbe
+1F6B4-1F3FE	Radfahrerin mitteldunkle Hautfarbe
+1F6B4-1F3FE-200D-2640	Radfahrerin mitteldunkle Hautfarbe
+1F6B4-1F3FE-200D-2642	Radfahrer mitteldunkle Hautfarbe
+1F6B4-1F3FF	Radfahrerin dunkle Hautfarbe
+1F6B4-1F3FF-200D-2640	Radfahrerin dunkle Hautfarbe
+1F6B4-1F3FF-200D-2642	Radfahrer dunkle Hautfarbe
+1F6B5	Mountainbikerin
+1F6B5-200D-2640	Mountainbikerin
+1F6B5-200D-2642	Mountainbiker
+1F6B5-1F3FB	Mountainbikerin helle Hautfarbe
+1F6B5-1F3FB-200D-2640	Mountainbikerin helle Hautfarbe
+1F6B5-1F3FB-200D-2642	Mountainbiker helle Hautfarbe
+1F6B5-1F3FC	Mountainbikerin mittelhelle Hautfarbe
+1F6B5-1F3FC-200D-2640	Mountainbikerin mittelhelle Hautfarbe
+1F6B5-1F3FC-200D-2642	Mountainbiker mittelhelle Hautfarbe
+1F6B5-1F3FD	Mountainbikerin mittlere Hautfarbe
+1F6B5-1F3FD-200D-2640	Mountainbikerin mittlere Hautfarbe
+1F6B5-1F3FD-200D-2642	Mountainbiker mittlere Hautfarbe
+1F6B5-1F3FE	Mountainbikerin mitteldunkle Hautfarbe
+1F6B5-1F3FE-200D-2640	Mountainbikerin mitteldunkle Hautfarbe
+1F6B5-1F3FE-200D-2642	Mountainbiker mitteldunkle Hautfarbe
+1F6B5-1F3FF	Mountainbikerin dunkle Hautfarbe
+1F6B5-1F3FF-200D-2640	Mountainbikerin dunkle Hautfarbe
+1F6B5-1F3FF-200D-2642	Mountainbiker dunkle Hautfarbe
+1F6B6	Fugngerin
+1F6B6-200D-2640	Fugngerin
+1F6B6-200D-2642	Fugnger
+1F6B6-1F3FB	Fugngerin helle Hautfarbe
+1F6B6-1F3FB-200D-2640	Fugngerin helle Hautfarbe
+1F6B6-1F3FB-200D-2642	Fugnger helle Hautfarbe
+1F6B6-1F3FC	Fugngerin mittelhelle Hautfarbe
+1F6B6-1F3FC-200D-2640	Fugngerin mittelhelle Hautfarbe
+1F6B6-1F3FC-200D-2642	Fugnger mittelhelle Hautfarbe
+1F6B6-1F3FD	Fugngerin mittlere Hautfarbe
+1F6B6-1F3FD-200D-2640	Fugngerin mittlere Hautfarbe
+1F6B6-1F3FD-200D-2642	Fugnger mittlere Hautfarbe
+1F6B6-1F3FE	Fugngerin mitteldunkle Hautfarbe
+1F6B6-1F3FE-200D-2640	Fugngerin mitteldunkle Hautfarbe
+1F6B6-1F3FE-200D-2642	Fugnger mitteldunkle Hautfarbe
+1F6B6-1F3FF	Fugngerin dunkle Hautfarbe
+1F6B6-1F3FF-200D-2640	Fugngerin dunkle Hautfarbe
+1F6B6-1F3FF-200D-2642	Fugnger dunkle Hautfarbe
+1F6B7	Fugnger verboten
+1F6B8	Kinder berqueren die Strae
+1F6B9	Herren
+1F6BA	Damen
+1F6BB	Toiletten
+1F6BC	Symbol Baby
+1F6BD	Toilette
+1F6BE	WC
+1F6BF	Dusche
+1F6C0	badende Person
+1F6C0-1F3FB	badende Person helle Hautfarbe
+1F6C0-1F3FC	badende Person mittelhelle Hautfarbe
+1F6C0-1F3FD	badende Person mittlere Hautfarbe
+1F6C0-1F3FE	badende Person mitteldunkle Hautfarbe
+1F6C0-1F3FF	badende Person dunkle Hautfarbe
+1F6C1	Badewanne
+1F6C2	Passkontrolle
+1F6C3	Zollkontrolle
+1F6C4	Gepckausgabe
+1F6C5	Gepckaufbewahrung
+1F6CB	Sofa und Lampe
+1F6CC	im Bett liegende Person
+1F6CC-1F3FB	im Bett liegende Person helle Hautfarbe
+1F6CC-1F3FC	im Bett liegende Person mittelhelle Hautfarbe
+1F6CC-1F3FD	im Bett liegende Person mittlere Hautfarbe
+1F6CC-1F3FE	im Bett liegende Person mitteldunkle Hautfarbe
+1F6CC-1F3FF	im Bett liegende Person dunkle Hautfarbe
+1F6CD	Einkaufstten
+1F6CE	Rezeptionsklingel
+1F6CF	Bett
+1F6D0	religise Sttte
+1F6D1	Stoppschild
+1F6D2	Einkaufswagen
+1F6D5	Hindutempel
+1F6D6	Htte
+1F6D7	Fahrstuhl
+1F6E0	Hammer und Schraubenschlssel
+1F6E1	Schutzschild
+1F6E2	lfass
+1F6E3	Autobahn
+1F6E4	Bahngleis
+1F6E5	Motorboot
+1F6E9	kleines Flugzeug
+1F6EB	Abflug
+1F6EC	Landung eines Flugzeugs
+1F6F0	Satellit
+1F6F3	Passagierschiff
+1F6F4	Tretroller
+1F6F5	Motorroller
+1F6F6	Kanu
+1F6F7	Schlitten
+1F6F8	fliegende Untertasse
+1F6F9	Skateboard
+1F6FA	Autorikscha
+1F6FB	Pick-up
+1F6FC	Rollschuh
+1F7E0	oranger Punkt
+1F7E1	gelber Punkt
+1F7E2	grner Punkt
+1F7E3	lila Punkt
+1F7E4	brauner Punkt
+1F7E5	rotes Quadrat
+1F7E6	blaues Quadrat
+1F7E7	oranges Quadrat
+1F7E8	gelbes Quadrat
+1F7E9	grnes Quadrat
+1F7EA	lila Quadrat
+1F7EB	braunes Quadrat
+1F90C	zusammengedrckte Finger
+1F90C-1F3FB	zusammengedrckte Finger helle Hautfarbe
+1F90C-1F3FC	zusammengedrckte Finger mittelhelle Hautfarbe
+1F90C-1F3FD	zusammengedrckte Finger mittlere Hautfarbe
+1F90C-1F3FE	zusammengedrckte Finger mitteldunkle Hautfarbe
+1F90C-1F3FF	zusammengedrckte Finger dunkle Hautfarbe
+1F90D	weies Herz
+1F90E	braunes Herz
+1F90F	Wenig-Geste
+1F90F-1F3FB	Wenig-Geste helle Hautfarbe
+1F90F-1F3FC	Wenig-Geste mittelhelle Hautfarbe
+1F90F-1F3FD	Wenig-Geste mittlere Hautfarbe
+1F90F-1F3FE	Wenig-Geste mitteldunkle Hautfarbe
+1F90F-1F3FF	Wenig-Geste dunkle Hautfarbe
+1F910	Gesicht mit Reiverschlussmund
+1F911	Gesicht mit Dollarzeichen
+1F912	Gesicht mit Fieberthermometer
+1F913	Strebergesicht
+1F914	nachdenkendes Gesicht
+1F915	Gesicht mit Kopfverband
+1F916	Roboter
+1F917	Gesicht mit umarmenden Hnden
+1F918	Teufelsgru
+1F918-1F3FB	Teufelsgru helle Hautfarbe
+1F918-1F3FC	Teufelsgru mittelhelle Hautfarbe
+1F918-1F3FD	Teufelsgru mittlere Hautfarbe
+1F918-1F3FE	Teufelsgru mitteldunkle Hautfarbe
+1F918-1F3FF	Teufelsgru dunkle Hautfarbe
+1F919	ruf-mich-an-Handzeichen
+1F919-1F3FB	ruf-mich-an-Handzeichen helle Hautfarbe
+1F919-1F3FC	ruf-mich-an-Handzeichen mittelhelle Hautfarbe
+1F919-1F3FD	ruf-mich-an-Handzeichen mittlere Hautfarbe
+1F919-1F3FE	ruf-mich-an-Handzeichen mitteldunkle Hautfarbe
+1F919-1F3FF	ruf-mich-an-Handzeichen dunkle Hautfarbe
+1F91A	erhobene Hand von hinten
+1F91A-1F3FB	erhobene Hand von hinten helle Hautfarbe
+1F91A-1F3FC	erhobene Hand von hinten mittelhelle Hautfarbe
+1F91A-1F3FD	erhobene Hand von hinten mittlere Hautfarbe
+1F91A-1F3FE	erhobene Hand von hinten mitteldunkle Hautfarbe
+1F91A-1F3FF	erhobene Hand von hinten dunkle Hautfarbe
+1F91B	Faust nach links
+1F91B-1F3FB	Faust nach links helle Hautfarbe
+1F91B-1F3FC	Faust nach links mittelhelle Hautfarbe
+1F91B-1F3FD	Faust nach links mittlere Hautfarbe
+1F91B-1F3FE	Faust nach links mitteldunkle Hautfarbe
+1F91B-1F3FF	Faust nach links dunkle Hautfarbe
+1F91C	Faust nach rechts
+1F91C-1F3FB	Faust nach rechts helle Hautfarbe
+1F91C-1F3FC	Faust nach rechts mittelhelle Hautfarbe
+1F91C-1F3FD	Faust nach rechts mittlere Hautfarbe
+1F91C-1F3FE	Faust nach rechts mitteldunkle Hautfarbe
+1F91C-1F3FF	Faust nach rechts dunkle Hautfarbe
+1F91D	Handschlag
+1F91E	Hand mit gekreuzten Fingern
+1F91E-1F3FB	Hand mit gekreuzten Fingern helle Hautfarbe
+1F91E-1F3FC	Hand mit gekreuzten Fingern mittelhelle Hautfarbe
+1F91E-1F3FD	Hand mit gekreuzten Fingern mittlere Hautfarbe
+1F91E-1F3FE	Hand mit gekreuzten Fingern mitteldunkle Hautfarbe
+1F91E-1F3FF	Hand mit gekreuzten Fingern dunkle Hautfarbe
+1F91F	ich-liebe-dich-Geste
+1F91F-1F3FB	ich-liebe-dich-Geste helle Hautfarbe
+1F91F-1F3FC	ich-liebe-dich-Geste mittelhelle Hautfarbe
+1F91F-1F3FD	ich-liebe-dich-Geste mittlere Hautfarbe
+1F91F-1F3FE	ich-liebe-dich-Geste mitteldunkle Hautfarbe
+1F91F-1F3FF	ich-liebe-dich-Geste dunkle Hautfarbe
+1F920	Gesicht mit Cowboyhut
+1F921	Clown-Gesicht
+1F922	wrgendes Gesicht
+1F923	sich vor Lachen auf dem Boden wlzen
+1F924	sabberndes Gesicht
+1F925	lgendes Gesicht
+1F926	sich an den Kopf fassende Person
+1F926-200D-2640	sich an den Kopf fassende Frau
+1F926-200D-2642	sich an den Kopf fassender Mann
+1F926-1F3FB	sich an den Kopf fassende Person helle Hautfarbe
+1F926-1F3FB-200D-2640	sich an den Kopf fassende Frau helle Hautfarbe
+1F926-1F3FB-200D-2642	sich an den Kopf fassender Mann helle Hautfarbe
+1F926-1F3FC	sich an den Kopf fassende Person mittelhelle Hautfarbe
+1F926-1F3FC-200D-2640	sich an den Kopf fassende Frau mittelhelle Hautfarbe
+1F926-1F3FC-200D-2642	sich an den Kopf fassender Mann mittelhelle Hautfarbe
+1F926-1F3FD	sich an den Kopf fassende Person mittlere Hautfarbe
+1F926-1F3FD-200D-2640	sich an den Kopf fassende Frau mittlere Hautfarbe
+1F926-1F3FD-200D-2642	sich an den Kopf fassender Mann mittlere Hautfarbe
+1F926-1F3FE	sich an den Kopf fassende Person mitteldunkle Hautfarbe
+1F926-1F3FE-200D-2640	sich an den Kopf fassende Frau mitteldunkle Hautfarbe
+1F926-1F3FE-200D-2642	sich an den Kopf fassender Mann mitteldunkle Hautfarbe
+1F926-1F3FF	sich an den Kopf fassende Person dunkle Hautfarbe
+1F926-1F3FF-200D-2640	sich an den Kopf fassende Frau dunkle Hautfarbe
+1F926-1F3FF-200D-2642	sich an den Kopf fassender Mann dunkle Hautfarbe
+1F927	niesendes Gesicht
+1F928	Gesicht mit hochgezogenen Augenbrauen
+1F929	berwltigt
+1F92A	irres Gesicht
+1F92B	ermahnendes Gesicht
+1F92C	Gesicht mit Symbolen ber dem Mund
+1F92D	verlegen kicherndes Gesicht
+1F92E	kotzendes Gesicht
+1F92F	explodierender Kopf
+1F930	schwangere Frau
+1F930-1F3FB	schwangere Frau helle Hautfarbe
+1F930-1F3FC	schwangere Frau mittelhelle Hautfarbe
+1F930-1F3FD	schwangere Frau mittlere Hautfarbe
+1F930-1F3FE	schwangere Frau mitteldunkle Hautfarbe
+1F930-1F3FF	schwangere Frau dunkle Hautfarbe
+1F931	Stillen
+1F931-1F3FB	Stillen helle Hautfarbe
+1F931-1F3FC	Stillen mittelhelle Hautfarbe
+1F931-1F3FD	Stillen mittlere Hautfarbe
+1F931-1F3FE	Stillen mitteldunkle Hautfarbe
+1F931-1F3FF	Stillen dunkle Hautfarbe
+1F932	Handflchen nach oben
+1F932-1F3FB	Handflchen nach oben helle Hautfarbe
+1F932-1F3FC	Handflchen nach oben mittelhelle Hautfarbe
+1F932-1F3FD	Handflchen nach oben mittlere Hautfarbe
+1F932-1F3FE	Handflchen nach oben mitteldunkle Hautfarbe
+1F932-1F3FF	Handflchen nach oben dunkle Hautfarbe
+1F933	Selfie
+1F933-1F3FB	Selfie helle Hautfarbe
+1F933-1F3FC	Selfie mittelhelle Hautfarbe
+1F933-1F3FD	Selfie mittlere Hautfarbe
+1F933-1F3FE	Selfie mitteldunkle Hautfarbe
+1F933-1F3FF	Selfie dunkle Hautfarbe
+1F934	Prinz
+1F934-1F3FB	Prinz helle Hautfarbe
+1F934-1F3FC	Prinz mittelhelle Hautfarbe
+1F934-1F3FD	Prinz mittlere Hautfarbe
+1F934-1F3FE	Prinz mitteldunkle Hautfarbe
+1F934-1F3FF	Prinz dunkle Hautfarbe
+1F935	Person im Smoking
+1F935-200D-2640	Frau im Smoking
+1F935-200D-2642	Mann im Smoking
+1F935-1F3FB	Person im Smoking helle Hautfarbe
+1F935-1F3FB-200D-2640	Frau im Smoking helle Hautfarbe
+1F935-1F3FB-200D-2642	Mann im Smoking helle Hautfarbe
+1F935-1F3FC	Person im Smoking mittelhelle Hautfarbe
+1F935-1F3FC-200D-2640	Frau im Smoking mittelhelle Hautfarbe
+1F935-1F3FC-200D-2642	Mann im Smoking mittelhelle Hautfarbe
+1F935-1F3FD	Person im Smoking mittlere Hautfarbe
+1F935-1F3FD-200D-2640	Frau im Smoking mittlere Hautfarbe
+1F935-1F3FD-200D-2642	Mann im Smoking mittlere Hautfarbe
+1F935-1F3FE	Person im Smoking mitteldunkle Hautfarbe
+1F935-1F3FE-200D-2640	Frau im Smoking mitteldunkle Hautfarbe
+1F935-1F3FE-200D-2642	Mann im Smoking mitteldunkle Hautfarbe
+1F935-1F3FF	Person im Smoking dunkle Hautfarbe
+1F935-1F3FF-200D-2640	Frau im Smoking dunkle Hautfarbe
+1F935-1F3FF-200D-2642	Mann im Smoking dunkle Hautfarbe
+1F936	Weihnachtsfrau
+1F936-1F3FB	Weihnachtsfrau helle Hautfarbe
+1F936-1F3FC	Weihnachtsfrau mittelhelle Hautfarbe
+1F936-1F3FD	Weihnachtsfrau mittlere Hautfarbe
+1F936-1F3FE	Weihnachtsfrau mitteldunkle Hautfarbe
+1F936-1F3FF	Weihnachtsfrau dunkle Hautfarbe
+1F937	schulterzuckende Person
+1F937-200D-2640	schulterzuckende Frau
+1F937-200D-2642	schulterzuckender Mann
+1F937-1F3FB	schulterzuckende Person helle Hautfarbe
+1F937-1F3FB-200D-2640	schulterzuckende Frau helle Hautfarbe
+1F937-1F3FB-200D-2642	schulterzuckender Mann helle Hautfarbe
+1F937-1F3FC	schulterzuckende Person mittelhelle Hautfarbe
+1F937-1F3FC-200D-2640	schulterzuckende Frau mittelhelle Hautfarbe
+1F937-1F3FC-200D-2642	schulterzuckender Mann mittelhelle Hautfarbe
+1F937-1F3FD	schulterzuckende Person mittlere Hautfarbe
+1F937-1F3FD-200D-2640	schulterzuckende Frau mittlere Hautfarbe
+1F937-1F3FD-200D-2642	schulterzuckender Mann mittlere Hautfarbe
+1F937-1F3FE	schulterzuckende Person mitteldunkle Hautfarbe
+1F937-1F3FE-200D-2640	schulterzuckende Frau mitteldunkle Hautfarbe
+1F937-1F3FE-200D-2642	schulterzuckender Mann mitteldunkle Hautfarbe
+1F937-1F3FF	schulterzuckende Person dunkle Hautfarbe
+1F937-1F3FF-200D-2640	schulterzuckende Frau dunkle Hautfarbe
+1F937-1F3FF-200D-2642	schulterzuckender Mann dunkle Hautfarbe
+1F938	Rad schlagende Person
+1F938-200D-2640	Rad schlagende Frau
+1F938-200D-2642	Rad schlagender Mann
+1F938-1F3FB	Rad schlagende Person helle Hautfarbe
+1F938-1F3FB-200D-2640	Rad schlagende Frau helle Hautfarbe
+1F938-1F3FB-200D-2642	Rad schlagender Mann helle Hautfarbe
+1F938-1F3FC	Rad schlagende Person mittelhelle Hautfarbe
+1F938-1F3FC-200D-2640	Rad schlagende Frau mittelhelle Hautfarbe
+1F938-1F3FC-200D-2642	Rad schlagender Mann mittelhelle Hautfarbe
+1F938-1F3FD	Rad schlagende Person mittlere Hautfarbe
+1F938-1F3FD-200D-2640	Rad schlagende Frau mittlere Hautfarbe
+1F938-1F3FD-200D-2642	Rad schlagender Mann mittlere Hautfarbe
+1F938-1F3FE	Rad schlagende Person mitteldunkle Hautfarbe
+1F938-1F3FE-200D-2640	Rad schlagende Frau mitteldunkle Hautfarbe
+1F938-1F3FE-200D-2642	Rad schlagender Mann mitteldunkle Hautfarbe
+1F938-1F3FF	Rad schlagende Person dunkle Hautfarbe
+1F938-1F3FF-200D-2640	Rad schlagende Frau dunkle Hautfarbe
+1F938-1F3FF-200D-2642	Rad schlagender Mann dunkle Hautfarbe
+1F939	Jongleurin
+1F939-200D-2640	Jongleurin
+1F939-200D-2642	Jongleur
+1F939-1F3FB	Jongleurin helle Hautfarbe
+1F939-1F3FB-200D-2640	Jongleurin helle Hautfarbe
+1F939-1F3FB-200D-2642	Jongleur helle Hautfarbe
+1F939-1F3FC	Jongleurin mittelhelle Hautfarbe
+1F939-1F3FC-200D-2640	Jongleurin mittelhelle Hautfarbe
+1F939-1F3FC-200D-2642	Jongleur mittelhelle Hautfarbe
+1F939-1F3FD	Jongleurin mittlere Hautfarbe
+1F939-1F3FD-200D-2640	Jongleurin mittlere Hautfarbe
+1F939-1F3FD-200D-2642	Jongleur mittlere Hautfarbe
+1F939-1F3FE	Jongleurin mitteldunkle Hautfarbe
+1F939-1F3FE-200D-2640	Jongleurin mitteldunkle Hautfarbe
+1F939-1F3FE-200D-2642	Jongleur mitteldunkle Hautfarbe
+1F939-1F3FF	Jongleurin dunkle Hautfarbe
+1F939-1F3FF-200D-2640	Jongleurin dunkle Hautfarbe
+1F939-1F3FF-200D-2642	Jongleur dunkle Hautfarbe
+1F93A	Fechterin
+1F93C	Ringerin
+1F93C-200D-2640	ringende Frauen
+1F93C-200D-2642	ringende Mnner
+1F93D	Wasserballspielerin
+1F93D-200D-2640	Wasserballspielerin
+1F93D-200D-2642	Wasserballspieler
+1F93D-1F3FB	Wasserballspielerin helle Hautfarbe
+1F93D-1F3FB-200D-2640	Wasserballspielerin helle Hautfarbe
+1F93D-1F3FB-200D-2642	Wasserballspieler helle Hautfarbe
+1F93D-1F3FC	Wasserballspielerin mittelhelle Hautfarbe
+1F93D-1F3FC-200D-2640	Wasserballspielerin mittelhelle Hautfarbe
+1F93D-1F3FC-200D-2642	Wasserballspieler mittelhelle Hautfarbe
+1F93D-1F3FD	Wasserballspielerin mittlere Hautfarbe
+1F93D-1F3FD-200D-2640	Wasserballspielerin mittlere Hautfarbe
+1F93D-1F3FD-200D-2642	Wasserballspieler mittlere Hautfarbe
+1F93D-1F3FE	Wasserballspielerin mitteldunkle Hautfarbe
+1F93D-1F3FE-200D-2640	Wasserballspielerin mitteldunkle Hautfarbe
+1F93D-1F3FE-200D-2642	Wasserballspieler mitteldunkle Hautfarbe
+1F93D-1F3FF	Wasserballspielerin dunkle Hautfarbe
+1F93D-1F3FF-200D-2640	Wasserballspielerin dunkle Hautfarbe
+1F93D-1F3FF-200D-2642	Wasserballspieler dunkle Hautfarbe
+1F93E	Handballspielerin
+1F93E-200D-2640	Handballspielerin
+1F93E-200D-2642	Handballspieler
+1F93E-1F3FB	Handballspielerin helle Hautfarbe
+1F93E-1F3FB-200D-2640	Handballspielerin helle Hautfarbe
+1F93E-1F3FB-200D-2642	Handballspieler helle Hautfarbe
+1F93E-1F3FC	Handballspielerin mittelhelle Hautfarbe
+1F93E-1F3FC-200D-2640	Handballspielerin mittelhelle Hautfarbe
+1F93E-1F3FC-200D-2642	Handballspieler mittelhelle Hautfarbe
+1F93E-1F3FD	Handballspielerin mittlere Hautfarbe
+1F93E-1F3FD-200D-2640	Handballspielerin mittlere Hautfarbe
+1F93E-1F3FD-200D-2642	Handballspieler mittlere Hautfarbe
+1F93E-1F3FE	Handballspielerin mitteldunkle Hautfarbe
+1F93E-1F3FE-200D-2640	Handballspielerin mitteldunkle Hautfarbe
+1F93E-1F3FE-200D-2642	Handballspieler mitteldunkle Hautfarbe
+1F93E-1F3FF	Handballspielerin dunkle Hautfarbe
+1F93E-1F3FF-200D-2640	Handballspielerin dunkle Hautfarbe
+1F93E-1F3FF-200D-2642	Handballspieler dunkle Hautfarbe
+1F93F	Tauchmaske
+1F940	welke Blume
+1F941	Trommel
+1F942	Sektglser
+1F943	Trinkglas
+1F944	Lffel
+1F945	Tor
+1F947	Goldmedaille
+1F948	Silbermedaille
+1F949	Bronzemedaille
+1F94A	Boxhandschuh
+1F94B	Kampfsportanzug
+1F94C	Curlingstein
+1F94D	Lacrosse
+1F94E	Softball
+1F94F	Frisbee
+1F950	Croissant
+1F951	Avocado
+1F952	Gurke
+1F953	Bacon
+1F954	Kartoffel
+1F955	Karotte
+1F956	Baguette
+1F957	Salat
+1F958	Pfannengericht
+1F959	Dner
+1F95A	Ei
+1F95B	Glas Milch
+1F95C	Erdnuss
+1F95D	Kiwi
+1F95E	Pfannkuchen
+1F95F	Teigtasche
+1F960	Glckskeks
+1F961	Takeaway-Schachtel
+1F962	Essstbchen
+1F963	Schssel mit Lffel
+1F964	Becher mit Strohhalm
+1F965	Kokosnuss
+1F966	Brokkoli
+1F967	Kuchen
+1F968	Brezel
+1F969	Fleischstck
+1F96A	Sandwich
+1F96B	Konserve
+1F96C	Blattgemse
+1F96D	Mango
+1F96E	Mondkuchen
+1F96F	Bagel
+1F970	lchelndes Gesicht mit Herzen
+1F971	ghnendes Gesicht
+1F972	lachendes Gesicht mit Trne
+1F973	Partygesicht
+1F974	schwindeliges Gesicht
+1F975	schwitzendes Gesicht
+1F976	frierendes Gesicht
+1F977	Ninja
+1F977-1F3FB	Ninja helle Hautfarbe
+1F977-1F3FC	Ninja mittelhelle Hautfarbe
+1F977-1F3FD	Ninja mittlere Hautfarbe
+1F977-1F3FE	Ninja mitteldunkle Hautfarbe
+1F977-1F3FF	Ninja dunkle Hautfarbe
+1F978	verkleidet
+1F97A	bettelndes Gesicht
+1F97B	Sari
+1F97C	Laborkittel
+1F97D	Schutzbrille
+1F97E	Wanderstiefel
+1F97F	flacher Schuh
+1F980	Krebs
+1F981	Lwe
+1F982	Skorpion
+1F983	Truthahn
+1F984	Einhorn
+1F985	Adler
+1F986	Ente
+1F987	Fledermaus
+1F988	Hai
+1F989	Eule
+1F98A	Fuchs
+1F98B	Schmetterling
+1F98C	Hirsch
+1F98D	Gorilla
+1F98E	Eidechse
+1F98F	Nashorn
+1F990	Garnele
+1F991	Tintenfisch
+1F992	Giraffe
+1F993	Zebra
+1F994	Igel
+1F995	Sauropode
+1F996	T-Rex
+1F997	Grille
+1F998	Knguru
+1F999	Lama
+1F99A	Pfau
+1F99B	Nilpferd
+1F99C	Papagei
+1F99D	Waschbr
+1F99E	Hummer
+1F99F	Mcke
+1F9A0	Mikrobe
+1F9A1	Dachs
+1F9A2	Schwan
+1F9A3	Mammut
+1F9A4	Dodo
+1F9A5	Faultier
+1F9A6	Otter
+1F9A7	Orang-Utan
+1F9A8	Stinktier
+1F9A9	Flamingo
+1F9AA	Auster
+1F9AB	Biber
+1F9AC	Bison
+1F9AD	Seehund
+1F9AE	Blindenhund
+1F9AF	Blindenstock
+1F9B0	rotes Haar
+1F9B1	lockiges Haar
+1F9B2	Glatze
+1F9B3	weies Haar
+1F9B4	Knochen
+1F9B5	Bein
+1F9B5-1F3FB	Bein helle Hautfarbe
+1F9B5-1F3FC	Bein mittelhelle Hautfarbe
+1F9B5-1F3FD	Bein mittlere Hautfarbe
+1F9B5-1F3FE	Bein mitteldunkle Hautfarbe
+1F9B5-1F3FF	Bein dunkle Hautfarbe
+1F9B6	Fu
+1F9B6-1F3FB	Fu helle Hautfarbe
+1F9B6-1F3FC	Fu mittelhelle Hautfarbe
+1F9B6-1F3FD	Fu mittlere Hautfarbe
+1F9B6-1F3FE	Fu mitteldunkle Hautfarbe
+1F9B6-1F3FF	Fu dunkle Hautfarbe
+1F9B7	Zahn
+1F9B8	Superheldin
+1F9B8-200D-2640	Heldin
+1F9B8-200D-2642	Superheld
+1F9B8-1F3FB	Superheldin helle Hautfarbe
+1F9B8-1F3FB-200D-2640	Heldin helle Hautfarbe
+1F9B8-1F3FB-200D-2642	Superheld helle Hautfarbe
+1F9B8-1F3FC	Superheldin mittelhelle Hautfarbe
+1F9B8-1F3FC-200D-2640	Heldin mittelhelle Hautfarbe
+1F9B8-1F3FC-200D-2642	Superheld mittelhelle Hautfarbe
+1F9B8-1F3FD	Superheldin mittlere Hautfarbe
+1F9B8-1F3FD-200D-2640	Heldin mittlere Hautfarbe
+1F9B8-1F3FD-200D-2642	Superheld mittlere Hautfarbe
+1F9B8-1F3FE	Superheldin mitteldunkle Hautfarbe
+1F9B8-1F3FE-200D-2640	Heldin mitteldunkle Hautfarbe
+1F9B8-1F3FE-200D-2642	Superheld mitteldunkle Hautfarbe
+1F9B8-1F3FF	Superheldin dunkle Hautfarbe
+1F9B8-1F3FF-200D-2640	Heldin dunkle Hautfarbe
+1F9B8-1F3FF-200D-2642	Superheld dunkle Hautfarbe
+1F9B9	Bsewicht
+1F9B9-200D-2640	weiblicher Bsewicht
+1F9B9-200D-2642	mnnlicher Bsewicht
+1F9B9-1F3FB	Bsewicht helle Hautfarbe
+1F9B9-1F3FB-200D-2640	weiblicher Bsewicht helle Hautfarbe
+1F9B9-1F3FB-200D-2642	mnnlicher Bsewicht helle Hautfarbe
+1F9B9-1F3FC	Bsewicht mittelhelle Hautfarbe
+1F9B9-1F3FC-200D-2640	weiblicher Bsewicht mittelhelle Hautfarbe
+1F9B9-1F3FC-200D-2642	mnnlicher Bsewicht mittelhelle Hautfarbe
+1F9B9-1F3FD	Bsewicht mittlere Hautfarbe
+1F9B9-1F3FD-200D-2640	weiblicher Bsewicht mittlere Hautfarbe
+1F9B9-1F3FD-200D-2642	mnnlicher Bsewicht mittlere Hautfarbe
+1F9B9-1F3FE	Bsewicht mitteldunkle Hautfarbe
+1F9B9-1F3FE-200D-2640	weiblicher Bsewicht mitteldunkle Hautfarbe
+1F9B9-1F3FE-200D-2642	mnnlicher Bsewicht mitteldunkle Hautfarbe
+1F9B9-1F3FF	Bsewicht dunkle Hautfarbe
+1F9B9-1F3FF-200D-2640	weiblicher Bsewicht dunkle Hautfarbe
+1F9B9-1F3FF-200D-2642	mnnlicher Bsewicht dunkle Hautfarbe
+1F9BA	Sicherheitsweste
+1F9BB	Ohr mit Hrgert
+1F9BB-1F3FB	Ohr mit Hrgert helle Hautfarbe
+1F9BB-1F3FC	Ohr mit Hrgert mittelhelle Hautfarbe
+1F9BB-1F3FD	Ohr mit Hrgert mittlere Hautfarbe
+1F9BB-1F3FE	Ohr mit Hrgert mitteldunkle Hautfarbe
+1F9BB-1F3FF	Ohr mit Hrgert dunkle Hautfarbe
+1F9BC	elektrischer Rollstuhl
+1F9BD	manueller Rollstuhl
+1F9BE	Armprothese
+1F9BF	Beinprothese
+1F9C0	Ksestck
+1F9C1	Cupcake
+1F9C2	Salz
+1F9C3	Trinkpckchen
+1F9C4	Knoblauch
+1F9C5	Zwiebel
+1F9C6	Falafel
+1F9C7	Waffel
+1F9C8	Butter
+1F9C9	Mate-Tee
+1F9CA	Eiswrfel
+1F9CB	Bubble Tea
+1F9CD	stehende Person
+1F9CD-200D-2640	stehende Frau
+1F9CD-200D-2642	stehender Mann
+1F9CD-1F3FB	stehende Person helle Hautfarbe
+1F9CD-1F3FB-200D-2640	stehende Frau helle Hautfarbe
+1F9CD-1F3FB-200D-2642	stehender Mann helle Hautfarbe
+1F9CD-1F3FC	stehende Person mittelhelle Hautfarbe
+1F9CD-1F3FC-200D-2640	stehende Frau mittelhelle Hautfarbe
+1F9CD-1F3FC-200D-2642	stehender Mann mittelhelle Hautfarbe
+1F9CD-1F3FD	stehende Person mittlere Hautfarbe
+1F9CD-1F3FD-200D-2640	stehende Frau mittlere Hautfarbe
+1F9CD-1F3FD-200D-2642	stehender Mann mittlere Hautfarbe
+1F9CD-1F3FE	stehende Person mitteldunkle Hautfarbe
+1F9CD-1F3FE-200D-2640	stehende Frau mitteldunkle Hautfarbe
+1F9CD-1F3FE-200D-2642	stehender Mann mitteldunkle Hautfarbe
+1F9CD-1F3FF	stehende Person dunkle Hautfarbe
+1F9CD-1F3FF-200D-2640	stehende Frau dunkle Hautfarbe
+1F9CD-1F3FF-200D-2642	stehender Mann dunkle Hautfarbe
+1F9CE	kniende Person
+1F9CE-200D-2640	kniende Frau
+1F9CE-200D-2642	kniender Mann
+1F9CE-1F3FB	kniende Person helle Hautfarbe
+1F9CE-1F3FB-200D-2640	kniende Frau helle Hautfarbe
+1F9CE-1F3FB-200D-2642	kniender Mann helle Hautfarbe
+1F9CE-1F3FC	kniende Person mittelhelle Hautfarbe
+1F9CE-1F3FC-200D-2640	kniende Frau mittelhelle Hautfarbe
+1F9CE-1F3FC-200D-2642	kniender Mann mittelhelle Hautfarbe
+1F9CE-1F3FD	kniende Person mittlere Hautfarbe
+1F9CE-1F3FD-200D-2640	kniende Frau mittlere Hautfarbe
+1F9CE-1F3FD-200D-2642	kniender Mann mittlere Hautfarbe
+1F9CE-1F3FE	kniende Person mitteldunkle Hautfarbe
+1F9CE-1F3FE-200D-2640	kniende Frau mitteldunkle Hautfarbe
+1F9CE-1F3FE-200D-2642	kniender Mann mitteldunkle Hautfarbe
+1F9CE-1F3FF	kniende Person dunkle Hautfarbe
+1F9CE-1F3FF-200D-2640	kniende Frau dunkle Hautfarbe
+1F9CE-1F3FF-200D-2642	kniender Mann dunkle Hautfarbe
+1F9CF	gehrlose Person
+1F9CF-200D-2640	gehrlose Frau
+1F9CF-200D-2642	gehrloser Mann
+1F9CF-1F3FB	gehrlose Person helle Hautfarbe
+1F9CF-1F3FB-200D-2640	gehrlose Frau helle Hautfarbe
+1F9CF-1F3FB-200D-2642	gehrloser Mann helle Hautfarbe
+1F9CF-1F3FC	gehrlose Person mittelhelle Hautfarbe
+1F9CF-1F3FC-200D-2640	gehrlose Frau mittelhelle Hautfarbe
+1F9CF-1F3FC-200D-2642	gehrloser Mann mittelhelle Hautfarbe
+1F9CF-1F3FD	gehrlose Person mittlere Hautfarbe
+1F9CF-1F3FD-200D-2640	gehrlose Frau mittlere Hautfarbe
+1F9CF-1F3FD-200D-2642	gehrloser Mann mittlere Hautfarbe
+1F9CF-1F3FE	gehrlose Person mitteldunkle Hautfarbe
+1F9CF-1F3FE-200D-2640	gehrlose Frau mitteldunkle Hautfarbe
+1F9CF-1F3FE-200D-2642	gehrloser Mann mitteldunkle Hautfarbe
+1F9CF-1F3FF	gehrlose Person dunkle Hautfarbe
+1F9CF-1F3FF-200D-2640	gehrlose Frau dunkle Hautfarbe
+1F9CF-1F3FF-200D-2642	gehrloser Mann dunkle Hautfarbe
+1F9D0	Gesicht mit Monokel
+1F9D1	Erwachsener
+1F9D1-200D-2695	Arzt/rztin
+1F9D1-200D-2696	Richterin
+1F9D1-200D-2708	Pilotin
+1F9D1-200D-1F33E	Bauer/Buerin
+1F9D1-200D-1F373	Koch/Kchin
+1F9D1-200D-1F37C	stillende Person
+1F9D1-200D-1F384	Weihnachtsperson
+1F9D1-200D-1F393	Studentin
+1F9D1-200D-1F3A4	Sngerin
+1F9D1-200D-1F3A8	Knstlerin
+1F9D1-200D-1F3EB	Lehrerin
+1F9D1-200D-1F3ED	Fabrikarbeiterin
+1F9D1-200D-1F4BB	IT-Experte/IT-Expertin
+1F9D1-200D-1F4BC	Broangestellter
+1F9D1-200D-1F527	Mechanikerin
+1F9D1-200D-1F52C	Wissenschaftlerin
+1F9D1-200D-1F680	Astronautin
+1F9D1-200D-1F692	Feuerwehrmann/-frau
+1F9D1-200D-1F91D-200D-1F9D1	sich an den Hnden haltende Personen
+1F9D1-200D-1F9AF	Person mit Gehstock
+1F9D1-200D-1F9B0	Erwachsener rotes Haar
+1F9D1-200D-1F9B1	Erwachsener lockiges Haar
+1F9D1-200D-1F9B2	Erwachsener Glatze
+1F9D1-200D-1F9B3	Erwachsener weies Haar
+1F9D1-200D-1F9BC	Person in motorisiertem Rollstuhl
+1F9D1-200D-1F9BD	Person in manuellem Rollstuhl
+1F9D1-1F3FB	Erwachsener helle Hautfarbe
+1F9D1-1F3FB-200D-2695	Arzt/rztin helle Hautfarbe
+1F9D1-1F3FB-200D-2696	Richterin helle Hautfarbe
+1F9D1-1F3FB-200D-2708	Pilotin helle Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	sich kssendes Paar Erwachsener Erwachsener helle Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	sich kssendes Paar Erwachsener Erwachsener helle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	sich kssendes Paar Erwachsener Erwachsener helle Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	sich kssendes Paar Erwachsener Erwachsener helle Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	Liebespaar Erwachsener Erwachsener helle Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	Liebespaar Erwachsener Erwachsener helle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	Liebespaar Erwachsener Erwachsener helle Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	Liebespaar Erwachsener Erwachsener helle Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FB-200D-1F33E	Bauer/Buerin helle Hautfarbe
+1F9D1-1F3FB-200D-1F373	Koch/Kchin helle Hautfarbe
+1F9D1-1F3FB-200D-1F37C	stillende Person helle Hautfarbe
+1F9D1-1F3FB-200D-1F384	Weihnachtsperson helle Hautfarbe
+1F9D1-1F3FB-200D-1F393	Studentin helle Hautfarbe
+1F9D1-1F3FB-200D-1F3A4	Sngerin helle Hautfarbe
+1F9D1-1F3FB-200D-1F3A8	Knstlerin helle Hautfarbe
+1F9D1-1F3FB-200D-1F3EB	Lehrerin helle Hautfarbe
+1F9D1-1F3FB-200D-1F3ED	Fabrikarbeiterin helle Hautfarbe
+1F9D1-1F3FB-200D-1F4BB	IT-Experte/IT-Expertin helle Hautfarbe
+1F9D1-1F3FB-200D-1F4BC	Broangestellter helle Hautfarbe
+1F9D1-1F3FB-200D-1F527	Mechanikerin helle Hautfarbe
+1F9D1-1F3FB-200D-1F52C	Wissenschaftlerin helle Hautfarbe
+1F9D1-1F3FB-200D-1F680	Astronautin helle Hautfarbe
+1F9D1-1F3FB-200D-1F692	Feuerwehrmann/-frau helle Hautfarbe
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	sich an den Hnden haltende Personen helle Hautfarbe
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	sich an den Hnden haltende Personen helle Hautfarbe mittelhelle Hautfarbe
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	sich an den Hnden haltende Personen helle Hautfarbe mittlere Hautfarbe
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	sich an den Hnden haltende Personen helle Hautfarbe mitteldunkle Hautfarbe
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	sich an den Hnden haltende Personen helle Hautfarbe dunkle Hautfarbe
+1F9D1-1F3FB-200D-1F9AF	Person mit Gehstock helle Hautfarbe
+1F9D1-1F3FB-200D-1F9B0	Erwachsener helle Hautfarbe rotes Haar
+1F9D1-1F3FB-200D-1F9B1	Erwachsener helle Hautfarbe lockiges Haar
+1F9D1-1F3FB-200D-1F9B2	Erwachsener helle Hautfarbe Glatze
+1F9D1-1F3FB-200D-1F9B3	Erwachsener helle Hautfarbe weies Haar
+1F9D1-1F3FB-200D-1F9BC	Person in motorisiertem Rollstuhl helle Hautfarbe
+1F9D1-1F3FB-200D-1F9BD	Person in manuellem Rollstuhl helle Hautfarbe
+1F9D1-1F3FC	Erwachsener mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-2695	Arzt/rztin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-2696	Richterin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-2708	Pilotin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	sich kssendes Paar Erwachsener Erwachsener mittelhelle Hautfarbe und helle Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	sich kssendes Paar Erwachsener Erwachsener mittelhelle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	sich kssendes Paar Erwachsener Erwachsener mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	sich kssendes Paar Erwachsener Erwachsener mittelhelle Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	Liebespaar Erwachsener Erwachsener mittelhelle Hautfarbe und helle Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	Liebespaar Erwachsener Erwachsener mittelhelle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	Liebespaar Erwachsener Erwachsener mittelhelle Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	Liebespaar Erwachsener Erwachsener mittelhelle Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FC-200D-1F33E	Bauer/Buerin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F373	Koch/Kchin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F37C	stillende Person mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F384	Weihnachtsperson mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F393	Studentin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F3A4	Sngerin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F3A8	Knstlerin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F3EB	Lehrerin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F3ED	Fabrikarbeiterin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F4BB	IT-Experte/IT-Expertin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F4BC	Broangestellter mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F527	Mechanikerin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F52C	Wissenschaftlerin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F680	Astronautin mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F692	Feuerwehrmann/-frau mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	sich an den Hnden haltende Personen mittelhelle Hautfarbe helle Hautfarbe
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	sich an den Hnden haltende Personen mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	sich an den Hnden haltende Personen mittelhelle Hautfarbe mittlere Hautfarbe
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	sich an den Hnden haltende Personen mittelhelle Hautfarbe mitteldunkle Hautfarbe
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	sich an den Hnden haltende Personen mittelhelle Hautfarbe dunkle Hautfarbe
+1F9D1-1F3FC-200D-1F9AF	Person mit Gehstock mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F9B0	Erwachsener mittelhelle Hautfarbe rotes Haar
+1F9D1-1F3FC-200D-1F9B1	Erwachsener mittelhelle Hautfarbe lockiges Haar
+1F9D1-1F3FC-200D-1F9B2	Erwachsener mittelhelle Hautfarbe Glatze
+1F9D1-1F3FC-200D-1F9B3	Erwachsener mittelhelle Hautfarbe weies Haar
+1F9D1-1F3FC-200D-1F9BC	Person in motorisiertem Rollstuhl mittelhelle Hautfarbe
+1F9D1-1F3FC-200D-1F9BD	Person in manuellem Rollstuhl mittelhelle Hautfarbe
+1F9D1-1F3FD	Erwachsener mittlere Hautfarbe
+1F9D1-1F3FD-200D-2695	Arzt/rztin mittlere Hautfarbe
+1F9D1-1F3FD-200D-2696	Richterin mittlere Hautfarbe
+1F9D1-1F3FD-200D-2708	Pilotin mittlere Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	sich kssendes Paar Erwachsener Erwachsener mittlere Hautfarbe und helle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	sich kssendes Paar Erwachsener Erwachsener mittlere Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	sich kssendes Paar Erwachsener Erwachsener mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	sich kssendes Paar Erwachsener Erwachsener mittlere Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	Liebespaar Erwachsener Erwachsener mittlere Hautfarbe und helle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	Liebespaar Erwachsener Erwachsener mittlere Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	Liebespaar Erwachsener Erwachsener mittlere Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	Liebespaar Erwachsener Erwachsener mittlere Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FD-200D-1F33E	Bauer/Buerin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F373	Koch/Kchin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F37C	stillende Person mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F384	Weihnachtsperson mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F393	Studentin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F3A4	Sngerin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F3A8	Knstlerin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F3EB	Lehrerin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F3ED	Fabrikarbeiterin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F4BB	IT-Experte/IT-Expertin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F4BC	Broangestellter mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F527	Mechanikerin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F52C	Wissenschaftlerin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F680	Astronautin mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F692	Feuerwehrmann/-frau mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	sich an den Hnden haltende Personen mittlere Hautfarbe helle Hautfarbe
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	sich an den Hnden haltende Personen mittlere Hautfarbe mittelhelle Hautfarbe
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	sich an den Hnden haltende Personen mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	sich an den Hnden haltende Personen mittlere Hautfarbe mitteldunkle Hautfarbe
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	sich an den Hnden haltende Personen mittlere Hautfarbe dunkle Hautfarbe
+1F9D1-1F3FD-200D-1F9AF	Person mit Gehstock mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F9B0	Erwachsener mittlere Hautfarbe rotes Haar
+1F9D1-1F3FD-200D-1F9B1	Erwachsener mittlere Hautfarbe lockiges Haar
+1F9D1-1F3FD-200D-1F9B2	Erwachsener mittlere Hautfarbe Glatze
+1F9D1-1F3FD-200D-1F9B3	Erwachsener mittlere Hautfarbe weies Haar
+1F9D1-1F3FD-200D-1F9BC	Person in motorisiertem Rollstuhl mittlere Hautfarbe
+1F9D1-1F3FD-200D-1F9BD	Person in manuellem Rollstuhl mittlere Hautfarbe
+1F9D1-1F3FE	Erwachsener mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-2695	Arzt/rztin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-2696	Richterin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-2708	Pilotin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	sich kssendes Paar Erwachsener Erwachsener mitteldunkle Hautfarbe und helle Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	sich kssendes Paar Erwachsener Erwachsener mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	sich kssendes Paar Erwachsener Erwachsener mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	sich kssendes Paar Erwachsener Erwachsener mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	Liebespaar Erwachsener Erwachsener mitteldunkle Hautfarbe und helle Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	Liebespaar Erwachsener Erwachsener mitteldunkle Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	Liebespaar Erwachsener Erwachsener mitteldunkle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	Liebespaar Erwachsener Erwachsener mitteldunkle Hautfarbe und dunkle Hautfarbe
+1F9D1-1F3FE-200D-1F33E	Bauer/Buerin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F373	Koch/Kchin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F37C	stillende Person mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F384	Weihnachtsperson mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F393	Studentin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F3A4	Sngerin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F3A8	Knstlerin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F3EB	Lehrerin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F3ED	Fabrikarbeiterin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F4BB	IT-Experte/IT-Expertin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F4BC	Broangestellter mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F527	Mechanikerin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F52C	Wissenschaftlerin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F680	Astronautin mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F692	Feuerwehrmann/-frau mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	sich an den Hnden haltende Personen mitteldunkle Hautfarbe helle Hautfarbe
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	sich an den Hnden haltende Personen mitteldunkle Hautfarbe mittelhelle Hautfarbe
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	sich an den Hnden haltende Personen mitteldunkle Hautfarbe mittlere Hautfarbe
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	sich an den Hnden haltende Personen mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	sich an den Hnden haltende Personen mitteldunkle Hautfarbe dunkle Hautfarbe
+1F9D1-1F3FE-200D-1F9AF	Person mit Gehstock mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F9B0	Erwachsener mitteldunkle Hautfarbe rotes Haar
+1F9D1-1F3FE-200D-1F9B1	Erwachsener mitteldunkle Hautfarbe lockiges Haar
+1F9D1-1F3FE-200D-1F9B2	Erwachsener mitteldunkle Hautfarbe Glatze
+1F9D1-1F3FE-200D-1F9B3	Erwachsener mitteldunkle Hautfarbe weies Haar
+1F9D1-1F3FE-200D-1F9BC	Person in motorisiertem Rollstuhl mitteldunkle Hautfarbe
+1F9D1-1F3FE-200D-1F9BD	Person in manuellem Rollstuhl mitteldunkle Hautfarbe
+1F9D1-1F3FF	Erwachsener dunkle Hautfarbe
+1F9D1-1F3FF-200D-2695	Arzt/rztin dunkle Hautfarbe
+1F9D1-1F3FF-200D-2696	Richterin dunkle Hautfarbe
+1F9D1-1F3FF-200D-2708	Pilotin dunkle Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	sich kssendes Paar Erwachsener Erwachsener dunkle Hautfarbe und helle Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	sich kssendes Paar Erwachsener Erwachsener dunkle Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	sich kssendes Paar Erwachsener Erwachsener dunkle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	sich kssendes Paar Erwachsener Erwachsener dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	Liebespaar Erwachsener Erwachsener dunkle Hautfarbe und helle Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	Liebespaar Erwachsener Erwachsener dunkle Hautfarbe und mittelhelle Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	Liebespaar Erwachsener Erwachsener dunkle Hautfarbe und mittlere Hautfarbe
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	Liebespaar Erwachsener Erwachsener dunkle Hautfarbe und mitteldunkle Hautfarbe
+1F9D1-1F3FF-200D-1F33E	Bauer/Buerin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F373	Koch/Kchin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F37C	stillende Person dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F384	Weihnachtsperson dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F393	Studentin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F3A4	Sngerin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F3A8	Knstlerin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F3EB	Lehrerin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F3ED	Fabrikarbeiterin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F4BB	IT-Experte/IT-Expertin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F4BC	Broangestellter dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F527	Mechanikerin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F52C	Wissenschaftlerin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F680	Astronautin dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F692	Feuerwehrmann/-frau dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	sich an den Hnden haltende Personen dunkle Hautfarbe helle Hautfarbe
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	sich an den Hnden haltende Personen dunkle Hautfarbe mittelhelle Hautfarbe
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	sich an den Hnden haltende Personen dunkle Hautfarbe mittlere Hautfarbe
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	sich an den Hnden haltende Personen dunkle Hautfarbe mitteldunkle Hautfarbe
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	sich an den Hnden haltende Personen dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F9AF	Person mit Gehstock dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F9B0	Erwachsener dunkle Hautfarbe rotes Haar
+1F9D1-1F3FF-200D-1F9B1	Erwachsener dunkle Hautfarbe lockiges Haar
+1F9D1-1F3FF-200D-1F9B2	Erwachsener dunkle Hautfarbe Glatze
+1F9D1-1F3FF-200D-1F9B3	Erwachsener dunkle Hautfarbe weies Haar
+1F9D1-1F3FF-200D-1F9BC	Person in motorisiertem Rollstuhl dunkle Hautfarbe
+1F9D1-1F3FF-200D-1F9BD	Person in manuellem Rollstuhl dunkle Hautfarbe
+1F9D2	Kind
+1F9D2-1F3FB	Kind helle Hautfarbe
+1F9D2-1F3FC	Kind mittelhelle Hautfarbe
+1F9D2-1F3FD	Kind mittlere Hautfarbe
+1F9D2-1F3FE	Kind mitteldunkle Hautfarbe
+1F9D2-1F3FF	Kind dunkle Hautfarbe
+1F9D3	lterer Erwachsener
+1F9D3-1F3FB	lterer Erwachsener helle Hautfarbe
+1F9D3-1F3FC	lterer Erwachsener mittelhelle Hautfarbe
+1F9D3-1F3FD	lterer Erwachsener mittlere Hautfarbe
+1F9D3-1F3FE	lterer Erwachsener mitteldunkle Hautfarbe
+1F9D3-1F3FF	lterer Erwachsener dunkle Hautfarbe
+1F9D4	Person Bart
+1F9D4-200D-2640	Frau Bart
+1F9D4-200D-2642	Mann Bart
+1F9D4-1F3FB	Person helle Hautfarbe Bart
+1F9D4-1F3FB-200D-2640	Frau helle Hautfarbe Bart
+1F9D4-1F3FB-200D-2642	Mann helle Hautfarbe Bart
+1F9D4-1F3FC	Person mittelhelle Hautfarbe Bart
+1F9D4-1F3FC-200D-2640	Frau mittelhelle Hautfarbe Bart
+1F9D4-1F3FC-200D-2642	Mann mittelhelle Hautfarbe Bart
+1F9D4-1F3FD	Person mittlere Hautfarbe Bart
+1F9D4-1F3FD-200D-2640	Frau mittlere Hautfarbe Bart
+1F9D4-1F3FD-200D-2642	Mann mittlere Hautfarbe Bart
+1F9D4-1F3FE	Person mitteldunkle Hautfarbe Bart
+1F9D4-1F3FE-200D-2640	Frau mitteldunkle Hautfarbe Bart
+1F9D4-1F3FE-200D-2642	Mann mitteldunkle Hautfarbe Bart
+1F9D4-1F3FF	Person dunkle Hautfarbe Bart
+1F9D4-1F3FF-200D-2640	Frau dunkle Hautfarbe Bart
+1F9D4-1F3FF-200D-2642	Mann dunkle Hautfarbe Bart
+1F9D5	Frau mit Kopftuch
+1F9D5-1F3FB	Frau mit Kopftuch helle Hautfarbe
+1F9D5-1F3FC	Frau mit Kopftuch mittelhelle Hautfarbe
+1F9D5-1F3FD	Frau mit Kopftuch mittlere Hautfarbe
+1F9D5-1F3FE	Frau mit Kopftuch mitteldunkle Hautfarbe
+1F9D5-1F3FF	Frau mit Kopftuch dunkle Hautfarbe
+1F9D6	Person in Dampfsauna
+1F9D6-200D-2640	Frau in Dampfsauna
+1F9D6-200D-2642	Mann in Dampfsauna
+1F9D6-1F3FB	Person in Dampfsauna helle Hautfarbe
+1F9D6-1F3FB-200D-2640	Frau in Dampfsauna helle Hautfarbe
+1F9D6-1F3FB-200D-2642	Mann in Dampfsauna helle Hautfarbe
+1F9D6-1F3FC	Person in Dampfsauna mittelhelle Hautfarbe
+1F9D6-1F3FC-200D-2640	Frau in Dampfsauna mittelhelle Hautfarbe
+1F9D6-1F3FC-200D-2642	Mann in Dampfsauna mittelhelle Hautfarbe
+1F9D6-1F3FD	Person in Dampfsauna mittlere Hautfarbe
+1F9D6-1F3FD-200D-2640	Frau in Dampfsauna mittlere Hautfarbe
+1F9D6-1F3FD-200D-2642	Mann in Dampfsauna mittlere Hautfarbe
+1F9D6-1F3FE	Person in Dampfsauna mitteldunkle Hautfarbe
+1F9D6-1F3FE-200D-2640	Frau in Dampfsauna mitteldunkle Hautfarbe
+1F9D6-1F3FE-200D-2642	Mann in Dampfsauna mitteldunkle Hautfarbe
+1F9D6-1F3FF	Person in Dampfsauna dunkle Hautfarbe
+1F9D6-1F3FF-200D-2640	Frau in Dampfsauna dunkle Hautfarbe
+1F9D6-1F3FF-200D-2642	Mann in Dampfsauna dunkle Hautfarbe
+1F9D7	Bergsteigerin
+1F9D7-200D-2640	Bergsteigerin
+1F9D7-200D-2642	Bergsteiger
+1F9D7-1F3FB	Bergsteigerin helle Hautfarbe
+1F9D7-1F3FB-200D-2640	Bergsteigerin helle Hautfarbe
+1F9D7-1F3FB-200D-2642	Bergsteiger helle Hautfarbe
+1F9D7-1F3FC	Bergsteigerin mittelhelle Hautfarbe
+1F9D7-1F3FC-200D-2640	Bergsteigerin mittelhelle Hautfarbe
+1F9D7-1F3FC-200D-2642	Bergsteiger mittelhelle Hautfarbe
+1F9D7-1F3FD	Bergsteigerin mittlere Hautfarbe
+1F9D7-1F3FD-200D-2640	Bergsteigerin mittlere Hautfarbe
+1F9D7-1F3FD-200D-2642	Bergsteiger mittlere Hautfarbe
+1F9D7-1F3FE	Bergsteigerin mitteldunkle Hautfarbe
+1F9D7-1F3FE-200D-2640	Bergsteigerin mitteldunkle Hautfarbe
+1F9D7-1F3FE-200D-2642	Bergsteiger mitteldunkle Hautfarbe
+1F9D7-1F3FF	Bergsteigerin dunkle Hautfarbe
+1F9D7-1F3FF-200D-2640	Bergsteigerin dunkle Hautfarbe
+1F9D7-1F3FF-200D-2642	Bergsteiger dunkle Hautfarbe
+1F9D8	Person im Lotossitz
+1F9D8-200D-2640	Frau im Lotossitz
+1F9D8-200D-2642	Mann im Lotossitz
+1F9D8-1F3FB	Person im Lotossitz helle Hautfarbe
+1F9D8-1F3FB-200D-2640	Frau im Lotossitz helle Hautfarbe
+1F9D8-1F3FB-200D-2642	Mann im Lotossitz helle Hautfarbe
+1F9D8-1F3FC	Person im Lotossitz mittelhelle Hautfarbe
+1F9D8-1F3FC-200D-2640	Frau im Lotossitz mittelhelle Hautfarbe
+1F9D8-1F3FC-200D-2642	Mann im Lotossitz mittelhelle Hautfarbe
+1F9D8-1F3FD	Person im Lotossitz mittlere Hautfarbe
+1F9D8-1F3FD-200D-2640	Frau im Lotossitz mittlere Hautfarbe
+1F9D8-1F3FD-200D-2642	Mann im Lotossitz mittlere Hautfarbe
+1F9D8-1F3FE	Person im Lotossitz mitteldunkle Hautfarbe
+1F9D8-1F3FE-200D-2640	Frau im Lotossitz mitteldunkle Hautfarbe
+1F9D8-1F3FE-200D-2642	Mann im Lotossitz mitteldunkle Hautfarbe
+1F9D8-1F3FF	Person im Lotossitz dunkle Hautfarbe
+1F9D8-1F3FF-200D-2640	Frau im Lotossitz dunkle Hautfarbe
+1F9D8-1F3FF-200D-2642	Mann im Lotossitz dunkle Hautfarbe
+1F9D9	Magierin
+1F9D9-200D-2640	Magierin
+1F9D9-200D-2642	Magier
+1F9D9-1F3FB	Magierin helle Hautfarbe
+1F9D9-1F3FB-200D-2640	Magierin helle Hautfarbe
+1F9D9-1F3FB-200D-2642	Magier helle Hautfarbe
+1F9D9-1F3FC	Magierin mittelhelle Hautfarbe
+1F9D9-1F3FC-200D-2640	Magierin mittelhelle Hautfarbe
+1F9D9-1F3FC-200D-2642	Magier mittelhelle Hautfarbe
+1F9D9-1F3FD	Magierin mittlere Hautfarbe
+1F9D9-1F3FD-200D-2640	Magierin mittlere Hautfarbe
+1F9D9-1F3FD-200D-2642	Magier mittlere Hautfarbe
+1F9D9-1F3FE	Magierin mitteldunkle Hautfarbe
+1F9D9-1F3FE-200D-2640	Magierin mitteldunkle Hautfarbe
+1F9D9-1F3FE-200D-2642	Magier mitteldunkle Hautfarbe
+1F9D9-1F3FF	Magierin dunkle Hautfarbe
+1F9D9-1F3FF-200D-2640	Magierin dunkle Hautfarbe
+1F9D9-1F3FF-200D-2642	Magier dunkle Hautfarbe
+1F9DA	Mrchenfee
+1F9DA-200D-2640	Fee
+1F9DA-200D-2642	mnnliche Fee
+1F9DA-1F3FB	Mrchenfee helle Hautfarbe
+1F9DA-1F3FB-200D-2640	Fee helle Hautfarbe
+1F9DA-1F3FB-200D-2642	mnnliche Fee helle Hautfarbe
+1F9DA-1F3FC	Mrchenfee mittelhelle Hautfarbe
+1F9DA-1F3FC-200D-2640	Fee mittelhelle Hautfarbe
+1F9DA-1F3FC-200D-2642	mnnliche Fee mittelhelle Hautfarbe
+1F9DA-1F3FD	Mrchenfee mittlere Hautfarbe
+1F9DA-1F3FD-200D-2640	Fee mittlere Hautfarbe
+1F9DA-1F3FD-200D-2642	mnnliche Fee mittlere Hautfarbe
+1F9DA-1F3FE	Mrchenfee mitteldunkle Hautfarbe
+1F9DA-1F3FE-200D-2640	Fee mitteldunkle Hautfarbe
+1F9DA-1F3FE-200D-2642	mnnliche Fee mitteldunkle Hautfarbe
+1F9DA-1F3FF	Mrchenfee dunkle Hautfarbe
+1F9DA-1F3FF-200D-2640	Fee dunkle Hautfarbe
+1F9DA-1F3FF-200D-2642	mnnliche Fee dunkle Hautfarbe
+1F9DB	Vampir
+1F9DB-200D-2640	weiblicher Vampir
+1F9DB-200D-2642	mnnlicher Vampir
+1F9DB-1F3FB	Vampir helle Hautfarbe
+1F9DB-1F3FB-200D-2640	weiblicher Vampir helle Hautfarbe
+1F9DB-1F3FB-200D-2642	mnnlicher Vampir helle Hautfarbe
+1F9DB-1F3FC	Vampir mittelhelle Hautfarbe
+1F9DB-1F3FC-200D-2640	weiblicher Vampir mittelhelle Hautfarbe
+1F9DB-1F3FC-200D-2642	mnnlicher Vampir mittelhelle Hautfarbe
+1F9DB-1F3FD	Vampir mittlere Hautfarbe
+1F9DB-1F3FD-200D-2640	weiblicher Vampir mittlere Hautfarbe
+1F9DB-1F3FD-200D-2642	mnnlicher Vampir mittlere Hautfarbe
+1F9DB-1F3FE	Vampir mitteldunkle Hautfarbe
+1F9DB-1F3FE-200D-2640	weiblicher Vampir mitteldunkle Hautfarbe
+1F9DB-1F3FE-200D-2642	mnnlicher Vampir mitteldunkle Hautfarbe
+1F9DB-1F3FF	Vampir dunkle Hautfarbe
+1F9DB-1F3FF-200D-2640	weiblicher Vampir dunkle Hautfarbe
+1F9DB-1F3FF-200D-2642	mnnlicher Vampir dunkle Hautfarbe
+1F9DC	Wassermensch
+1F9DC-200D-2640	Meerjungfrau
+1F9DC-200D-2642	Wassermann
+1F9DC-1F3FB	Wassermensch helle Hautfarbe
+1F9DC-1F3FB-200D-2640	Meerjungfrau helle Hautfarbe
+1F9DC-1F3FB-200D-2642	Wassermann helle Hautfarbe
+1F9DC-1F3FC	Wassermensch mittelhelle Hautfarbe
+1F9DC-1F3FC-200D-2640	Meerjungfrau mittelhelle Hautfarbe
+1F9DC-1F3FC-200D-2642	Wassermann mittelhelle Hautfarbe
+1F9DC-1F3FD	Wassermensch mittlere Hautfarbe
+1F9DC-1F3FD-200D-2640	Meerjungfrau mittlere Hautfarbe
+1F9DC-1F3FD-200D-2642	Wassermann mittlere Hautfarbe
+1F9DC-1F3FE	Wassermensch mitteldunkle Hautfarbe
+1F9DC-1F3FE-200D-2640	Meerjungfrau mitteldunkle Hautfarbe
+1F9DC-1F3FE-200D-2642	Wassermann mitteldunkle Hautfarbe
+1F9DC-1F3FF	Wassermensch dunkle Hautfarbe
+1F9DC-1F3FF-200D-2640	Meerjungfrau dunkle Hautfarbe
+1F9DC-1F3FF-200D-2642	Wassermann dunkle Hautfarbe
+1F9DD	Elfe
+1F9DD-200D-2640	Elfe
+1F9DD-200D-2642	Elf
+1F9DD-1F3FB	Elfe helle Hautfarbe
+1F9DD-1F3FB-200D-2640	Elfe helle Hautfarbe
+1F9DD-1F3FB-200D-2642	Elf helle Hautfarbe
+1F9DD-1F3FC	Elfe mittelhelle Hautfarbe
+1F9DD-1F3FC-200D-2640	Elfe mittelhelle Hautfarbe
+1F9DD-1F3FC-200D-2642	Elf mittelhelle Hautfarbe
+1F9DD-1F3FD	Elfe mittlere Hautfarbe
+1F9DD-1F3FD-200D-2640	Elfe mittlere Hautfarbe
+1F9DD-1F3FD-200D-2642	Elf mittlere Hautfarbe
+1F9DD-1F3FE	Elfe mitteldunkle Hautfarbe
+1F9DD-1F3FE-200D-2640	Elfe mitteldunkle Hautfarbe
+1F9DD-1F3FE-200D-2642	Elf mitteldunkle Hautfarbe
+1F9DD-1F3FF	Elfe dunkle Hautfarbe
+1F9DD-1F3FF-200D-2640	Elfe dunkle Hautfarbe
+1F9DD-1F3FF-200D-2642	Elf dunkle Hautfarbe
+1F9DE	Flaschengeist
+1F9DE-200D-2640	weiblicher Flaschengeist
+1F9DE-200D-2642	mnnlicher Flaschengeist
+1F9DF	Zombie
+1F9DF-200D-2640	weiblicher Zombie
+1F9DF-200D-2642	mnnlicher Zombie
+1F9E0	Gehirn
+1F9E1	oranges Herz
+1F9E2	Baseballmtze
+1F9E3	Schal
+1F9E4	Handschuhe
+1F9E5	Mantel
+1F9E6	Socken
+1F9E7	roter Umschlag
+1F9E8	Feuerwerkskrper
+1F9E9	Puzzleteil
+1F9EA	Reagenzglas
+1F9EB	Petrischale
+1F9EC	DNA
+1F9ED	Kompass
+1F9EE	Abakus
+1F9EF	Feuerlscher
+1F9F0	Werkzeugkasten
+1F9F1	Ziegelstein
+1F9F2	Magnet
+1F9F3	Gepck
+1F9F4	Creme
+1F9F5	Faden
+1F9F6	Wollknuel
+1F9F7	Sicherheitsnadel
+1F9F8	Teddybr
+1F9F9	Besen
+1F9FA	Korb
+1F9FB	Kchenrolle
+1F9FC	Seife
+1F9FD	Schwamm
+1F9FE	Beleg
+1F9FF	Nazar-Amulett
+1FA70	Ballettschuhe
+1FA71	einteiliger Badeanzug
+1FA72	Slip
+1FA73	Shorts
+1FA74	Zehensandale
+1FA78	Blutstropfen
+1FA79	Heftpflaster
+1FA7A	Stethoskop
+1FA80	Jo-Jo
+1FA81	Drachen
+1FA82	Fallschirm
+1FA83	Bumerang
+1FA84	Zauberstab
+1FA85	Piata
+1FA86	Matroschka
+1FA90	Ringplanet
+1FA91	Stuhl
+1FA92	Rasierer
+1FA93	Axt
+1FA94	llampe
+1FA95	Banjo
+1FA96	Militrhelm
+1FA97	Akkordeon
+1FA98	afrikanische Trommel
+1FA99	Mnze
+1FA9A	Handsge
+1FA9B	Schraubenzieher
+1FA9C	Leiter
+1FA9D	Haken
+1FA9E	Spiegel
+1FA9F	Fenster
+1FAA0	Saugglocke
+1FAA1	Nhnadel
+1FAA2	Knoten
+1FAA3	Eimer
+1FAA4	Mausefalle
+1FAA5	Zahnbrste
+1FAA6	Grabstein
+1FAA7	Protestschild
+1FAA8	Felsen
+1FAB0	Fliege
+1FAB1	Wurm
+1FAB2	Kfer
+1FAB3	Kakerlake
+1FAB4	Topfpflanze
+1FAB5	Holz
+1FAB6	Feder
+1FAC0	Herz Organ
+1FAC1	Lunge
+1FAC2	sich umarmende Personen
+1FAD0	Blaubeeren
+1FAD1	Paprika
+1FAD2	Olive
+1FAD3	Fladenbrot
+1FAD4	Tamale
+1FAD5	Fondue
+1FAD6	Teekanne

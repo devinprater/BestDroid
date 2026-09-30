@@ -1,0 +1,4 @@
+[submodule "vendor/openbst"]
+	path = vendor/openbst
+	url = https://github.com/Mudb0y/openbst
+	branch = master

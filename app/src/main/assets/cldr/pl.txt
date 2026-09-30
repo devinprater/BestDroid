@@ -1,0 +1,3658 @@
+23-20E3	klawisz #
+2A-20E3	klawisz *
+30-20E3	klawisz 0
+31-20E3	klawisz 1
+32-20E3	klawisz 2
+33-20E3	klawisz 3
+34-20E3	klawisz 4
+35-20E3	klawisz 5
+36-20E3	klawisz 6
+37-20E3	klawisz 7
+38-20E3	klawisz 8
+39-20E3	klawisz 9
+A1	odwrcony wykrzyknik
+A2	cent
+A3	funt
+A4	nieznana waluta
+A5	jen
+A7	paragraf
+A8	diereza
+A9	znak praw autorskich
+AB	lewy cudzysw ostroktny
+AC	negacja
+AE	zarejestrowany znak towarowy
+B0	stopie
+B1	plus-minus
+B2	dwa w indeksie grnym
+B3	trzy w indeksie grnym
+B4	akcent ostry
+B5	znak mikro
+B6	znak akapitu
+B7	kropka rodkowa
+B9	jeden w indeksie grnym
+BB	prawy cudzysw ostroktny
+BF	odwrcony znak zapytania
+D7	znak iloczynu
+F7	znak ilorazu
+58F	dram armeski
+60B	afgani afgaskie
+60C	przecinek arabski
+61B	rednik arabski
+61F	arabski znak zapytania
+9F3	taka bengalska
+E3F	baht tajski
+17DB	riel kambodaski
+2010	dywiz
+2013	znak ppauzy
+2014	znak pauzy
+2015	pozioma kreska
+2018	lewy apostrof
+2019	prawy apostrof
+201A	prawy apostrof dolny
+201C	lewy cudzysw
+201D	prawy cudzysw
+201E	dolny prawy cudzysw
+2020	znak sztyletu
+2021	znak podwjnego sztyletu
+2022	punktor
+2026	wielokropek
+2027	punkt podziau
+2030	promil
+2032	prim
+2033	bis
+2034	ter
+2038	kareta
+203B	znak odniesienia
+203C	podwjny wykrzyknik
+203D	interrobang
+203E	nadkrelenie
+2042	asteryzm
+2049	wykrzyknik ze znakiem zapytania
+207B	minus w indeksie grnym
+20A1	colon kostarykaski
+20A5	mill
+20A6	naira nigeryjska
+20A7	peseta hiszpaska
+20A9	won
+20AA	nowy szekel izraelski
+20AB	dong wietnamski
+20AC	euro
+20AD	kip laotaski
+20AE	tugrik mongolski
+20B1	peso
+20B2	guarani paragwajskie
+20B4	hrywna ukraiska
+20B5	cedi ghaskie
+20B8	tenge kazachskie
+20B9	rupia indyjska
+20BA	lira turecka
+20BC	manat azerski
+20BD	rubel
+20BE	lari gruziskie
+20BF	bitcoin
+2117	znak praw autorskich do nagra muzycznych
+2122	znak towarowy
+2139	informacja
+2190	strzaka skierowana w lewo
+2191	strzaka skierowana w gr
+2192	strzaka skierowana w prawo
+2193	strzaka skierowana w d
+2194	strzaka w lewo i w prawo
+2195	strzaka w gr i w d
+2196	strzaka w gr w lewo
+2197	strzaka w gr w prawo
+2198	strzaka w d w prawo
+2199	strzaka w d w lewo
+219A	przekrelona strzaka w lewo
+219B	przekrelona strzaka w prawo
+219C	falista strzaka w lewo
+219D	falista strzaka w prawo
+219E	strzaka w lewo z podwjnym grotem
+219F	strzaka w gr z podwjnym grotem
+21A0	strzaka w prawo z podwjnym grotem
+21A1	strzaka w d z podwjnym grotem
+21A2	strzaka w lewo z lotk
+21A3	strzaka w prawo z lotk
+21A4	strzaka w lewo z kreski
+21A5	strzaka w gr z kreski
+21A6	strzaka w prawo z kreski
+21A7	strzaka w d z kreski
+21A8	strzaka w gr i w d z podstaw
+21A9	strzaka zakrcona w lewo
+21AA	strzaka zakrcona w prawo
+21AB	strzaka w lewo z ptl
+21AC	strzaka w prawo z ptl
+21AD	falista strzaka w lewo i prawo
+21AE	przekrelona strzaka w lewo i prawo
+21AF	zygzakowata strzaka w d
+21B0	strzaka w gr z grotem skierowanym w lewo
+21B1	strzaka w gr z grotem skierowanym w prawo
+21B2	strzaka w d z grotem skierowanym w lewo
+21B3	strzaka w d z grotem skierowanym w prawo
+21C5	strzaki skierowane w gr i w d
+21C6	strzaka w lewo nad strzak w prawo
+2206	delta
+2207	nabla
+2208	naley do
+2212	minus
+221A	pierwiastek kwadratowy
+221E	znak nieskoczonoci
+2229	iloczyn zbiorw
+222A	suma zbiorw
+2248	prawie rwne
+2260	rne
+2261	tosamy z
+2264	mniejsze ni lub rwne
+2265	wiksze ni lub rwne
+2282	jest zawarty w
+231A	zegarek
+231B	klepsydra
+2328	klawiatura
+23CF	wysu
+23E9	przycisk szybkiego przewijania do przodu
+23EA	przycisk szybkiego przewijania do tyu
+23EB	przycisk szybko w gr
+23EC	przycisk szybko w d
+23ED	nastpny utwr
+23EE	poprzedni utwr
+23EF	odtwrz lub wstrzymaj
+23F0	budzik
+23F1	stoper
+23F2	minutnik
+23F3	klepsydra z przesypujcym si piaskiem
+23F8	pauza
+23F9	zatrzymaj
+23FA	nagraj
+24C2	koo z liter M
+25AA	may czarny kwadrat
+25AB	may biay kwadrat
+25B2	wypeniony trjkt skierowany w gr
+25B6	odtwrz
+25BC	wypeniony trjkt skierowany w d
+25C0	wstecz
+25CA	romb
+25CB	okrg
+25CF	koo
+25EF	duy okrg
+25FB	redni biay kwadrat
+25FC	redni czarny kwadrat
+25FD	may/redni biay kwadrat
+25FE	may/redni czarny kwadrat
+2600	soce
+2601	chmura
+2602	parasol
+2603	bawanek i patki niegu
+2604	kometa
+260E	telefon
+2611	pole ze znacznikiem wyboru
+2614	parasol z kroplami deszczu
+2615	gorcy napj
+2618	koniczyna
+261D	palec wskazujcy w gr
+261D-1F3FB	palec wskazujcy w gr karnacja jasna
+261D-1F3FC	palec wskazujcy w gr karnacja rednio jasna
+261D-1F3FD	palec wskazujcy w gr karnacja rednia
+261D-1F3FE	palec wskazujcy w gr karnacja rednio ciemna
+261D-1F3FF	palec wskazujcy w gr karnacja ciemna
+2620	czaszka z piszczelami
+2622	promieniowanie radioaktywne
+2623	zagroenie ze strony organizmw ywych
+2626	krzy prawosawny
+262A	gwiazda i pksiyc
+262E	symbol pokoju
+262F	yin-yang
+2638	koo dharmy
+2639	zachmurzona twarz
+263A	umiechnita twarz
+2640	znak kobiety
+2642	znak mczyzny
+2648	Baran
+2649	Byk
+264A	Blinita
+264B	Rak
+264C	Lew
+264D	Panna
+264E	Waga
+264F	Skorpion
+2650	Strzelec
+2651	Kozioroec
+2652	Wodnik
+2653	Ryby
+265F	pionek
+2660	pik
+2663	trefl
+2665	kier
+2666	karo
+2668	gorce rda
+266A	semka
+266D	bemol
+266F	krzyyk
+267B	recykling
+267E	nieskoczono
+267F	symbol wzka inwalidzkiego
+2692	moty
+2693	kotwica
+2694	skrzyowane miecze
+2695	symbol medycyny
+2696	waga szalkowa
+2697	alembik
+2699	koo zbate
+269B	symbol atomu
+269C	lilijka
+26A0	ostrzeenie
+26A1	wysokie napicie
+26A7	symbol transpciowoci
+26AA	biae koo
+26AB	czarne koo
+26B0	trumna
+26B1	urna na prochy
+26BD	pika nona
+26BE	baseball
+26C4	bawan bez niegu
+26C5	soce zza chmury
+26C8	chmura z piorunem i deszczem
+26CE	Wownik
+26CF	kilof
+26D1	kask z krzyykiem
+26D3	acuchy
+26D4	zakaz wjazdu
+26E9	witynia shinto
+26EA	koci
+26F0	gra
+26F1	parasol plaowy wbity w ziemi
+26F2	fontanna
+26F3	flaga w doku
+26F4	prom
+26F5	aglwka
+26F7	narciarz
+26F8	but z yw
+26F9	osoba kozujca pik
+26F9-200D-2640	kobieta kozujca pik
+26F9-200D-2642	mczyzna kozujcy pik
+26F9-1F3FB	osoba kozujca pik karnacja jasna
+26F9-1F3FB-200D-2640	kobieta kozujca pik karnacja jasna
+26F9-1F3FB-200D-2642	mczyzna kozujcy pik karnacja jasna
+26F9-1F3FC	osoba kozujca pik karnacja rednio jasna
+26F9-1F3FC-200D-2640	kobieta kozujca pik karnacja rednio jasna
+26F9-1F3FC-200D-2642	mczyzna kozujcy pik karnacja rednio jasna
+26F9-1F3FD	osoba kozujca pik karnacja rednia
+26F9-1F3FD-200D-2640	kobieta kozujca pik karnacja rednia
+26F9-1F3FD-200D-2642	mczyzna kozujcy pik karnacja rednia
+26F9-1F3FE	osoba kozujca pik karnacja rednio ciemna
+26F9-1F3FE-200D-2640	kobieta kozujca pik karnacja rednio ciemna
+26F9-1F3FE-200D-2642	mczyzna kozujcy pik karnacja rednio ciemna
+26F9-1F3FF	osoba kozujca pik karnacja ciemna
+26F9-1F3FF-200D-2640	kobieta kozujca pik karnacja ciemna
+26F9-1F3FF-200D-2642	mczyzna kozujcy pik karnacja ciemna
+26FA	namiot
+26FD	dystrybutor paliwa
+2702	noyczki
+2705	przycisk ze znacznikiem wyboru
+2708	samolot
+2709	koperta
+270A	wzniesiona pi
+270A-1F3FB	wzniesiona pi karnacja jasna
+270A-1F3FC	wzniesiona pi karnacja rednio jasna
+270A-1F3FD	wzniesiona pi karnacja rednia
+270A-1F3FE	wzniesiona pi karnacja rednio ciemna
+270A-1F3FF	wzniesiona pi karnacja ciemna
+270B	wzniesiona do
+270B-1F3FB	wzniesiona do karnacja jasna
+270B-1F3FC	wzniesiona do karnacja rednio jasna
+270B-1F3FD	wzniesiona do karnacja rednia
+270B-1F3FE	wzniesiona do karnacja rednio ciemna
+270B-1F3FF	wzniesiona do karnacja ciemna
+270C	gest V
+270C-1F3FB	gest V karnacja jasna
+270C-1F3FC	gest V karnacja rednio jasna
+270C-1F3FD	gest V karnacja rednia
+270C-1F3FE	gest V karnacja rednio ciemna
+270C-1F3FF	gest V karnacja ciemna
+270D	piszca do
+270D-1F3FB	piszca do karnacja jasna
+270D-1F3FC	piszca do karnacja rednio jasna
+270D-1F3FD	piszca do karnacja rednia
+270D-1F3FE	piszca do karnacja rednio ciemna
+270D-1F3FF	piszca do karnacja ciemna
+270F	owek
+2712	piro z czarn stalwk
+2714	znacznik wyboru
+2716	znak mnoenia
+271D	krzy aciski
+2721	gwiazda Dawida
+2728	gwiazdki
+2733	gwiazdka omioramienna
+2734	gwiazda omioramienna
+2744	patek niegu
+2747	iskra
+274C	znak krzyyka
+274E	przycisk z krzyykiem
+2753	czerwony znak zapytania
+2754	biay znak zapytania
+2755	biay wykrzyknik
+2757	czerwony wykrzyknik
+2763	wykrzyknik w ksztacie serca
+2764	czerwone serce
+2764-200D-1F525	serce w pomieniach
+2764-200D-1FA79	uleczone serce
+2795	znak plus
+2796	znak minus
+2797	znak dzielenia
+27A1	strzaka w prawo
+27B0	ptla
+27BF	podwjna ptla
+2934	strzaka w prawo skrcajca w gr
+2935	strzaka w prawo skrcajca w d
+2B05	strzaka w lewo
+2B06	strzaka w gr
+2B07	strzaka w d
+2B1B	duy czarny kwadrat
+2B1C	duy biay kwadrat
+2B50	gwiazda
+2B55	gruby czerwony okrg
+3001	przecinek ideograficzny
+3002	kropka ideograficzna
+3008	otwierajcy nawias ostroktny
+3009	zamykajcy nawias ostroktny
+300A	podwjny otwierajcy nawias ostroktny
+300B	podwjny zamykajcy nawias ostroktny
+300C	lewy sufit
+300D	prawa podoga
+300E	gruby lewy sufit
+300F	gruba prawa podoga
+3010	otwierajcy czarny nawias soczewkowy
+3011	zamykajcy czarny nawias soczewkowy
+3014	otwierajcy nawias zaokrglony
+3015	zamykajcy nawias zaokrglony
+3016	otwierajcy gruby nawias soczewkowy
+3017	zamykajcy gruby nawias soczewkowy
+3030	falista kreska
+303D	pocztek partii wokalnej
+30FB	kropka rodkowa katakana
+3297	japoski przycisk gratulacje
+3299	japoski przycisk tajemnica
+1F004	madong czerwony smok
+1F0CF	doker
+1F170	grupa krwi A
+1F171	grupa krwi B
+1F17E	grupa krwi 0
+1F17F	parking
+1F18E	grupa krwi AB
+1F191	przycisk CL
+1F192	przycisk COOL
+1F193	przycisk FREE
+1F194	przycisk ID
+1F195	przycisk NEW
+1F196	przycisk NG
+1F197	przycisk OK
+1F198	przycisk SOS
+1F199	przycisk UP
+1F19A	przycisk VS
+1F1E6-1F1E8	flaga Wyspa Wniebowstpienia
+1F1E6-1F1E9	flaga Andora
+1F1E6-1F1EA	flaga Zjednoczone Emiraty Arabskie
+1F1E6-1F1EB	flaga Afganistan
+1F1E6-1F1EC	flaga Antigua i Barbuda
+1F1E6-1F1EE	flaga Anguilla
+1F1E6-1F1F1	flaga Albania
+1F1E6-1F1F2	flaga Armenia
+1F1E6-1F1F4	flaga Angola
+1F1E6-1F1F6	flaga Antarktyda
+1F1E6-1F1F7	flaga Argentyna
+1F1E6-1F1F8	flaga Samoa Amerykaskie
+1F1E6-1F1F9	flaga Austria
+1F1E6-1F1FA	flaga Australia
+1F1E6-1F1FC	flaga Aruba
+1F1E6-1F1FD	flaga Wyspy Alandzkie
+1F1E6-1F1FF	flaga Azerbejdan
+1F1E7-1F1E6	flaga Bonia i Hercegowina
+1F1E7-1F1E7	flaga Barbados
+1F1E7-1F1E9	flaga Bangladesz
+1F1E7-1F1EA	flaga Belgia
+1F1E7-1F1EB	flaga Burkina Faso
+1F1E7-1F1EC	flaga Bugaria
+1F1E7-1F1ED	flaga Bahrajn
+1F1E7-1F1EE	flaga Burundi
+1F1E7-1F1EF	flaga Benin
+1F1E7-1F1F1	flaga Saint-Barthlemy
+1F1E7-1F1F2	flaga Bermudy
+1F1E7-1F1F3	flaga Brunei
+1F1E7-1F1F4	flaga Boliwia
+1F1E7-1F1F6	flaga Niderlandy Karaibskie
+1F1E7-1F1F7	flaga Brazylia
+1F1E7-1F1F8	flaga Bahamy
+1F1E7-1F1F9	flaga Bhutan
+1F1E7-1F1FB	flaga Wyspa Bouveta
+1F1E7-1F1FC	flaga Botswana
+1F1E7-1F1FE	flaga Biaoru
+1F1E7-1F1FF	flaga Belize
+1F1E8-1F1E6	flaga Kanada
+1F1E8-1F1E8	flaga Wyspy Kokosowe
+1F1E8-1F1E9	flaga Demokratyczna Republika Konga
+1F1E8-1F1EB	flaga Republika rodkowoafrykaska
+1F1E8-1F1EC	flaga Kongo
+1F1E8-1F1ED	flaga Szwajcaria
+1F1E8-1F1EE	flaga Cte dIvoire
+1F1E8-1F1F0	flaga Wyspy Cooka
+1F1E8-1F1F1	flaga Chile
+1F1E8-1F1F2	flaga Kamerun
+1F1E8-1F1F3	flaga Chiny
+1F1E8-1F1F4	flaga Kolumbia
+1F1E8-1F1F5	flaga Wyspa Clippertona
+1F1E8-1F1F7	flaga Kostaryka
+1F1E8-1F1FA	flaga Kuba
+1F1E8-1F1FB	flaga Republika Zielonego Przyldka
+1F1E8-1F1FC	flaga Curaao
+1F1E8-1F1FD	flaga Wyspa Boego Narodzenia
+1F1E8-1F1FE	flaga Cypr
+1F1E8-1F1FF	flaga Czechy
+1F1E9-1F1EA	flaga Niemcy
+1F1E9-1F1EC	flaga Diego Garcia
+1F1E9-1F1EF	flaga Dibuti
+1F1E9-1F1F0	flaga Dania
+1F1E9-1F1F2	flaga Dominika
+1F1E9-1F1F4	flaga Dominikana
+1F1E9-1F1FF	flaga Algieria
+1F1EA-1F1E6	flaga Ceuta i Melilla
+1F1EA-1F1E8	flaga Ekwador
+1F1EA-1F1EA	flaga Estonia
+1F1EA-1F1EC	flaga Egipt
+1F1EA-1F1ED	flaga Sahara Zachodnia
+1F1EA-1F1F7	flaga Erytrea
+1F1EA-1F1F8	flaga Hiszpania
+1F1EA-1F1F9	flaga Etiopia
+1F1EA-1F1FA	flaga Unia Europejska
+1F1EB-1F1EE	flaga Finlandia
+1F1EB-1F1EF	flaga Fidi
+1F1EB-1F1F0	flaga Falklandy
+1F1EB-1F1F2	flaga Mikronezja
+1F1EB-1F1F4	flaga Wyspy Owcze
+1F1EB-1F1F7	flaga Francja
+1F1EC-1F1E6	flaga Gabon
+1F1EC-1F1E7	flaga Wielka Brytania
+1F1EC-1F1E9	flaga Grenada
+1F1EC-1F1EA	flaga Gruzja
+1F1EC-1F1EB	flaga Gujana Francuska
+1F1EC-1F1EC	flaga Guernsey
+1F1EC-1F1ED	flaga Ghana
+1F1EC-1F1EE	flaga Gibraltar
+1F1EC-1F1F1	flaga Grenlandia
+1F1EC-1F1F2	flaga Gambia
+1F1EC-1F1F3	flaga Gwinea
+1F1EC-1F1F5	flaga Gwadelupa
+1F1EC-1F1F6	flaga Gwinea Rwnikowa
+1F1EC-1F1F7	flaga Grecja
+1F1EC-1F1F8	flaga Georgia Poudniowa i Sandwich Poudniowy
+1F1EC-1F1F9	flaga Gwatemala
+1F1EC-1F1FA	flaga Guam
+1F1EC-1F1FC	flaga Gwinea Bissau
+1F1EC-1F1FE	flaga Gujana
+1F1ED-1F1F0	flaga SRA Hongkong Chiny
+1F1ED-1F1F2	flaga Wyspy Heard i McDonalda
+1F1ED-1F1F3	flaga Honduras
+1F1ED-1F1F7	flaga Chorwacja
+1F1ED-1F1F9	flaga Haiti
+1F1ED-1F1FA	flaga Wgry
+1F1EE-1F1E8	flaga Wyspy Kanaryjskie
+1F1EE-1F1E9	flaga Indonezja
+1F1EE-1F1EA	flaga Irlandia
+1F1EE-1F1F1	flaga Izrael
+1F1EE-1F1F2	flaga Wyspa Man
+1F1EE-1F1F3	flaga Indie
+1F1EE-1F1F4	flaga Brytyjskie Terytorium Oceanu Indyjskiego
+1F1EE-1F1F6	flaga Irak
+1F1EE-1F1F7	flaga Iran
+1F1EE-1F1F8	flaga Islandia
+1F1EE-1F1F9	flaga Wochy
+1F1EF-1F1EA	flaga Jersey
+1F1EF-1F1F2	flaga Jamajka
+1F1EF-1F1F4	flaga Jordania
+1F1EF-1F1F5	flaga Japonia
+1F1F0-1F1EA	flaga Kenia
+1F1F0-1F1EC	flaga Kirgistan
+1F1F0-1F1ED	flaga Kamboda
+1F1F0-1F1EE	flaga Kiribati
+1F1F0-1F1F2	flaga Komory
+1F1F0-1F1F3	flaga Saint Kitts i Nevis
+1F1F0-1F1F5	flaga Korea Pnocna
+1F1F0-1F1F7	flaga Korea Poudniowa
+1F1F0-1F1FC	flaga Kuwejt
+1F1F0-1F1FE	flaga Kajmany
+1F1F0-1F1FF	flaga Kazachstan
+1F1F1-1F1E6	flaga Laos
+1F1F1-1F1E7	flaga Liban
+1F1F1-1F1E8	flaga Saint Lucia
+1F1F1-1F1EE	flaga Liechtenstein
+1F1F1-1F1F0	flaga Sri Lanka
+1F1F1-1F1F7	flaga Liberia
+1F1F1-1F1F8	flaga Lesotho
+1F1F1-1F1F9	flaga Litwa
+1F1F1-1F1FA	flaga Luksemburg
+1F1F1-1F1FB	flaga otwa
+1F1F1-1F1FE	flaga Libia
+1F1F2-1F1E6	flaga Maroko
+1F1F2-1F1E8	flaga Monako
+1F1F2-1F1E9	flaga Modawia
+1F1F2-1F1EA	flaga Czarnogra
+1F1F2-1F1EB	flaga Saint-Martin
+1F1F2-1F1EC	flaga Madagaskar
+1F1F2-1F1ED	flaga Wyspy Marshalla
+1F1F2-1F1F0	flaga Macedonia Pnocna
+1F1F2-1F1F1	flaga Mali
+1F1F2-1F1F2	flaga Mjanma Birma
+1F1F2-1F1F3	flaga Mongolia
+1F1F2-1F1F4	flaga SRA Makau Chiny
+1F1F2-1F1F5	flaga Mariany Pnocne
+1F1F2-1F1F6	flaga Martynika
+1F1F2-1F1F7	flaga Mauretania
+1F1F2-1F1F8	flaga Montserrat
+1F1F2-1F1F9	flaga Malta
+1F1F2-1F1FA	flaga Mauritius
+1F1F2-1F1FB	flaga Malediwy
+1F1F2-1F1FC	flaga Malawi
+1F1F2-1F1FD	flaga Meksyk
+1F1F2-1F1FE	flaga Malezja
+1F1F2-1F1FF	flaga Mozambik
+1F1F3-1F1E6	flaga Namibia
+1F1F3-1F1E8	flaga Nowa Kaledonia
+1F1F3-1F1EA	flaga Niger
+1F1F3-1F1EB	flaga Norfolk
+1F1F3-1F1EC	flaga Nigeria
+1F1F3-1F1EE	flaga Nikaragua
+1F1F3-1F1F1	flaga Holandia
+1F1F3-1F1F4	flaga Norwegia
+1F1F3-1F1F5	flaga Nepal
+1F1F3-1F1F7	flaga Nauru
+1F1F3-1F1FA	flaga Niue
+1F1F3-1F1FF	flaga Nowa Zelandia
+1F1F4-1F1F2	flaga Oman
+1F1F5-1F1E6	flaga Panama
+1F1F5-1F1EA	flaga Peru
+1F1F5-1F1EB	flaga Polinezja Francuska
+1F1F5-1F1EC	flaga Papua-Nowa Gwinea
+1F1F5-1F1ED	flaga Filipiny
+1F1F5-1F1F0	flaga Pakistan
+1F1F5-1F1F1	flaga Polska
+1F1F5-1F1F2	flaga Saint-Pierre i Miquelon
+1F1F5-1F1F3	flaga Pitcairn
+1F1F5-1F1F7	flaga Portoryko
+1F1F5-1F1F8	flaga Terytoria Palestyskie
+1F1F5-1F1F9	flaga Portugalia
+1F1F5-1F1FC	flaga Palau
+1F1F5-1F1FE	flaga Paragwaj
+1F1F6-1F1E6	flaga Katar
+1F1F7-1F1EA	flaga Reunion
+1F1F7-1F1F4	flaga Rumunia
+1F1F7-1F1F8	flaga Serbia
+1F1F7-1F1FA	flaga Rosja
+1F1F7-1F1FC	flaga Rwanda
+1F1F8-1F1E6	flaga Arabia Saudyjska
+1F1F8-1F1E7	flaga Wyspy Salomona
+1F1F8-1F1E8	flaga Seszele
+1F1F8-1F1E9	flaga Sudan
+1F1F8-1F1EA	flaga Szwecja
+1F1F8-1F1EC	flaga Singapur
+1F1F8-1F1ED	flaga Wyspa witej Heleny
+1F1F8-1F1EE	flaga Sowenia
+1F1F8-1F1EF	flaga Svalbard i Jan Mayen
+1F1F8-1F1F0	flaga Sowacja
+1F1F8-1F1F1	flaga Sierra Leone
+1F1F8-1F1F2	flaga San Marino
+1F1F8-1F1F3	flaga Senegal
+1F1F8-1F1F4	flaga Somalia
+1F1F8-1F1F7	flaga Surinam
+1F1F8-1F1F8	flaga Sudan Poudniowy
+1F1F8-1F1F9	flaga Wyspy witego Tomasza i Ksica
+1F1F8-1F1FB	flaga Salwador
+1F1F8-1F1FD	flaga Sint Maarten
+1F1F8-1F1FE	flaga Syria
+1F1F8-1F1FF	flaga Eswatini
+1F1F9-1F1E6	flaga Tristan da Cunha
+1F1F9-1F1E8	flaga Turks i Caicos
+1F1F9-1F1E9	flaga Czad
+1F1F9-1F1EB	flaga Francuskie Terytoria Poudniowe i Antarktyczne
+1F1F9-1F1EC	flaga Togo
+1F1F9-1F1ED	flaga Tajlandia
+1F1F9-1F1EF	flaga Tadykistan
+1F1F9-1F1F0	flaga Tokelau
+1F1F9-1F1F1	flaga Timor Wschodni
+1F1F9-1F1F2	flaga Turkmenistan
+1F1F9-1F1F3	flaga Tunezja
+1F1F9-1F1F4	flaga Tonga
+1F1F9-1F1F7	flaga Turcja
+1F1F9-1F1F9	flaga Trynidad i Tobago
+1F1F9-1F1FB	flaga Tuvalu
+1F1F9-1F1FC	flaga Tajwan
+1F1F9-1F1FF	flaga Tanzania
+1F1FA-1F1E6	flaga Ukraina
+1F1FA-1F1EC	flaga Uganda
+1F1FA-1F1F2	flaga Dalekie Wyspy Mniejsze Stanw Zjednoczonych
+1F1FA-1F1F3	flaga Organizacja Narodw Zjednoczonych
+1F1FA-1F1F8	flaga Stany Zjednoczone
+1F1FA-1F1FE	flaga Urugwaj
+1F1FA-1F1FF	flaga Uzbekistan
+1F1FB-1F1E6	flaga Watykan
+1F1FB-1F1E8	flaga Saint Vincent i Grenadyny
+1F1FB-1F1EA	flaga Wenezuela
+1F1FB-1F1EC	flaga Brytyjskie Wyspy Dziewicze
+1F1FB-1F1EE	flaga Wyspy Dziewicze Stanw Zjednoczonych
+1F1FB-1F1F3	flaga Wietnam
+1F1FB-1F1FA	flaga Vanuatu
+1F1FC-1F1EB	flaga Wallis i Futuna
+1F1FC-1F1F8	flaga Samoa
+1F1FD-1F1F0	flaga Kosowo
+1F1FE-1F1EA	flaga Jemen
+1F1FE-1F1F9	flaga Majotta
+1F1FF-1F1E6	flaga Republika Poudniowej Afryki
+1F1FF-1F1F2	flaga Zambia
+1F1FF-1F1FC	flaga Zimbabwe
+1F201	japoski przycisk tutaj
+1F202	sa w jzyku katakana
+1F21A	japoski przycisk bezpatne
+1F22F	japoski przycisk zarezerwowane
+1F232	japoski przycisk zabronione
+1F233	japoski przycisk wolne miejsce
+1F234	japoski przycisk ocena pozytywna
+1F235	japoski przycisk brak wolnych miejsc
+1F236	japoski przycisk patne
+1F237	ideogram ksiyca
+1F238	japoski przycisk wniosek
+1F239	japoski przycisk rabat
+1F23A	japoski przycisk czynne
+1F250	japoski przycisk okazja
+1F251	japoski przycisk dozwolone
+1F300	cyklon
+1F301	zamglenie
+1F302	zoony parasol
+1F303	noc z gwiazdami
+1F304	wschd soca zza gr
+1F305	wschd soca
+1F306	miasto o zmierzchu
+1F307	zachd soca
+1F308	tcza
+1F309	most noc
+1F30A	fala
+1F30B	wulkan
+1F30C	Droga Mleczna
+1F30D	kula ziemska przedstawiajca Europ i Afryk
+1F30E	kula ziemska przedstawiajca Ameryki
+1F30F	kula ziemska przedstawiajca Azj i Australi
+1F310	kula ziemska z poudnikami
+1F311	nw
+1F312	narastajcy pksiyc
+1F313	pierwsza kwadra ksiyca
+1F314	narastajcy ksiyc midzy pierwsz kwadr a peni
+1F315	penia
+1F316	zanikajcy ksiyc midzy peni a ostatni kwadr
+1F317	ostatnia kwadra ksiyca
+1F318	zanikajcy pksiyc
+1F319	pksiyc
+1F31A	nw z twarz
+1F31B	pierwsza kwadra ksiyca z twarz
+1F31C	ostatnia kwadra ksiyca z twarz
+1F31D	penia z twarz
+1F31E	soce z twarz
+1F31F	byszczca gwiazda
+1F320	spadajca gwiazda
+1F321	termometr
+1F324	soce za chmurk
+1F325	soce za chmur
+1F326	soce za chmur i deszcz
+1F327	chmura i deszcz
+1F328	chmura i nieg
+1F329	chmura i piorun
+1F32A	tornado
+1F32B	mga
+1F32C	dmuchajca twarz wiatru
+1F32D	hot dog
+1F32E	taco
+1F32F	burrito
+1F330	kasztan
+1F331	sadzonka
+1F332	wiecznie zielone drzewo
+1F333	drzewo liciaste
+1F334	palma
+1F335	kaktus
+1F336	ostra papryka
+1F337	tulipan
+1F338	kwiat wini
+1F339	ra
+1F33A	kwiat hibiskusa
+1F33B	sonecznik
+1F33C	kwiat
+1F33D	kolba kukurydzy
+1F33E	pdy ryu
+1F33F	zioo
+1F340	czterolistna koniczyna
+1F341	li klonowy
+1F342	spadajce licie
+1F343	licie na wietrze
+1F344	grzyb
+1F345	pomidor
+1F346	bakaan
+1F347	winogrona
+1F348	melon
+1F349	arbuz
+1F34A	mandarynka
+1F34B	cytryna
+1F34C	banan
+1F34D	ananas
+1F34E	czerwone jabko
+1F34F	zielone jabko
+1F350	gruszka
+1F351	brzoskwinia
+1F352	winie
+1F353	truskawka
+1F354	hamburger
+1F355	pizza
+1F356	miso z koci
+1F357	udko kurczaka
+1F358	krakers ryowy
+1F359	kulka ryowa
+1F35A	gotowany ry
+1F35B	ry curry
+1F35C	miska parujcego jedzenia
+1F35D	spaghetti
+1F35E	chleb
+1F35F	frytki
+1F360	pieczony batat
+1F361	dango
+1F362	oden
+1F363	sushi
+1F364	smaona krewetka
+1F365	ciastko rybne
+1F366	lody woskie
+1F367	lody hawajskie
+1F368	lody
+1F369	pczek z dziurk
+1F36A	ciastko
+1F36B	tabliczka czekolady
+1F36C	cukierek
+1F36D	lizak
+1F36E	deser typu krem angielski
+1F36F	garnek miodu
+1F370	tort
+1F371	pudeko bento
+1F372	garnek z jedzeniem
+1F373	gotowanie
+1F374	widelec i n
+1F375	filianka bez uszka
+1F376	sake
+1F377	kieliszek wina
+1F378	kieliszek z koktajlem
+1F379	drink tropikalny
+1F37A	kufel piwa
+1F37B	stukajce si kufle piwa
+1F37C	butelka ze smoczkiem
+1F37D	talerz z noem i widelcem
+1F37E	butelka z wystrzelajcym korkiem
+1F37F	popcorn
+1F380	wstka
+1F381	zapakowany prezent
+1F382	tort urodzinowy
+1F383	dynia na halloween
+1F384	choinka boonarodzeniowa
+1F385	wity Mikoaj
+1F385-1F3FB	wity Mikoaj karnacja jasna
+1F385-1F3FC	wity Mikoaj karnacja rednio jasna
+1F385-1F3FD	wity Mikoaj karnacja rednia
+1F385-1F3FE	wity Mikoaj karnacja rednio ciemna
+1F385-1F3FF	wity Mikoaj karnacja ciemna
+1F386	fajerwerki
+1F387	zimne ognie
+1F388	balon
+1F389	tuba z konfetti
+1F38A	kula z konfetti
+1F38B	drzewko na Tanabata
+1F38C	skrzyowane flagi
+1F38D	japoska dekoracja kadomatsu
+1F38E	japoskie lalki
+1F38F	flaga w ksztacie karpia
+1F390	dzwonek wietrzny
+1F391	ceremonia ogldania ksiyca
+1F392	tornister
+1F393	biret
+1F396	order wojskowy
+1F397	wstka pamici
+1F399	mikrofon studyjny
+1F39A	suwak miksera dwiku
+1F39B	pokrta
+1F39E	tama filmowa
+1F39F	bilety wstpu
+1F3A0	ko z karuzeli
+1F3A1	diabelski myn
+1F3A2	kolejka grska
+1F3A3	wdka
+1F3A4	mikrofon
+1F3A5	kamera filmowa
+1F3A6	kino
+1F3A7	suchawki
+1F3A8	paleta malarska
+1F3A9	cylinder
+1F3AA	namiot cyrkowy
+1F3AB	bilet
+1F3AC	klaps
+1F3AD	maski teatralne
+1F3AE	gra wideo
+1F3AF	strza w 10
+1F3B0	automat do gier
+1F3B1	bila 8
+1F3B2	kostka do gry
+1F3B3	krgle
+1F3B4	gra karciana hanafuda
+1F3B5	nuta
+1F3B6	nuty
+1F3B7	saksofon
+1F3B8	gitara
+1F3B9	klawisze
+1F3BA	trbka
+1F3BB	skrzypce
+1F3BC	partytura
+1F3BD	koszulka do biegania
+1F3BE	tenis
+1F3BF	narty
+1F3C0	koszykwka
+1F3C1	flaga w szachownic
+1F3C2	snowboardzista
+1F3C2-1F3FB	snowboardzista karnacja jasna
+1F3C2-1F3FC	snowboardzista karnacja rednio jasna
+1F3C2-1F3FD	snowboardzista karnacja rednia
+1F3C2-1F3FE	snowboardzista karnacja rednio ciemna
+1F3C2-1F3FF	snowboardzista karnacja ciemna
+1F3C3	biegnca osoba
+1F3C3-200D-2640	biegnca kobieta
+1F3C3-200D-2642	biegncy mczyzna
+1F3C3-1F3FB	biegnca osoba karnacja jasna
+1F3C3-1F3FB-200D-2640	biegnca kobieta karnacja jasna
+1F3C3-1F3FB-200D-2642	biegncy mczyzna karnacja jasna
+1F3C3-1F3FC	biegnca osoba karnacja rednio jasna
+1F3C3-1F3FC-200D-2640	biegnca kobieta karnacja rednio jasna
+1F3C3-1F3FC-200D-2642	biegncy mczyzna karnacja rednio jasna
+1F3C3-1F3FD	biegnca osoba karnacja rednia
+1F3C3-1F3FD-200D-2640	biegnca kobieta karnacja rednia
+1F3C3-1F3FD-200D-2642	biegncy mczyzna karnacja rednia
+1F3C3-1F3FE	biegnca osoba karnacja rednio ciemna
+1F3C3-1F3FE-200D-2640	biegnca kobieta karnacja rednio ciemna
+1F3C3-1F3FE-200D-2642	biegncy mczyzna karnacja rednio ciemna
+1F3C3-1F3FF	biegnca osoba karnacja ciemna
+1F3C3-1F3FF-200D-2640	biegnca kobieta karnacja ciemna
+1F3C3-1F3FF-200D-2642	biegncy mczyzna karnacja ciemna
+1F3C4	surfujca osoba
+1F3C4-200D-2640	surfujca kobieta
+1F3C4-200D-2642	surfujcy mczyzna
+1F3C4-1F3FB	surfujca osoba karnacja jasna
+1F3C4-1F3FB-200D-2640	surfujca kobieta karnacja jasna
+1F3C4-1F3FB-200D-2642	surfujcy mczyzna karnacja jasna
+1F3C4-1F3FC	surfujca osoba karnacja rednio jasna
+1F3C4-1F3FC-200D-2640	surfujca kobieta karnacja rednio jasna
+1F3C4-1F3FC-200D-2642	surfujcy mczyzna karnacja rednio jasna
+1F3C4-1F3FD	surfujca osoba karnacja rednia
+1F3C4-1F3FD-200D-2640	surfujca kobieta karnacja rednia
+1F3C4-1F3FD-200D-2642	surfujcy mczyzna karnacja rednia
+1F3C4-1F3FE	surfujca osoba karnacja rednio ciemna
+1F3C4-1F3FE-200D-2640	surfujca kobieta karnacja rednio ciemna
+1F3C4-1F3FE-200D-2642	surfujcy mczyzna karnacja rednio ciemna
+1F3C4-1F3FF	surfujca osoba karnacja ciemna
+1F3C4-1F3FF-200D-2640	surfujca kobieta karnacja ciemna
+1F3C4-1F3FF-200D-2642	surfujcy mczyzna karnacja ciemna
+1F3C5	medal sportowy
+1F3C6	puchar
+1F3C7	wycigi konne
+1F3C7-1F3FB	wycigi konne karnacja jasna
+1F3C7-1F3FC	wycigi konne karnacja rednio jasna
+1F3C7-1F3FD	wycigi konne karnacja rednia
+1F3C7-1F3FE	wycigi konne karnacja rednio ciemna
+1F3C7-1F3FF	wycigi konne karnacja ciemna
+1F3C8	futbol amerykaski
+1F3C9	pika do rugby
+1F3CA	pywajca osoba
+1F3CA-200D-2640	pywajca kobieta
+1F3CA-200D-2642	pywajcy mczyzna
+1F3CA-1F3FB	pywajca osoba karnacja jasna
+1F3CA-1F3FB-200D-2640	pywajca kobieta karnacja jasna
+1F3CA-1F3FB-200D-2642	pywajcy mczyzna karnacja jasna
+1F3CA-1F3FC	pywajca osoba karnacja rednio jasna
+1F3CA-1F3FC-200D-2640	pywajca kobieta karnacja rednio jasna
+1F3CA-1F3FC-200D-2642	pywajcy mczyzna karnacja rednio jasna
+1F3CA-1F3FD	pywajca osoba karnacja rednia
+1F3CA-1F3FD-200D-2640	pywajca kobieta karnacja rednia
+1F3CA-1F3FD-200D-2642	pywajcy mczyzna karnacja rednia
+1F3CA-1F3FE	pywajca osoba karnacja rednio ciemna
+1F3CA-1F3FE-200D-2640	pywajca kobieta karnacja rednio ciemna
+1F3CA-1F3FE-200D-2642	pywajcy mczyzna karnacja rednio ciemna
+1F3CA-1F3FF	pywajca osoba karnacja ciemna
+1F3CA-1F3FF-200D-2640	pywajca kobieta karnacja ciemna
+1F3CA-1F3FF-200D-2642	pywajcy mczyzna karnacja ciemna
+1F3CB	osoba podnoszca ciary
+1F3CB-200D-2640	kobieta podnoszca ciary
+1F3CB-200D-2642	mczyzna podnoszcy ciary
+1F3CB-1F3FB	osoba podnoszca ciary karnacja jasna
+1F3CB-1F3FB-200D-2640	kobieta podnoszca ciary karnacja jasna
+1F3CB-1F3FB-200D-2642	mczyzna podnoszcy ciary karnacja jasna
+1F3CB-1F3FC	osoba podnoszca ciary karnacja rednio jasna
+1F3CB-1F3FC-200D-2640	kobieta podnoszca ciary karnacja rednio jasna
+1F3CB-1F3FC-200D-2642	mczyzna podnoszcy ciary karnacja rednio jasna
+1F3CB-1F3FD	osoba podnoszca ciary karnacja rednia
+1F3CB-1F3FD-200D-2640	kobieta podnoszca ciary karnacja rednia
+1F3CB-1F3FD-200D-2642	mczyzna podnoszcy ciary karnacja rednia
+1F3CB-1F3FE	osoba podnoszca ciary karnacja rednio ciemna
+1F3CB-1F3FE-200D-2640	kobieta podnoszca ciary karnacja rednio ciemna
+1F3CB-1F3FE-200D-2642	mczyzna podnoszcy ciary karnacja rednio ciemna
+1F3CB-1F3FF	osoba podnoszca ciary karnacja ciemna
+1F3CB-1F3FF-200D-2640	kobieta podnoszca ciary karnacja ciemna
+1F3CB-1F3FF-200D-2642	mczyzna podnoszcy ciary karnacja ciemna
+1F3CC	osoba grajca w golfa
+1F3CC-200D-2640	kobieta grajca w golfa
+1F3CC-200D-2642	mczyzna grajcy w golfa
+1F3CC-1F3FB	osoba grajca w golfa karnacja jasna
+1F3CC-1F3FB-200D-2640	kobieta grajca w golfa karnacja jasna
+1F3CC-1F3FB-200D-2642	mczyzna grajcy w golfa karnacja jasna
+1F3CC-1F3FC	osoba grajca w golfa karnacja rednio jasna
+1F3CC-1F3FC-200D-2640	kobieta grajca w golfa karnacja rednio jasna
+1F3CC-1F3FC-200D-2642	mczyzna grajcy w golfa karnacja rednio jasna
+1F3CC-1F3FD	osoba grajca w golfa karnacja rednia
+1F3CC-1F3FD-200D-2640	kobieta grajca w golfa karnacja rednia
+1F3CC-1F3FD-200D-2642	mczyzna grajcy w golfa karnacja rednia
+1F3CC-1F3FE	osoba grajca w golfa karnacja rednio ciemna
+1F3CC-1F3FE-200D-2640	kobieta grajca w golfa karnacja rednio ciemna
+1F3CC-1F3FE-200D-2642	mczyzna grajcy w golfa karnacja rednio ciemna
+1F3CC-1F3FF	osoba grajca w golfa karnacja ciemna
+1F3CC-1F3FF-200D-2640	kobieta grajca w golfa karnacja ciemna
+1F3CC-1F3FF-200D-2642	mczyzna grajcy w golfa karnacja ciemna
+1F3CD	motocykl
+1F3CE	samochd wycigowy
+1F3CF	krykiet
+1F3D0	siatkwka
+1F3D1	hokej na trawie
+1F3D2	hokej na lodzie
+1F3D3	tenis stoowy
+1F3D4	gra z czap lodow
+1F3D5	kemping
+1F3D6	parasol na play
+1F3D7	dwig budowlany
+1F3D8	domki
+1F3D9	drapacze chmur
+1F3DA	stary dom
+1F3DB	klasyczna budowla
+1F3DC	pustynia
+1F3DD	bezludna wyspa
+1F3DE	park narodowy
+1F3DF	stadion
+1F3E0	dom
+1F3E1	dom z ogrodem
+1F3E2	biurowiec
+1F3E3	japoska poczta
+1F3E4	urzd pocztowy
+1F3E5	szpital
+1F3E6	bank
+1F3E7	znak bankomatu
+1F3E8	hotel
+1F3E9	hotel mioci
+1F3EA	sklep caodobowy
+1F3EB	szkoa
+1F3EC	dom towarowy
+1F3ED	fabryka
+1F3EE	czerwony lampion
+1F3EF	japoski zamek
+1F3F0	zamek
+1F3F3	biaa flaga
+1F3F3-200D-26A7	flaga osb transpciowych
+1F3F3-200D-1F308	tczowa flaga
+1F3F4	czarna flaga
+1F3F4-200D-2620	piracka flaga
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	flaga Anglia
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	flaga Szkocja
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	flaga Walia
+1F3F5	rozeta
+1F3F7	przywieszka do kluczy
+1F3F8	badminton
+1F3F9	uk i strzaa
+1F3FA	amfora
+1F3FB	karnacja jasna
+1F3FC	karnacja rednio jasna
+1F3FD	karnacja rednia
+1F3FE	karnacja rednio ciemna
+1F3FF	karnacja ciemna
+1F400	szczur
+1F401	mysz
+1F402	w
+1F403	w domowy
+1F404	krowa
+1F405	tygrys
+1F406	lampart
+1F407	krlik
+1F408	kot
+1F408-200D-2B1B	czarny kot
+1F409	smok
+1F40A	krokodyl
+1F40B	wieloryb
+1F40C	limak
+1F40D	w
+1F40E	ko
+1F40F	biay baran
+1F410	koza
+1F411	owca
+1F412	mapa
+1F413	kogut
+1F414	kura
+1F415	pies
+1F415-200D-1F9BA	pies pomocnik
+1F416	winia
+1F417	dzik
+1F418	so
+1F419	omiornica
+1F41A	muszla spiralna
+1F41B	gsienica
+1F41C	mrwka
+1F41D	pszczoa
+1F41E	biedronka
+1F41F	ryba
+1F420	ryba tropikalna
+1F421	ryba rozdymka
+1F422	w
+1F423	wykluwajce si kurcztko
+1F424	kurcztko
+1F425	kurcztko od przodu
+1F426	ptak
+1F427	pingwin
+1F428	koala
+1F429	pudel
+1F42A	wielbd
+1F42B	wielbd dwugarbny
+1F42C	delfin
+1F42D	gowa myszy
+1F42E	gowa krowy
+1F42F	gowa tygrysa
+1F430	gowa krlika
+1F431	gowa kota
+1F432	gowa smoka
+1F433	wieloryb tryskajcy wod
+1F434	gowa konia
+1F435	gowa mapy
+1F436	gowa psa
+1F437	gowa wini
+1F438	gowa aby
+1F439	gowa chomika
+1F43A	gowa wilka
+1F43B	gowa niedwiedzia
+1F43B-200D-2744	niedwied polarny
+1F43C	gowa pandy
+1F43D	ryj wini
+1F43E	lady ap
+1F43F	prgowiec
+1F440	oczy
+1F441	oko
+1F441-200D-1F5E8	oko w dymku
+1F442	ucho
+1F442-1F3FB	ucho karnacja jasna
+1F442-1F3FC	ucho karnacja rednio jasna
+1F442-1F3FD	ucho karnacja rednia
+1F442-1F3FE	ucho karnacja rednio ciemna
+1F442-1F3FF	ucho karnacja ciemna
+1F443	nos
+1F443-1F3FB	nos karnacja jasna
+1F443-1F3FC	nos karnacja rednio jasna
+1F443-1F3FD	nos karnacja rednia
+1F443-1F3FE	nos karnacja rednio ciemna
+1F443-1F3FF	nos karnacja ciemna
+1F444	usta
+1F445	jzyk
+1F446	do z palcem wskazujcym w gr
+1F446-1F3FB	do z palcem wskazujcym w gr karnacja jasna
+1F446-1F3FC	do z palcem wskazujcym w gr karnacja rednio jasna
+1F446-1F3FD	do z palcem wskazujcym w gr karnacja rednia
+1F446-1F3FE	do z palcem wskazujcym w gr karnacja rednio ciemna
+1F446-1F3FF	do z palcem wskazujcym w gr karnacja ciemna
+1F447	do z palcem wskazujcym w d
+1F447-1F3FB	do z palcem wskazujcym w d karnacja jasna
+1F447-1F3FC	do z palcem wskazujcym w d karnacja rednio jasna
+1F447-1F3FD	do z palcem wskazujcym w d karnacja rednia
+1F447-1F3FE	do z palcem wskazujcym w d karnacja rednio ciemna
+1F447-1F3FF	do z palcem wskazujcym w d karnacja ciemna
+1F448	palec w lewo
+1F448-1F3FB	palec w lewo karnacja jasna
+1F448-1F3FC	palec w lewo karnacja rednio jasna
+1F448-1F3FD	palec w lewo karnacja rednia
+1F448-1F3FE	palec w lewo karnacja rednio ciemna
+1F448-1F3FF	palec w lewo karnacja ciemna
+1F449	do z palcem wskazujcym w prawo
+1F449-1F3FB	do z palcem wskazujcym w prawo karnacja jasna
+1F449-1F3FC	do z palcem wskazujcym w prawo karnacja rednio jasna
+1F449-1F3FD	do z palcem wskazujcym w prawo karnacja rednia
+1F449-1F3FE	do z palcem wskazujcym w prawo karnacja rednio ciemna
+1F449-1F3FF	do z palcem wskazujcym w prawo karnacja ciemna
+1F44A	pi od przodu
+1F44A-1F3FB	pi od przodu karnacja jasna
+1F44A-1F3FC	pi od przodu karnacja rednio jasna
+1F44A-1F3FD	pi od przodu karnacja rednia
+1F44A-1F3FE	pi od przodu karnacja rednio ciemna
+1F44A-1F3FF	pi od przodu karnacja ciemna
+1F44B	machajca do
+1F44B-1F3FB	machajca do karnacja jasna
+1F44B-1F3FC	machajca do karnacja rednio jasna
+1F44B-1F3FD	machajca do karnacja rednia
+1F44B-1F3FE	machajca do karnacja rednio ciemna
+1F44B-1F3FF	machajca do karnacja ciemna
+1F44C	do z gestem OK
+1F44C-1F3FB	do z gestem OK karnacja jasna
+1F44C-1F3FC	do z gestem OK karnacja rednio jasna
+1F44C-1F3FD	do z gestem OK karnacja rednia
+1F44C-1F3FE	do z gestem OK karnacja rednio ciemna
+1F44C-1F3FF	do z gestem OK karnacja ciemna
+1F44D	kciuk w gr
+1F44D-1F3FB	kciuk w gr karnacja jasna
+1F44D-1F3FC	kciuk w gr karnacja rednio jasna
+1F44D-1F3FD	kciuk w gr karnacja rednia
+1F44D-1F3FE	kciuk w gr karnacja rednio ciemna
+1F44D-1F3FF	kciuk w gr karnacja ciemna
+1F44E	kciuk w d
+1F44E-1F3FB	kciuk w d karnacja jasna
+1F44E-1F3FC	kciuk w d karnacja rednio jasna
+1F44E-1F3FD	kciuk w d karnacja rednia
+1F44E-1F3FE	kciuk w d karnacja rednio ciemna
+1F44E-1F3FF	kciuk w d karnacja ciemna
+1F44F	klaskanie
+1F44F-1F3FB	klaskanie karnacja jasna
+1F44F-1F3FC	klaskanie karnacja rednio jasna
+1F44F-1F3FD	klaskanie karnacja rednia
+1F44F-1F3FE	klaskanie karnacja rednio ciemna
+1F44F-1F3FF	klaskanie karnacja ciemna
+1F450	otwarte donie
+1F450-1F3FB	otwarte donie karnacja jasna
+1F450-1F3FC	otwarte donie karnacja rednio jasna
+1F450-1F3FD	otwarte donie karnacja rednia
+1F450-1F3FE	otwarte donie karnacja rednio ciemna
+1F450-1F3FF	otwarte donie karnacja ciemna
+1F451	korona
+1F452	kapelusz damski
+1F453	okulary
+1F454	krawat
+1F455	koszulka
+1F456	dinsy
+1F457	sukienka
+1F458	kimono
+1F459	bikini
+1F45A	ubranie damskie
+1F45B	portmonetka
+1F45C	torebka
+1F45D	saszetka
+1F45E	but mski
+1F45F	but do biegania
+1F460	but na wysokim obcasie
+1F461	sanda damski
+1F462	kozak damski
+1F463	lady stp
+1F464	sylwetka popiersia
+1F465	sylwetki popiersi
+1F466	chopiec
+1F466-1F3FB	chopiec karnacja jasna
+1F466-1F3FC	chopiec karnacja rednio jasna
+1F466-1F3FD	chopiec karnacja rednia
+1F466-1F3FE	chopiec karnacja rednio ciemna
+1F466-1F3FF	chopiec karnacja ciemna
+1F467	dziewczynka
+1F467-1F3FB	dziewczynka karnacja jasna
+1F467-1F3FC	dziewczynka karnacja rednio jasna
+1F467-1F3FD	dziewczynka karnacja rednia
+1F467-1F3FE	dziewczynka karnacja rednio ciemna
+1F467-1F3FF	dziewczynka karnacja ciemna
+1F468	mczyzna
+1F468-200D-2695	lekarz
+1F468-200D-2696	mczyzna sdzia
+1F468-200D-2708	mczyzna pilot
+1F468-200D-2764-200D-1F468	para z sercem mczyzna i mczyzna
+1F468-200D-2764-200D-1F48B-200D-1F468	pocaunek mczyzna i mczyzna
+1F468-200D-1F33E	mczyzna rolnik
+1F468-200D-1F373	mczyzna kucharz
+1F468-200D-1F37C	mczyzna karmicy niemowl
+1F468-200D-1F393	mczyzna student
+1F468-200D-1F3A4	mczyzna piosenkarz
+1F468-200D-1F3A8	mczyzna artysta
+1F468-200D-1F3EB	mczyzna nauczyciel
+1F468-200D-1F3ED	mczyzna pracownik fabryki
+1F468-200D-1F466	rodzina mczyzna i chopiec
+1F468-200D-1F466-200D-1F466	rodzina mczyzna chopiec i chopiec
+1F468-200D-1F467	rodzina mczyzna i dziewczynka
+1F468-200D-1F467-200D-1F466	rodzina mczyzna dziewczynka i chopiec
+1F468-200D-1F467-200D-1F467	rodzina mczyzna dziewczynka i dziewczynka
+1F468-200D-1F468-200D-1F466	rodzina mczyzna mczyzna i chopiec
+1F468-200D-1F468-200D-1F466-200D-1F466	rodzina mczyzna mczyzna chopiec i chopiec
+1F468-200D-1F468-200D-1F467	rodzina mczyzna mczyzna i dziewczynka
+1F468-200D-1F468-200D-1F467-200D-1F466	rodzina mczyzna mczyzna dziewczynka i chopiec
+1F468-200D-1F468-200D-1F467-200D-1F467	rodzina mczyzna mczyzna dziewczynka i dziewczynka
+1F468-200D-1F469-200D-1F466	rodzina mczyzna kobieta i chopiec
+1F468-200D-1F469-200D-1F466-200D-1F466	rodzina mczyzna kobieta chopiec i chopiec
+1F468-200D-1F469-200D-1F467	rodzina mczyzna kobieta i dziewczynka
+1F468-200D-1F469-200D-1F467-200D-1F466	rodzina mczyzna kobieta dziewczynka i chopiec
+1F468-200D-1F469-200D-1F467-200D-1F467	rodzina mczyzna kobieta dziewczynka i dziewczynka
+1F468-200D-1F4BB	mczyzna technolog
+1F468-200D-1F4BC	mczyzna pracownik biurowy
+1F468-200D-1F527	mczyzna elektryk
+1F468-200D-1F52C	mczyzna naukowiec
+1F468-200D-1F680	mczyzna astronauta
+1F468-200D-1F692	mczyzna straak
+1F468-200D-1F9AF	mczyzna z bia lask
+1F468-200D-1F9B0	mczyzna rude wosy
+1F468-200D-1F9B1	mczyzna krcone wosy
+1F468-200D-1F9B2	mczyzna ysy
+1F468-200D-1F9B3	mczyzna biae wosy
+1F468-200D-1F9BC	mczyzna na elektrycznym wzku inwalidzkim
+1F468-200D-1F9BD	mczyzna na wzku inwalidzkim
+1F468-1F3FB	mczyzna karnacja jasna
+1F468-1F3FB-200D-2695	lekarz karnacja jasna
+1F468-1F3FB-200D-2696	mczyzna sdzia karnacja jasna
+1F468-1F3FB-200D-2708	mczyzna pilot karnacja jasna
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	para z sercem mczyzna mczyzna i karnacja jasna
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	para z sercem mczyzna mczyzna karnacja jasna i karnacja rednio jasna
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	para z sercem mczyzna mczyzna karnacja jasna i karnacja rednia
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	para z sercem mczyzna mczyzna karnacja jasna i karnacja rednio ciemna
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	para z sercem mczyzna mczyzna karnacja jasna i karnacja ciemna
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek mczyzna mczyzna i karnacja jasna
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek mczyzna mczyzna karnacja jasna i karnacja rednio jasna
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek mczyzna mczyzna karnacja jasna i karnacja rednia
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek mczyzna mczyzna karnacja jasna i karnacja rednio ciemna
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek mczyzna mczyzna karnacja jasna i karnacja ciemna
+1F468-1F3FB-200D-1F33E	mczyzna rolnik karnacja jasna
+1F468-1F3FB-200D-1F373	mczyzna kucharz karnacja jasna
+1F468-1F3FB-200D-1F37C	mczyzna karmicy niemowl karnacja jasna
+1F468-1F3FB-200D-1F393	mczyzna student karnacja jasna
+1F468-1F3FB-200D-1F3A4	mczyzna piosenkarz karnacja jasna
+1F468-1F3FB-200D-1F3A8	mczyzna artysta karnacja jasna
+1F468-1F3FB-200D-1F3EB	mczyzna nauczyciel karnacja jasna
+1F468-1F3FB-200D-1F3ED	mczyzna pracownik fabryki karnacja jasna
+1F468-1F3FB-200D-1F4BB	mczyzna technolog karnacja jasna
+1F468-1F3FB-200D-1F4BC	mczyzna pracownik biurowy karnacja jasna
+1F468-1F3FB-200D-1F527	mczyzna elektryk karnacja jasna
+1F468-1F3FB-200D-1F52C	mczyzna naukowiec karnacja jasna
+1F468-1F3FB-200D-1F680	mczyzna astronauta karnacja jasna
+1F468-1F3FB-200D-1F692	mczyzna straak karnacja jasna
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	dwch mczyzn trzymajcych si za rce karnacja jasna i karnacja rednio jasna
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	dwch mczyzn trzymajcych si za rce karnacja jasna i karnacja rednia
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	dwch mczyzn trzymajcych si za rce karnacja jasna i karnacja rednio ciemna
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	dwch mczyzn trzymajcych si za rce karnacja jasna i karnacja ciemna
+1F468-1F3FB-200D-1F9AF	mczyzna z bia lask karnacja jasna
+1F468-1F3FB-200D-1F9B0	mczyzna karnacja jasna i rude wosy
+1F468-1F3FB-200D-1F9B1	mczyzna karnacja jasna i krcone wosy
+1F468-1F3FB-200D-1F9B2	mczyzna karnacja jasna i ysy
+1F468-1F3FB-200D-1F9B3	mczyzna karnacja jasna i biae wosy
+1F468-1F3FB-200D-1F9BC	mczyzna na elektrycznym wzku inwalidzkim karnacja jasna
+1F468-1F3FB-200D-1F9BD	mczyzna na wzku inwalidzkim karnacja jasna
+1F468-1F3FC	mczyzna karnacja rednio jasna
+1F468-1F3FC-200D-2695	lekarz karnacja rednio jasna
+1F468-1F3FC-200D-2696	mczyzna sdzia karnacja rednio jasna
+1F468-1F3FC-200D-2708	mczyzna pilot karnacja rednio jasna
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	para z sercem mczyzna mczyzna karnacja rednio jasna i karnacja jasna
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	para z sercem mczyzna mczyzna i karnacja rednio jasna
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	para z sercem mczyzna mczyzna karnacja rednio jasna i karnacja rednia
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	para z sercem mczyzna mczyzna karnacja rednio jasna i karnacja rednio ciemna
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	para z sercem mczyzna mczyzna karnacja rednio jasna i karnacja ciemna
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek mczyzna mczyzna karnacja rednio jasna i karnacja jasna
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek mczyzna mczyzna i karnacja rednio jasna
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek mczyzna mczyzna karnacja rednio jasna i karnacja rednia
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek mczyzna mczyzna karnacja rednio jasna i karnacja rednio ciemna
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek mczyzna mczyzna karnacja rednio jasna i karnacja ciemna
+1F468-1F3FC-200D-1F33E	mczyzna rolnik karnacja rednio jasna
+1F468-1F3FC-200D-1F373	mczyzna kucharz karnacja rednio jasna
+1F468-1F3FC-200D-1F37C	mczyzna karmicy niemowl karnacja rednio jasna
+1F468-1F3FC-200D-1F393	mczyzna student karnacja rednio jasna
+1F468-1F3FC-200D-1F3A4	mczyzna piosenkarz karnacja rednio jasna
+1F468-1F3FC-200D-1F3A8	mczyzna artysta karnacja rednio jasna
+1F468-1F3FC-200D-1F3EB	mczyzna nauczyciel karnacja rednio jasna
+1F468-1F3FC-200D-1F3ED	mczyzna pracownik fabryki karnacja rednio jasna
+1F468-1F3FC-200D-1F4BB	mczyzna technolog karnacja rednio jasna
+1F468-1F3FC-200D-1F4BC	mczyzna pracownik biurowy karnacja rednio jasna
+1F468-1F3FC-200D-1F527	mczyzna elektryk karnacja rednio jasna
+1F468-1F3FC-200D-1F52C	mczyzna naukowiec karnacja rednio jasna
+1F468-1F3FC-200D-1F680	mczyzna astronauta karnacja rednio jasna
+1F468-1F3FC-200D-1F692	mczyzna straak karnacja rednio jasna
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	dwch mczyzn trzymajcych si za rce karnacja rednio jasna i karnacja jasna
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	dwch mczyzn trzymajcych si za rce karnacja rednio jasna i karnacja rednia
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	dwch mczyzn trzymajcych si za rce karnacja rednio jasna i karnacja rednio ciemna
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	dwch mczyzn trzymajcych si za rce karnacja rednio jasna i karnacja ciemna
+1F468-1F3FC-200D-1F9AF	mczyzna z bia lask karnacja rednio jasna
+1F468-1F3FC-200D-1F9B0	mczyzna karnacja rednio jasna i rude wosy
+1F468-1F3FC-200D-1F9B1	mczyzna karnacja rednio jasna i krcone wosy
+1F468-1F3FC-200D-1F9B2	mczyzna karnacja rednio jasna i ysy
+1F468-1F3FC-200D-1F9B3	mczyzna karnacja rednio jasna i biae wosy
+1F468-1F3FC-200D-1F9BC	mczyzna na elektrycznym wzku inwalidzkim karnacja rednio jasna
+1F468-1F3FC-200D-1F9BD	mczyzna na wzku inwalidzkim karnacja rednio jasna
+1F468-1F3FD	mczyzna karnacja rednia
+1F468-1F3FD-200D-2695	lekarz karnacja rednia
+1F468-1F3FD-200D-2696	mczyzna sdzia karnacja rednia
+1F468-1F3FD-200D-2708	mczyzna pilot karnacja rednia
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	para z sercem mczyzna mczyzna karnacja rednia i karnacja jasna
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	para z sercem mczyzna mczyzna karnacja rednia i karnacja rednio jasna
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	para z sercem mczyzna mczyzna i karnacja rednia
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	para z sercem mczyzna mczyzna karnacja rednia i karnacja rednio ciemna
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	para z sercem mczyzna mczyzna karnacja rednia i karnacja ciemna
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek mczyzna mczyzna karnacja rednia i karnacja jasna
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek mczyzna mczyzna karnacja rednia i karnacja rednio jasna
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek mczyzna mczyzna i karnacja rednia
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek mczyzna mczyzna karnacja rednia i karnacja rednio ciemna
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek mczyzna mczyzna karnacja rednia i karnacja ciemna
+1F468-1F3FD-200D-1F33E	mczyzna rolnik karnacja rednia
+1F468-1F3FD-200D-1F373	mczyzna kucharz karnacja rednia
+1F468-1F3FD-200D-1F37C	mczyzna karmicy niemowl karnacja rednia
+1F468-1F3FD-200D-1F393	mczyzna student karnacja rednia
+1F468-1F3FD-200D-1F3A4	mczyzna piosenkarz karnacja rednia
+1F468-1F3FD-200D-1F3A8	mczyzna artysta karnacja rednia
+1F468-1F3FD-200D-1F3EB	mczyzna nauczyciel karnacja rednia
+1F468-1F3FD-200D-1F3ED	mczyzna pracownik fabryki karnacja rednia
+1F468-1F3FD-200D-1F4BB	mczyzna technolog karnacja rednia
+1F468-1F3FD-200D-1F4BC	mczyzna pracownik biurowy karnacja rednia
+1F468-1F3FD-200D-1F527	mczyzna elektryk karnacja rednia
+1F468-1F3FD-200D-1F52C	mczyzna naukowiec karnacja rednia
+1F468-1F3FD-200D-1F680	mczyzna astronauta karnacja rednia
+1F468-1F3FD-200D-1F692	mczyzna straak karnacja rednia
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	dwch mczyzn trzymajcych si za rce karnacja rednia i karnacja jasna
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	dwch mczyzn trzymajcych si za rce karnacja rednia i karnacja rednio jasna
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	dwch mczyzn trzymajcych si za rce karnacja rednia i karnacja rednio ciemna
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	dwch mczyzn trzymajcych si za rce karnacja rednia i karnacja ciemna
+1F468-1F3FD-200D-1F9AF	mczyzna z bia lask karnacja rednia
+1F468-1F3FD-200D-1F9B0	mczyzna karnacja rednia i rude wosy
+1F468-1F3FD-200D-1F9B1	mczyzna karnacja rednia i krcone wosy
+1F468-1F3FD-200D-1F9B2	mczyzna karnacja rednia i ysy
+1F468-1F3FD-200D-1F9B3	mczyzna karnacja rednia i biae wosy
+1F468-1F3FD-200D-1F9BC	mczyzna na elektrycznym wzku inwalidzkim karnacja rednia
+1F468-1F3FD-200D-1F9BD	mczyzna na wzku inwalidzkim karnacja rednia
+1F468-1F3FE	mczyzna karnacja rednio ciemna
+1F468-1F3FE-200D-2695	lekarz karnacja rednio ciemna
+1F468-1F3FE-200D-2696	mczyzna sdzia karnacja rednio ciemna
+1F468-1F3FE-200D-2708	mczyzna pilot karnacja rednio ciemna
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	para z sercem mczyzna mczyzna karnacja rednio ciemna i karnacja jasna
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	para z sercem mczyzna mczyzna karnacja rednio ciemna i karnacja rednio jasna
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	para z sercem mczyzna mczyzna karnacja rednio ciemna i karnacja rednia
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	para z sercem mczyzna mczyzna i karnacja rednio ciemna
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	para z sercem mczyzna mczyzna karnacja rednio ciemna i karnacja ciemna
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek mczyzna mczyzna karnacja rednio ciemna i karnacja jasna
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek mczyzna mczyzna karnacja rednio ciemna i karnacja rednio jasna
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek mczyzna mczyzna karnacja rednio ciemna i karnacja rednia
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek mczyzna mczyzna i karnacja rednio ciemna
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek mczyzna mczyzna karnacja rednio ciemna i karnacja ciemna
+1F468-1F3FE-200D-1F33E	mczyzna rolnik karnacja rednio ciemna
+1F468-1F3FE-200D-1F373	mczyzna kucharz karnacja rednio ciemna
+1F468-1F3FE-200D-1F37C	mczyzna karmicy niemowl karnacja rednio ciemna
+1F468-1F3FE-200D-1F393	mczyzna student karnacja rednio ciemna
+1F468-1F3FE-200D-1F3A4	mczyzna piosenkarz karnacja rednio ciemna
+1F468-1F3FE-200D-1F3A8	mczyzna artysta karnacja rednio ciemna
+1F468-1F3FE-200D-1F3EB	mczyzna nauczyciel karnacja rednio ciemna
+1F468-1F3FE-200D-1F3ED	mczyzna pracownik fabryki karnacja rednio ciemna
+1F468-1F3FE-200D-1F4BB	mczyzna technolog karnacja rednio ciemna
+1F468-1F3FE-200D-1F4BC	mczyzna pracownik biurowy karnacja rednio ciemna
+1F468-1F3FE-200D-1F527	mczyzna elektryk karnacja rednio ciemna
+1F468-1F3FE-200D-1F52C	mczyzna naukowiec karnacja rednio ciemna
+1F468-1F3FE-200D-1F680	mczyzna astronauta karnacja rednio ciemna
+1F468-1F3FE-200D-1F692	mczyzna straak karnacja rednio ciemna
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	dwch mczyzn trzymajcych si za rce karnacja rednio ciemna i karnacja jasna
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	dwch mczyzn trzymajcych si za rce karnacja rednio ciemna i karnacja rednio jasna
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	dwch mczyzn trzymajcych si za rce karnacja rednio ciemna i karnacja rednia
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	dwch mczyzn trzymajcych si za rce karnacja rednio ciemna i karnacja ciemna
+1F468-1F3FE-200D-1F9AF	mczyzna z bia lask karnacja rednio ciemna
+1F468-1F3FE-200D-1F9B0	mczyzna karnacja rednio ciemna i rude wosy
+1F468-1F3FE-200D-1F9B1	mczyzna karnacja rednio ciemna i krcone wosy
+1F468-1F3FE-200D-1F9B2	mczyzna karnacja rednio ciemna i ysy
+1F468-1F3FE-200D-1F9B3	mczyzna karnacja rednio ciemna i biae wosy
+1F468-1F3FE-200D-1F9BC	mczyzna na elektrycznym wzku inwalidzkim karnacja rednio ciemna
+1F468-1F3FE-200D-1F9BD	mczyzna na wzku inwalidzkim karnacja rednio ciemna
+1F468-1F3FF	mczyzna karnacja ciemna
+1F468-1F3FF-200D-2695	lekarz karnacja ciemna
+1F468-1F3FF-200D-2696	mczyzna sdzia karnacja ciemna
+1F468-1F3FF-200D-2708	mczyzna pilot karnacja ciemna
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	para z sercem mczyzna mczyzna karnacja ciemna i karnacja jasna
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	para z sercem mczyzna mczyzna karnacja ciemna i karnacja rednio jasna
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	para z sercem mczyzna mczyzna karnacja ciemna i karnacja rednia
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	para z sercem mczyzna mczyzna karnacja ciemna i karnacja rednio ciemna
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	para z sercem mczyzna mczyzna i karnacja ciemna
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek mczyzna mczyzna karnacja ciemna i karnacja jasna
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek mczyzna mczyzna karnacja ciemna i karnacja rednio jasna
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek mczyzna mczyzna karnacja ciemna i karnacja rednia
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek mczyzna mczyzna karnacja ciemna i karnacja rednio ciemna
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek mczyzna mczyzna i karnacja ciemna
+1F468-1F3FF-200D-1F33E	mczyzna rolnik karnacja ciemna
+1F468-1F3FF-200D-1F373	mczyzna kucharz karnacja ciemna
+1F468-1F3FF-200D-1F37C	mczyzna karmicy niemowl karnacja ciemna
+1F468-1F3FF-200D-1F393	mczyzna student karnacja ciemna
+1F468-1F3FF-200D-1F3A4	mczyzna piosenkarz karnacja ciemna
+1F468-1F3FF-200D-1F3A8	mczyzna artysta karnacja ciemna
+1F468-1F3FF-200D-1F3EB	mczyzna nauczyciel karnacja ciemna
+1F468-1F3FF-200D-1F3ED	mczyzna pracownik fabryki karnacja ciemna
+1F468-1F3FF-200D-1F4BB	mczyzna technolog karnacja ciemna
+1F468-1F3FF-200D-1F4BC	mczyzna pracownik biurowy karnacja ciemna
+1F468-1F3FF-200D-1F527	mczyzna elektryk karnacja ciemna
+1F468-1F3FF-200D-1F52C	mczyzna naukowiec karnacja ciemna
+1F468-1F3FF-200D-1F680	mczyzna astronauta karnacja ciemna
+1F468-1F3FF-200D-1F692	mczyzna straak karnacja ciemna
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	dwch mczyzn trzymajcych si za rce karnacja ciemna i karnacja jasna
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	dwch mczyzn trzymajcych si za rce karnacja ciemna i karnacja rednio jasna
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	dwch mczyzn trzymajcych si za rce karnacja ciemna i karnacja rednia
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	dwch mczyzn trzymajcych si za rce karnacja ciemna i karnacja rednio ciemna
+1F468-1F3FF-200D-1F9AF	mczyzna z bia lask karnacja ciemna
+1F468-1F3FF-200D-1F9B0	mczyzna karnacja ciemna i rude wosy
+1F468-1F3FF-200D-1F9B1	mczyzna karnacja ciemna i krcone wosy
+1F468-1F3FF-200D-1F9B2	mczyzna karnacja ciemna i ysy
+1F468-1F3FF-200D-1F9B3	mczyzna karnacja ciemna i biae wosy
+1F468-1F3FF-200D-1F9BC	mczyzna na elektrycznym wzku inwalidzkim karnacja ciemna
+1F468-1F3FF-200D-1F9BD	mczyzna na wzku inwalidzkim karnacja ciemna
+1F469	kobieta
+1F469-200D-2695	lekarka
+1F469-200D-2696	kobieta sdzia
+1F469-200D-2708	kobieta pilot
+1F469-200D-2764-200D-1F468	para z sercem kobieta i mczyzna
+1F469-200D-2764-200D-1F469	para z sercem kobieta i kobieta
+1F469-200D-2764-200D-1F48B-200D-1F468	pocaunek kobieta i mczyzna
+1F469-200D-2764-200D-1F48B-200D-1F469	pocaunek kobieta i kobieta
+1F469-200D-1F33E	rolniczka
+1F469-200D-1F373	kucharka
+1F469-200D-1F37C	kobieta karmica niemowl
+1F469-200D-1F393	studentka
+1F469-200D-1F3A4	piosenkarka
+1F469-200D-1F3A8	artystka
+1F469-200D-1F3EB	nauczycielka
+1F469-200D-1F3ED	pracownica fabryki
+1F469-200D-1F466	rodzina kobieta i chopiec
+1F469-200D-1F466-200D-1F466	rodzina kobieta chopiec i chopiec
+1F469-200D-1F467	rodzina kobieta i dziewczynka
+1F469-200D-1F467-200D-1F466	rodzina kobieta dziewczynka i chopiec
+1F469-200D-1F467-200D-1F467	rodzina kobieta dziewczynka i dziewczynka
+1F469-200D-1F469-200D-1F466	rodzina kobieta kobieta i chopiec
+1F469-200D-1F469-200D-1F466-200D-1F466	rodzina kobieta kobieta chopiec i chopiec
+1F469-200D-1F469-200D-1F467	rodzina kobieta kobieta i dziewczynka
+1F469-200D-1F469-200D-1F467-200D-1F466	rodzina kobieta kobieta dziewczynka i chopiec
+1F469-200D-1F469-200D-1F467-200D-1F467	rodzina kobieta kobieta dziewczynka i dziewczynka
+1F469-200D-1F4BB	kobieta technolog
+1F469-200D-1F4BC	pracownica biurowa
+1F469-200D-1F527	kobieta elektryk
+1F469-200D-1F52C	kobieta naukowiec
+1F469-200D-1F680	astronautka
+1F469-200D-1F692	kobieta straak
+1F469-200D-1F9AF	kobieta z bia lask
+1F469-200D-1F9B0	kobieta rude wosy
+1F469-200D-1F9B1	kobieta krcone wosy
+1F469-200D-1F9B2	kobieta ysy
+1F469-200D-1F9B3	kobieta biae wosy
+1F469-200D-1F9BC	kobieta na elektrycznym wzku inwalidzkim
+1F469-200D-1F9BD	kobieta na wzku inwalidzkim
+1F469-1F3FB	kobieta karnacja jasna
+1F469-1F3FB-200D-2695	lekarka karnacja jasna
+1F469-1F3FB-200D-2696	kobieta sdzia karnacja jasna
+1F469-1F3FB-200D-2708	kobieta pilot karnacja jasna
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	para z sercem kobieta mczyzna i karnacja jasna
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	para z sercem kobieta mczyzna karnacja jasna i karnacja rednio jasna
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	para z sercem kobieta mczyzna karnacja jasna i karnacja rednia
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	para z sercem kobieta mczyzna karnacja jasna i karnacja rednio ciemna
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	para z sercem kobieta mczyzna karnacja jasna i karnacja ciemna
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	para z sercem kobieta kobieta i karnacja jasna
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	para z sercem kobieta kobieta karnacja jasna i karnacja rednio jasna
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	para z sercem kobieta kobieta karnacja jasna i karnacja rednia
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	para z sercem kobieta kobieta karnacja jasna i karnacja rednio ciemna
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	para z sercem kobieta kobieta karnacja jasna i karnacja ciemna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek kobieta mczyzna i karnacja jasna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek kobieta mczyzna karnacja jasna i karnacja rednio jasna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek kobieta mczyzna karnacja jasna i karnacja rednia
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek kobieta mczyzna karnacja jasna i karnacja rednio ciemna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek kobieta mczyzna karnacja jasna i karnacja ciemna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	pocaunek kobieta kobieta i karnacja jasna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	pocaunek kobieta kobieta karnacja jasna i karnacja rednio jasna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	pocaunek kobieta kobieta karnacja jasna i karnacja rednia
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	pocaunek kobieta kobieta karnacja jasna i karnacja rednio ciemna
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	pocaunek kobieta kobieta karnacja jasna i karnacja ciemna
+1F469-1F3FB-200D-1F33E	rolniczka karnacja jasna
+1F469-1F3FB-200D-1F373	kucharka karnacja jasna
+1F469-1F3FB-200D-1F37C	kobieta karmica niemowl karnacja jasna
+1F469-1F3FB-200D-1F393	studentka karnacja jasna
+1F469-1F3FB-200D-1F3A4	piosenkarka karnacja jasna
+1F469-1F3FB-200D-1F3A8	artystka karnacja jasna
+1F469-1F3FB-200D-1F3EB	nauczycielka karnacja jasna
+1F469-1F3FB-200D-1F3ED	pracownica fabryki karnacja jasna
+1F469-1F3FB-200D-1F4BB	kobieta technolog karnacja jasna
+1F469-1F3FB-200D-1F4BC	pracownica biurowa karnacja jasna
+1F469-1F3FB-200D-1F527	kobieta elektryk karnacja jasna
+1F469-1F3FB-200D-1F52C	kobieta naukowiec karnacja jasna
+1F469-1F3FB-200D-1F680	astronautka karnacja jasna
+1F469-1F3FB-200D-1F692	kobieta straak karnacja jasna
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	mczyzna i kobieta trzymajcy si za rce karnacja jasna i karnacja rednio jasna
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	mczyzna i kobieta trzymajcy si za rce karnacja jasna i karnacja rednia
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	mczyzna i kobieta trzymajcy si za rce karnacja jasna i karnacja rednio ciemna
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	mczyzna i kobieta trzymajcy si za rce karnacja jasna i karnacja ciemna
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	kobiety trzymajce si za rce karnacja jasna i karnacja rednio jasna
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	kobiety trzymajce si za rce karnacja jasna i karnacja rednia
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	kobiety trzymajce si za rce karnacja jasna i karnacja rednio ciemna
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	kobiety trzymajce si za rce karnacja jasna i karnacja ciemna
+1F469-1F3FB-200D-1F9AF	kobieta z bia lask karnacja jasna
+1F469-1F3FB-200D-1F9B0	kobieta karnacja jasna i rude wosy
+1F469-1F3FB-200D-1F9B1	kobieta karnacja jasna i krcone wosy
+1F469-1F3FB-200D-1F9B2	kobieta karnacja jasna i ysy
+1F469-1F3FB-200D-1F9B3	kobieta karnacja jasna i biae wosy
+1F469-1F3FB-200D-1F9BC	kobieta na elektrycznym wzku inwalidzkim karnacja jasna
+1F469-1F3FB-200D-1F9BD	kobieta na wzku inwalidzkim karnacja jasna
+1F469-1F3FC	kobieta karnacja rednio jasna
+1F469-1F3FC-200D-2695	lekarka karnacja rednio jasna
+1F469-1F3FC-200D-2696	kobieta sdzia karnacja rednio jasna
+1F469-1F3FC-200D-2708	kobieta pilot karnacja rednio jasna
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	para z sercem kobieta mczyzna karnacja rednio jasna i karnacja jasna
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	para z sercem kobieta mczyzna i karnacja rednio jasna
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	para z sercem kobieta mczyzna karnacja rednio jasna i karnacja rednia
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	para z sercem kobieta mczyzna karnacja rednio jasna i karnacja rednio ciemna
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	para z sercem kobieta mczyzna karnacja rednio jasna i karnacja ciemna
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	para z sercem kobieta kobieta karnacja rednio jasna i karnacja jasna
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	para z sercem kobieta kobieta i karnacja rednio jasna
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	para z sercem kobieta kobieta karnacja rednio jasna i karnacja rednia
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	para z sercem kobieta kobieta karnacja rednio jasna i karnacja rednio ciemna
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	para z sercem kobieta kobieta karnacja rednio jasna i karnacja ciemna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek kobieta mczyzna karnacja rednio jasna i karnacja jasna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek kobieta mczyzna i karnacja rednio jasna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek kobieta mczyzna karnacja rednio jasna i karnacja rednia
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek kobieta mczyzna karnacja rednio jasna i karnacja rednio ciemna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek kobieta mczyzna karnacja rednio jasna i karnacja ciemna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	pocaunek kobieta kobieta karnacja rednio jasna i karnacja jasna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	pocaunek kobieta kobieta i karnacja rednio jasna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	pocaunek kobieta kobieta karnacja rednio jasna i karnacja rednia
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	pocaunek kobieta kobieta karnacja rednio jasna i karnacja rednio ciemna
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	pocaunek kobieta kobieta karnacja rednio jasna i karnacja ciemna
+1F469-1F3FC-200D-1F33E	rolniczka karnacja rednio jasna
+1F469-1F3FC-200D-1F373	kucharka karnacja rednio jasna
+1F469-1F3FC-200D-1F37C	kobieta karmica niemowl karnacja rednio jasna
+1F469-1F3FC-200D-1F393	studentka karnacja rednio jasna
+1F469-1F3FC-200D-1F3A4	piosenkarka karnacja rednio jasna
+1F469-1F3FC-200D-1F3A8	artystka karnacja rednio jasna
+1F469-1F3FC-200D-1F3EB	nauczycielka karnacja rednio jasna
+1F469-1F3FC-200D-1F3ED	pracownica fabryki karnacja rednio jasna
+1F469-1F3FC-200D-1F4BB	kobieta technolog karnacja rednio jasna
+1F469-1F3FC-200D-1F4BC	pracownica biurowa karnacja rednio jasna
+1F469-1F3FC-200D-1F527	kobieta elektryk karnacja rednio jasna
+1F469-1F3FC-200D-1F52C	kobieta naukowiec karnacja rednio jasna
+1F469-1F3FC-200D-1F680	astronautka karnacja rednio jasna
+1F469-1F3FC-200D-1F692	kobieta straak karnacja rednio jasna
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	mczyzna i kobieta trzymajcy si za rce karnacja rednio jasna i karnacja jasna
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	mczyzna i kobieta trzymajcy si za rce karnacja rednio jasna i karnacja rednia
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	mczyzna i kobieta trzymajcy si za rce karnacja rednio jasna i karnacja rednio ciemna
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	mczyzna i kobieta trzymajcy si za rce karnacja rednio jasna i karnacja ciemna
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	kobiety trzymajce si za rce karnacja rednio jasna i karnacja jasna
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	kobiety trzymajce si za rce karnacja rednio jasna i karnacja rednia
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	kobiety trzymajce si za rce karnacja rednio jasna i karnacja rednio ciemna
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	kobiety trzymajce si za rce karnacja rednio jasna i karnacja ciemna
+1F469-1F3FC-200D-1F9AF	kobieta z bia lask karnacja rednio jasna
+1F469-1F3FC-200D-1F9B0	kobieta karnacja rednio jasna i rude wosy
+1F469-1F3FC-200D-1F9B1	kobieta karnacja rednio jasna i krcone wosy
+1F469-1F3FC-200D-1F9B2	kobieta karnacja rednio jasna i ysy
+1F469-1F3FC-200D-1F9B3	kobieta karnacja rednio jasna i biae wosy
+1F469-1F3FC-200D-1F9BC	kobieta na elektrycznym wzku inwalidzkim karnacja rednio jasna
+1F469-1F3FC-200D-1F9BD	kobieta na wzku inwalidzkim karnacja rednio jasna
+1F469-1F3FD	kobieta karnacja rednia
+1F469-1F3FD-200D-2695	lekarka karnacja rednia
+1F469-1F3FD-200D-2696	kobieta sdzia karnacja rednia
+1F469-1F3FD-200D-2708	kobieta pilot karnacja rednia
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	para z sercem kobieta mczyzna karnacja rednia i karnacja jasna
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	para z sercem kobieta mczyzna karnacja rednia i karnacja rednio jasna
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	para z sercem kobieta mczyzna i karnacja rednia
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	para z sercem kobieta mczyzna karnacja rednia i karnacja rednio ciemna
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	para z sercem kobieta mczyzna karnacja rednia i karnacja ciemna
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	para z sercem kobieta kobieta karnacja rednia i karnacja jasna
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	para z sercem kobieta kobieta karnacja rednia i karnacja rednio jasna
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	para z sercem kobieta kobieta i karnacja rednia
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	para z sercem kobieta kobieta karnacja rednia i karnacja rednio ciemna
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	para z sercem kobieta kobieta karnacja rednia i karnacja ciemna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek kobieta mczyzna karnacja rednia i karnacja jasna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek kobieta mczyzna karnacja rednia i karnacja rednio jasna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek kobieta mczyzna i karnacja rednia
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek kobieta mczyzna karnacja rednia i karnacja rednio ciemna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek kobieta mczyzna karnacja rednia i karnacja ciemna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	pocaunek kobieta kobieta karnacja rednia i karnacja jasna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	pocaunek kobieta kobieta karnacja rednia i karnacja rednio jasna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	pocaunek kobieta kobieta i karnacja rednia
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	pocaunek kobieta kobieta karnacja rednia i karnacja rednio ciemna
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	pocaunek kobieta kobieta karnacja rednia i karnacja ciemna
+1F469-1F3FD-200D-1F33E	rolniczka karnacja rednia
+1F469-1F3FD-200D-1F373	kucharka karnacja rednia
+1F469-1F3FD-200D-1F37C	kobieta karmica niemowl karnacja rednia
+1F469-1F3FD-200D-1F393	studentka karnacja rednia
+1F469-1F3FD-200D-1F3A4	piosenkarka karnacja rednia
+1F469-1F3FD-200D-1F3A8	artystka karnacja rednia
+1F469-1F3FD-200D-1F3EB	nauczycielka karnacja rednia
+1F469-1F3FD-200D-1F3ED	pracownica fabryki karnacja rednia
+1F469-1F3FD-200D-1F4BB	kobieta technolog karnacja rednia
+1F469-1F3FD-200D-1F4BC	pracownica biurowa karnacja rednia
+1F469-1F3FD-200D-1F527	kobieta elektryk karnacja rednia
+1F469-1F3FD-200D-1F52C	kobieta naukowiec karnacja rednia
+1F469-1F3FD-200D-1F680	astronautka karnacja rednia
+1F469-1F3FD-200D-1F692	kobieta straak karnacja rednia
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	mczyzna i kobieta trzymajcy si za rce karnacja rednia i karnacja jasna
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	mczyzna i kobieta trzymajcy si za rce karnacja rednia i karnacja rednio jasna
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	mczyzna i kobieta trzymajcy si za rce karnacja rednia i karnacja rednio ciemna
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	mczyzna i kobieta trzymajcy si za rce karnacja rednia i karnacja ciemna
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	kobiety trzymajce si za rce karnacja rednia i karnacja jasna
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	kobiety trzymajce si za rce karnacja rednia i karnacja rednio jasna
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	kobiety trzymajce si za rce karnacja rednia i karnacja rednio ciemna
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	kobiety trzymajce si za rce karnacja rednia i karnacja ciemna
+1F469-1F3FD-200D-1F9AF	kobieta z bia lask karnacja rednia
+1F469-1F3FD-200D-1F9B0	kobieta karnacja rednia i rude wosy
+1F469-1F3FD-200D-1F9B1	kobieta karnacja rednia i krcone wosy
+1F469-1F3FD-200D-1F9B2	kobieta karnacja rednia i ysy
+1F469-1F3FD-200D-1F9B3	kobieta karnacja rednia i biae wosy
+1F469-1F3FD-200D-1F9BC	kobieta na elektrycznym wzku inwalidzkim karnacja rednia
+1F469-1F3FD-200D-1F9BD	kobieta na wzku inwalidzkim karnacja rednia
+1F469-1F3FE	kobieta karnacja rednio ciemna
+1F469-1F3FE-200D-2695	lekarka karnacja rednio ciemna
+1F469-1F3FE-200D-2696	kobieta sdzia karnacja rednio ciemna
+1F469-1F3FE-200D-2708	kobieta pilot karnacja rednio ciemna
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	para z sercem kobieta mczyzna karnacja rednio ciemna i karnacja jasna
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	para z sercem kobieta mczyzna karnacja rednio ciemna i karnacja rednio jasna
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	para z sercem kobieta mczyzna karnacja rednio ciemna i karnacja rednia
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	para z sercem kobieta mczyzna i karnacja rednio ciemna
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	para z sercem kobieta mczyzna karnacja rednio ciemna i karnacja ciemna
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	para z sercem kobieta kobieta karnacja rednio ciemna i karnacja jasna
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	para z sercem kobieta kobieta karnacja rednio ciemna i karnacja rednio jasna
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	para z sercem kobieta kobieta karnacja rednio ciemna i karnacja rednia
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	para z sercem kobieta kobieta i karnacja rednio ciemna
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	para z sercem kobieta kobieta karnacja rednio ciemna i karnacja ciemna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek kobieta mczyzna karnacja rednio ciemna i karnacja jasna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek kobieta mczyzna karnacja rednio ciemna i karnacja rednio jasna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek kobieta mczyzna karnacja rednio ciemna i karnacja rednia
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek kobieta mczyzna i karnacja rednio ciemna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek kobieta mczyzna karnacja rednio ciemna i karnacja ciemna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	pocaunek kobieta kobieta karnacja rednio ciemna i karnacja jasna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	pocaunek kobieta kobieta karnacja rednio ciemna i karnacja rednio jasna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	pocaunek kobieta kobieta karnacja rednio ciemna i karnacja rednia
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	pocaunek kobieta kobieta i karnacja rednio ciemna
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	pocaunek kobieta kobieta karnacja rednio ciemna i karnacja ciemna
+1F469-1F3FE-200D-1F33E	rolniczka karnacja rednio ciemna
+1F469-1F3FE-200D-1F373	kucharka karnacja rednio ciemna
+1F469-1F3FE-200D-1F37C	kobieta karmica niemowl karnacja rednio ciemna
+1F469-1F3FE-200D-1F393	studentka karnacja rednio ciemna
+1F469-1F3FE-200D-1F3A4	piosenkarka karnacja rednio ciemna
+1F469-1F3FE-200D-1F3A8	artystka karnacja rednio ciemna
+1F469-1F3FE-200D-1F3EB	nauczycielka karnacja rednio ciemna
+1F469-1F3FE-200D-1F3ED	pracownica fabryki karnacja rednio ciemna
+1F469-1F3FE-200D-1F4BB	kobieta technolog karnacja rednio ciemna
+1F469-1F3FE-200D-1F4BC	pracownica biurowa karnacja rednio ciemna
+1F469-1F3FE-200D-1F527	kobieta elektryk karnacja rednio ciemna
+1F469-1F3FE-200D-1F52C	kobieta naukowiec karnacja rednio ciemna
+1F469-1F3FE-200D-1F680	astronautka karnacja rednio ciemna
+1F469-1F3FE-200D-1F692	kobieta straak karnacja rednio ciemna
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	mczyzna i kobieta trzymajcy si za rce karnacja rednio ciemna i karnacja jasna
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	mczyzna i kobieta trzymajcy si za rce karnacja rednio ciemna i karnacja rednio jasna
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	mczyzna i kobieta trzymajcy si za rce karnacja rednio ciemna i karnacja rednia
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	mczyzna i kobieta trzymajcy si za rce karnacja rednio ciemna i karnacja ciemna
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	kobiety trzymajce si za rce karnacja rednio ciemna i karnacja jasna
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	kobiety trzymajce si za rce karnacja rednio ciemna i karnacja rednio jasna
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	kobiety trzymajce si za rce karnacja rednio ciemna i karnacja rednia
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	kobiety trzymajce si za rce karnacja rednio ciemna i karnacja ciemna
+1F469-1F3FE-200D-1F9AF	kobieta z bia lask karnacja rednio ciemna
+1F469-1F3FE-200D-1F9B0	kobieta karnacja rednio ciemna i rude wosy
+1F469-1F3FE-200D-1F9B1	kobieta karnacja rednio ciemna i krcone wosy
+1F469-1F3FE-200D-1F9B2	kobieta karnacja rednio ciemna i ysy
+1F469-1F3FE-200D-1F9B3	kobieta karnacja rednio ciemna i biae wosy
+1F469-1F3FE-200D-1F9BC	kobieta na elektrycznym wzku inwalidzkim karnacja rednio ciemna
+1F469-1F3FE-200D-1F9BD	kobieta na wzku inwalidzkim karnacja rednio ciemna
+1F469-1F3FF	kobieta karnacja ciemna
+1F469-1F3FF-200D-2695	lekarka karnacja ciemna
+1F469-1F3FF-200D-2696	kobieta sdzia karnacja ciemna
+1F469-1F3FF-200D-2708	kobieta pilot karnacja ciemna
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	para z sercem kobieta mczyzna karnacja ciemna i karnacja jasna
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	para z sercem kobieta mczyzna karnacja ciemna i karnacja rednio jasna
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	para z sercem kobieta mczyzna karnacja ciemna i karnacja rednia
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	para z sercem kobieta mczyzna karnacja ciemna i karnacja rednio ciemna
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	para z sercem kobieta mczyzna i karnacja ciemna
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	para z sercem kobieta kobieta karnacja ciemna i karnacja jasna
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	para z sercem kobieta kobieta karnacja ciemna i karnacja rednio jasna
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	para z sercem kobieta kobieta karnacja ciemna i karnacja rednia
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	para z sercem kobieta kobieta karnacja ciemna i karnacja rednio ciemna
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	para z sercem kobieta kobieta i karnacja ciemna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	pocaunek kobieta mczyzna karnacja ciemna i karnacja jasna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	pocaunek kobieta mczyzna karnacja ciemna i karnacja rednio jasna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	pocaunek kobieta mczyzna karnacja ciemna i karnacja rednia
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	pocaunek kobieta mczyzna karnacja ciemna i karnacja rednio ciemna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	pocaunek kobieta mczyzna i karnacja ciemna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	pocaunek kobieta kobieta karnacja ciemna i karnacja jasna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	pocaunek kobieta kobieta karnacja ciemna i karnacja rednio jasna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	pocaunek kobieta kobieta karnacja ciemna i karnacja rednia
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	pocaunek kobieta kobieta karnacja ciemna i karnacja rednio ciemna
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	pocaunek kobieta kobieta i karnacja ciemna
+1F469-1F3FF-200D-1F33E	rolniczka karnacja ciemna
+1F469-1F3FF-200D-1F373	kucharka karnacja ciemna
+1F469-1F3FF-200D-1F37C	kobieta karmica niemowl karnacja ciemna
+1F469-1F3FF-200D-1F393	studentka karnacja ciemna
+1F469-1F3FF-200D-1F3A4	piosenkarka karnacja ciemna
+1F469-1F3FF-200D-1F3A8	artystka karnacja ciemna
+1F469-1F3FF-200D-1F3EB	nauczycielka karnacja ciemna
+1F469-1F3FF-200D-1F3ED	pracownica fabryki karnacja ciemna
+1F469-1F3FF-200D-1F4BB	kobieta technolog karnacja ciemna
+1F469-1F3FF-200D-1F4BC	pracownica biurowa karnacja ciemna
+1F469-1F3FF-200D-1F527	kobieta elektryk karnacja ciemna
+1F469-1F3FF-200D-1F52C	kobieta naukowiec karnacja ciemna
+1F469-1F3FF-200D-1F680	astronautka karnacja ciemna
+1F469-1F3FF-200D-1F692	kobieta straak karnacja ciemna
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	mczyzna i kobieta trzymajcy si za rce karnacja ciemna i karnacja jasna
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	mczyzna i kobieta trzymajcy si za rce karnacja ciemna i karnacja rednio jasna
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	mczyzna i kobieta trzymajcy si za rce karnacja ciemna i karnacja rednia
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	mczyzna i kobieta trzymajcy si za rce karnacja ciemna i karnacja rednio ciemna
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	kobiety trzymajce si za rce karnacja ciemna i karnacja jasna
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	kobiety trzymajce si za rce karnacja ciemna i karnacja rednio jasna
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	kobiety trzymajce si za rce karnacja ciemna i karnacja rednia
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	kobiety trzymajce si za rce karnacja ciemna i karnacja rednio ciemna
+1F469-1F3FF-200D-1F9AF	kobieta z bia lask karnacja ciemna
+1F469-1F3FF-200D-1F9B0	kobieta karnacja ciemna i rude wosy
+1F469-1F3FF-200D-1F9B1	kobieta karnacja ciemna i krcone wosy
+1F469-1F3FF-200D-1F9B2	kobieta karnacja ciemna i ysy
+1F469-1F3FF-200D-1F9B3	kobieta karnacja ciemna i biae wosy
+1F469-1F3FF-200D-1F9BC	kobieta na elektrycznym wzku inwalidzkim karnacja ciemna
+1F469-1F3FF-200D-1F9BD	kobieta na wzku inwalidzkim karnacja ciemna
+1F46A	rodzina
+1F46B	mczyzna i kobieta trzymajcy si za rce
+1F46B-1F3FB	mczyzna i kobieta trzymajcy si za rce karnacja jasna
+1F46B-1F3FC	mczyzna i kobieta trzymajcy si za rce karnacja rednio jasna
+1F46B-1F3FD	mczyzna i kobieta trzymajcy si za rce karnacja rednia
+1F46B-1F3FE	mczyzna i kobieta trzymajcy si za rce karnacja rednio ciemna
+1F46B-1F3FF	mczyzna i kobieta trzymajcy si za rce karnacja ciemna
+1F46C	dwch mczyzn trzymajcych si za rce
+1F46C-1F3FB	dwch mczyzn trzymajcych si za rce karnacja jasna
+1F46C-1F3FC	dwch mczyzn trzymajcych si za rce karnacja rednio jasna
+1F46C-1F3FD	dwch mczyzn trzymajcych si za rce karnacja rednia
+1F46C-1F3FE	dwch mczyzn trzymajcych si za rce karnacja rednio ciemna
+1F46C-1F3FF	dwch mczyzn trzymajcych si za rce karnacja ciemna
+1F46D	kobiety trzymajce si za rce
+1F46D-1F3FB	kobiety trzymajce si za rce karnacja jasna
+1F46D-1F3FC	kobiety trzymajce si za rce karnacja rednio jasna
+1F46D-1F3FD	kobiety trzymajce si za rce karnacja rednia
+1F46D-1F3FE	kobiety trzymajce si za rce karnacja rednio ciemna
+1F46D-1F3FF	kobiety trzymajce si za rce karnacja ciemna
+1F46E	policjant
+1F46E-200D-2640	kobieta policjant
+1F46E-200D-2642	mczyzna policjant
+1F46E-1F3FB	policjant karnacja jasna
+1F46E-1F3FB-200D-2640	kobieta policjant karnacja jasna
+1F46E-1F3FB-200D-2642	mczyzna policjant karnacja jasna
+1F46E-1F3FC	policjant karnacja rednio jasna
+1F46E-1F3FC-200D-2640	kobieta policjant karnacja rednio jasna
+1F46E-1F3FC-200D-2642	mczyzna policjant karnacja rednio jasna
+1F46E-1F3FD	policjant karnacja rednia
+1F46E-1F3FD-200D-2640	kobieta policjant karnacja rednia
+1F46E-1F3FD-200D-2642	mczyzna policjant karnacja rednia
+1F46E-1F3FE	policjant karnacja rednio ciemna
+1F46E-1F3FE-200D-2640	kobieta policjant karnacja rednio ciemna
+1F46E-1F3FE-200D-2642	mczyzna policjant karnacja rednio ciemna
+1F46E-1F3FF	policjant karnacja ciemna
+1F46E-1F3FF-200D-2640	kobieta policjant karnacja ciemna
+1F46E-1F3FF-200D-2642	mczyzna policjant karnacja ciemna
+1F46F	osoby z uszami krlika na przyjciu
+1F46F-200D-2640	kobiety z uszami krlika na przyjciu
+1F46F-200D-2642	mczyni z uszami krlika na przyjciu
+1F470	osoba w welonie
+1F470-200D-2640	kobieta w welonie
+1F470-200D-2642	mczyzna w welonie
+1F470-1F3FB	osoba w welonie karnacja jasna
+1F470-1F3FB-200D-2640	kobieta w welonie karnacja jasna
+1F470-1F3FB-200D-2642	mczyzna w welonie karnacja jasna
+1F470-1F3FC	osoba w welonie karnacja rednio jasna
+1F470-1F3FC-200D-2640	kobieta w welonie karnacja rednio jasna
+1F470-1F3FC-200D-2642	mczyzna w welonie karnacja rednio jasna
+1F470-1F3FD	osoba w welonie karnacja rednia
+1F470-1F3FD-200D-2640	kobieta w welonie karnacja rednia
+1F470-1F3FD-200D-2642	mczyzna w welonie karnacja rednia
+1F470-1F3FE	osoba w welonie karnacja rednio ciemna
+1F470-1F3FE-200D-2640	kobieta w welonie karnacja rednio ciemna
+1F470-1F3FE-200D-2642	mczyzna w welonie karnacja rednio ciemna
+1F470-1F3FF	osoba w welonie karnacja ciemna
+1F470-1F3FF-200D-2640	kobieta w welonie karnacja ciemna
+1F470-1F3FF-200D-2642	mczyzna w welonie karnacja ciemna
+1F471	osoba z wosami blond
+1F471-200D-2640	blondynka
+1F471-200D-2642	blondyn
+1F471-1F3FB	osoba z wosami blond karnacja jasna
+1F471-1F3FB-200D-2640	blondynka karnacja jasna
+1F471-1F3FB-200D-2642	blondyn karnacja jasna
+1F471-1F3FC	osoba z wosami blond karnacja rednio jasna
+1F471-1F3FC-200D-2640	blondynka karnacja rednio jasna
+1F471-1F3FC-200D-2642	blondyn karnacja rednio jasna
+1F471-1F3FD	osoba z wosami blond karnacja rednia
+1F471-1F3FD-200D-2640	blondynka karnacja rednia
+1F471-1F3FD-200D-2642	blondyn karnacja rednia
+1F471-1F3FE	osoba z wosami blond karnacja rednio ciemna
+1F471-1F3FE-200D-2640	blondynka karnacja rednio ciemna
+1F471-1F3FE-200D-2642	blondyn karnacja rednio ciemna
+1F471-1F3FF	osoba z wosami blond karnacja ciemna
+1F471-1F3FF-200D-2640	blondynka karnacja ciemna
+1F471-1F3FF-200D-2642	blondyn karnacja ciemna
+1F472	mczyzna w chiskiej czapce
+1F472-1F3FB	mczyzna w chiskiej czapce karnacja jasna
+1F472-1F3FC	mczyzna w chiskiej czapce karnacja rednio jasna
+1F472-1F3FD	mczyzna w chiskiej czapce karnacja rednia
+1F472-1F3FE	mczyzna w chiskiej czapce karnacja rednio ciemna
+1F472-1F3FF	mczyzna w chiskiej czapce karnacja ciemna
+1F473	osoba w turbanie
+1F473-200D-2640	kobieta w turbanie
+1F473-200D-2642	mczyzna w turbanie
+1F473-1F3FB	osoba w turbanie karnacja jasna
+1F473-1F3FB-200D-2640	kobieta w turbanie karnacja jasna
+1F473-1F3FB-200D-2642	mczyzna w turbanie karnacja jasna
+1F473-1F3FC	osoba w turbanie karnacja rednio jasna
+1F473-1F3FC-200D-2640	kobieta w turbanie karnacja rednio jasna
+1F473-1F3FC-200D-2642	mczyzna w turbanie karnacja rednio jasna
+1F473-1F3FD	osoba w turbanie karnacja rednia
+1F473-1F3FD-200D-2640	kobieta w turbanie karnacja rednia
+1F473-1F3FD-200D-2642	mczyzna w turbanie karnacja rednia
+1F473-1F3FE	osoba w turbanie karnacja rednio ciemna
+1F473-1F3FE-200D-2640	kobieta w turbanie karnacja rednio ciemna
+1F473-1F3FE-200D-2642	mczyzna w turbanie karnacja rednio ciemna
+1F473-1F3FF	osoba w turbanie karnacja ciemna
+1F473-1F3FF-200D-2640	kobieta w turbanie karnacja ciemna
+1F473-1F3FF-200D-2642	mczyzna w turbanie karnacja ciemna
+1F474	starszy mczyzna
+1F474-1F3FB	starszy mczyzna karnacja jasna
+1F474-1F3FC	starszy mczyzna karnacja rednio jasna
+1F474-1F3FD	starszy mczyzna karnacja rednia
+1F474-1F3FE	starszy mczyzna karnacja rednio ciemna
+1F474-1F3FF	starszy mczyzna karnacja ciemna
+1F475	starsza kobieta
+1F475-1F3FB	starsza kobieta karnacja jasna
+1F475-1F3FC	starsza kobieta karnacja rednio jasna
+1F475-1F3FD	starsza kobieta karnacja rednia
+1F475-1F3FE	starsza kobieta karnacja rednio ciemna
+1F475-1F3FF	starsza kobieta karnacja ciemna
+1F476	niemowl
+1F476-1F3FB	niemowl karnacja jasna
+1F476-1F3FC	niemowl karnacja rednio jasna
+1F476-1F3FD	niemowl karnacja rednia
+1F476-1F3FE	niemowl karnacja rednio ciemna
+1F476-1F3FF	niemowl karnacja ciemna
+1F477	budowlaniec
+1F477-200D-2640	kobieta budowlaniec
+1F477-200D-2642	mczyzna budowlaniec
+1F477-1F3FB	budowlaniec karnacja jasna
+1F477-1F3FB-200D-2640	kobieta budowlaniec karnacja jasna
+1F477-1F3FB-200D-2642	mczyzna budowlaniec karnacja jasna
+1F477-1F3FC	budowlaniec karnacja rednio jasna
+1F477-1F3FC-200D-2640	kobieta budowlaniec karnacja rednio jasna
+1F477-1F3FC-200D-2642	mczyzna budowlaniec karnacja rednio jasna
+1F477-1F3FD	budowlaniec karnacja rednia
+1F477-1F3FD-200D-2640	kobieta budowlaniec karnacja rednia
+1F477-1F3FD-200D-2642	mczyzna budowlaniec karnacja rednia
+1F477-1F3FE	budowlaniec karnacja rednio ciemna
+1F477-1F3FE-200D-2640	kobieta budowlaniec karnacja rednio ciemna
+1F477-1F3FE-200D-2642	mczyzna budowlaniec karnacja rednio ciemna
+1F477-1F3FF	budowlaniec karnacja ciemna
+1F477-1F3FF-200D-2640	kobieta budowlaniec karnacja ciemna
+1F477-1F3FF-200D-2642	mczyzna budowlaniec karnacja ciemna
+1F478	ksiniczka
+1F478-1F3FB	ksiniczka karnacja jasna
+1F478-1F3FC	ksiniczka karnacja rednio jasna
+1F478-1F3FD	ksiniczka karnacja rednia
+1F478-1F3FE	ksiniczka karnacja rednio ciemna
+1F478-1F3FF	ksiniczka karnacja ciemna
+1F479	ogr
+1F47A	goblin
+1F47B	duch
+1F47C	anioek
+1F47C-1F3FB	anioek karnacja jasna
+1F47C-1F3FC	anioek karnacja rednio jasna
+1F47C-1F3FD	anioek karnacja rednia
+1F47C-1F3FE	anioek karnacja rednio ciemna
+1F47C-1F3FF	anioek karnacja ciemna
+1F47D	ufoludek
+1F47E	kosmiczny potwr
+1F47F	zagniewana twarz z rogami
+1F480	czaszka
+1F481	osoba z wystawion doni
+1F481-200D-2640	kobieta z wystawion doni
+1F481-200D-2642	mczyzna z wystawion doni
+1F481-1F3FB	osoba z wystawion doni karnacja jasna
+1F481-1F3FB-200D-2640	kobieta z wystawion doni karnacja jasna
+1F481-1F3FB-200D-2642	mczyzna z wystawion doni karnacja jasna
+1F481-1F3FC	osoba z wystawion doni karnacja rednio jasna
+1F481-1F3FC-200D-2640	kobieta z wystawion doni karnacja rednio jasna
+1F481-1F3FC-200D-2642	mczyzna z wystawion doni karnacja rednio jasna
+1F481-1F3FD	osoba z wystawion doni karnacja rednia
+1F481-1F3FD-200D-2640	kobieta z wystawion doni karnacja rednia
+1F481-1F3FD-200D-2642	mczyzna z wystawion doni karnacja rednia
+1F481-1F3FE	osoba z wystawion doni karnacja rednio ciemna
+1F481-1F3FE-200D-2640	kobieta z wystawion doni karnacja rednio ciemna
+1F481-1F3FE-200D-2642	mczyzna z wystawion doni karnacja rednio ciemna
+1F481-1F3FF	osoba z wystawion doni karnacja ciemna
+1F481-1F3FF-200D-2640	kobieta z wystawion doni karnacja ciemna
+1F481-1F3FF-200D-2642	mczyzna z wystawion doni karnacja ciemna
+1F482	gwardzista
+1F482-200D-2640	kobieta gwardzista
+1F482-200D-2642	mczyzna gwardzista
+1F482-1F3FB	gwardzista karnacja jasna
+1F482-1F3FB-200D-2640	kobieta gwardzista karnacja jasna
+1F482-1F3FB-200D-2642	mczyzna gwardzista karnacja jasna
+1F482-1F3FC	gwardzista karnacja rednio jasna
+1F482-1F3FC-200D-2640	kobieta gwardzista karnacja rednio jasna
+1F482-1F3FC-200D-2642	mczyzna gwardzista karnacja rednio jasna
+1F482-1F3FD	gwardzista karnacja rednia
+1F482-1F3FD-200D-2640	kobieta gwardzista karnacja rednia
+1F482-1F3FD-200D-2642	mczyzna gwardzista karnacja rednia
+1F482-1F3FE	gwardzista karnacja rednio ciemna
+1F482-1F3FE-200D-2640	kobieta gwardzista karnacja rednio ciemna
+1F482-1F3FE-200D-2642	mczyzna gwardzista karnacja rednio ciemna
+1F482-1F3FF	gwardzista karnacja ciemna
+1F482-1F3FF-200D-2640	kobieta gwardzista karnacja ciemna
+1F482-1F3FF-200D-2642	mczyzna gwardzista karnacja ciemna
+1F483	taczca kobieta
+1F483-1F3FB	taczca kobieta karnacja jasna
+1F483-1F3FC	taczca kobieta karnacja rednio jasna
+1F483-1F3FD	taczca kobieta karnacja rednia
+1F483-1F3FE	taczca kobieta karnacja rednio ciemna
+1F483-1F3FF	taczca kobieta karnacja ciemna
+1F484	szminka
+1F485	lakier do paznokci
+1F485-1F3FB	lakier do paznokci karnacja jasna
+1F485-1F3FC	lakier do paznokci karnacja rednio jasna
+1F485-1F3FD	lakier do paznokci karnacja rednia
+1F485-1F3FE	lakier do paznokci karnacja rednio ciemna
+1F485-1F3FF	lakier do paznokci karnacja ciemna
+1F486	osoba podczas masau
+1F486-200D-2640	kobieta podczas masau
+1F486-200D-2642	mczyzna podczas masau
+1F486-1F3FB	osoba podczas masau karnacja jasna
+1F486-1F3FB-200D-2640	kobieta podczas masau karnacja jasna
+1F486-1F3FB-200D-2642	mczyzna podczas masau karnacja jasna
+1F486-1F3FC	osoba podczas masau karnacja rednio jasna
+1F486-1F3FC-200D-2640	kobieta podczas masau karnacja rednio jasna
+1F486-1F3FC-200D-2642	mczyzna podczas masau karnacja rednio jasna
+1F486-1F3FD	osoba podczas masau karnacja rednia
+1F486-1F3FD-200D-2640	kobieta podczas masau karnacja rednia
+1F486-1F3FD-200D-2642	mczyzna podczas masau karnacja rednia
+1F486-1F3FE	osoba podczas masau karnacja rednio ciemna
+1F486-1F3FE-200D-2640	kobieta podczas masau karnacja rednio ciemna
+1F486-1F3FE-200D-2642	mczyzna podczas masau karnacja rednio ciemna
+1F486-1F3FF	osoba podczas masau karnacja ciemna
+1F486-1F3FF-200D-2640	kobieta podczas masau karnacja ciemna
+1F486-1F3FF-200D-2642	mczyzna podczas masau karnacja ciemna
+1F487	osoba podczas strzyenia
+1F487-200D-2640	kobieta podczas strzyenia
+1F487-200D-2642	mczyzna podczas strzyenia
+1F487-1F3FB	osoba podczas strzyenia karnacja jasna
+1F487-1F3FB-200D-2640	kobieta podczas strzyenia karnacja jasna
+1F487-1F3FB-200D-2642	mczyzna podczas strzyenia karnacja jasna
+1F487-1F3FC	osoba podczas strzyenia karnacja rednio jasna
+1F487-1F3FC-200D-2640	kobieta podczas strzyenia karnacja rednio jasna
+1F487-1F3FC-200D-2642	mczyzna podczas strzyenia karnacja rednio jasna
+1F487-1F3FD	osoba podczas strzyenia karnacja rednia
+1F487-1F3FD-200D-2640	kobieta podczas strzyenia karnacja rednia
+1F487-1F3FD-200D-2642	mczyzna podczas strzyenia karnacja rednia
+1F487-1F3FE	osoba podczas strzyenia karnacja rednio ciemna
+1F487-1F3FE-200D-2640	kobieta podczas strzyenia karnacja rednio ciemna
+1F487-1F3FE-200D-2642	mczyzna podczas strzyenia karnacja rednio ciemna
+1F487-1F3FF	osoba podczas strzyenia karnacja ciemna
+1F487-1F3FF-200D-2640	kobieta podczas strzyenia karnacja ciemna
+1F487-1F3FF-200D-2642	mczyzna podczas strzyenia karnacja ciemna
+1F488	sup fryzjerski
+1F489	strzykawka
+1F48A	kapsuka
+1F48B	lad po pocaunku
+1F48C	list miosny
+1F48D	piercionek
+1F48E	kamie szlachetny
+1F48F	pocaunek
+1F490	bukiet kwiatw
+1F491	para z sercem
+1F492	lub
+1F493	bijce serce
+1F494	zamane serce
+1F495	dwa serca
+1F496	migoczce serce
+1F497	rosnce serce
+1F498	serce przebite strza
+1F499	niebieskie serce
+1F49A	zielone serce
+1F49B	te serce
+1F49C	purpurowe serce
+1F49D	serce ze wstk
+1F49E	wirujce serca
+1F49F	dekoracja z sercem
+1F4A0	romb z kropk
+1F4A1	arwka
+1F4A2	symbol gniewu
+1F4A3	bomba
+1F4A4	chrapanie
+1F4A5	kolizja
+1F4A6	krople potu
+1F4A7	kropla
+1F4A8	szybkie poruszanie si
+1F4A9	kupa
+1F4AA	napity biceps
+1F4AA-1F3FB	napity biceps karnacja jasna
+1F4AA-1F3FC	napity biceps karnacja rednio jasna
+1F4AA-1F3FD	napity biceps karnacja rednia
+1F4AA-1F3FE	napity biceps karnacja rednio ciemna
+1F4AA-1F3FF	napity biceps karnacja ciemna
+1F4AB	zawroty gowy
+1F4AC	dymek
+1F4AD	dymek myli
+1F4AE	biay kwiat
+1F4AF	sto punktw
+1F4B0	worek z pienidzmi
+1F4B1	wymiana walut
+1F4B2	gruby symbol dolara
+1F4B3	karta kredytowa
+1F4B4	banknot jena
+1F4B5	banknot dolara
+1F4B6	banknot euro
+1F4B7	banknot funta
+1F4B8	uskrzydlone pienidze
+1F4B9	wykres wzrostu z symbolem jena
+1F4BA	fotel
+1F4BB	laptop
+1F4BC	teczka
+1F4BD	dysk komputerowy
+1F4BE	dyskietka
+1F4BF	dysk optyczny
+1F4C0	DVD
+1F4C1	folder
+1F4C2	otwarty folder
+1F4C3	zawinita strona
+1F4C4	strona
+1F4C5	kalendarz
+1F4C6	kalendarz z wyrywanymi kartkami
+1F4C7	wizytownik
+1F4C8	wykres wzrostu
+1F4C9	wykres spadku
+1F4CA	wykres supkowy
+1F4CB	podkadka do pisania
+1F4CC	pinezka
+1F4CD	okrga pinezka
+1F4CE	spinacz
+1F4CF	linijka
+1F4D0	ekierka
+1F4D1	karty zakadek
+1F4D2	skoroszyt
+1F4D3	notes
+1F4D4	notes z dekoracyjn okadk
+1F4D5	zamknita ksika
+1F4D6	otwarta ksika
+1F4D7	zielona ksika
+1F4D8	niebieska ksika
+1F4D9	pomaraczowa ksika
+1F4DA	ksiki
+1F4DB	plakietka
+1F4DC	zwj
+1F4DD	notatka
+1F4DE	suchawka telefoniczna
+1F4DF	pager
+1F4E0	faks
+1F4E1	antena satelitarna
+1F4E2	gonik
+1F4E3	megafon
+1F4E4	skrzynka nadawcza
+1F4E5	skrzynka odbiorcza
+1F4E6	paczka
+1F4E7	e-mail
+1F4E8	koperta przychodzca
+1F4E9	koperta ze strzak
+1F4EA	zamknita skrzynka pocztowa z opuszczon flag
+1F4EB	zamknita skrzynka pocztowa z podniesion flag
+1F4EC	otwarta skrzynka pocztowa z podniesion flag
+1F4ED	otwarta skrzynka pocztowa z opuszczon flag
+1F4EE	skrzynka na listy
+1F4EF	trbka pocztowa
+1F4F0	gazeta
+1F4F1	telefon komrkowy
+1F4F2	telefon komrkowy ze strzak
+1F4F3	tryb wibracji
+1F4F4	wyczony telefon komrkowy
+1F4F5	zakaz korzystania z telefonw komrkowych
+1F4F6	sia sygnau
+1F4F7	aparat fotograficzny
+1F4F8	aparat fotograficzny z lamp byskow
+1F4F9	kamera wideo
+1F4FA	telewizja
+1F4FB	radio
+1F4FC	kaseta wideo
+1F4FD	projektor filmowy
+1F4FF	sznur modlitewny
+1F500	przycisk losowego odtwarzania utworw
+1F501	przycisk powtarzania
+1F502	przycisk powtarzania jednokrotnego
+1F503	pionowe strzaki zgodne z ruchem wskazwek zegara
+1F504	przycisk ze strzakami przeciwnie do ruchu wskazwek zegara
+1F505	przycisk maej jasnoci
+1F506	przycisk duej jasnoci
+1F507	wyciszony gonik
+1F508	niska gono gonika
+1F509	rednia gono gonika
+1F50A	wysoka gono gonika
+1F50B	bateria
+1F50C	wtyczka elektryczna
+1F50D	lupa pochylona w lewo
+1F50E	lupa pochylona w prawo
+1F50F	zamknita kdka z pirem
+1F510	zamknita kdka z kluczem
+1F511	klucz
+1F512	zamknita kdka
+1F513	otwarta kdka
+1F514	dzwonek
+1F515	przekrelony dzwonek
+1F516	zakadka
+1F517	ogniwa
+1F518	przycisk radiowy
+1F519	strzaka z napisem BACK
+1F51A	strzaka z napisem END
+1F51B	strzaka z napisem ON
+1F51C	strzaka z napisem SOON
+1F51D	strzaka z napisem TOP
+1F51E	zakaz poniej osiemnastego roku ycia
+1F51F	klawisz 10
+1F520	wielkie litery alfabet aciski
+1F521	mae litery alfabet aciski
+1F522	cyfry
+1F523	symbole
+1F524	litery alfabet aciski
+1F525	ogie
+1F526	latarka
+1F527	klucz warsztatowy
+1F528	motek
+1F529	ruba i nakrtka
+1F52A	n kuchenny
+1F52B	pistolet na wod
+1F52C	mikroskop
+1F52D	teleskop
+1F52E	krysztaowa kula
+1F52F	gwiazda szecioramienna z kropk
+1F530	japoski symbol pocztkujcego kierowcy
+1F531	emblemat z trjzbem
+1F532	czarny kwadratowy przycisk
+1F533	biay kwadratowy przycisk
+1F534	czerwone koo
+1F535	niebieskie koo
+1F536	duy pomaraczowy romb
+1F537	duy niebieski romb
+1F538	may pomaraczowy romb
+1F539	may niebieski romb
+1F53A	czerwony trjkt skierowany w gr
+1F53B	czerwony trjkt skierowany w d
+1F53C	przycisk w gr
+1F53D	przycisk w d
+1F549	om
+1F54A	gob
+1F54B	kaaba
+1F54C	meczet
+1F54D	synagoga
+1F54E	menora
+1F550	godzina 100
+1F551	godzina 200
+1F552	godzina 300
+1F553	godzina 400
+1F554	godzina 500
+1F555	godzina 600
+1F556	godzina 700
+1F557	godzina 800
+1F558	godzina 900
+1F559	godzina 1000
+1F55A	godzina 1100
+1F55B	godzina 1200
+1F55C	godzina 130
+1F55D	godzina 230
+1F55E	godzina 330
+1F55F	godzina 430
+1F560	godzina 530
+1F561	godzina 630
+1F562	godzina 730
+1F563	godzina 830
+1F564	godzina 930
+1F565	godzina 1030
+1F566	godzina 1130
+1F567	godzina 1230
+1F56F	wieca
+1F570	zegar kominkowy
+1F573	otwr
+1F574	lewitujcy mczyzna w garniturze
+1F574-1F3FB	lewitujcy mczyzna w garniturze karnacja jasna
+1F574-1F3FC	lewitujcy mczyzna w garniturze karnacja rednio jasna
+1F574-1F3FD	lewitujcy mczyzna w garniturze karnacja rednia
+1F574-1F3FE	lewitujcy mczyzna w garniturze karnacja rednio ciemna
+1F574-1F3FF	lewitujcy mczyzna w garniturze karnacja ciemna
+1F575	detektyw
+1F575-200D-2640	kobieta detektyw
+1F575-200D-2642	mczyzna detektyw
+1F575-1F3FB	detektyw karnacja jasna
+1F575-1F3FB-200D-2640	kobieta detektyw karnacja jasna
+1F575-1F3FB-200D-2642	mczyzna detektyw karnacja jasna
+1F575-1F3FC	detektyw karnacja rednio jasna
+1F575-1F3FC-200D-2640	kobieta detektyw karnacja rednio jasna
+1F575-1F3FC-200D-2642	mczyzna detektyw karnacja rednio jasna
+1F575-1F3FD	detektyw karnacja rednia
+1F575-1F3FD-200D-2640	kobieta detektyw karnacja rednia
+1F575-1F3FD-200D-2642	mczyzna detektyw karnacja rednia
+1F575-1F3FE	detektyw karnacja rednio ciemna
+1F575-1F3FE-200D-2640	kobieta detektyw karnacja rednio ciemna
+1F575-1F3FE-200D-2642	mczyzna detektyw karnacja rednio ciemna
+1F575-1F3FF	detektyw karnacja ciemna
+1F575-1F3FF-200D-2640	kobieta detektyw karnacja ciemna
+1F575-1F3FF-200D-2642	mczyzna detektyw karnacja ciemna
+1F576	okulary soneczne
+1F577	pajk
+1F578	pajczyna
+1F579	dojstik
+1F57A	taczcy mczyzna
+1F57A-1F3FB	taczcy mczyzna karnacja jasna
+1F57A-1F3FC	taczcy mczyzna karnacja rednio jasna
+1F57A-1F3FD	taczcy mczyzna karnacja rednia
+1F57A-1F3FE	taczcy mczyzna karnacja rednio ciemna
+1F57A-1F3FF	taczcy mczyzna karnacja ciemna
+1F587	zczone spinacze
+1F58A	dugopis
+1F58B	wieczne piro
+1F58C	pdzel
+1F58D	kredka
+1F590	uniesiona otwarta do
+1F590-1F3FB	uniesiona otwarta do karnacja jasna
+1F590-1F3FC	uniesiona otwarta do karnacja rednio jasna
+1F590-1F3FD	uniesiona otwarta do karnacja rednia
+1F590-1F3FE	uniesiona otwarta do karnacja rednio ciemna
+1F590-1F3FF	uniesiona otwarta do karnacja ciemna
+1F595	rodkowy palec
+1F595-1F3FB	rodkowy palec karnacja jasna
+1F595-1F3FC	rodkowy palec karnacja rednio jasna
+1F595-1F3FD	rodkowy palec karnacja rednia
+1F595-1F3FE	rodkowy palec karnacja rednio ciemna
+1F595-1F3FF	rodkowy palec karnacja ciemna
+1F596	salut wolkaski
+1F596-1F3FB	salut wolkaski karnacja jasna
+1F596-1F3FC	salut wolkaski karnacja rednio jasna
+1F596-1F3FD	salut wolkaski karnacja rednia
+1F596-1F3FE	salut wolkaski karnacja rednio ciemna
+1F596-1F3FF	salut wolkaski karnacja ciemna
+1F5A4	czarne serce
+1F5A5	komputer
+1F5A8	drukarka
+1F5B1	mysz komputerowa
+1F5B2	trackball
+1F5BC	obrazek w ramce
+1F5C2	rozdzielacze kartoteki
+1F5C3	pudeko-kartoteka
+1F5C4	szafka-kartoteka
+1F5D1	kosz na mieci
+1F5D2	koonotatnik
+1F5D3	kalendarz na spirali
+1F5DC	cisk
+1F5DD	starowiecki klucz
+1F5DE	zwinita gazeta
+1F5E1	sztylet
+1F5E3	mwica gowa
+1F5E8	lewostronny dymek
+1F5EF	prawostronny dymek zoci
+1F5F3	urna wyborcza z gosem
+1F5FA	mapa wiata
+1F5FB	gra Fudi
+1F5FC	Tokyo Tower
+1F5FD	Statua Wolnoci
+1F5FE	mapa Japonii
+1F5FF	moai
+1F600	szeroko umiechnita twarz
+1F601	szeroko umiechnita twarz o rozemianych oczach
+1F602	twarz ze zami radoci
+1F603	umiechnita twarz z otwartymi ustami
+1F604	umiechnita twarz z otwartymi ustami i rozemianymi oczami
+1F605	umiechnita twarz z otwartymi ustami oblana zimnym potem
+1F606	umiechnita twarz z przymruonymi oczami
+1F607	umiechnita twarz z aureol
+1F608	umiechnita twarz z rogami
+1F609	twarz puszczajca oko
+1F60A	umiechnita twarz o rozemianych oczach
+1F60B	twarz delektujca si pysznym jedzeniem
+1F60C	twarz z wyrazem ulgi
+1F60D	umiechnita twarz z oczami w ksztacie serca
+1F60E	umiechnita twarz w okularach przeciwsonecznych
+1F60F	twarz z umieszkiem
+1F610	neutralna twarz
+1F611	twarz bez wyrazu
+1F612	niezadowolona twarz
+1F613	twarz ze spuszczonymi oczami oblana potem
+1F614	zamylona twarz
+1F615	zdezorientowana twarz
+1F616	zakopotana twarz
+1F617	caujca twarz
+1F618	twarz przesyajca causa
+1F619	caujca twarz o rozemianych oczach
+1F61A	caujca twarz z zamknitymi oczami
+1F61B	twarz wystawiajca jzyk
+1F61C	twarz wystawiajca jzyk i puszczajca oko
+1F61D	twarz ze zmruonymi oczami wystawiajca jzyk
+1F61E	rozczarowana twarz
+1F61F	zmartwiona twarz
+1F620	zagniewana twarz
+1F621	nadsana twarz
+1F622	paczca twarz
+1F623	uparta twarz
+1F624	prychajca twarz
+1F625	smutna twarz z wyrazem ulgi
+1F626	zachmurzona twarz z otwartymi ustami
+1F627	udrczona twarz
+1F628	przestraszona twarz
+1F629	znuona twarz
+1F62A	senna twarz
+1F62B	zmczona twarz
+1F62C	twarz z grymasem
+1F62D	gono paczca twarz
+1F62E	twarz z otwartymi ustami
+1F62E-200D-1F4A8	twarz wypuszczajca powietrze
+1F62F	zdumiona twarz
+1F630	zaniepokojona twarz oblana potem
+1F631	twarz krzyczca ze strachu
+1F632	zadziwiona twarz
+1F633	twarz z rumiecami
+1F634	pica twarz
+1F635	oszoomiona twarz
+1F635-200D-1F4AB	twarz ze spiralnymi oczami
+1F636	twarz bez ust
+1F636-200D-1F32B	twarz w chmurach
+1F637	twarz w masce medycznej
+1F638	umiechnity kot o wesoych oczach
+1F639	kot ze zami radoci
+1F63A	umiechnity kot
+1F63B	umiechnity kot z oczami w ksztacie serca
+1F63C	kot z drwicym umiechem
+1F63D	kot przesyajcy causa
+1F63E	nadsany kot
+1F63F	paczcy kot
+1F640	przestraszony kot
+1F641	lekko zachmurzona twarz
+1F642	lekko umiechnita twarz
+1F643	odwrcona twarz
+1F644	twarz przewracajca oczami
+1F645	osoba pokazujca gest NIE
+1F645-200D-2640	kobieta pokazujca gest NIE
+1F645-200D-2642	mczyzna pokazujcy gest NIE
+1F645-1F3FB	osoba pokazujca gest NIE karnacja jasna
+1F645-1F3FB-200D-2640	kobieta pokazujca gest NIE karnacja jasna
+1F645-1F3FB-200D-2642	mczyzna pokazujcy gest NIE karnacja jasna
+1F645-1F3FC	osoba pokazujca gest NIE karnacja rednio jasna
+1F645-1F3FC-200D-2640	kobieta pokazujca gest NIE karnacja rednio jasna
+1F645-1F3FC-200D-2642	mczyzna pokazujcy gest NIE karnacja rednio jasna
+1F645-1F3FD	osoba pokazujca gest NIE karnacja rednia
+1F645-1F3FD-200D-2640	kobieta pokazujca gest NIE karnacja rednia
+1F645-1F3FD-200D-2642	mczyzna pokazujcy gest NIE karnacja rednia
+1F645-1F3FE	osoba pokazujca gest NIE karnacja rednio ciemna
+1F645-1F3FE-200D-2640	kobieta pokazujca gest NIE karnacja rednio ciemna
+1F645-1F3FE-200D-2642	mczyzna pokazujcy gest NIE karnacja rednio ciemna
+1F645-1F3FF	osoba pokazujca gest NIE karnacja ciemna
+1F645-1F3FF-200D-2640	kobieta pokazujca gest NIE karnacja ciemna
+1F645-1F3FF-200D-2642	mczyzna pokazujcy gest NIE karnacja ciemna
+1F646	osoba pokazujca gest OK
+1F646-200D-2640	kobieta pokazujca gest OK
+1F646-200D-2642	mczyzna pokazujcy ojej
+1F646-1F3FB	osoba pokazujca gest OK karnacja jasna
+1F646-1F3FB-200D-2640	kobieta pokazujca gest OK karnacja jasna
+1F646-1F3FB-200D-2642	mczyzna pokazujcy ojej karnacja jasna
+1F646-1F3FC	osoba pokazujca gest OK karnacja rednio jasna
+1F646-1F3FC-200D-2640	kobieta pokazujca gest OK karnacja rednio jasna
+1F646-1F3FC-200D-2642	mczyzna pokazujcy ojej karnacja rednio jasna
+1F646-1F3FD	osoba pokazujca gest OK karnacja rednia
+1F646-1F3FD-200D-2640	kobieta pokazujca gest OK karnacja rednia
+1F646-1F3FD-200D-2642	mczyzna pokazujcy ojej karnacja rednia
+1F646-1F3FE	osoba pokazujca gest OK karnacja rednio ciemna
+1F646-1F3FE-200D-2640	kobieta pokazujca gest OK karnacja rednio ciemna
+1F646-1F3FE-200D-2642	mczyzna pokazujcy ojej karnacja rednio ciemna
+1F646-1F3FF	osoba pokazujca gest OK karnacja ciemna
+1F646-1F3FF-200D-2640	kobieta pokazujca gest OK karnacja ciemna
+1F646-1F3FF-200D-2642	mczyzna pokazujcy ojej karnacja ciemna
+1F647	osoba w ukonie
+1F647-200D-2640	kobieta w ukonie
+1F647-200D-2642	mczyzna w ukonie
+1F647-1F3FB	osoba w ukonie karnacja jasna
+1F647-1F3FB-200D-2640	kobieta w ukonie karnacja jasna
+1F647-1F3FB-200D-2642	mczyzna w ukonie karnacja jasna
+1F647-1F3FC	osoba w ukonie karnacja rednio jasna
+1F647-1F3FC-200D-2640	kobieta w ukonie karnacja rednio jasna
+1F647-1F3FC-200D-2642	mczyzna w ukonie karnacja rednio jasna
+1F647-1F3FD	osoba w ukonie karnacja rednia
+1F647-1F3FD-200D-2640	kobieta w ukonie karnacja rednia
+1F647-1F3FD-200D-2642	mczyzna w ukonie karnacja rednia
+1F647-1F3FE	osoba w ukonie karnacja rednio ciemna
+1F647-1F3FE-200D-2640	kobieta w ukonie karnacja rednio ciemna
+1F647-1F3FE-200D-2642	mczyzna w ukonie karnacja rednio ciemna
+1F647-1F3FF	osoba w ukonie karnacja ciemna
+1F647-1F3FF-200D-2640	kobieta w ukonie karnacja ciemna
+1F647-1F3FF-200D-2642	mczyzna w ukonie karnacja ciemna
+1F648	mapa zasaniajca oczy
+1F649	mapa zasaniajca uszy
+1F64A	mapa zasaniajca pyszczek
+1F64B	osoba podnoszca rk
+1F64B-200D-2640	kobieta podnoszca rk
+1F64B-200D-2642	mczyzna podnoszcy rk
+1F64B-1F3FB	osoba podnoszca rk karnacja jasna
+1F64B-1F3FB-200D-2640	kobieta podnoszca rk karnacja jasna
+1F64B-1F3FB-200D-2642	mczyzna podnoszcy rk karnacja jasna
+1F64B-1F3FC	osoba podnoszca rk karnacja rednio jasna
+1F64B-1F3FC-200D-2640	kobieta podnoszca rk karnacja rednio jasna
+1F64B-1F3FC-200D-2642	mczyzna podnoszcy rk karnacja rednio jasna
+1F64B-1F3FD	osoba podnoszca rk karnacja rednia
+1F64B-1F3FD-200D-2640	kobieta podnoszca rk karnacja rednia
+1F64B-1F3FD-200D-2642	mczyzna podnoszcy rk karnacja rednia
+1F64B-1F3FE	osoba podnoszca rk karnacja rednio ciemna
+1F64B-1F3FE-200D-2640	kobieta podnoszca rk karnacja rednio ciemna
+1F64B-1F3FE-200D-2642	mczyzna podnoszcy rk karnacja rednio ciemna
+1F64B-1F3FF	osoba podnoszca rk karnacja ciemna
+1F64B-1F3FF-200D-2640	kobieta podnoszca rk karnacja ciemna
+1F64B-1F3FF-200D-2642	mczyzna podnoszcy rk karnacja ciemna
+1F64C	wzniesione rce
+1F64C-1F3FB	wzniesione rce karnacja jasna
+1F64C-1F3FC	wzniesione rce karnacja rednio jasna
+1F64C-1F3FD	wzniesione rce karnacja rednia
+1F64C-1F3FE	wzniesione rce karnacja rednio ciemna
+1F64C-1F3FF	wzniesione rce karnacja ciemna
+1F64D	zachmurzona osoba
+1F64D-200D-2640	zachmurzona kobieta
+1F64D-200D-2642	zachmurzony mczyzna
+1F64D-1F3FB	zachmurzona osoba karnacja jasna
+1F64D-1F3FB-200D-2640	zachmurzona kobieta karnacja jasna
+1F64D-1F3FB-200D-2642	zachmurzony mczyzna karnacja jasna
+1F64D-1F3FC	zachmurzona osoba karnacja rednio jasna
+1F64D-1F3FC-200D-2640	zachmurzona kobieta karnacja rednio jasna
+1F64D-1F3FC-200D-2642	zachmurzony mczyzna karnacja rednio jasna
+1F64D-1F3FD	zachmurzona osoba karnacja rednia
+1F64D-1F3FD-200D-2640	zachmurzona kobieta karnacja rednia
+1F64D-1F3FD-200D-2642	zachmurzony mczyzna karnacja rednia
+1F64D-1F3FE	zachmurzona osoba karnacja rednio ciemna
+1F64D-1F3FE-200D-2640	zachmurzona kobieta karnacja rednio ciemna
+1F64D-1F3FE-200D-2642	zachmurzony mczyzna karnacja rednio ciemna
+1F64D-1F3FF	zachmurzona osoba karnacja ciemna
+1F64D-1F3FF-200D-2640	zachmurzona kobieta karnacja ciemna
+1F64D-1F3FF-200D-2642	zachmurzony mczyzna karnacja ciemna
+1F64E	nadsana osoba
+1F64E-200D-2640	nadsana kobieta
+1F64E-200D-2642	nadsany mczyzna
+1F64E-1F3FB	nadsana osoba karnacja jasna
+1F64E-1F3FB-200D-2640	nadsana kobieta karnacja jasna
+1F64E-1F3FB-200D-2642	nadsany mczyzna karnacja jasna
+1F64E-1F3FC	nadsana osoba karnacja rednio jasna
+1F64E-1F3FC-200D-2640	nadsana kobieta karnacja rednio jasna
+1F64E-1F3FC-200D-2642	nadsany mczyzna karnacja rednio jasna
+1F64E-1F3FD	nadsana osoba karnacja rednia
+1F64E-1F3FD-200D-2640	nadsana kobieta karnacja rednia
+1F64E-1F3FD-200D-2642	nadsany mczyzna karnacja rednia
+1F64E-1F3FE	nadsana osoba karnacja rednio ciemna
+1F64E-1F3FE-200D-2640	nadsana kobieta karnacja rednio ciemna
+1F64E-1F3FE-200D-2642	nadsany mczyzna karnacja rednio ciemna
+1F64E-1F3FF	nadsana osoba karnacja ciemna
+1F64E-1F3FF-200D-2640	nadsana kobieta karnacja ciemna
+1F64E-1F3FF-200D-2642	nadsany mczyzna karnacja ciemna
+1F64F	zoone rce
+1F64F-1F3FB	zoone rce karnacja jasna
+1F64F-1F3FC	zoone rce karnacja rednio jasna
+1F64F-1F3FD	zoone rce karnacja rednia
+1F64F-1F3FE	zoone rce karnacja rednio ciemna
+1F64F-1F3FF	zoone rce karnacja ciemna
+1F680	rakieta
+1F681	helikopter
+1F682	lokomotywa
+1F683	wagon kolejowy
+1F684	szybki pocig
+1F685	szybki pocig z zaokrglonym przodem
+1F686	pocig
+1F687	metro
+1F688	kolej miejska
+1F689	stacja
+1F68A	tramwaj
+1F68B	wagon tramwajowy
+1F68C	autobus
+1F68D	nadjedajcy autobus
+1F68E	trolejbus
+1F68F	przystanek autobusowy
+1F690	minibus
+1F691	karetka pogotowia
+1F692	samochd straacki
+1F693	samochd policyjny
+1F694	nadjedajcy radiowz
+1F695	takswka
+1F696	nadjedajca takswka
+1F697	samochd
+1F698	nadjedajcy samochd
+1F699	samochd SUV
+1F69A	samochd dostawczy
+1F69B	samochd ciarowy
+1F69C	cignik
+1F69D	kolej jednoszynowa
+1F69E	kolej grska
+1F69F	kolej podwieszana
+1F6A0	grska kolej linowa
+1F6A1	kolej linowa
+1F6A2	statek
+1F6A3	osoba wiosujca w odzi
+1F6A3-200D-2640	kobieta wiosujca w odzi
+1F6A3-200D-2642	mczyzna wiosujcy w odzi
+1F6A3-1F3FB	osoba wiosujca w odzi karnacja jasna
+1F6A3-1F3FB-200D-2640	kobieta wiosujca w odzi karnacja jasna
+1F6A3-1F3FB-200D-2642	mczyzna wiosujcy w odzi karnacja jasna
+1F6A3-1F3FC	osoba wiosujca w odzi karnacja rednio jasna
+1F6A3-1F3FC-200D-2640	kobieta wiosujca w odzi karnacja rednio jasna
+1F6A3-1F3FC-200D-2642	mczyzna wiosujcy w odzi karnacja rednio jasna
+1F6A3-1F3FD	osoba wiosujca w odzi karnacja rednia
+1F6A3-1F3FD-200D-2640	kobieta wiosujca w odzi karnacja rednia
+1F6A3-1F3FD-200D-2642	mczyzna wiosujcy w odzi karnacja rednia
+1F6A3-1F3FE	osoba wiosujca w odzi karnacja rednio ciemna
+1F6A3-1F3FE-200D-2640	kobieta wiosujca w odzi karnacja rednio ciemna
+1F6A3-1F3FE-200D-2642	mczyzna wiosujcy w odzi karnacja rednio ciemna
+1F6A3-1F3FF	osoba wiosujca w odzi karnacja ciemna
+1F6A3-1F3FF-200D-2640	kobieta wiosujca w odzi karnacja ciemna
+1F6A3-1F3FF-200D-2642	mczyzna wiosujcy w odzi karnacja ciemna
+1F6A4	cigacz wodny
+1F6A5	pozioma sygnalizacja uliczna
+1F6A6	pionowa sygnalizacja uliczna
+1F6A7	prace drogowe
+1F6A8	kogut policyjny
+1F6A9	flaga trjktna
+1F6AA	drzwi
+1F6AB	zakaz
+1F6AC	papieros
+1F6AD	zakaz palenia
+1F6AE	znak kosza na mieci
+1F6AF	zakaz miecenia
+1F6B0	woda pitna
+1F6B1	woda niezdatna do picia
+1F6B2	rower
+1F6B3	zakaz wjazdu rowerw
+1F6B4	osoba na rowerze
+1F6B4-200D-2640	kobieta na rowerze
+1F6B4-200D-2642	mczyzna na rowerze
+1F6B4-1F3FB	osoba na rowerze karnacja jasna
+1F6B4-1F3FB-200D-2640	kobieta na rowerze karnacja jasna
+1F6B4-1F3FB-200D-2642	mczyzna na rowerze karnacja jasna
+1F6B4-1F3FC	osoba na rowerze karnacja rednio jasna
+1F6B4-1F3FC-200D-2640	kobieta na rowerze karnacja rednio jasna
+1F6B4-1F3FC-200D-2642	mczyzna na rowerze karnacja rednio jasna
+1F6B4-1F3FD	osoba na rowerze karnacja rednia
+1F6B4-1F3FD-200D-2640	kobieta na rowerze karnacja rednia
+1F6B4-1F3FD-200D-2642	mczyzna na rowerze karnacja rednia
+1F6B4-1F3FE	osoba na rowerze karnacja rednio ciemna
+1F6B4-1F3FE-200D-2640	kobieta na rowerze karnacja rednio ciemna
+1F6B4-1F3FE-200D-2642	mczyzna na rowerze karnacja rednio ciemna
+1F6B4-1F3FF	osoba na rowerze karnacja ciemna
+1F6B4-1F3FF-200D-2640	kobieta na rowerze karnacja ciemna
+1F6B4-1F3FF-200D-2642	mczyzna na rowerze karnacja ciemna
+1F6B5	osoba na rowerze grskim
+1F6B5-200D-2640	kobieta na rowerze grskim
+1F6B5-200D-2642	mczyzna na rowerze grskim
+1F6B5-1F3FB	osoba na rowerze grskim karnacja jasna
+1F6B5-1F3FB-200D-2640	kobieta na rowerze grskim karnacja jasna
+1F6B5-1F3FB-200D-2642	mczyzna na rowerze grskim karnacja jasna
+1F6B5-1F3FC	osoba na rowerze grskim karnacja rednio jasna
+1F6B5-1F3FC-200D-2640	kobieta na rowerze grskim karnacja rednio jasna
+1F6B5-1F3FC-200D-2642	mczyzna na rowerze grskim karnacja rednio jasna
+1F6B5-1F3FD	osoba na rowerze grskim karnacja rednia
+1F6B5-1F3FD-200D-2640	kobieta na rowerze grskim karnacja rednia
+1F6B5-1F3FD-200D-2642	mczyzna na rowerze grskim karnacja rednia
+1F6B5-1F3FE	osoba na rowerze grskim karnacja rednio ciemna
+1F6B5-1F3FE-200D-2640	kobieta na rowerze grskim karnacja rednio ciemna
+1F6B5-1F3FE-200D-2642	mczyzna na rowerze grskim karnacja rednio ciemna
+1F6B5-1F3FF	osoba na rowerze grskim karnacja ciemna
+1F6B5-1F3FF-200D-2640	kobieta na rowerze grskim karnacja ciemna
+1F6B5-1F3FF-200D-2642	mczyzna na rowerze grskim karnacja ciemna
+1F6B6	idca osoba
+1F6B6-200D-2640	idca kobieta
+1F6B6-200D-2642	idcy mczyzna
+1F6B6-1F3FB	idca osoba karnacja jasna
+1F6B6-1F3FB-200D-2640	idca kobieta karnacja jasna
+1F6B6-1F3FB-200D-2642	idcy mczyzna karnacja jasna
+1F6B6-1F3FC	idca osoba karnacja rednio jasna
+1F6B6-1F3FC-200D-2640	idca kobieta karnacja rednio jasna
+1F6B6-1F3FC-200D-2642	idcy mczyzna karnacja rednio jasna
+1F6B6-1F3FD	idca osoba karnacja rednia
+1F6B6-1F3FD-200D-2640	idca kobieta karnacja rednia
+1F6B6-1F3FD-200D-2642	idcy mczyzna karnacja rednia
+1F6B6-1F3FE	idca osoba karnacja rednio ciemna
+1F6B6-1F3FE-200D-2640	idca kobieta karnacja rednio ciemna
+1F6B6-1F3FE-200D-2642	idcy mczyzna karnacja rednio ciemna
+1F6B6-1F3FF	idca osoba karnacja ciemna
+1F6B6-1F3FF-200D-2640	idca kobieta karnacja ciemna
+1F6B6-1F3FF-200D-2642	idcy mczyzna karnacja ciemna
+1F6B7	zakaz ruchu pieszych
+1F6B8	dzieci przechodzce przez jezdni
+1F6B9	toaleta mska
+1F6BA	toaleta damska
+1F6BB	toalety
+1F6BC	symbol niemowlcia
+1F6BD	muszla klozetowa
+1F6BE	WC
+1F6BF	prysznic
+1F6C0	osoba biorca kpiel
+1F6C0-1F3FB	osoba biorca kpiel karnacja jasna
+1F6C0-1F3FC	osoba biorca kpiel karnacja rednio jasna
+1F6C0-1F3FD	osoba biorca kpiel karnacja rednia
+1F6C0-1F3FE	osoba biorca kpiel karnacja rednio ciemna
+1F6C0-1F3FF	osoba biorca kpiel karnacja ciemna
+1F6C1	wanna
+1F6C2	kontrola paszportowa
+1F6C3	kontrola celna
+1F6C4	odbir bagau
+1F6C5	przechowalnia bagau
+1F6CB	kanapa i lampa
+1F6CC	osoba w ku
+1F6CC-1F3FB	osoba w ku karnacja jasna
+1F6CC-1F3FC	osoba w ku karnacja rednio jasna
+1F6CC-1F3FD	osoba w ku karnacja rednia
+1F6CC-1F3FE	osoba w ku karnacja rednio ciemna
+1F6CC-1F3FF	osoba w ku karnacja ciemna
+1F6CD	torby na zakupy
+1F6CE	dzwonek w recepcji
+1F6CF	ko
+1F6D0	miejsce kultu
+1F6D1	znak stopu
+1F6D2	wzek sklepowy
+1F6D5	witynia hinduistyczna
+1F6D6	chata
+1F6D7	winda
+1F6E0	mot i klucz
+1F6E1	tarcza
+1F6E2	beczka oleju
+1F6E3	autostrada
+1F6E4	tor kolejowy
+1F6E5	motorwka
+1F6E9	may samolot
+1F6EB	odlot samolotu
+1F6EC	przylot samolotu
+1F6F0	satelita
+1F6F3	statek pasaerski
+1F6F4	hulajnoga
+1F6F5	skuter
+1F6F6	kajak
+1F6F7	sanie
+1F6F8	latajcy talerz
+1F6F9	deskorolka
+1F6FA	autoriksza
+1F6FB	pick-up
+1F6FC	wrotka
+1F7E0	pomaraczowe koo
+1F7E1	te koo
+1F7E2	zielone koo
+1F7E3	fioletowe koo
+1F7E4	brzowe koo
+1F7E5	czerwony kwadrat
+1F7E6	niebieski kwadrat
+1F7E7	pomaraczowy kwadrat
+1F7E8	ty kwadrat
+1F7E9	zielony kwadrat
+1F7EA	fioletowy kwadrat
+1F7EB	brzowy kwadrat
+1F90C	zczone palce
+1F90C-1F3FB	zczone palce karnacja jasna
+1F90C-1F3FC	zczone palce karnacja rednio jasna
+1F90C-1F3FD	zczone palce karnacja rednia
+1F90C-1F3FE	zczone palce karnacja rednio ciemna
+1F90C-1F3FF	zczone palce karnacja ciemna
+1F90D	biae serce
+1F90E	brzowe serce
+1F90F	do z gestem troch
+1F90F-1F3FB	do z gestem troch karnacja jasna
+1F90F-1F3FC	do z gestem troch karnacja rednio jasna
+1F90F-1F3FD	do z gestem troch karnacja rednia
+1F90F-1F3FE	do z gestem troch karnacja rednio ciemna
+1F90F-1F3FF	do z gestem troch karnacja ciemna
+1F910	twarz z zamkiem byskawicznym na ustach
+1F911	twarz z pienidzmi na ustach
+1F912	twarz z termometrem
+1F913	kujon
+1F914	mylca twarz
+1F915	twarz z bandaem
+1F916	gowa robota
+1F917	twarz z gestem przytulania
+1F918	gest rogw
+1F918-1F3FB	gest rogw karnacja jasna
+1F918-1F3FC	gest rogw karnacja rednio jasna
+1F918-1F3FD	gest rogw karnacja rednia
+1F918-1F3FE	gest rogw karnacja rednio ciemna
+1F918-1F3FF	gest rogw karnacja ciemna
+1F919	do w gecie Zadzwo do mnie
+1F919-1F3FB	do w gecie Zadzwo do mnie karnacja jasna
+1F919-1F3FC	do w gecie Zadzwo do mnie karnacja rednio jasna
+1F919-1F3FD	do w gecie Zadzwo do mnie karnacja rednia
+1F919-1F3FE	do w gecie Zadzwo do mnie karnacja rednio ciemna
+1F919-1F3FF	do w gecie Zadzwo do mnie karnacja ciemna
+1F91A	wzniesiony grzbiet doni
+1F91A-1F3FB	wzniesiony grzbiet doni karnacja jasna
+1F91A-1F3FC	wzniesiony grzbiet doni karnacja rednio jasna
+1F91A-1F3FD	wzniesiony grzbiet doni karnacja rednia
+1F91A-1F3FE	wzniesiony grzbiet doni karnacja rednio ciemna
+1F91A-1F3FF	wzniesiony grzbiet doni karnacja ciemna
+1F91B	pi skierowana w lewo
+1F91B-1F3FB	pi skierowana w lewo karnacja jasna
+1F91B-1F3FC	pi skierowana w lewo karnacja rednio jasna
+1F91B-1F3FD	pi skierowana w lewo karnacja rednia
+1F91B-1F3FE	pi skierowana w lewo karnacja rednio ciemna
+1F91B-1F3FF	pi skierowana w lewo karnacja ciemna
+1F91C	pi skierowana w prawo
+1F91C-1F3FB	pi skierowana w prawo karnacja jasna
+1F91C-1F3FC	pi skierowana w prawo karnacja rednio jasna
+1F91C-1F3FD	pi skierowana w prawo karnacja rednia
+1F91C-1F3FE	pi skierowana w prawo karnacja rednio ciemna
+1F91C-1F3FF	pi skierowana w prawo karnacja ciemna
+1F91D	ucisk doni
+1F91E	skrzyowane palce
+1F91E-1F3FB	skrzyowane palce karnacja jasna
+1F91E-1F3FC	skrzyowane palce karnacja rednio jasna
+1F91E-1F3FD	skrzyowane palce karnacja rednia
+1F91E-1F3FE	skrzyowane palce karnacja rednio ciemna
+1F91E-1F3FF	skrzyowane palce karnacja ciemna
+1F91F	gest Kocham ci
+1F91F-1F3FB	gest Kocham ci karnacja jasna
+1F91F-1F3FC	gest Kocham ci karnacja rednio jasna
+1F91F-1F3FD	gest Kocham ci karnacja rednia
+1F91F-1F3FE	gest Kocham ci karnacja rednio ciemna
+1F91F-1F3FF	gest Kocham ci karnacja ciemna
+1F920	gowa w kapeluszu kowbojskim
+1F921	twarz klauna
+1F922	twarz z mdociami
+1F923	tarza si ze miechu
+1F924	linica si twarz
+1F925	twarz kamcy
+1F926	osoba trzymajca si za czoo
+1F926-200D-2640	kobieta trzymajca si za czoo
+1F926-200D-2642	mczyzna trzymajcy si za czoo
+1F926-1F3FB	osoba trzymajca si za czoo karnacja jasna
+1F926-1F3FB-200D-2640	kobieta trzymajca si za czoo karnacja jasna
+1F926-1F3FB-200D-2642	mczyzna trzymajcy si za czoo karnacja jasna
+1F926-1F3FC	osoba trzymajca si za czoo karnacja rednio jasna
+1F926-1F3FC-200D-2640	kobieta trzymajca si za czoo karnacja rednio jasna
+1F926-1F3FC-200D-2642	mczyzna trzymajcy si za czoo karnacja rednio jasna
+1F926-1F3FD	osoba trzymajca si za czoo karnacja rednia
+1F926-1F3FD-200D-2640	kobieta trzymajca si za czoo karnacja rednia
+1F926-1F3FD-200D-2642	mczyzna trzymajcy si za czoo karnacja rednia
+1F926-1F3FE	osoba trzymajca si za czoo karnacja rednio ciemna
+1F926-1F3FE-200D-2640	kobieta trzymajca si za czoo karnacja rednio ciemna
+1F926-1F3FE-200D-2642	mczyzna trzymajcy si za czoo karnacja rednio ciemna
+1F926-1F3FF	osoba trzymajca si za czoo karnacja ciemna
+1F926-1F3FF-200D-2640	kobieta trzymajca si za czoo karnacja ciemna
+1F926-1F3FF-200D-2642	mczyzna trzymajcy si za czoo karnacja ciemna
+1F927	kichajca twarz
+1F928	twarz z podniesion brwi
+1F929	zafascynowany
+1F92A	szalona twarz
+1F92B	uciszajca twarz
+1F92C	twarz z symbolami na ustach
+1F92D	twarz z rk na ustach
+1F92E	wymiotujca twarz
+1F92F	eksplodujca gowa
+1F930	kobieta w ciy
+1F930-1F3FB	kobieta w ciy karnacja jasna
+1F930-1F3FC	kobieta w ciy karnacja rednio jasna
+1F930-1F3FD	kobieta w ciy karnacja rednia
+1F930-1F3FE	kobieta w ciy karnacja rednio ciemna
+1F930-1F3FF	kobieta w ciy karnacja ciemna
+1F931	karmienie piersi
+1F931-1F3FB	karmienie piersi karnacja jasna
+1F931-1F3FC	karmienie piersi karnacja rednio jasna
+1F931-1F3FD	karmienie piersi karnacja rednia
+1F931-1F3FE	karmienie piersi karnacja rednio ciemna
+1F931-1F3FF	karmienie piersi karnacja ciemna
+1F932	donie do gry razem
+1F932-1F3FB	donie do gry razem karnacja jasna
+1F932-1F3FC	donie do gry razem karnacja rednio jasna
+1F932-1F3FD	donie do gry razem karnacja rednia
+1F932-1F3FE	donie do gry razem karnacja rednio ciemna
+1F932-1F3FF	donie do gry razem karnacja ciemna
+1F933	selfie
+1F933-1F3FB	selfie karnacja jasna
+1F933-1F3FC	selfie karnacja rednio jasna
+1F933-1F3FD	selfie karnacja rednia
+1F933-1F3FE	selfie karnacja rednio ciemna
+1F933-1F3FF	selfie karnacja ciemna
+1F934	ksi
+1F934-1F3FB	ksi karnacja jasna
+1F934-1F3FC	ksi karnacja rednio jasna
+1F934-1F3FD	ksi karnacja rednia
+1F934-1F3FE	ksi karnacja rednio ciemna
+1F934-1F3FF	ksi karnacja ciemna
+1F935	osoba w smokingu
+1F935-200D-2640	kobieta w smokingu
+1F935-200D-2642	mczyzna w smokingu
+1F935-1F3FB	osoba w smokingu karnacja jasna
+1F935-1F3FB-200D-2640	kobieta w smokingu karnacja jasna
+1F935-1F3FB-200D-2642	mczyzna w smokingu karnacja jasna
+1F935-1F3FC	osoba w smokingu karnacja rednio jasna
+1F935-1F3FC-200D-2640	kobieta w smokingu karnacja rednio jasna
+1F935-1F3FC-200D-2642	mczyzna w smokingu karnacja rednio jasna
+1F935-1F3FD	osoba w smokingu karnacja rednia
+1F935-1F3FD-200D-2640	kobieta w smokingu karnacja rednia
+1F935-1F3FD-200D-2642	mczyzna w smokingu karnacja rednia
+1F935-1F3FE	osoba w smokingu karnacja rednio ciemna
+1F935-1F3FE-200D-2640	kobieta w smokingu karnacja rednio ciemna
+1F935-1F3FE-200D-2642	mczyzna w smokingu karnacja rednio ciemna
+1F935-1F3FF	osoba w smokingu karnacja ciemna
+1F935-1F3FF-200D-2640	kobieta w smokingu karnacja ciemna
+1F935-1F3FF-200D-2642	mczyzna w smokingu karnacja ciemna
+1F936	ona w. Mikoaja
+1F936-1F3FB	ona w. Mikoaja karnacja jasna
+1F936-1F3FC	ona w. Mikoaja karnacja rednio jasna
+1F936-1F3FD	ona w. Mikoaja karnacja rednia
+1F936-1F3FE	ona w. Mikoaja karnacja rednio ciemna
+1F936-1F3FF	ona w. Mikoaja karnacja ciemna
+1F937	osoba wzruszajca ramionami
+1F937-200D-2640	kobieta wzruszajca ramionami
+1F937-200D-2642	mczyzna wzruszajcy ramionami
+1F937-1F3FB	osoba wzruszajca ramionami karnacja jasna
+1F937-1F3FB-200D-2640	kobieta wzruszajca ramionami karnacja jasna
+1F937-1F3FB-200D-2642	mczyzna wzruszajcy ramionami karnacja jasna
+1F937-1F3FC	osoba wzruszajca ramionami karnacja rednio jasna
+1F937-1F3FC-200D-2640	kobieta wzruszajca ramionami karnacja rednio jasna
+1F937-1F3FC-200D-2642	mczyzna wzruszajcy ramionami karnacja rednio jasna
+1F937-1F3FD	osoba wzruszajca ramionami karnacja rednia
+1F937-1F3FD-200D-2640	kobieta wzruszajca ramionami karnacja rednia
+1F937-1F3FD-200D-2642	mczyzna wzruszajcy ramionami karnacja rednia
+1F937-1F3FE	osoba wzruszajca ramionami karnacja rednio ciemna
+1F937-1F3FE-200D-2640	kobieta wzruszajca ramionami karnacja rednio ciemna
+1F937-1F3FE-200D-2642	mczyzna wzruszajcy ramionami karnacja rednio ciemna
+1F937-1F3FF	osoba wzruszajca ramionami karnacja ciemna
+1F937-1F3FF-200D-2640	kobieta wzruszajca ramionami karnacja ciemna
+1F937-1F3FF-200D-2642	mczyzna wzruszajcy ramionami karnacja ciemna
+1F938	osoba robica gwiazd
+1F938-200D-2640	kobieta robica gwiazd
+1F938-200D-2642	mczyzna robicy gwiazd
+1F938-1F3FB	osoba robica gwiazd karnacja jasna
+1F938-1F3FB-200D-2640	kobieta robica gwiazd karnacja jasna
+1F938-1F3FB-200D-2642	mczyzna robicy gwiazd karnacja jasna
+1F938-1F3FC	osoba robica gwiazd karnacja rednio jasna
+1F938-1F3FC-200D-2640	kobieta robica gwiazd karnacja rednio jasna
+1F938-1F3FC-200D-2642	mczyzna robicy gwiazd karnacja rednio jasna
+1F938-1F3FD	osoba robica gwiazd karnacja rednia
+1F938-1F3FD-200D-2640	kobieta robica gwiazd karnacja rednia
+1F938-1F3FD-200D-2642	mczyzna robicy gwiazd karnacja rednia
+1F938-1F3FE	osoba robica gwiazd karnacja rednio ciemna
+1F938-1F3FE-200D-2640	kobieta robica gwiazd karnacja rednio ciemna
+1F938-1F3FE-200D-2642	mczyzna robicy gwiazd karnacja rednio ciemna
+1F938-1F3FF	osoba robica gwiazd karnacja ciemna
+1F938-1F3FF-200D-2640	kobieta robica gwiazd karnacja ciemna
+1F938-1F3FF-200D-2642	mczyzna robicy gwiazd karnacja ciemna
+1F939	onglujca osoba
+1F939-200D-2640	onglujca kobieta
+1F939-200D-2642	onglujcy mczyzna
+1F939-1F3FB	onglujca osoba karnacja jasna
+1F939-1F3FB-200D-2640	onglujca kobieta karnacja jasna
+1F939-1F3FB-200D-2642	onglujcy mczyzna karnacja jasna
+1F939-1F3FC	onglujca osoba karnacja rednio jasna
+1F939-1F3FC-200D-2640	onglujca kobieta karnacja rednio jasna
+1F939-1F3FC-200D-2642	onglujcy mczyzna karnacja rednio jasna
+1F939-1F3FD	onglujca osoba karnacja rednia
+1F939-1F3FD-200D-2640	onglujca kobieta karnacja rednia
+1F939-1F3FD-200D-2642	onglujcy mczyzna karnacja rednia
+1F939-1F3FE	onglujca osoba karnacja rednio ciemna
+1F939-1F3FE-200D-2640	onglujca kobieta karnacja rednio ciemna
+1F939-1F3FE-200D-2642	onglujcy mczyzna karnacja rednio ciemna
+1F939-1F3FF	onglujca osoba karnacja ciemna
+1F939-1F3FF-200D-2640	onglujca kobieta karnacja ciemna
+1F939-1F3FF-200D-2642	onglujcy mczyzna karnacja ciemna
+1F93A	osoba uprawiajca szermierk
+1F93C	osoby uprawiajce zapasy
+1F93C-200D-2640	kobiety uprawiajce zapasy
+1F93C-200D-2642	mczyni uprawiajcy zapasy
+1F93D	osoba grajca w pik wodn
+1F93D-200D-2640	kobieta grajca w pik wodn
+1F93D-200D-2642	mczyzna grajcy w pik wodn
+1F93D-1F3FB	osoba grajca w pik wodn karnacja jasna
+1F93D-1F3FB-200D-2640	kobieta grajca w pik wodn karnacja jasna
+1F93D-1F3FB-200D-2642	mczyzna grajcy w pik wodn karnacja jasna
+1F93D-1F3FC	osoba grajca w pik wodn karnacja rednio jasna
+1F93D-1F3FC-200D-2640	kobieta grajca w pik wodn karnacja rednio jasna
+1F93D-1F3FC-200D-2642	mczyzna grajcy w pik wodn karnacja rednio jasna
+1F93D-1F3FD	osoba grajca w pik wodn karnacja rednia
+1F93D-1F3FD-200D-2640	kobieta grajca w pik wodn karnacja rednia
+1F93D-1F3FD-200D-2642	mczyzna grajcy w pik wodn karnacja rednia
+1F93D-1F3FE	osoba grajca w pik wodn karnacja rednio ciemna
+1F93D-1F3FE-200D-2640	kobieta grajca w pik wodn karnacja rednio ciemna
+1F93D-1F3FE-200D-2642	mczyzna grajcy w pik wodn karnacja rednio ciemna
+1F93D-1F3FF	osoba grajca w pik wodn karnacja ciemna
+1F93D-1F3FF-200D-2640	kobieta grajca w pik wodn karnacja ciemna
+1F93D-1F3FF-200D-2642	mczyzna grajcy w pik wodn karnacja ciemna
+1F93E	osoba grajca w pik rczn
+1F93E-200D-2640	kobieta grajca w pik rczn
+1F93E-200D-2642	mczyzna grajcy w pik rczn
+1F93E-1F3FB	osoba grajca w pik rczn karnacja jasna
+1F93E-1F3FB-200D-2640	kobieta grajca w pik rczn karnacja jasna
+1F93E-1F3FB-200D-2642	mczyzna grajcy w pik rczn karnacja jasna
+1F93E-1F3FC	osoba grajca w pik rczn karnacja rednio jasna
+1F93E-1F3FC-200D-2640	kobieta grajca w pik rczn karnacja rednio jasna
+1F93E-1F3FC-200D-2642	mczyzna grajcy w pik rczn karnacja rednio jasna
+1F93E-1F3FD	osoba grajca w pik rczn karnacja rednia
+1F93E-1F3FD-200D-2640	kobieta grajca w pik rczn karnacja rednia
+1F93E-1F3FD-200D-2642	mczyzna grajcy w pik rczn karnacja rednia
+1F93E-1F3FE	osoba grajca w pik rczn karnacja rednio ciemna
+1F93E-1F3FE-200D-2640	kobieta grajca w pik rczn karnacja rednio ciemna
+1F93E-1F3FE-200D-2642	mczyzna grajcy w pik rczn karnacja rednio ciemna
+1F93E-1F3FF	osoba grajca w pik rczn karnacja ciemna
+1F93E-1F3FF-200D-2640	kobieta grajca w pik rczn karnacja ciemna
+1F93E-1F3FF-200D-2642	mczyzna grajcy w pik rczn karnacja ciemna
+1F93F	maska do nurkowania
+1F940	zwidy kwiat
+1F941	bben
+1F942	stukajce si kieliszki
+1F943	szklanka z grubym dnem
+1F944	yka
+1F945	bramka
+1F947	medal za 1. miejsce
+1F948	medal za 2. miejsce
+1F949	medal za 3. miejsce
+1F94A	rkawica bokserska
+1F94B	strj do sztuk walki
+1F94C	kamie do curlingu
+1F94D	lacrosse
+1F94E	softball
+1F94F	frisbee
+1F950	rogalik
+1F951	awokado
+1F952	ogrek
+1F953	boczek
+1F954	ziemniak
+1F955	marchew
+1F956	bagietka
+1F957	saatka
+1F958	danie z patelni
+1F959	wrap
+1F95A	jajko
+1F95B	szklanka mleka
+1F95C	orzeszki ziemne
+1F95D	owoc kiwi
+1F95E	naleniki
+1F95F	pierg
+1F960	ciastko z wrb
+1F961	pudeko na wynos
+1F962	paeczki
+1F963	miska z yk
+1F964	szklanka ze somk
+1F965	kokos
+1F966	broku
+1F967	ciasto
+1F968	precel
+1F969	kawaek misa
+1F96A	kanapka
+1F96B	jedzenie w puszce
+1F96C	zielenina liciasta
+1F96D	mango
+1F96E	ciasteczko ksiycowe
+1F96F	bajgiel
+1F970	umiechnita buka z sercami
+1F971	ziewajca twarz
+1F972	umiechnita buka ze z
+1F973	witujca twarz
+1F974	zamroczona twarz
+1F975	rozgrzana twarz
+1F976	zmarznita twarz
+1F977	ninja
+1F977-1F3FB	ninja karnacja jasna
+1F977-1F3FC	ninja karnacja rednio jasna
+1F977-1F3FD	ninja karnacja rednia
+1F977-1F3FE	ninja karnacja rednio ciemna
+1F977-1F3FF	ninja karnacja ciemna
+1F978	buka w przebraniu
+1F97A	bagajca twarz
+1F97B	sari
+1F97C	biay fartuch
+1F97D	okulary ochronne
+1F97E	but turystyczny
+1F97F	baleriny
+1F980	krab
+1F981	gowa lwa
+1F982	brzowy skorpion
+1F983	indyk
+1F984	gowa jednoroca
+1F985	orze
+1F986	kaczka
+1F987	nietoperz
+1F988	rekin
+1F989	sowa
+1F98A	gowa lisa
+1F98B	motyl
+1F98C	jele
+1F98D	goryl
+1F98E	jaszczurka
+1F98F	nosoroec
+1F990	krewetka
+1F991	kaamarnica
+1F992	yrafa
+1F993	zebra
+1F994	je
+1F995	zauropod
+1F996	t-rex
+1F997	wierszcz
+1F998	kangur
+1F999	lama
+1F99A	paw
+1F99B	hipopotam
+1F99C	papuga
+1F99D	szop
+1F99E	homar
+1F99F	komar
+1F9A0	zarazek
+1F9A1	borsuk
+1F9A2	abd
+1F9A3	mamut
+1F9A4	dodo
+1F9A5	leniwiec
+1F9A6	wydra
+1F9A7	orangutan
+1F9A8	skunks
+1F9A9	flaming
+1F9AA	ostryga
+1F9AB	bbr
+1F9AC	ubr
+1F9AD	foka
+1F9AE	pies przewodnik
+1F9AF	biaa laska
+1F9B0	rude wosy
+1F9B1	krcone wosy
+1F9B2	ysy
+1F9B3	biae wosy
+1F9B4	ko
+1F9B5	noga
+1F9B5-1F3FB	noga karnacja jasna
+1F9B5-1F3FC	noga karnacja rednio jasna
+1F9B5-1F3FD	noga karnacja rednia
+1F9B5-1F3FE	noga karnacja rednio ciemna
+1F9B5-1F3FF	noga karnacja ciemna
+1F9B6	stopa
+1F9B6-1F3FB	stopa karnacja jasna
+1F9B6-1F3FC	stopa karnacja rednio jasna
+1F9B6-1F3FD	stopa karnacja rednia
+1F9B6-1F3FE	stopa karnacja rednio ciemna
+1F9B6-1F3FF	stopa karnacja ciemna
+1F9B7	zb
+1F9B8	superbohater
+1F9B8-200D-2640	kobieta superbohater
+1F9B8-200D-2642	mczyzna superbohater
+1F9B8-1F3FB	superbohater karnacja jasna
+1F9B8-1F3FB-200D-2640	kobieta superbohater karnacja jasna
+1F9B8-1F3FB-200D-2642	mczyzna superbohater karnacja jasna
+1F9B8-1F3FC	superbohater karnacja rednio jasna
+1F9B8-1F3FC-200D-2640	kobieta superbohater karnacja rednio jasna
+1F9B8-1F3FC-200D-2642	mczyzna superbohater karnacja rednio jasna
+1F9B8-1F3FD	superbohater karnacja rednia
+1F9B8-1F3FD-200D-2640	kobieta superbohater karnacja rednia
+1F9B8-1F3FD-200D-2642	mczyzna superbohater karnacja rednia
+1F9B8-1F3FE	superbohater karnacja rednio ciemna
+1F9B8-1F3FE-200D-2640	kobieta superbohater karnacja rednio ciemna
+1F9B8-1F3FE-200D-2642	mczyzna superbohater karnacja rednio ciemna
+1F9B8-1F3FF	superbohater karnacja ciemna
+1F9B8-1F3FF-200D-2640	kobieta superbohater karnacja ciemna
+1F9B8-1F3FF-200D-2642	mczyzna superbohater karnacja ciemna
+1F9B9	superotr
+1F9B9-200D-2640	kobieta superotr
+1F9B9-200D-2642	mczyzna superotr
+1F9B9-1F3FB	superotr karnacja jasna
+1F9B9-1F3FB-200D-2640	kobieta superotr karnacja jasna
+1F9B9-1F3FB-200D-2642	mczyzna superotr karnacja jasna
+1F9B9-1F3FC	superotr karnacja rednio jasna
+1F9B9-1F3FC-200D-2640	kobieta superotr karnacja rednio jasna
+1F9B9-1F3FC-200D-2642	mczyzna superotr karnacja rednio jasna
+1F9B9-1F3FD	superotr karnacja rednia
+1F9B9-1F3FD-200D-2640	kobieta superotr karnacja rednia
+1F9B9-1F3FD-200D-2642	mczyzna superotr karnacja rednia
+1F9B9-1F3FE	superotr karnacja rednio ciemna
+1F9B9-1F3FE-200D-2640	kobieta superotr karnacja rednio ciemna
+1F9B9-1F3FE-200D-2642	mczyzna superotr karnacja rednio ciemna
+1F9B9-1F3FF	superotr karnacja ciemna
+1F9B9-1F3FF-200D-2640	kobieta superotr karnacja ciemna
+1F9B9-1F3FF-200D-2642	mczyzna superotr karnacja ciemna
+1F9BA	kamizelka ratunkowa
+1F9BB	ucho z aparatem suchowym
+1F9BB-1F3FB	ucho z aparatem suchowym karnacja jasna
+1F9BB-1F3FC	ucho z aparatem suchowym karnacja rednio jasna
+1F9BB-1F3FD	ucho z aparatem suchowym karnacja rednia
+1F9BB-1F3FE	ucho z aparatem suchowym karnacja rednio ciemna
+1F9BB-1F3FF	ucho z aparatem suchowym karnacja ciemna
+1F9BC	wzek inwalidzki elektryczny
+1F9BD	wzek inwalidzki rczny
+1F9BE	mechaniczne rami
+1F9BF	proteza nogi
+1F9C0	kawaek sera
+1F9C1	babeczka
+1F9C2	sl
+1F9C3	napj w kartoniku
+1F9C4	czosnek
+1F9C5	cebula
+1F9C6	falafel
+1F9C7	gofr
+1F9C8	maso
+1F9C9	yerba mate
+1F9CA	kostka lodu
+1F9CB	napj bubble tea
+1F9CD	stojca osoba
+1F9CD-200D-2640	stojca kobieta
+1F9CD-200D-2642	stojcy mczyzna
+1F9CD-1F3FB	stojca osoba karnacja jasna
+1F9CD-1F3FB-200D-2640	stojca kobieta karnacja jasna
+1F9CD-1F3FB-200D-2642	stojcy mczyzna karnacja jasna
+1F9CD-1F3FC	stojca osoba karnacja rednio jasna
+1F9CD-1F3FC-200D-2640	stojca kobieta karnacja rednio jasna
+1F9CD-1F3FC-200D-2642	stojcy mczyzna karnacja rednio jasna
+1F9CD-1F3FD	stojca osoba karnacja rednia
+1F9CD-1F3FD-200D-2640	stojca kobieta karnacja rednia
+1F9CD-1F3FD-200D-2642	stojcy mczyzna karnacja rednia
+1F9CD-1F3FE	stojca osoba karnacja rednio ciemna
+1F9CD-1F3FE-200D-2640	stojca kobieta karnacja rednio ciemna
+1F9CD-1F3FE-200D-2642	stojcy mczyzna karnacja rednio ciemna
+1F9CD-1F3FF	stojca osoba karnacja ciemna
+1F9CD-1F3FF-200D-2640	stojca kobieta karnacja ciemna
+1F9CD-1F3FF-200D-2642	stojcy mczyzna karnacja ciemna
+1F9CE	klczca osoba
+1F9CE-200D-2640	klczca kobieta
+1F9CE-200D-2642	klczcy mczyzna
+1F9CE-1F3FB	klczca osoba karnacja jasna
+1F9CE-1F3FB-200D-2640	klczca kobieta karnacja jasna
+1F9CE-1F3FB-200D-2642	klczcy mczyzna karnacja jasna
+1F9CE-1F3FC	klczca osoba karnacja rednio jasna
+1F9CE-1F3FC-200D-2640	klczca kobieta karnacja rednio jasna
+1F9CE-1F3FC-200D-2642	klczcy mczyzna karnacja rednio jasna
+1F9CE-1F3FD	klczca osoba karnacja rednia
+1F9CE-1F3FD-200D-2640	klczca kobieta karnacja rednia
+1F9CE-1F3FD-200D-2642	klczcy mczyzna karnacja rednia
+1F9CE-1F3FE	klczca osoba karnacja rednio ciemna
+1F9CE-1F3FE-200D-2640	klczca kobieta karnacja rednio ciemna
+1F9CE-1F3FE-200D-2642	klczcy mczyzna karnacja rednio ciemna
+1F9CE-1F3FF	klczca osoba karnacja ciemna
+1F9CE-1F3FF-200D-2640	klczca kobieta karnacja ciemna
+1F9CE-1F3FF-200D-2642	klczcy mczyzna karnacja ciemna
+1F9CF	osoba gucha
+1F9CF-200D-2640	gucha kobieta
+1F9CF-200D-2642	guchy mczyzna
+1F9CF-1F3FB	osoba gucha karnacja jasna
+1F9CF-1F3FB-200D-2640	gucha kobieta karnacja jasna
+1F9CF-1F3FB-200D-2642	guchy mczyzna karnacja jasna
+1F9CF-1F3FC	osoba gucha karnacja rednio jasna
+1F9CF-1F3FC-200D-2640	gucha kobieta karnacja rednio jasna
+1F9CF-1F3FC-200D-2642	guchy mczyzna karnacja rednio jasna
+1F9CF-1F3FD	osoba gucha karnacja rednia
+1F9CF-1F3FD-200D-2640	gucha kobieta karnacja rednia
+1F9CF-1F3FD-200D-2642	guchy mczyzna karnacja rednia
+1F9CF-1F3FE	osoba gucha karnacja rednio ciemna
+1F9CF-1F3FE-200D-2640	gucha kobieta karnacja rednio ciemna
+1F9CF-1F3FE-200D-2642	guchy mczyzna karnacja rednio ciemna
+1F9CF-1F3FF	osoba gucha karnacja ciemna
+1F9CF-1F3FF-200D-2640	gucha kobieta karnacja ciemna
+1F9CF-1F3FF-200D-2642	guchy mczyzna karnacja ciemna
+1F9D0	twarz z monoklem
+1F9D1	dorosy
+1F9D1-200D-2695	pracownik suby zdrowia
+1F9D1-200D-2696	sdzia
+1F9D1-200D-2708	pilot
+1F9D1-200D-1F33E	rolnik
+1F9D1-200D-1F373	kucharz
+1F9D1-200D-1F37C	osoba karmica niemowl
+1F9D1-200D-1F384	Mikoajka
+1F9D1-200D-1F393	student
+1F9D1-200D-1F3A4	piosenkarz
+1F9D1-200D-1F3A8	artysta
+1F9D1-200D-1F3EB	nauczyciel
+1F9D1-200D-1F3ED	pracownik fabryki
+1F9D1-200D-1F4BB	technolog
+1F9D1-200D-1F4BC	pracownik biurowy
+1F9D1-200D-1F527	mechanik
+1F9D1-200D-1F52C	naukowiec
+1F9D1-200D-1F680	astronauta
+1F9D1-200D-1F692	straak
+1F9D1-200D-1F91D-200D-1F9D1	osoby trzymajce si za rce
+1F9D1-200D-1F9AF	osoba z bia lask
+1F9D1-200D-1F9B0	dorosy rude wosy
+1F9D1-200D-1F9B1	dorosy krcone wosy
+1F9D1-200D-1F9B2	dorosy ysy
+1F9D1-200D-1F9B3	dorosy biae wosy
+1F9D1-200D-1F9BC	osoba na elektrycznym wzku inwalidzkim
+1F9D1-200D-1F9BD	osoba na wzku inwalidzkim
+1F9D1-1F3FB	dorosy karnacja jasna
+1F9D1-1F3FB-200D-2695	pracownik suby zdrowia karnacja jasna
+1F9D1-1F3FB-200D-2696	sdzia karnacja jasna
+1F9D1-1F3FB-200D-2708	pilot karnacja jasna
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	pocaunek dorosy dorosy karnacja jasna i karnacja rednio jasna
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	pocaunek dorosy dorosy karnacja jasna i karnacja rednia
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	pocaunek dorosy dorosy karnacja jasna i karnacja rednio ciemna
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	pocaunek dorosy dorosy karnacja jasna i karnacja ciemna
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	para z sercem dorosy dorosy karnacja jasna i karnacja rednio jasna
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	para z sercem dorosy dorosy karnacja jasna i karnacja rednia
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	para z sercem dorosy dorosy karnacja jasna i karnacja rednio ciemna
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	para z sercem dorosy dorosy karnacja jasna i karnacja ciemna
+1F9D1-1F3FB-200D-1F33E	rolnik karnacja jasna
+1F9D1-1F3FB-200D-1F373	kucharz karnacja jasna
+1F9D1-1F3FB-200D-1F37C	osoba karmica niemowl karnacja jasna
+1F9D1-1F3FB-200D-1F384	Mikoajka karnacja jasna
+1F9D1-1F3FB-200D-1F393	student karnacja jasna
+1F9D1-1F3FB-200D-1F3A4	piosenkarz karnacja jasna
+1F9D1-1F3FB-200D-1F3A8	artysta karnacja jasna
+1F9D1-1F3FB-200D-1F3EB	nauczyciel karnacja jasna
+1F9D1-1F3FB-200D-1F3ED	pracownik fabryki karnacja jasna
+1F9D1-1F3FB-200D-1F4BB	technolog karnacja jasna
+1F9D1-1F3FB-200D-1F4BC	pracownik biurowy karnacja jasna
+1F9D1-1F3FB-200D-1F527	mechanik karnacja jasna
+1F9D1-1F3FB-200D-1F52C	naukowiec karnacja jasna
+1F9D1-1F3FB-200D-1F680	astronauta karnacja jasna
+1F9D1-1F3FB-200D-1F692	straak karnacja jasna
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	osoby trzymajce si za rce karnacja jasna
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	osoby trzymajce si za rce karnacja jasna i karnacja rednio jasna
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	osoby trzymajce si za rce karnacja jasna i karnacja rednia
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	osoby trzymajce si za rce karnacja jasna i karnacja rednio ciemna
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	osoby trzymajce si za rce karnacja jasna i karnacja ciemna
+1F9D1-1F3FB-200D-1F9AF	osoba z bia lask karnacja jasna
+1F9D1-1F3FB-200D-1F9B0	dorosy karnacja jasna i rude wosy
+1F9D1-1F3FB-200D-1F9B1	dorosy karnacja jasna i krcone wosy
+1F9D1-1F3FB-200D-1F9B2	dorosy karnacja jasna i ysy
+1F9D1-1F3FB-200D-1F9B3	dorosy karnacja jasna i biae wosy
+1F9D1-1F3FB-200D-1F9BC	osoba na elektrycznym wzku inwalidzkim karnacja jasna
+1F9D1-1F3FB-200D-1F9BD	osoba na wzku inwalidzkim karnacja jasna
+1F9D1-1F3FC	dorosy karnacja rednio jasna
+1F9D1-1F3FC-200D-2695	pracownik suby zdrowia karnacja rednio jasna
+1F9D1-1F3FC-200D-2696	sdzia karnacja rednio jasna
+1F9D1-1F3FC-200D-2708	pilot karnacja rednio jasna
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	pocaunek dorosy dorosy karnacja rednio jasna i karnacja jasna
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	pocaunek dorosy dorosy karnacja rednio jasna i karnacja rednia
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	pocaunek dorosy dorosy karnacja rednio jasna i karnacja rednio ciemna
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	pocaunek dorosy dorosy karnacja rednio jasna i karnacja ciemna
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	para z sercem dorosy dorosy karnacja rednio jasna i karnacja jasna
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	para z sercem dorosy dorosy karnacja rednio jasna i karnacja rednia
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	para z sercem dorosy dorosy karnacja rednio jasna i karnacja rednio ciemna
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	para z sercem dorosy dorosy karnacja rednio jasna i karnacja ciemna
+1F9D1-1F3FC-200D-1F33E	rolnik karnacja rednio jasna
+1F9D1-1F3FC-200D-1F373	kucharz karnacja rednio jasna
+1F9D1-1F3FC-200D-1F37C	osoba karmica niemowl karnacja rednio jasna
+1F9D1-1F3FC-200D-1F384	Mikoajka karnacja rednio jasna
+1F9D1-1F3FC-200D-1F393	student karnacja rednio jasna
+1F9D1-1F3FC-200D-1F3A4	piosenkarz karnacja rednio jasna
+1F9D1-1F3FC-200D-1F3A8	artysta karnacja rednio jasna
+1F9D1-1F3FC-200D-1F3EB	nauczyciel karnacja rednio jasna
+1F9D1-1F3FC-200D-1F3ED	pracownik fabryki karnacja rednio jasna
+1F9D1-1F3FC-200D-1F4BB	technolog karnacja rednio jasna
+1F9D1-1F3FC-200D-1F4BC	pracownik biurowy karnacja rednio jasna
+1F9D1-1F3FC-200D-1F527	mechanik karnacja rednio jasna
+1F9D1-1F3FC-200D-1F52C	naukowiec karnacja rednio jasna
+1F9D1-1F3FC-200D-1F680	astronauta karnacja rednio jasna
+1F9D1-1F3FC-200D-1F692	straak karnacja rednio jasna
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	osoby trzymajce si za rce karnacja rednio jasna i karnacja jasna
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	osoby trzymajce si za rce karnacja rednio jasna
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	osoby trzymajce si za rce karnacja rednio jasna i karnacja rednia
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	osoby trzymajce si za rce karnacja rednio jasna i karnacja rednio ciemna
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	osoby trzymajce si za rce karnacja rednio jasna i karnacja ciemna
+1F9D1-1F3FC-200D-1F9AF	osoba z bia lask karnacja rednio jasna
+1F9D1-1F3FC-200D-1F9B0	dorosy karnacja rednio jasna i rude wosy
+1F9D1-1F3FC-200D-1F9B1	dorosy karnacja rednio jasna i krcone wosy
+1F9D1-1F3FC-200D-1F9B2	dorosy karnacja rednio jasna i ysy
+1F9D1-1F3FC-200D-1F9B3	dorosy karnacja rednio jasna i biae wosy
+1F9D1-1F3FC-200D-1F9BC	osoba na elektrycznym wzku inwalidzkim karnacja rednio jasna
+1F9D1-1F3FC-200D-1F9BD	osoba na wzku inwalidzkim karnacja rednio jasna
+1F9D1-1F3FD	dorosy karnacja rednia
+1F9D1-1F3FD-200D-2695	pracownik suby zdrowia karnacja rednia
+1F9D1-1F3FD-200D-2696	sdzia karnacja rednia
+1F9D1-1F3FD-200D-2708	pilot karnacja rednia
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	pocaunek dorosy dorosy karnacja rednia i karnacja jasna
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	pocaunek dorosy dorosy karnacja rednia i karnacja rednio jasna
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	pocaunek dorosy dorosy karnacja rednia i karnacja rednio ciemna
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	pocaunek dorosy dorosy karnacja rednia i karnacja ciemna
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	para z sercem dorosy dorosy karnacja rednia i karnacja jasna
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	para z sercem dorosy dorosy karnacja rednia i karnacja rednio jasna
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	para z sercem dorosy dorosy karnacja rednia i karnacja rednio ciemna
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	para z sercem dorosy dorosy karnacja rednia i karnacja ciemna
+1F9D1-1F3FD-200D-1F33E	rolnik karnacja rednia
+1F9D1-1F3FD-200D-1F373	kucharz karnacja rednia
+1F9D1-1F3FD-200D-1F37C	osoba karmica niemowl karnacja rednia
+1F9D1-1F3FD-200D-1F384	Mikoajka karnacja rednia
+1F9D1-1F3FD-200D-1F393	student karnacja rednia
+1F9D1-1F3FD-200D-1F3A4	piosenkarz karnacja rednia
+1F9D1-1F3FD-200D-1F3A8	artysta karnacja rednia
+1F9D1-1F3FD-200D-1F3EB	nauczyciel karnacja rednia
+1F9D1-1F3FD-200D-1F3ED	pracownik fabryki karnacja rednia
+1F9D1-1F3FD-200D-1F4BB	technolog karnacja rednia
+1F9D1-1F3FD-200D-1F4BC	pracownik biurowy karnacja rednia
+1F9D1-1F3FD-200D-1F527	mechanik karnacja rednia
+1F9D1-1F3FD-200D-1F52C	naukowiec karnacja rednia
+1F9D1-1F3FD-200D-1F680	astronauta karnacja rednia
+1F9D1-1F3FD-200D-1F692	straak karnacja rednia
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	osoby trzymajce si za rce karnacja rednia i karnacja jasna
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	osoby trzymajce si za rce karnacja rednia i karnacja rednio jasna
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	osoby trzymajce si za rce karnacja rednia
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	osoby trzymajce si za rce karnacja rednia i karnacja rednio ciemna
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	osoby trzymajce si za rce karnacja rednia i karnacja ciemna
+1F9D1-1F3FD-200D-1F9AF	osoba z bia lask karnacja rednia
+1F9D1-1F3FD-200D-1F9B0	dorosy karnacja rednia i rude wosy
+1F9D1-1F3FD-200D-1F9B1	dorosy karnacja rednia i krcone wosy
+1F9D1-1F3FD-200D-1F9B2	dorosy karnacja rednia i ysy
+1F9D1-1F3FD-200D-1F9B3	dorosy karnacja rednia i biae wosy
+1F9D1-1F3FD-200D-1F9BC	osoba na elektrycznym wzku inwalidzkim karnacja rednia
+1F9D1-1F3FD-200D-1F9BD	osoba na wzku inwalidzkim karnacja rednia
+1F9D1-1F3FE	dorosy karnacja rednio ciemna
+1F9D1-1F3FE-200D-2695	pracownik suby zdrowia karnacja rednio ciemna
+1F9D1-1F3FE-200D-2696	sdzia karnacja rednio ciemna
+1F9D1-1F3FE-200D-2708	pilot karnacja rednio ciemna
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	pocaunek dorosy dorosy karnacja rednio ciemna i karnacja jasna
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	pocaunek dorosy dorosy karnacja rednio ciemna i karnacja rednio jasna
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	pocaunek dorosy dorosy karnacja rednio ciemna i karnacja rednia
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	pocaunek dorosy dorosy karnacja rednio ciemna i karnacja ciemna
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	para z sercem dorosy dorosy karnacja rednio ciemna i karnacja jasna
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	para z sercem dorosy dorosy karnacja rednio ciemna i karnacja rednio jasna
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	para z sercem dorosy dorosy karnacja rednio ciemna i karnacja rednia
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	para z sercem dorosy dorosy karnacja rednio ciemna i karnacja ciemna
+1F9D1-1F3FE-200D-1F33E	rolnik karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F373	kucharz karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F37C	osoba karmica niemowl karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F384	Mikoajka karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F393	student karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F3A4	piosenkarz karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F3A8	artysta karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F3EB	nauczyciel karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F3ED	pracownik fabryki karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F4BB	technolog karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F4BC	pracownik biurowy karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F527	mechanik karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F52C	naukowiec karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F680	astronauta karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F692	straak karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	osoby trzymajce si za rce karnacja rednio ciemna i karnacja jasna
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	osoby trzymajce si za rce karnacja rednio ciemna i karnacja rednio jasna
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	osoby trzymajce si za rce karnacja rednio ciemna i karnacja rednia
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	osoby trzymajce si za rce karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	osoby trzymajce si za rce karnacja rednio ciemna i karnacja ciemna
+1F9D1-1F3FE-200D-1F9AF	osoba z bia lask karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F9B0	dorosy karnacja rednio ciemna i rude wosy
+1F9D1-1F3FE-200D-1F9B1	dorosy karnacja rednio ciemna i krcone wosy
+1F9D1-1F3FE-200D-1F9B2	dorosy karnacja rednio ciemna i ysy
+1F9D1-1F3FE-200D-1F9B3	dorosy karnacja rednio ciemna i biae wosy
+1F9D1-1F3FE-200D-1F9BC	osoba na elektrycznym wzku inwalidzkim karnacja rednio ciemna
+1F9D1-1F3FE-200D-1F9BD	osoba na wzku inwalidzkim karnacja rednio ciemna
+1F9D1-1F3FF	dorosy karnacja ciemna
+1F9D1-1F3FF-200D-2695	pracownik suby zdrowia karnacja ciemna
+1F9D1-1F3FF-200D-2696	sdzia karnacja ciemna
+1F9D1-1F3FF-200D-2708	pilot karnacja ciemna
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	pocaunek dorosy dorosy karnacja ciemna i karnacja jasna
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	pocaunek dorosy dorosy karnacja ciemna i karnacja rednio jasna
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	pocaunek dorosy dorosy karnacja ciemna i karnacja rednia
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	pocaunek dorosy dorosy karnacja ciemna i karnacja rednio ciemna
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	para z sercem dorosy dorosy karnacja ciemna i karnacja jasna
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	para z sercem dorosy dorosy karnacja ciemna i karnacja rednio jasna
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	para z sercem dorosy dorosy karnacja ciemna i karnacja rednia
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	para z sercem dorosy dorosy karnacja ciemna i karnacja rednio ciemna
+1F9D1-1F3FF-200D-1F33E	rolnik karnacja ciemna
+1F9D1-1F3FF-200D-1F373	kucharz karnacja ciemna
+1F9D1-1F3FF-200D-1F37C	osoba karmica niemowl karnacja ciemna
+1F9D1-1F3FF-200D-1F384	Mikoajka karnacja ciemna
+1F9D1-1F3FF-200D-1F393	student karnacja ciemna
+1F9D1-1F3FF-200D-1F3A4	piosenkarz karnacja ciemna
+1F9D1-1F3FF-200D-1F3A8	artysta karnacja ciemna
+1F9D1-1F3FF-200D-1F3EB	nauczyciel karnacja ciemna
+1F9D1-1F3FF-200D-1F3ED	pracownik fabryki karnacja ciemna
+1F9D1-1F3FF-200D-1F4BB	technolog karnacja ciemna
+1F9D1-1F3FF-200D-1F4BC	pracownik biurowy karnacja ciemna
+1F9D1-1F3FF-200D-1F527	mechanik karnacja ciemna
+1F9D1-1F3FF-200D-1F52C	naukowiec karnacja ciemna
+1F9D1-1F3FF-200D-1F680	astronauta karnacja ciemna
+1F9D1-1F3FF-200D-1F692	straak karnacja ciemna
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	osoby trzymajce si za rce karnacja ciemna i karnacja jasna
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	osoby trzymajce si za rce karnacja ciemna i karnacja rednio jasna
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	osoby trzymajce si za rce karnacja ciemna i karnacja rednia
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	osoby trzymajce si za rce karnacja ciemna i karnacja rednio ciemna
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	osoby trzymajce si za rce karnacja ciemna
+1F9D1-1F3FF-200D-1F9AF	osoba z bia lask karnacja ciemna
+1F9D1-1F3FF-200D-1F9B0	dorosy karnacja ciemna i rude wosy
+1F9D1-1F3FF-200D-1F9B1	dorosy karnacja ciemna i krcone wosy
+1F9D1-1F3FF-200D-1F9B2	dorosy karnacja ciemna i ysy
+1F9D1-1F3FF-200D-1F9B3	dorosy karnacja ciemna i biae wosy
+1F9D1-1F3FF-200D-1F9BC	osoba na elektrycznym wzku inwalidzkim karnacja ciemna
+1F9D1-1F3FF-200D-1F9BD	osoba na wzku inwalidzkim karnacja ciemna
+1F9D2	dziecko
+1F9D2-1F3FB	dziecko karnacja jasna
+1F9D2-1F3FC	dziecko karnacja rednio jasna
+1F9D2-1F3FD	dziecko karnacja rednia
+1F9D2-1F3FE	dziecko karnacja rednio ciemna
+1F9D2-1F3FF	dziecko karnacja ciemna
+1F9D3	starszy dorosy
+1F9D3-1F3FB	starszy dorosy karnacja jasna
+1F9D3-1F3FC	starszy dorosy karnacja rednio jasna
+1F9D3-1F3FD	starszy dorosy karnacja rednia
+1F9D3-1F3FE	starszy dorosy karnacja rednio ciemna
+1F9D3-1F3FF	starszy dorosy karnacja ciemna
+1F9D4	osoba z brod
+1F9D4-200D-2640	kobieta z brod
+1F9D4-200D-2642	mczyzna z brod
+1F9D4-1F3FB	osoba z brod karnacja jasna
+1F9D4-1F3FB-200D-2640	kobieta z brod karnacja jasna
+1F9D4-1F3FB-200D-2642	mczyzna z brod karnacja jasna
+1F9D4-1F3FC	osoba z brod karnacja rednio jasna
+1F9D4-1F3FC-200D-2640	kobieta z brod karnacja rednio jasna
+1F9D4-1F3FC-200D-2642	mczyzna z brod karnacja rednio jasna
+1F9D4-1F3FD	osoba z brod karnacja rednia
+1F9D4-1F3FD-200D-2640	kobieta z brod karnacja rednia
+1F9D4-1F3FD-200D-2642	mczyzna z brod karnacja rednia
+1F9D4-1F3FE	osoba z brod karnacja rednio ciemna
+1F9D4-1F3FE-200D-2640	kobieta z brod karnacja rednio ciemna
+1F9D4-1F3FE-200D-2642	mczyzna z brod karnacja rednio ciemna
+1F9D4-1F3FF	osoba z brod karnacja ciemna
+1F9D4-1F3FF-200D-2640	kobieta z brod karnacja ciemna
+1F9D4-1F3FF-200D-2642	mczyzna z brod karnacja ciemna
+1F9D5	kobieta w chucie
+1F9D5-1F3FB	kobieta w chucie karnacja jasna
+1F9D5-1F3FC	kobieta w chucie karnacja rednio jasna
+1F9D5-1F3FD	kobieta w chucie karnacja rednia
+1F9D5-1F3FE	kobieta w chucie karnacja rednio ciemna
+1F9D5-1F3FF	kobieta w chucie karnacja ciemna
+1F9D6	osoba w zaparowanym pomieszczeniu
+1F9D6-200D-2640	kobieta w zaparowanym pomieszczeniu
+1F9D6-200D-2642	mczyzna w zaparowanym pomieszczeniu
+1F9D6-1F3FB	osoba w zaparowanym pomieszczeniu karnacja jasna
+1F9D6-1F3FB-200D-2640	kobieta w zaparowanym pomieszczeniu karnacja jasna
+1F9D6-1F3FB-200D-2642	mczyzna w zaparowanym pomieszczeniu karnacja jasna
+1F9D6-1F3FC	osoba w zaparowanym pomieszczeniu karnacja rednio jasna
+1F9D6-1F3FC-200D-2640	kobieta w zaparowanym pomieszczeniu karnacja rednio jasna
+1F9D6-1F3FC-200D-2642	mczyzna w zaparowanym pomieszczeniu karnacja rednio jasna
+1F9D6-1F3FD	osoba w zaparowanym pomieszczeniu karnacja rednia
+1F9D6-1F3FD-200D-2640	kobieta w zaparowanym pomieszczeniu karnacja rednia
+1F9D6-1F3FD-200D-2642	mczyzna w zaparowanym pomieszczeniu karnacja rednia
+1F9D6-1F3FE	osoba w zaparowanym pomieszczeniu karnacja rednio ciemna
+1F9D6-1F3FE-200D-2640	kobieta w zaparowanym pomieszczeniu karnacja rednio ciemna
+1F9D6-1F3FE-200D-2642	mczyzna w zaparowanym pomieszczeniu karnacja rednio ciemna
+1F9D6-1F3FF	osoba w zaparowanym pomieszczeniu karnacja ciemna
+1F9D6-1F3FF-200D-2640	kobieta w zaparowanym pomieszczeniu karnacja ciemna
+1F9D6-1F3FF-200D-2642	mczyzna w zaparowanym pomieszczeniu karnacja ciemna
+1F9D7	osoba wspinajca si
+1F9D7-200D-2640	kobieta wspinajca si
+1F9D7-200D-2642	mczyzna wspinajcy si
+1F9D7-1F3FB	osoba wspinajca si karnacja jasna
+1F9D7-1F3FB-200D-2640	kobieta wspinajca si karnacja jasna
+1F9D7-1F3FB-200D-2642	mczyzna wspinajcy si karnacja jasna
+1F9D7-1F3FC	osoba wspinajca si karnacja rednio jasna
+1F9D7-1F3FC-200D-2640	kobieta wspinajca si karnacja rednio jasna
+1F9D7-1F3FC-200D-2642	mczyzna wspinajcy si karnacja rednio jasna
+1F9D7-1F3FD	osoba wspinajca si karnacja rednia
+1F9D7-1F3FD-200D-2640	kobieta wspinajca si karnacja rednia
+1F9D7-1F3FD-200D-2642	mczyzna wspinajcy si karnacja rednia
+1F9D7-1F3FE	osoba wspinajca si karnacja rednio ciemna
+1F9D7-1F3FE-200D-2640	kobieta wspinajca si karnacja rednio ciemna
+1F9D7-1F3FE-200D-2642	mczyzna wspinajcy si karnacja rednio ciemna
+1F9D7-1F3FF	osoba wspinajca si karnacja ciemna
+1F9D7-1F3FF-200D-2640	kobieta wspinajca si karnacja ciemna
+1F9D7-1F3FF-200D-2642	mczyzna wspinajcy si karnacja ciemna
+1F9D8	osoba w pozycji lotosu
+1F9D8-200D-2640	kobieta w pozycji lotosu
+1F9D8-200D-2642	mczyzna w pozycji lotosu
+1F9D8-1F3FB	osoba w pozycji lotosu karnacja jasna
+1F9D8-1F3FB-200D-2640	kobieta w pozycji lotosu karnacja jasna
+1F9D8-1F3FB-200D-2642	mczyzna w pozycji lotosu karnacja jasna
+1F9D8-1F3FC	osoba w pozycji lotosu karnacja rednio jasna
+1F9D8-1F3FC-200D-2640	kobieta w pozycji lotosu karnacja rednio jasna
+1F9D8-1F3FC-200D-2642	mczyzna w pozycji lotosu karnacja rednio jasna
+1F9D8-1F3FD	osoba w pozycji lotosu karnacja rednia
+1F9D8-1F3FD-200D-2640	kobieta w pozycji lotosu karnacja rednia
+1F9D8-1F3FD-200D-2642	mczyzna w pozycji lotosu karnacja rednia
+1F9D8-1F3FE	osoba w pozycji lotosu karnacja rednio ciemna
+1F9D8-1F3FE-200D-2640	kobieta w pozycji lotosu karnacja rednio ciemna
+1F9D8-1F3FE-200D-2642	mczyzna w pozycji lotosu karnacja rednio ciemna
+1F9D8-1F3FF	osoba w pozycji lotosu karnacja ciemna
+1F9D8-1F3FF-200D-2640	kobieta w pozycji lotosu karnacja ciemna
+1F9D8-1F3FF-200D-2642	mczyzna w pozycji lotosu karnacja ciemna
+1F9D9	mag
+1F9D9-200D-2640	kobieta mag
+1F9D9-200D-2642	mczyzna mag
+1F9D9-1F3FB	mag karnacja jasna
+1F9D9-1F3FB-200D-2640	kobieta mag karnacja jasna
+1F9D9-1F3FB-200D-2642	mczyzna mag karnacja jasna
+1F9D9-1F3FC	mag karnacja rednio jasna
+1F9D9-1F3FC-200D-2640	kobieta mag karnacja rednio jasna
+1F9D9-1F3FC-200D-2642	mczyzna mag karnacja rednio jasna
+1F9D9-1F3FD	mag karnacja rednia
+1F9D9-1F3FD-200D-2640	kobieta mag karnacja rednia
+1F9D9-1F3FD-200D-2642	mczyzna mag karnacja rednia
+1F9D9-1F3FE	mag karnacja rednio ciemna
+1F9D9-1F3FE-200D-2640	kobieta mag karnacja rednio ciemna
+1F9D9-1F3FE-200D-2642	mczyzna mag karnacja rednio ciemna
+1F9D9-1F3FF	mag karnacja ciemna
+1F9D9-1F3FF-200D-2640	kobieta mag karnacja ciemna
+1F9D9-1F3FF-200D-2642	mczyzna mag karnacja ciemna
+1F9DA	wrka
+1F9DA-200D-2640	kobieta wrka
+1F9DA-200D-2642	mczyzna wrka
+1F9DA-1F3FB	wrka karnacja jasna
+1F9DA-1F3FB-200D-2640	kobieta wrka karnacja jasna
+1F9DA-1F3FB-200D-2642	mczyzna wrka karnacja jasna
+1F9DA-1F3FC	wrka karnacja rednio jasna
+1F9DA-1F3FC-200D-2640	kobieta wrka karnacja rednio jasna
+1F9DA-1F3FC-200D-2642	mczyzna wrka karnacja rednio jasna
+1F9DA-1F3FD	wrka karnacja rednia
+1F9DA-1F3FD-200D-2640	kobieta wrka karnacja rednia
+1F9DA-1F3FD-200D-2642	mczyzna wrka karnacja rednia
+1F9DA-1F3FE	wrka karnacja rednio ciemna
+1F9DA-1F3FE-200D-2640	kobieta wrka karnacja rednio ciemna
+1F9DA-1F3FE-200D-2642	mczyzna wrka karnacja rednio ciemna
+1F9DA-1F3FF	wrka karnacja ciemna
+1F9DA-1F3FF-200D-2640	kobieta wrka karnacja ciemna
+1F9DA-1F3FF-200D-2642	mczyzna wrka karnacja ciemna
+1F9DB	wampir
+1F9DB-200D-2640	kobieta wampir
+1F9DB-200D-2642	mczyzna wampir
+1F9DB-1F3FB	wampir karnacja jasna
+1F9DB-1F3FB-200D-2640	kobieta wampir karnacja jasna
+1F9DB-1F3FB-200D-2642	mczyzna wampir karnacja jasna
+1F9DB-1F3FC	wampir karnacja rednio jasna
+1F9DB-1F3FC-200D-2640	kobieta wampir karnacja rednio jasna
+1F9DB-1F3FC-200D-2642	mczyzna wampir karnacja rednio jasna
+1F9DB-1F3FD	wampir karnacja rednia
+1F9DB-1F3FD-200D-2640	kobieta wampir karnacja rednia
+1F9DB-1F3FD-200D-2642	mczyzna wampir karnacja rednia
+1F9DB-1F3FE	wampir karnacja rednio ciemna
+1F9DB-1F3FE-200D-2640	kobieta wampir karnacja rednio ciemna
+1F9DB-1F3FE-200D-2642	mczyzna wampir karnacja rednio ciemna
+1F9DB-1F3FF	wampir karnacja ciemna
+1F9DB-1F3FF-200D-2640	kobieta wampir karnacja ciemna
+1F9DB-1F3FF-200D-2642	mczyzna wampir karnacja ciemna
+1F9DC	syrena
+1F9DC-200D-2640	kobieta syrena
+1F9DC-200D-2642	mczyzna syrena
+1F9DC-1F3FB	syrena karnacja jasna
+1F9DC-1F3FB-200D-2640	kobieta syrena karnacja jasna
+1F9DC-1F3FB-200D-2642	mczyzna syrena karnacja jasna
+1F9DC-1F3FC	syrena karnacja rednio jasna
+1F9DC-1F3FC-200D-2640	kobieta syrena karnacja rednio jasna
+1F9DC-1F3FC-200D-2642	mczyzna syrena karnacja rednio jasna
+1F9DC-1F3FD	syrena karnacja rednia
+1F9DC-1F3FD-200D-2640	kobieta syrena karnacja rednia
+1F9DC-1F3FD-200D-2642	mczyzna syrena karnacja rednia
+1F9DC-1F3FE	syrena karnacja rednio ciemna
+1F9DC-1F3FE-200D-2640	kobieta syrena karnacja rednio ciemna
+1F9DC-1F3FE-200D-2642	mczyzna syrena karnacja rednio ciemna
+1F9DC-1F3FF	syrena karnacja ciemna
+1F9DC-1F3FF-200D-2640	kobieta syrena karnacja ciemna
+1F9DC-1F3FF-200D-2642	mczyzna syrena karnacja ciemna
+1F9DD	elf
+1F9DD-200D-2640	kobieta elf
+1F9DD-200D-2642	mczyzna elf
+1F9DD-1F3FB	elf karnacja jasna
+1F9DD-1F3FB-200D-2640	kobieta elf karnacja jasna
+1F9DD-1F3FB-200D-2642	mczyzna elf karnacja jasna
+1F9DD-1F3FC	elf karnacja rednio jasna
+1F9DD-1F3FC-200D-2640	kobieta elf karnacja rednio jasna
+1F9DD-1F3FC-200D-2642	mczyzna elf karnacja rednio jasna
+1F9DD-1F3FD	elf karnacja rednia
+1F9DD-1F3FD-200D-2640	kobieta elf karnacja rednia
+1F9DD-1F3FD-200D-2642	mczyzna elf karnacja rednia
+1F9DD-1F3FE	elf karnacja rednio ciemna
+1F9DD-1F3FE-200D-2640	kobieta elf karnacja rednio ciemna
+1F9DD-1F3FE-200D-2642	mczyzna elf karnacja rednio ciemna
+1F9DD-1F3FF	elf karnacja ciemna
+1F9DD-1F3FF-200D-2640	kobieta elf karnacja ciemna
+1F9DD-1F3FF-200D-2642	mczyzna elf karnacja ciemna
+1F9DE	din
+1F9DE-200D-2640	kobieta din
+1F9DE-200D-2642	mczyzna din
+1F9DF	zombie
+1F9DF-200D-2640	kobieta zombie
+1F9DF-200D-2642	mczyzna zombie
+1F9E0	mzg
+1F9E1	pomaraczowe serce
+1F9E2	bejsbolwka
+1F9E3	szalik
+1F9E4	rkawiczki
+1F9E5	paszcz
+1F9E6	skarpetki
+1F9E7	czerwona koperta
+1F9E8	petarda
+1F9E9	element ukadanki
+1F9EA	probwka
+1F9EB	pytka Petriego
+1F9EC	dna
+1F9ED	kompas
+1F9EE	liczydo
+1F9EF	ganica
+1F9F0	skrzynka na narzdzia
+1F9F1	cega
+1F9F2	magnes
+1F9F3	baga
+1F9F4	butelka z pynem
+1F9F5	ni
+1F9F6	wczka
+1F9F7	agrafka
+1F9F8	mi pluszowy
+1F9F9	miota
+1F9FA	kosz
+1F9FB	rolka papieru
+1F9FC	mydo
+1F9FD	gbka
+1F9FE	paragon
+1F9FF	amulet nazar
+1FA70	baletki
+1FA71	strj kpielowy jednoczciowy
+1FA72	kpielwki
+1FA73	szorty
+1FA74	japonka
+1FA78	kropla krwi
+1FA79	plaster
+1FA7A	stetoskop
+1FA80	jojo
+1FA81	latawiec
+1FA82	spadochron
+1FA83	bumerang
+1FA84	czarodziejska rdka
+1FA85	piniata
+1FA86	matrioszki
+1FA90	planeta z piercieniami
+1FA91	krzeso
+1FA92	brzytwa
+1FA93	siekiera
+1FA94	dipa
+1FA95	banjo
+1FA96	hem wojskowy
+1FA97	akordeon
+1FA98	konga
+1FA99	moneta
+1FA9A	pia do drewna
+1FA9B	rubokrt
+1FA9C	drabina
+1FA9D	hak
+1FA9E	lustro
+1FA9F	okno
+1FAA0	przepychacz
+1FAA1	iga krawiecka
+1FAA2	wze
+1FAA3	wiadro
+1FAA4	puapka na myszy
+1FAA5	szczoteczka do zbw
+1FAA6	nagrobek
+1FAA7	tabliczka
+1FAA8	skaa
+1FAB0	mucha
+1FAB1	robak
+1FAB2	chrzszcz
+1FAB3	karaluch
+1FAB4	rolina doniczkowa
+1FAB5	drewno
+1FAB6	piro
+1FAC0	serce
+1FAC1	puca
+1FAC2	obejmujce si osoby
+1FAD0	borwka amerykaska
+1FAD1	papryka
+1FAD2	oliwka
+1FAD3	pita
+1FAD4	tamales
+1FAD5	fondue
+1FAD6	czajniczek

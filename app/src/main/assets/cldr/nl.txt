@@ -1,0 +1,3746 @@
+23-20E3	toets #
+2A-20E3	toets *
+30-20E3	toets 0
+31-20E3	toets 1
+32-20E3	toets 2
+33-20E3	toets 3
+34-20E3	toets 4
+35-20E3	toets 5
+36-20E3	toets 6
+37-20E3	toets 7
+38-20E3	toets 8
+39-20E3	toets 9
+A1	omgekeerd uitroepteken
+A2	cent
+A3	Brits pond
+A4	onbekende munteenheid
+A5	yen
+A7	paragraaf
+A8	trema
+A9	copyright
+AB	guillemet naar links
+AC	negatie
+AE	gedeponeerd
+B0	graden
+B1	plusminus
+B2	superscript twee
+B3	superscript drie
+B4	accent aigu
+B5	mu
+B6	paragraafteken
+B7	hoge punt
+B9	superscript n
+BB	guillemet naar rechts
+BF	omgekeerd vraagteken
+D7	vermenigvuldigingsteken
+F7	deelteken
+58F	Armeense dram
+60B	Afghaanse afghani
+60C	Arabische komma
+61B	Arabische puntkomma
+61F	Arabisch vraagteken
+9F3	Bengalese taka
+E3F	Thaise baht
+17DB	Cambodjaanse riel
+2010	koppelteken
+2013	gedachtestreepje
+2014	aandachtsstreepje
+2015	horizontale balk
+2018	linker apostrof
+2019	rechter apostrof
+201A	lage rechter apostrof
+201C	linker dubbel aanhalingsteken
+201D	rechter dubbel aanhalingsteken
+201E	laag rechter dubbel aanhalingsteken
+2020	obelisk
+2021	dubbele obelisk
+2022	bullet
+2026	beletselteken
+2027	koppeling
+2030	promille
+2032	prime
+2033	dubbele prime
+2034	drievoudige prime
+2038	inlasteken
+203B	referentieteken
+203C	dubbel uitroepteken
+203D	interrobang
+203E	bovenlijn
+2042	asterisme
+2044	breukstreep
+2049	uitroepteken en vraagteken
+207B	superscript min
+20A1	Costa Ricaanse colon
+20A5	mill
+20A6	Nigeriaanse naira
+20A7	Spaanse peseta
+20A9	won
+20AA	Isralische nieuwe shekel
+20AB	Vietnamese dong
+20AC	euro
+20AD	Laotiaanse kip
+20AE	Mongoolse tugrik
+20B1	peso
+20B2	Paraguayaanse guarani
+20B4	Oekraense hryvnia
+20B5	Ghanese cedi
+20B8	Kazachse tenge
+20B9	Indiase roepie
+20BA	Turkse lira
+20BC	Azerbeidzjaanse manat
+20BD	roebel
+20BE	Georgische lari
+20BF	bitcoin
+2117	copyright geluidsopname
+2122	handelsmerksymbool
+2139	informatie
+2190	naar links wijzende pijl
+2191	omhoog wijzende pijl
+2192	naar rechts wijzende pijl
+2193	omlaag wijzende pijl
+2194	pijl naar links en rechts
+2195	pijl omhoog en omlaag
+2196	pijl linksomhoog
+2197	pijl rechtsomhoog
+2198	pijl rechtsomlaag
+2199	pijl linksomlaag
+219A	schuine streep met pijl naar links
+219B	schuine streep met pijl naar rechts
+219C	schuine streep met golvende pijl naar links
+219D	schuine streep met golvende pijl naar rechts
+219E	pijl met twee koppen naar links
+219F	pijl met twee koppen omhoog
+21A0	pijl met twee koppen naar rechts
+21A1	pijl met twee koppen omlaag
+21A2	pijl met staart naar links
+21A3	pijl met staart naar rechts
+21A4	pijl naar links vanaf balk
+21A5	pijl omhoog vanaf balk
+21A6	pijl naar rechts vanaf balk
+21A7	pijl omlaag vanaf balk
+21A8	pijl omhoog/omlaag met basis
+21A9	pijl naar rechts die naar links draait
+21AA	pijl naar links die naar rechts draait
+21AB	pijl met lus naar links
+21AC	pijl met lus naar rechts
+21AD	golvende pijl naar links/rechts
+21AE	schuine streep met pijl naar links/rechts
+21AF	zigzagpijl omlaag
+21B0	pijlpunt omhoog en naar links wijzend
+21B1	pijlpunt omhoog en naar rechts wijzend
+21B2	pijlpunt omlaag en naar links wijzend
+21B3	pijlpunt omlaag en naar rechts wijzend
+21B4	hoekpijl omlaag en naar rechts wijzend
+21B5	hoekpijl omlaag en naar links wijzend
+21B6	pijl omhoog tegen de klok in met halve cirkel
+21B7	pijl omhoog met de klok mee met halve cirkel
+21B8	pijl noordwest lange balk
+21B9	pijl naar links naar balk boven pijl naar rechts naar balk
+21BA	pijl met open cirkel tegen de klok in
+21BB	pijl met open cirkel met de klok mee
+21BC	harpoen naar links met weerhaak naar boven
+21BD	harpoen naar links met weerhaak naar beneden
+21BE	harpoen naar boven met weerhaak naar rechts
+21BF	harpoen naar boven met weerhaak naar links
+21C0	harpoen naar rechts met weerhaak naar boven
+21C1	harpoen naar rechts met weerhaak naar beneden
+21C2	harpoen naar beneden met weerhaak naar rechts
+21C3	harpoen naar beneden met weerhaak naar links
+21C4	pijl naar rechts boven pijl naar links
+21C5	omhoog en omlaag wijzende pijlen
+21C6	naar links boven naar rechts wijzende pijlen
+21C7	twee pijlen naar links
+21C8	twee pijlen naar boven
+21C9	twee pijlen naar rechts
+21CA	twee pijlen naar beneden
+21CB	harpoen naar links boven harpoen naar rechts
+21CC	harpoen naar rechts boven harpoen naar links
+21CD	dubbele doorgestreepte pijl naar links
+21CE	dubbele doorgestreepte pijl links/rechts
+21CF	dubbele doorgestreepte pijl naar rechts
+21D0	dubbele pijl naar links
+21D1	dubbele pijl omhoog
+21D2	dubbele pijl naar rechts
+21D3	dubbele pijl omlaag
+21D4	dubbele pijl links/rechts
+21D6	dubbele pijl noordwest
+21D7	dubbele pijl noordoost
+21D8	dubbele pijl zuidoost
+21D9	dubbele pijl zuidwest
+21DA	driedubbele pijl naar links
+21DB	driedubbele pijl naar rechts
+21DC	kronkelpijl naar links
+21DD	kronkelpijl naar rechts
+21DE	pijl naar boven met twee strepen
+21DF	pijl naar beneden met twee strepen
+21E0	gestippelde pijl naar links
+21E1	gestippelde pijl naar boven
+21E2	gestippelde pijl naar rechts
+21E3	gestippelde pijl naar beneden
+21E4	pijl naar links naar balk
+21E5	pijl naar rechts naar balk
+21E6	doorzichtige pijl naar linkss
+21E7	doorzichtige pijl naar boven
+21E8	doorzichtige pijl naar rechts
+21E9	doorzichtige pijl naar beneden
+21EA	doorzichtige pijl naar boven vanaf balk
+21F5	pijl omlaag links van pijl omhoog
+2200	voor alles
+2202	partile afgeleide
+2203	bestaat
+2205	lege verzameling
+2206	toename
+2207	nabla
+2208	element van
+2209	geen element van
+220B	bevat als lid
+220E	qed
+220F	cartesisch product
+2211	productverzameling
+2212	minteken
+2213	min-of-plusteken
+2215	deelstreep
+2217	asterisk-teken
+2218	operator samenstelling
+221A	vierkantswortel
+221D	evenredig
+221E	oneindig teken
+221F	rechte hoek
+2220	hoek
+2223	deler
+2225	parallel
+2227	logisch en
+2229	doorsnede
+222A	vereniging
+222B	integraal
+222C	dubbele integraal
+222E	kringintegraal
+2234	daarom
+2235	omdat
+2236	ratio
+2237	verhouding
+223C	tilde-teken
+223D	omgekeerde tilde
+223E	oneindigheid
+2243	asymptotisch gelijkwaardige
+2245	ongeveer gelijk
+2248	ongeveerteken
+224C	alles gelijk
+2260	niet-gelijkteken
+2261	is gelijk aan
+2264	kleiner dan of gelijk aan
+2265	groter dan of gelijk aan
+226E	niet minder dan
+226F	niet groter dan
+2282	deelverzameling van
+231A	horloge
+231B	zandloper
+2328	toetsenbord
+23CF	knop voor uitwerpen
+23E9	knop voor snel vooruitspoelen
+23EA	knop voor versneld terugspoelen
+23EB	knop voor versneld omhoog
+23EC	knop voor versneld omlaag
+23ED	knop voor volgende nummer
+23EE	knop voor vorige nummer
+23EF	knop voor afspelen of pauzeren
+23F0	wekker
+23F1	stopwatch
+23F2	keukenwekker
+23F3	zandloper met stromend zand
+23F8	pauzeknop
+23F9	knop voor stoppen
+23FA	knop voor opnemen
+24C2	M in cirkel
+25AA	klein zwart vierkant
+25AB	klein wit vierkant
+25B2	gevulde omhoog wijzende driehoek
+25B6	knop voor afspelen
+25BC	gevulde omlaag wijzende driehoek
+25C0	knop voor terugspoelen
+25CA	ruit
+25CB	holle cirkel
+25CF	gevulde cirkel
+25EF	grote holle cirkel
+25FB	middelgroot wit vierkant
+25FC	middelgroot zwart vierkant
+25FD	klein tot middelgroot wit vierkant
+25FE	klein tot middelgroot zwart vierkant
+2600	zon
+2601	wolk
+2602	paraplu
+2603	sneeuwpop
+2604	komeet
+260E	telefoon
+2611	vinkje in vak
+2614	paraplu met regendruppels
+2615	warme drank
+2618	klavertjedrie
+261D	omhoog wijzende wijsvinger
+261D-1F3FB	omhoog wijzende wijsvinger lichte huidskleur
+261D-1F3FC	omhoog wijzende wijsvinger lichtgetinte huidskleur
+261D-1F3FD	omhoog wijzende wijsvinger getinte huidskleur
+261D-1F3FE	omhoog wijzende wijsvinger donkergetinte huidskleur
+261D-1F3FF	omhoog wijzende wijsvinger donkere huidskleur
+2620	doodshoofd met gekruiste beenderen
+2622	radioactief
+2623	biologisch gevaar
+2626	russisch kruis
+262A	wassende maan en ster
+262E	vredessymbool
+262F	yin en yang
+2638	wiel van dharma
+2639	fronsend gezicht
+263A	lachend gezicht
+2640	vrouwelijkheidssymbool
+2642	mannelijkheidssymbool
+2648	ram sterrenbeeld
+2649	stier sterrenbeeld
+264A	tweelingen sterrenbeeld
+264B	kreeft sterrenbeeld
+264C	leeuw sterrenbeeld
+264D	maagd sterrenbeeld
+264E	weegschaal sterrenbeeld
+264F	schorpioen sterrenbeeld
+2650	boogschutter sterrenbeeld
+2651	steenbok sterrenbeeld
+2652	waterman sterrenbeeld
+2653	vissen sterrenbeeld
+265F	pion
+2660	schoppen
+2663	klaveren
+2665	harten
+2666	ruiten
+2668	warmwaterbronnen
+266A	achtste noot
+266D	mol
+266F	kruis
+267B	recycling-symbool
+267E	oneindig
+267F	rolstoelsymbool
+2692	twee hamers
+2693	anker
+2694	gekruiste zwaarden
+2695	esculaap
+2696	weegschaal
+2697	distilleerkolf
+2699	tandwiel
+269B	atoomsymbool
+269C	fleur de lis
+26A0	waarschuwing
+26A1	hoog voltage
+26A7	transgendersymbool
+26AA	witte cirkel
+26AB	zwarte cirkel
+26B0	doodskist
+26B1	urn
+26BD	voetbal
+26BE	honkbal
+26C4	sneeuwpop zonder sneeuwvlokken
+26C5	zon achter wolk
+26C8	wolk met bliksem en regen
+26CE	slangendrager sterrenbeeld
+26CF	pikhouweel
+26D1	helm van reddingswerker
+26D3	kettingen
+26D4	geen toegang
+26E9	shinto-tempel
+26EA	kerk
+26F0	berg
+26F1	strandparasol
+26F2	fontein
+26F3	vlag in hole
+26F4	veerboot
+26F5	zeilboot
+26F7	skir
+26F8	schaats
+26F9	basketbalspeler
+26F9-200D-2640	basketbalster
+26F9-200D-2642	basketballer
+26F9-1F3FB	basketbalspeler lichte huidskleur
+26F9-1F3FB-200D-2640	basketbalster lichte huidskleur
+26F9-1F3FB-200D-2642	basketballer lichte huidskleur
+26F9-1F3FC	basketbalspeler lichtgetinte huidskleur
+26F9-1F3FC-200D-2640	basketbalster lichtgetinte huidskleur
+26F9-1F3FC-200D-2642	basketballer lichtgetinte huidskleur
+26F9-1F3FD	basketbalspeler getinte huidskleur
+26F9-1F3FD-200D-2640	basketbalster getinte huidskleur
+26F9-1F3FD-200D-2642	basketballer getinte huidskleur
+26F9-1F3FE	basketbalspeler donkergetinte huidskleur
+26F9-1F3FE-200D-2640	basketbalster donkergetinte huidskleur
+26F9-1F3FE-200D-2642	basketballer donkergetinte huidskleur
+26F9-1F3FF	basketbalspeler donkere huidskleur
+26F9-1F3FF-200D-2640	basketbalster donkere huidskleur
+26F9-1F3FF-200D-2642	basketballer donkere huidskleur
+26FA	tent
+26FD	benzinestation
+2702	schaar
+2705	knop voor vinkje
+2708	vliegtuig
+2709	envelop
+270A	opgeheven vuist
+270A-1F3FB	opgeheven vuist lichte huidskleur
+270A-1F3FC	opgeheven vuist lichtgetinte huidskleur
+270A-1F3FD	opgeheven vuist getinte huidskleur
+270A-1F3FE	opgeheven vuist donkergetinte huidskleur
+270A-1F3FF	opgeheven vuist donkere huidskleur
+270B	opgeheven hand
+270B-1F3FB	opgeheven hand lichte huidskleur
+270B-1F3FC	opgeheven hand lichtgetinte huidskleur
+270B-1F3FD	opgeheven hand getinte huidskleur
+270B-1F3FE	opgeheven hand donkergetinte huidskleur
+270B-1F3FF	opgeheven hand donkere huidskleur
+270C	winnende hand
+270C-1F3FB	winnende hand lichte huidskleur
+270C-1F3FC	winnende hand lichtgetinte huidskleur
+270C-1F3FD	winnende hand getinte huidskleur
+270C-1F3FE	winnende hand donkergetinte huidskleur
+270C-1F3FF	winnende hand donkere huidskleur
+270D	schrijvende hand
+270D-1F3FB	schrijvende hand lichte huidskleur
+270D-1F3FC	schrijvende hand lichtgetinte huidskleur
+270D-1F3FD	schrijvende hand getinte huidskleur
+270D-1F3FE	schrijvende hand donkergetinte huidskleur
+270D-1F3FF	schrijvende hand donkere huidskleur
+270F	potlood
+2712	kroontjespen met zwarte punt
+2714	vinkje
+2716	vermenigvuldigen
+271D	christelijk kruis
+2721	davidster
+2728	sterretjes
+2733	achtpuntige asterisk
+2734	achtpuntige ster
+2744	sneeuwvlok
+2747	sprankeling
+274C	kruisteken
+274E	knop voor kruis
+2753	rood vraagteken
+2754	wit vraagteken
+2755	wit uitroepteken
+2757	rood uitroepteken
+2763	hart als uitroepteken
+2764	rood hart
+2764-200D-1F525	hart in vuur en vlam
+2764-200D-1FA79	helend hart
+2795	plus
+2796	min
+2797	delen
+27A1	pijl naar rechts
+27B0	gekrulde lus
+27BF	dubbele gekrulde lus
+2934	pijl naar rechts die omhoog draait
+2935	pijl naar rechts die omlaag draait
+2B05	pijl naar links
+2B06	pijl omhoog
+2B07	pijl omlaag
+2B1B	groot zwart vierkant
+2B1C	groot wit vierkant
+2B50	witte middelgrote ster
+2B55	lege rode cirkel
+3001	ideografische komma
+3002	ideografische punt
+3008	punthaakje openen
+3009	punthaakje sluiten
+300A	dubbel punthaakje openen
+300B	dubbel punthaakje sluiten
+300C	Oost-Aziatisch aanhalingsteken openen
+300D	Oost-Aziatisch aanhalingsteken sluiten
+300E	Aziatisch aanhalingsteken openen
+300F	Aziatisch aanhalingsteken sluiten
+3010	zwart lensvormig haakje openen
+3011	lensvormig contourhaakje sluiten
+3014	schildhaakje openen
+3015	schildhaakje sluiten
+3016	lensvormig haakje openen
+3017	lensvormig haakje sluiten
+3030	golvend streepje
+303D	rolwisselingsmarkering
+30FB	katakana middelste punt
+3297	Japans teken voor gefeliciteerd
+3299	Japans teken voor geheim
+1F004	mahjong rode draak
+1F0CF	Jokerkaart
+1F170	bloedgroep A
+1F171	bloedgroep B
+1F17E	bloedgroep O
+1F17F	P-knop
+1F18E	bloedgroep AB
+1F191	CL-knop
+1F192	COOL-knop
+1F193	FREE-knop
+1F194	ID-knop
+1F195	NEW-knop
+1F196	NG-knop
+1F197	OK-knop
+1F198	SOS-knop
+1F199	UP-knop
+1F19A	VS-knop
+1F1E6-1F1E8	vlag Ascension
+1F1E6-1F1E9	vlag Andorra
+1F1E6-1F1EA	vlag Verenigde Arabische Emiraten
+1F1E6-1F1EB	vlag Afghanistan
+1F1E6-1F1EC	vlag Antigua en Barbuda
+1F1E6-1F1EE	vlag Anguilla
+1F1E6-1F1F1	vlag Albani
+1F1E6-1F1F2	vlag Armeni
+1F1E6-1F1F4	vlag Angola
+1F1E6-1F1F6	vlag Antarctica
+1F1E6-1F1F7	vlag Argentini
+1F1E6-1F1F8	vlag Amerikaans-Samoa
+1F1E6-1F1F9	vlag Oostenrijk
+1F1E6-1F1FA	vlag Australi
+1F1E6-1F1FC	vlag Aruba
+1F1E6-1F1FD	vlag land
+1F1E6-1F1FF	vlag Azerbeidzjan
+1F1E7-1F1E6	vlag Bosni en Herzegovina
+1F1E7-1F1E7	vlag Barbados
+1F1E7-1F1E9	vlag Bangladesh
+1F1E7-1F1EA	vlag Belgi
+1F1E7-1F1EB	vlag Burkina Faso
+1F1E7-1F1EC	vlag Bulgarije
+1F1E7-1F1ED	vlag Bahrein
+1F1E7-1F1EE	vlag Burundi
+1F1E7-1F1EF	vlag Benin
+1F1E7-1F1F1	vlag Saint-Barthlemy
+1F1E7-1F1F2	vlag Bermuda
+1F1E7-1F1F3	vlag Brunei
+1F1E7-1F1F4	vlag Bolivia
+1F1E7-1F1F6	vlag Caribisch Nederland
+1F1E7-1F1F7	vlag Brazili
+1F1E7-1F1F8	vlag Bahamas
+1F1E7-1F1F9	vlag Bhutan
+1F1E7-1F1FB	vlag Bouveteiland
+1F1E7-1F1FC	vlag Botswana
+1F1E7-1F1FE	vlag Belarus
+1F1E7-1F1FF	vlag Belize
+1F1E8-1F1E6	vlag Canada
+1F1E8-1F1E8	vlag Cocoseilanden
+1F1E8-1F1E9	vlag Congo-Kinshasa
+1F1E8-1F1EB	vlag Centraal-Afrikaanse Republiek
+1F1E8-1F1EC	vlag Congo-Brazzaville
+1F1E8-1F1ED	vlag Zwitserland
+1F1E8-1F1EE	vlag Ivoorkust
+1F1E8-1F1F0	vlag Cookeilanden
+1F1E8-1F1F1	vlag Chili
+1F1E8-1F1F2	vlag Kameroen
+1F1E8-1F1F3	vlag China
+1F1E8-1F1F4	vlag Colombia
+1F1E8-1F1F5	vlag Clipperton
+1F1E8-1F1F7	vlag Costa Rica
+1F1E8-1F1FA	vlag Cuba
+1F1E8-1F1FB	vlag Kaapverdi
+1F1E8-1F1FC	vlag Curaao
+1F1E8-1F1FD	vlag Christmaseiland
+1F1E8-1F1FE	vlag Cyprus
+1F1E8-1F1FF	vlag Tsjechi
+1F1E9-1F1EA	vlag Duitsland
+1F1E9-1F1EC	vlag Diego Garcia
+1F1E9-1F1EF	vlag Djibouti
+1F1E9-1F1F0	vlag Denemarken
+1F1E9-1F1F2	vlag Dominica
+1F1E9-1F1F4	vlag Dominicaanse Republiek
+1F1E9-1F1FF	vlag Algerije
+1F1EA-1F1E6	vlag Ceuta en Melilla
+1F1EA-1F1E8	vlag Ecuador
+1F1EA-1F1EA	vlag Estland
+1F1EA-1F1EC	vlag Egypte
+1F1EA-1F1ED	vlag Westelijke Sahara
+1F1EA-1F1F7	vlag Eritrea
+1F1EA-1F1F8	vlag Spanje
+1F1EA-1F1F9	vlag Ethiopi
+1F1EA-1F1FA	vlag Europese Unie
+1F1EB-1F1EE	vlag Finland
+1F1EB-1F1EF	vlag Fiji
+1F1EB-1F1F0	vlag Falklandeilanden
+1F1EB-1F1F2	vlag Micronesia
+1F1EB-1F1F4	vlag Faerer
+1F1EB-1F1F7	vlag Frankrijk
+1F1EC-1F1E6	vlag Gabon
+1F1EC-1F1E7	vlag Verenigd Koninkrijk
+1F1EC-1F1E9	vlag Grenada
+1F1EC-1F1EA	vlag Georgi
+1F1EC-1F1EB	vlag Frans-Guyana
+1F1EC-1F1EC	vlag Guernsey
+1F1EC-1F1ED	vlag Ghana
+1F1EC-1F1EE	vlag Gibraltar
+1F1EC-1F1F1	vlag Groenland
+1F1EC-1F1F2	vlag Gambia
+1F1EC-1F1F3	vlag Guinee
+1F1EC-1F1F5	vlag Guadeloupe
+1F1EC-1F1F6	vlag Equatoriaal-Guinea
+1F1EC-1F1F7	vlag Griekenland
+1F1EC-1F1F8	vlag Zuid-Georgia en Zuidelijke Sandwicheilanden
+1F1EC-1F1F9	vlag Guatemala
+1F1EC-1F1FA	vlag Guam
+1F1EC-1F1FC	vlag Guinee-Bissau
+1F1EC-1F1FE	vlag Guyana
+1F1ED-1F1F0	vlag Hongkong SAR van China
+1F1ED-1F1F2	vlag Heard en McDonaldeilanden
+1F1ED-1F1F3	vlag Honduras
+1F1ED-1F1F7	vlag Kroati
+1F1ED-1F1F9	vlag Hati
+1F1ED-1F1FA	vlag Hongarije
+1F1EE-1F1E8	vlag Canarische Eilanden
+1F1EE-1F1E9	vlag Indonesi
+1F1EE-1F1EA	vlag Ierland
+1F1EE-1F1F1	vlag Isral
+1F1EE-1F1F2	vlag Isle of Man
+1F1EE-1F1F3	vlag India
+1F1EE-1F1F4	vlag Brits Indische Oceaanterritorium
+1F1EE-1F1F6	vlag Irak
+1F1EE-1F1F7	vlag Iran
+1F1EE-1F1F8	vlag IJsland
+1F1EE-1F1F9	vlag Itali
+1F1EF-1F1EA	vlag Jersey
+1F1EF-1F1F2	vlag Jamaica
+1F1EF-1F1F4	vlag Jordani
+1F1EF-1F1F5	vlag Japan
+1F1F0-1F1EA	vlag Kenia
+1F1F0-1F1EC	vlag Kirgizi
+1F1F0-1F1ED	vlag Cambodja
+1F1F0-1F1EE	vlag Kiribati
+1F1F0-1F1F2	vlag Comoren
+1F1F0-1F1F3	vlag Saint Kitts en Nevis
+1F1F0-1F1F5	vlag Noord-Korea
+1F1F0-1F1F7	vlag Zuid-Korea
+1F1F0-1F1FC	vlag Koeweit
+1F1F0-1F1FE	vlag Kaaimaneilanden
+1F1F0-1F1FF	vlag Kazachstan
+1F1F1-1F1E6	vlag Laos
+1F1F1-1F1E7	vlag Libanon
+1F1F1-1F1E8	vlag Saint Lucia
+1F1F1-1F1EE	vlag Liechtenstein
+1F1F1-1F1F0	vlag Sri Lanka
+1F1F1-1F1F7	vlag Liberia
+1F1F1-1F1F8	vlag Lesotho
+1F1F1-1F1F9	vlag Litouwen
+1F1F1-1F1FA	vlag Luxemburg
+1F1F1-1F1FB	vlag Letland
+1F1F1-1F1FE	vlag Libi
+1F1F2-1F1E6	vlag Marokko
+1F1F2-1F1E8	vlag Monaco
+1F1F2-1F1E9	vlag Moldavi
+1F1F2-1F1EA	vlag Montenegro
+1F1F2-1F1EB	vlag Saint-Martin
+1F1F2-1F1EC	vlag Madagaskar
+1F1F2-1F1ED	vlag Marshalleilanden
+1F1F2-1F1F0	vlag Noord-Macedoni
+1F1F2-1F1F1	vlag Mali
+1F1F2-1F1F2	vlag Myanmar Birma
+1F1F2-1F1F3	vlag Mongoli
+1F1F2-1F1F4	vlag Macau SAR van China
+1F1F2-1F1F5	vlag Noordelijke Marianen
+1F1F2-1F1F6	vlag Martinique
+1F1F2-1F1F7	vlag Mauritani
+1F1F2-1F1F8	vlag Montserrat
+1F1F2-1F1F9	vlag Malta
+1F1F2-1F1FA	vlag Mauritius
+1F1F2-1F1FB	vlag Maldiven
+1F1F2-1F1FC	vlag Malawi
+1F1F2-1F1FD	vlag Mexico
+1F1F2-1F1FE	vlag Maleisi
+1F1F2-1F1FF	vlag Mozambique
+1F1F3-1F1E6	vlag Namibi
+1F1F3-1F1E8	vlag Nieuw-Caledoni
+1F1F3-1F1EA	vlag Niger
+1F1F3-1F1EB	vlag Norfolk
+1F1F3-1F1EC	vlag Nigeria
+1F1F3-1F1EE	vlag Nicaragua
+1F1F3-1F1F1	vlag Nederland
+1F1F3-1F1F4	vlag Noorwegen
+1F1F3-1F1F5	vlag Nepal
+1F1F3-1F1F7	vlag Nauru
+1F1F3-1F1FA	vlag Niue
+1F1F3-1F1FF	vlag Nieuw-Zeeland
+1F1F4-1F1F2	vlag Oman
+1F1F5-1F1E6	vlag Panama
+1F1F5-1F1EA	vlag Peru
+1F1F5-1F1EB	vlag Frans-Polynesi
+1F1F5-1F1EC	vlag Papoea-Nieuw-Guinea
+1F1F5-1F1ED	vlag Filipijnen
+1F1F5-1F1F0	vlag Pakistan
+1F1F5-1F1F1	vlag Polen
+1F1F5-1F1F2	vlag Saint-Pierre en Miquelon
+1F1F5-1F1F3	vlag Pitcairneilanden
+1F1F5-1F1F7	vlag Puerto Rico
+1F1F5-1F1F8	vlag Palestijnse gebieden
+1F1F5-1F1F9	vlag Portugal
+1F1F5-1F1FC	vlag Palau
+1F1F5-1F1FE	vlag Paraguay
+1F1F6-1F1E6	vlag Qatar
+1F1F7-1F1EA	vlag Runion
+1F1F7-1F1F4	vlag Roemeni
+1F1F7-1F1F8	vlag Servi
+1F1F7-1F1FA	vlag Rusland
+1F1F7-1F1FC	vlag Rwanda
+1F1F8-1F1E6	vlag Saoedi-Arabi
+1F1F8-1F1E7	vlag Salomonseilanden
+1F1F8-1F1E8	vlag Seychellen
+1F1F8-1F1E9	vlag Soedan
+1F1F8-1F1EA	vlag Zweden
+1F1F8-1F1EC	vlag Singapore
+1F1F8-1F1ED	vlag Sint-Helena
+1F1F8-1F1EE	vlag Sloveni
+1F1F8-1F1EF	vlag Spitsbergen en Jan Mayen
+1F1F8-1F1F0	vlag Slowakije
+1F1F8-1F1F1	vlag Sierra Leone
+1F1F8-1F1F2	vlag San Marino
+1F1F8-1F1F3	vlag Senegal
+1F1F8-1F1F4	vlag Somali
+1F1F8-1F1F7	vlag Suriname
+1F1F8-1F1F8	vlag Zuid-Soedan
+1F1F8-1F1F9	vlag Sao Tom en Principe
+1F1F8-1F1FB	vlag El Salvador
+1F1F8-1F1FD	vlag Sint-Maarten
+1F1F8-1F1FE	vlag Syri
+1F1F8-1F1FF	vlag Eswatini
+1F1F9-1F1E6	vlag Tristan da Cunha
+1F1F9-1F1E8	vlag Turks- en Caicoseilanden
+1F1F9-1F1E9	vlag Tsjaad
+1F1F9-1F1EB	vlag Franse Gebieden in de zuidelijke Indische Oceaan
+1F1F9-1F1EC	vlag Togo
+1F1F9-1F1ED	vlag Thailand
+1F1F9-1F1EF	vlag Tadzjikistan
+1F1F9-1F1F0	vlag Tokelau
+1F1F9-1F1F1	vlag Oost-Timor
+1F1F9-1F1F2	vlag Turkmenistan
+1F1F9-1F1F3	vlag Tunesi
+1F1F9-1F1F4	vlag Tonga
+1F1F9-1F1F7	vlag Turkije
+1F1F9-1F1F9	vlag Trinidad en Tobago
+1F1F9-1F1FB	vlag Tuvalu
+1F1F9-1F1FC	vlag Taiwan
+1F1F9-1F1FF	vlag Tanzania
+1F1FA-1F1E6	vlag Oekrane
+1F1FA-1F1EC	vlag Oeganda
+1F1FA-1F1F2	vlag Kleine afgelegen eilanden van de Verenigde Staten
+1F1FA-1F1F3	vlag Verenigde Naties
+1F1FA-1F1F8	vlag Verenigde Staten
+1F1FA-1F1FE	vlag Uruguay
+1F1FA-1F1FF	vlag Oezbekistan
+1F1FB-1F1E6	vlag Vaticaanstad
+1F1FB-1F1E8	vlag Saint Vincent en de Grenadines
+1F1FB-1F1EA	vlag Venezuela
+1F1FB-1F1EC	vlag Britse Maagdeneilanden
+1F1FB-1F1EE	vlag Amerikaanse Maagdeneilanden
+1F1FB-1F1F3	vlag Vietnam
+1F1FB-1F1FA	vlag Vanuatu
+1F1FC-1F1EB	vlag Wallis en Futuna
+1F1FC-1F1F8	vlag Samoa
+1F1FD-1F1F0	vlag Kosovo
+1F1FE-1F1EA	vlag Jemen
+1F1FE-1F1F9	vlag Mayotte
+1F1FF-1F1E6	vlag Zuid-Afrika
+1F1FF-1F1F2	vlag Zambia
+1F1FF-1F1FC	vlag Zimbabwe
+1F201	Japans teken voor hier
+1F202	Japans teken voor dienstenheffing
+1F21A	Japans teken voor gratis
+1F22F	Japans teken voor gereserveerd
+1F232	Japans teken voor verboden
+1F233	Japans teken voor plaats vrij
+1F234	Japans teken voor voldoende cijfer
+1F235	Japans teken voor vol geen plaats
+1F236	Japans teken voor niet gratis
+1F237	Japans teken voor maandelijks bedrag
+1F238	Japans teken voor toepassing
+1F239	Japans teken voor korting
+1F23A	Japans teken voor geopend
+1F250	Japans teken voor koopje
+1F251	Japans teken voor acceptabel
+1F300	cycloon
+1F301	mistig
+1F302	ingevouwen paraplu
+1F303	sterrenhemel
+1F304	zonsopgang in de bergen
+1F305	zonsopgang
+1F306	stad bij schemering
+1F307	zonsondergang
+1F308	regenboog
+1F309	brug bij nacht
+1F30A	golf
+1F30B	vulkaan
+1F30C	melkweg
+1F30D	wereldbol met Europa-Afrika
+1F30E	wereldbol met Noord- en Zuid-Amerika
+1F30F	wereldbol met Azi-Australi
+1F310	wereldbol met meridianen
+1F311	nieuwe maan
+1F312	jonge maansikkel
+1F313	maan in eerste kwartier
+1F314	wassende maan
+1F315	volle maan
+1F316	afnemende maan
+1F317	maan in laatste kwartier
+1F318	asgrauwe maan
+1F319	maansikkel
+1F31A	nieuwe maan met gezicht
+1F31B	maan met gezicht in eerste kwartier
+1F31C	maan met gezicht in laatste kwartier
+1F31D	volle maan met gezicht
+1F31E	zon met gezicht
+1F31F	stralende ster
+1F320	vallende ster
+1F321	thermometer
+1F324	zon achter kleine wolk
+1F325	zon achter grote wolk
+1F326	zon achter regenwolk
+1F327	wolk met regen
+1F328	wolk met sneeuw
+1F329	wolk met bliksem
+1F32A	tornado
+1F32B	mist
+1F32C	gezicht dat wind blaast
+1F32D	hotdog
+1F32E	taco
+1F32F	burrito
+1F330	kastanje
+1F331	zaailing
+1F332	naaldboom
+1F333	loofboom
+1F334	palmboom
+1F335	cactus
+1F336	hete peper
+1F337	tulp
+1F338	kersenbloesem
+1F339	roos
+1F33A	hibiscus
+1F33B	zonnebloem
+1F33C	bloesem
+1F33D	maskolf
+1F33E	rijstplant
+1F33F	kruid
+1F340	klavertjevier
+1F341	esdoornblad
+1F342	vallende bladeren
+1F343	blad in de wind
+1F344	paddenstoel
+1F345	tomaat
+1F346	aubergine
+1F347	druiven
+1F348	meloen
+1F349	watermeloen
+1F34A	mandarijn
+1F34B	citroen
+1F34C	banaan
+1F34D	ananas
+1F34E	rode appel
+1F34F	groene appel
+1F350	peer
+1F351	perzik
+1F352	kersen
+1F353	aardbei
+1F354	hamburger
+1F355	pizzapunt
+1F356	vlees met bot
+1F357	kippenpoot
+1F358	rijstwafel
+1F359	rijstballetje
+1F35A	gekookte rijst
+1F35B	curry en rijst
+1F35C	dampende kom
+1F35D	spaghetti
+1F35E	brood
+1F35F	patat
+1F360	gepofte zoete aardappel
+1F361	dango
+1F362	oden
+1F363	sushi
+1F364	gefrituurde garnaal
+1F365	viskoekje met krul
+1F366	softijs
+1F367	geschaafd ijs
+1F368	ijs
+1F369	donut
+1F36A	koekje
+1F36B	chocoladereep
+1F36C	snoep
+1F36D	lolly
+1F36E	vla
+1F36F	honingpot
+1F370	cake
+1F371	bentobox
+1F372	stoofschotel
+1F373	koken
+1F374	mes en vork
+1F375	theekopje zonder oor
+1F376	sake
+1F377	wijnglas
+1F378	cocktailglas
+1F379	tropisch drankje
+1F37A	bierglas
+1F37B	klinkende bierglazen
+1F37C	babyflesje
+1F37D	mes en vork met bord
+1F37E	fles met knallende kurk
+1F37F	popcorn
+1F380	strik
+1F381	ingepakt cadeau
+1F382	verjaardagstaart
+1F383	halloweenlantaarn
+1F384	kerstboom
+1F385	kerstman
+1F385-1F3FB	kerstman lichte huidskleur
+1F385-1F3FC	kerstman lichtgetinte huidskleur
+1F385-1F3FD	kerstman getinte huidskleur
+1F385-1F3FE	kerstman donkergetinte huidskleur
+1F385-1F3FF	kerstman donkere huidskleur
+1F386	vuurwerk
+1F387	sterretje
+1F388	ballon
+1F389	feestknaller
+1F38A	confettibal
+1F38B	tanabataboom
+1F38C	gekruiste vlaggen
+1F38D	dennenboomversiering
+1F38E	Japanse poppen
+1F38F	karperslinger
+1F390	windorgel
+1F391	maanobservatieceremonie
+1F392	schooltas
+1F393	academische baret
+1F396	militaire medaille
+1F397	bewustzijnslintje
+1F399	studiomicrofoon
+1F39A	schuifregelaar
+1F39B	controleknoppen
+1F39E	filmframes
+1F39F	entreekaartjes
+1F3A0	draaimolenpaard
+1F3A1	reuzenrad
+1F3A2	achtbaan
+1F3A3	vishengel
+1F3A4	microfoon
+1F3A5	filmcamera
+1F3A6	knop voor filmen
+1F3A7	hoofdtelefoon
+1F3A8	schilderspalet
+1F3A9	hoge hoed
+1F3AA	circustent
+1F3AB	ticket
+1F3AC	klapbord
+1F3AD	toneelkunsten
+1F3AE	videogame
+1F3AF	directe treffer
+1F3B0	fruitautomaat
+1F3B1	biljart
+1F3B2	dobbelsteen
+1F3B3	bowlen
+1F3B4	speelkaarten
+1F3B5	muzieknoot
+1F3B6	muzieknoten
+1F3B7	saxofoon
+1F3B8	gitaar
+1F3B9	piano
+1F3BA	trompet
+1F3BB	viool
+1F3BC	notenschift
+1F3BD	hardloopshirt
+1F3BE	tennis
+1F3BF	skis
+1F3C0	basketbal
+1F3C1	geblokte vlag
+1F3C2	snowboarder
+1F3C2-1F3FB	snowboarder lichte huidskleur
+1F3C2-1F3FC	snowboarder lichtgetinte huidskleur
+1F3C2-1F3FD	snowboarder getinte huidskleur
+1F3C2-1F3FE	snowboarder donkergetinte huidskleur
+1F3C2-1F3FF	snowboarder donkere huidskleur
+1F3C3	hardloper
+1F3C3-200D-2640	rennende vrouw
+1F3C3-200D-2642	rennende man
+1F3C3-1F3FB	hardloper lichte huidskleur
+1F3C3-1F3FB-200D-2640	rennende vrouw lichte huidskleur
+1F3C3-1F3FB-200D-2642	rennende man lichte huidskleur
+1F3C3-1F3FC	hardloper lichtgetinte huidskleur
+1F3C3-1F3FC-200D-2640	rennende vrouw lichtgetinte huidskleur
+1F3C3-1F3FC-200D-2642	rennende man lichtgetinte huidskleur
+1F3C3-1F3FD	hardloper getinte huidskleur
+1F3C3-1F3FD-200D-2640	rennende vrouw getinte huidskleur
+1F3C3-1F3FD-200D-2642	rennende man getinte huidskleur
+1F3C3-1F3FE	hardloper donkergetinte huidskleur
+1F3C3-1F3FE-200D-2640	rennende vrouw donkergetinte huidskleur
+1F3C3-1F3FE-200D-2642	rennende man donkergetinte huidskleur
+1F3C3-1F3FF	hardloper donkere huidskleur
+1F3C3-1F3FF-200D-2640	rennende vrouw donkere huidskleur
+1F3C3-1F3FF-200D-2642	rennende man donkere huidskleur
+1F3C4	surfer
+1F3C4-200D-2640	vrouwelijke surfer
+1F3C4-200D-2642	mannelijke surfer
+1F3C4-1F3FB	surfer lichte huidskleur
+1F3C4-1F3FB-200D-2640	vrouwelijke surfer lichte huidskleur
+1F3C4-1F3FB-200D-2642	mannelijke surfer lichte huidskleur
+1F3C4-1F3FC	surfer lichtgetinte huidskleur
+1F3C4-1F3FC-200D-2640	vrouwelijke surfer lichtgetinte huidskleur
+1F3C4-1F3FC-200D-2642	mannelijke surfer lichtgetinte huidskleur
+1F3C4-1F3FD	surfer getinte huidskleur
+1F3C4-1F3FD-200D-2640	vrouwelijke surfer getinte huidskleur
+1F3C4-1F3FD-200D-2642	mannelijke surfer getinte huidskleur
+1F3C4-1F3FE	surfer donkergetinte huidskleur
+1F3C4-1F3FE-200D-2640	vrouwelijke surfer donkergetinte huidskleur
+1F3C4-1F3FE-200D-2642	mannelijke surfer donkergetinte huidskleur
+1F3C4-1F3FF	surfer donkere huidskleur
+1F3C4-1F3FF-200D-2640	vrouwelijke surfer donkere huidskleur
+1F3C4-1F3FF-200D-2642	mannelijke surfer donkere huidskleur
+1F3C5	sportmedaille
+1F3C6	trofee
+1F3C7	jockey op renpaard
+1F3C7-1F3FB	jockey op renpaard lichte huidskleur
+1F3C7-1F3FC	jockey op renpaard lichtgetinte huidskleur
+1F3C7-1F3FD	jockey op renpaard getinte huidskleur
+1F3C7-1F3FE	jockey op renpaard donkergetinte huidskleur
+1F3C7-1F3FF	jockey op renpaard donkere huidskleur
+1F3C8	american football
+1F3C9	rugby
+1F3CA	zwemmende persoon
+1F3CA-200D-2640	zwemmende vrouw
+1F3CA-200D-2642	zwemmende man
+1F3CA-1F3FB	zwemmende persoon lichte huidskleur
+1F3CA-1F3FB-200D-2640	zwemmende vrouw lichte huidskleur
+1F3CA-1F3FB-200D-2642	zwemmende man lichte huidskleur
+1F3CA-1F3FC	zwemmende persoon lichtgetinte huidskleur
+1F3CA-1F3FC-200D-2640	zwemmende vrouw lichtgetinte huidskleur
+1F3CA-1F3FC-200D-2642	zwemmende man lichtgetinte huidskleur
+1F3CA-1F3FD	zwemmende persoon getinte huidskleur
+1F3CA-1F3FD-200D-2640	zwemmende vrouw getinte huidskleur
+1F3CA-1F3FD-200D-2642	zwemmende man getinte huidskleur
+1F3CA-1F3FE	zwemmende persoon donkergetinte huidskleur
+1F3CA-1F3FE-200D-2640	zwemmende vrouw donkergetinte huidskleur
+1F3CA-1F3FE-200D-2642	zwemmende man donkergetinte huidskleur
+1F3CA-1F3FF	zwemmende persoon donkere huidskleur
+1F3CA-1F3FF-200D-2640	zwemmende vrouw donkere huidskleur
+1F3CA-1F3FF-200D-2642	zwemmende man donkere huidskleur
+1F3CB	gewichtheffer
+1F3CB-200D-2640	vrouwelijke gewichtheffer
+1F3CB-200D-2642	mannelijke gewichtheffer
+1F3CB-1F3FB	gewichtheffer lichte huidskleur
+1F3CB-1F3FB-200D-2640	vrouwelijke gewichtheffer lichte huidskleur
+1F3CB-1F3FB-200D-2642	mannelijke gewichtheffer lichte huidskleur
+1F3CB-1F3FC	gewichtheffer lichtgetinte huidskleur
+1F3CB-1F3FC-200D-2640	vrouwelijke gewichtheffer lichtgetinte huidskleur
+1F3CB-1F3FC-200D-2642	mannelijke gewichtheffer lichtgetinte huidskleur
+1F3CB-1F3FD	gewichtheffer getinte huidskleur
+1F3CB-1F3FD-200D-2640	vrouwelijke gewichtheffer getinte huidskleur
+1F3CB-1F3FD-200D-2642	mannelijke gewichtheffer getinte huidskleur
+1F3CB-1F3FE	gewichtheffer donkergetinte huidskleur
+1F3CB-1F3FE-200D-2640	vrouwelijke gewichtheffer donkergetinte huidskleur
+1F3CB-1F3FE-200D-2642	mannelijke gewichtheffer donkergetinte huidskleur
+1F3CB-1F3FF	gewichtheffer donkere huidskleur
+1F3CB-1F3FF-200D-2640	vrouwelijke gewichtheffer donkere huidskleur
+1F3CB-1F3FF-200D-2642	mannelijke gewichtheffer donkere huidskleur
+1F3CC	golfer
+1F3CC-200D-2640	golfende vrouw
+1F3CC-200D-2642	golfende man
+1F3CC-1F3FB	golfer lichte huidskleur
+1F3CC-1F3FB-200D-2640	golfende vrouw lichte huidskleur
+1F3CC-1F3FB-200D-2642	golfende man lichte huidskleur
+1F3CC-1F3FC	golfer lichtgetinte huidskleur
+1F3CC-1F3FC-200D-2640	golfende vrouw lichtgetinte huidskleur
+1F3CC-1F3FC-200D-2642	golfende man lichtgetinte huidskleur
+1F3CC-1F3FD	golfer getinte huidskleur
+1F3CC-1F3FD-200D-2640	golfende vrouw getinte huidskleur
+1F3CC-1F3FD-200D-2642	golfende man getinte huidskleur
+1F3CC-1F3FE	golfer donkergetinte huidskleur
+1F3CC-1F3FE-200D-2640	golfende vrouw donkergetinte huidskleur
+1F3CC-1F3FE-200D-2642	golfende man donkergetinte huidskleur
+1F3CC-1F3FF	golfer donkere huidskleur
+1F3CC-1F3FF-200D-2640	golfende vrouw donkere huidskleur
+1F3CC-1F3FF-200D-2642	golfende man donkere huidskleur
+1F3CD	motor
+1F3CE	raceauto
+1F3CF	cricket
+1F3D0	volleybal
+1F3D1	hockey
+1F3D2	ijshockeystick en puck
+1F3D3	pingpong
+1F3D4	berg met besneeuwde toppen
+1F3D5	kamperen
+1F3D6	strand met parasol
+1F3D7	woningbouw
+1F3D8	huizen
+1F3D9	stadsgezicht
+1F3DA	vervallen huis
+1F3DB	klassiek gebouw
+1F3DC	woestijn
+1F3DD	onbewoond eiland
+1F3DE	nationaal park
+1F3DF	stadion
+1F3E0	huis
+1F3E1	huis met tuin
+1F3E2	kantoorgebouw
+1F3E3	Japans postkantoor
+1F3E4	postkantoor
+1F3E5	ziekenhuis
+1F3E6	bank
+1F3E7	pinautomaat
+1F3E8	hotel
+1F3E9	love-hotel
+1F3EA	supermarkt
+1F3EB	school
+1F3EC	warenhuis
+1F3ED	fabriek
+1F3EE	rode papieren lantaarn
+1F3EF	Japans kasteel
+1F3F0	kasteel
+1F3F3	witte vlag
+1F3F3-200D-26A7	transgendervlag
+1F3F3-200D-1F308	regenboogvlag
+1F3F4	zwarte vlag
+1F3F4-200D-2620	piratenvlag
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	vlag Engeland
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	vlag Schotland
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	vlag Wales
+1F3F5	rozet
+1F3F7	label
+1F3F8	badminton
+1F3F9	pijl en boog
+1F3FA	amfora
+1F3FB	lichte huidskleur
+1F3FC	lichtgetinte huidskleur
+1F3FD	getinte huidskleur
+1F3FE	donkergetinte huidskleur
+1F3FF	donkere huidskleur
+1F400	rat
+1F401	muis
+1F402	os
+1F403	waterbuffel
+1F404	koe
+1F405	tijger
+1F406	luipaard
+1F407	konijn
+1F408	kat
+1F408-200D-2B1B	zwarte kat
+1F409	draak
+1F40A	krokodil
+1F40B	walvis
+1F40C	slak
+1F40D	slang
+1F40E	paard
+1F40F	ram
+1F410	geit
+1F411	ooi
+1F412	aap
+1F413	haan
+1F414	kip
+1F415	hond
+1F415-200D-1F9BA	assistentiehond
+1F416	varken
+1F417	zwijn
+1F418	olifant
+1F419	octopus
+1F41A	schelp
+1F41B	insect
+1F41C	mier
+1F41D	honingbij
+1F41E	lieveheersbeestje
+1F41F	vis
+1F420	tropische vis
+1F421	kogelvis
+1F422	schildpad
+1F423	kuiken uit ei
+1F424	kuikentje
+1F425	naar voren kijkend kuikentje
+1F426	vogel
+1F427	pingun
+1F428	koala
+1F429	poedel
+1F42A	dromedaris
+1F42B	kameel
+1F42C	dolfijn
+1F42D	muizengezicht
+1F42E	koeiengezicht
+1F42F	tijgergezicht
+1F430	konijnengezicht
+1F431	kattengezicht
+1F432	drakengezicht
+1F433	spuitende walvis
+1F434	paardengezicht
+1F435	apengezicht
+1F436	hondengezicht
+1F437	varkensgezicht
+1F438	kikker
+1F439	hamster
+1F43A	wolf
+1F43B	beer
+1F43B-200D-2744	ijsbeer
+1F43C	panda
+1F43D	varkensneus
+1F43E	pootafdrukken
+1F43F	eekhoorn
+1F440	ogen
+1F441	oog
+1F441-200D-1F5E8	spraakballon met oog
+1F442	oor
+1F442-1F3FB	oor lichte huidskleur
+1F442-1F3FC	oor lichtgetinte huidskleur
+1F442-1F3FD	oor getinte huidskleur
+1F442-1F3FE	oor donkergetinte huidskleur
+1F442-1F3FF	oor donkere huidskleur
+1F443	neus
+1F443-1F3FB	neus lichte huidskleur
+1F443-1F3FC	neus lichtgetinte huidskleur
+1F443-1F3FD	neus getinte huidskleur
+1F443-1F3FE	neus donkergetinte huidskleur
+1F443-1F3FF	neus donkere huidskleur
+1F444	mond
+1F445	tong
+1F446	achterkant van hand met omhoog wijzende wijsvinger
+1F446-1F3FB	achterkant van hand met omhoog wijzende wijsvinger lichte huidskleur
+1F446-1F3FC	achterkant van hand met omhoog wijzende wijsvinger lichtgetinte huidskleur
+1F446-1F3FD	achterkant van hand met omhoog wijzende wijsvinger getinte huidskleur
+1F446-1F3FE	achterkant van hand met omhoog wijzende wijsvinger donkergetinte huidskleur
+1F446-1F3FF	achterkant van hand met omhoog wijzende wijsvinger donkere huidskleur
+1F447	achterkant van hand met omlaag wijzende wijsvinger
+1F447-1F3FB	achterkant van hand met omlaag wijzende wijsvinger lichte huidskleur
+1F447-1F3FC	achterkant van hand met omlaag wijzende wijsvinger lichtgetinte huidskleur
+1F447-1F3FD	achterkant van hand met omlaag wijzende wijsvinger getinte huidskleur
+1F447-1F3FE	achterkant van hand met omlaag wijzende wijsvinger donkergetinte huidskleur
+1F447-1F3FF	achterkant van hand met omlaag wijzende wijsvinger donkere huidskleur
+1F448	achterkant van hand met naar links wijzende wijsvinger
+1F448-1F3FB	achterkant van hand met naar links wijzende wijsvinger lichte huidskleur
+1F448-1F3FC	achterkant van hand met naar links wijzende wijsvinger lichtgetinte huidskleur
+1F448-1F3FD	achterkant van hand met naar links wijzende wijsvinger getinte huidskleur
+1F448-1F3FE	achterkant van hand met naar links wijzende wijsvinger donkergetinte huidskleur
+1F448-1F3FF	achterkant van hand met naar links wijzende wijsvinger donkere huidskleur
+1F449	achterkant van hand met naar rechts wijzende wijsvinger
+1F449-1F3FB	achterkant van hand met naar rechts wijzende wijsvinger lichte huidskleur
+1F449-1F3FC	achterkant van hand met naar rechts wijzende wijsvinger lichtgetinte huidskleur
+1F449-1F3FD	achterkant van hand met naar rechts wijzende wijsvinger getinte huidskleur
+1F449-1F3FE	achterkant van hand met naar rechts wijzende wijsvinger donkergetinte huidskleur
+1F449-1F3FF	achterkant van hand met naar rechts wijzende wijsvinger donkere huidskleur
+1F44A	stotende vuist
+1F44A-1F3FB	stotende vuist lichte huidskleur
+1F44A-1F3FC	stotende vuist lichtgetinte huidskleur
+1F44A-1F3FD	stotende vuist getinte huidskleur
+1F44A-1F3FE	stotende vuist donkergetinte huidskleur
+1F44A-1F3FF	stotende vuist donkere huidskleur
+1F44B	zwaaiende hand
+1F44B-1F3FB	zwaaiende hand lichte huidskleur
+1F44B-1F3FC	zwaaiende hand lichtgetinte huidskleur
+1F44B-1F3FD	zwaaiende hand getinte huidskleur
+1F44B-1F3FE	zwaaiende hand donkergetinte huidskleur
+1F44B-1F3FF	zwaaiende hand donkere huidskleur
+1F44C	OK-handgebaar
+1F44C-1F3FB	OK-handgebaar lichte huidskleur
+1F44C-1F3FC	OK-handgebaar lichtgetinte huidskleur
+1F44C-1F3FD	OK-handgebaar getinte huidskleur
+1F44C-1F3FE	OK-handgebaar donkergetinte huidskleur
+1F44C-1F3FF	OK-handgebaar donkere huidskleur
+1F44D	duim omhoog
+1F44D-1F3FB	duim omhoog lichte huidskleur
+1F44D-1F3FC	duim omhoog lichtgetinte huidskleur
+1F44D-1F3FD	duim omhoog getinte huidskleur
+1F44D-1F3FE	duim omhoog donkergetinte huidskleur
+1F44D-1F3FF	duim omhoog donkere huidskleur
+1F44E	duim omlaag
+1F44E-1F3FB	duim omlaag lichte huidskleur
+1F44E-1F3FC	duim omlaag lichtgetinte huidskleur
+1F44E-1F3FD	duim omlaag getinte huidskleur
+1F44E-1F3FE	duim omlaag donkergetinte huidskleur
+1F44E-1F3FF	duim omlaag donkere huidskleur
+1F44F	klappende handen
+1F44F-1F3FB	klappende handen lichte huidskleur
+1F44F-1F3FC	klappende handen lichtgetinte huidskleur
+1F44F-1F3FD	klappende handen getinte huidskleur
+1F44F-1F3FE	klappende handen donkergetinte huidskleur
+1F44F-1F3FF	klappende handen donkere huidskleur
+1F450	open handen
+1F450-1F3FB	open handen lichte huidskleur
+1F450-1F3FC	open handen lichtgetinte huidskleur
+1F450-1F3FD	open handen getinte huidskleur
+1F450-1F3FE	open handen donkergetinte huidskleur
+1F450-1F3FF	open handen donkere huidskleur
+1F451	kroon
+1F452	dameshoed
+1F453	bril
+1F454	stropdas
+1F455	T-shirt
+1F456	spijkerbroek
+1F457	jurk
+1F458	kimono
+1F459	bikini
+1F45A	dameskleding
+1F45B	portemonnee
+1F45C	handtas
+1F45D	tasje
+1F45E	herenschoen
+1F45F	sportschoen
+1F460	schoen met hoge hak
+1F461	damessandaal
+1F462	dameslaars
+1F463	voetafdrukken
+1F464	silhouet van persoon
+1F465	silhouet van twee personen
+1F466	jongen
+1F466-1F3FB	jongen lichte huidskleur
+1F466-1F3FC	jongen lichtgetinte huidskleur
+1F466-1F3FD	jongen getinte huidskleur
+1F466-1F3FE	jongen donkergetinte huidskleur
+1F466-1F3FF	jongen donkere huidskleur
+1F467	meisje
+1F467-1F3FB	meisje lichte huidskleur
+1F467-1F3FC	meisje lichtgetinte huidskleur
+1F467-1F3FD	meisje getinte huidskleur
+1F467-1F3FE	meisje donkergetinte huidskleur
+1F467-1F3FF	meisje donkere huidskleur
+1F468	man
+1F468-200D-2695	mannelijke gezondheidsmedewerker
+1F468-200D-2696	mannelijke rechter
+1F468-200D-2708	mannelijke piloot
+1F468-200D-2764-200D-1F468	stel met hart man man
+1F468-200D-2764-200D-1F48B-200D-1F468	kus man man
+1F468-200D-1F33E	mannelijke boer
+1F468-200D-1F373	mannelijke kok
+1F468-200D-1F37C	man die een baby voedt
+1F468-200D-1F393	mannelijke student
+1F468-200D-1F3A4	mannelijke zanger
+1F468-200D-1F3A8	mannelijke kunstenaar
+1F468-200D-1F3EB	mannelijke docent
+1F468-200D-1F3ED	mannelijke fabrieksarbeider
+1F468-200D-1F466	gezin man jongen
+1F468-200D-1F466-200D-1F466	gezin man jongen jongen
+1F468-200D-1F467	gezin man meisje
+1F468-200D-1F467-200D-1F466	gezin man meisje jongen
+1F468-200D-1F467-200D-1F467	gezin man meisje meisje
+1F468-200D-1F468-200D-1F466	gezin man man jongen
+1F468-200D-1F468-200D-1F466-200D-1F466	gezin man man jongen jongen
+1F468-200D-1F468-200D-1F467	gezin man man meisje
+1F468-200D-1F468-200D-1F467-200D-1F466	gezin man man meisje jongen
+1F468-200D-1F468-200D-1F467-200D-1F467	gezin man man meisje meisje
+1F468-200D-1F469-200D-1F466	gezin man vrouw jongen
+1F468-200D-1F469-200D-1F466-200D-1F466	gezin man vrouw jongen jongen
+1F468-200D-1F469-200D-1F467	gezin man vrouw meisje
+1F468-200D-1F469-200D-1F467-200D-1F466	gezin man vrouw meisje jongen
+1F468-200D-1F469-200D-1F467-200D-1F467	gezin man vrouw meisje meisje
+1F468-200D-1F4BB	mannelijke technoloog
+1F468-200D-1F4BC	mannelijke kantoormedewerker
+1F468-200D-1F527	mannelijke monteur
+1F468-200D-1F52C	mannelijke wetenschapper
+1F468-200D-1F680	mannelijke astronaut
+1F468-200D-1F692	mannelijke brandweerman
+1F468-200D-1F9AF	man met taststok
+1F468-200D-1F9B0	man rood haar
+1F468-200D-1F9B1	man krullend haar
+1F468-200D-1F9B2	man kaal
+1F468-200D-1F9B3	man wit haar
+1F468-200D-1F9BC	man in elektrische rolstoel
+1F468-200D-1F9BD	man in rolstoel
+1F468-1F3FB	man lichte huidskleur
+1F468-1F3FB-200D-2695	mannelijke gezondheidsmedewerker lichte huidskleur
+1F468-1F3FB-200D-2696	mannelijke rechter lichte huidskleur
+1F468-1F3FB-200D-2708	mannelijke piloot lichte huidskleur
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	stel met hart man man lichte huidskleur
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	stel met hart man man lichte huidskleur lichtgetinte huidskleur
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	stel met hart man man lichte huidskleur getinte huidskleur
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	stel met hart man man lichte huidskleur donkergetinte huidskleur
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	stel met hart man man lichte huidskleur donkere huidskleur
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus man man lichte huidskleur
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus man man lichte huidskleur lichtgetinte huidskleur
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus man man lichte huidskleur getinte huidskleur
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus man man lichte huidskleur donkergetinte huidskleur
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus man man lichte huidskleur donkere huidskleur
+1F468-1F3FB-200D-1F33E	mannelijke boer lichte huidskleur
+1F468-1F3FB-200D-1F373	mannelijke kok lichte huidskleur
+1F468-1F3FB-200D-1F37C	man die een baby voedt lichte huidskleur
+1F468-1F3FB-200D-1F393	mannelijke student lichte huidskleur
+1F468-1F3FB-200D-1F3A4	mannelijke zanger lichte huidskleur
+1F468-1F3FB-200D-1F3A8	mannelijke kunstenaar lichte huidskleur
+1F468-1F3FB-200D-1F3EB	mannelijke docent lichte huidskleur
+1F468-1F3FB-200D-1F3ED	mannelijke fabrieksarbeider lichte huidskleur
+1F468-1F3FB-200D-1F4BB	mannelijke technoloog lichte huidskleur
+1F468-1F3FB-200D-1F4BC	mannelijke kantoormedewerker lichte huidskleur
+1F468-1F3FB-200D-1F527	mannelijke monteur lichte huidskleur
+1F468-1F3FB-200D-1F52C	mannelijke wetenschapper lichte huidskleur
+1F468-1F3FB-200D-1F680	mannelijke astronaut lichte huidskleur
+1F468-1F3FB-200D-1F692	mannelijke brandweerman lichte huidskleur
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	mannen hand in hand lichte huidskleur lichtgetinte huidskleur
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	mannen hand in hand lichte huidskleur getinte huidskleur
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	mannen hand in hand lichte huidskleur donkergetinte huidskleur
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	mannen hand in hand lichte huidskleur donkere huidskleur
+1F468-1F3FB-200D-1F9AF	man met taststok lichte huidskleur
+1F468-1F3FB-200D-1F9B0	man lichte huidskleur rood haar
+1F468-1F3FB-200D-1F9B1	man lichte huidskleur krullend haar
+1F468-1F3FB-200D-1F9B2	man lichte huidskleur kaal
+1F468-1F3FB-200D-1F9B3	man lichte huidskleur wit haar
+1F468-1F3FB-200D-1F9BC	man in elektrische rolstoel lichte huidskleur
+1F468-1F3FB-200D-1F9BD	man in rolstoel lichte huidskleur
+1F468-1F3FC	man lichtgetinte huidskleur
+1F468-1F3FC-200D-2695	mannelijke gezondheidsmedewerker lichtgetinte huidskleur
+1F468-1F3FC-200D-2696	mannelijke rechter lichtgetinte huidskleur
+1F468-1F3FC-200D-2708	mannelijke piloot lichtgetinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	stel met hart man man lichtgetinte huidskleur lichte huidskleur
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	stel met hart man man lichtgetinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	stel met hart man man lichtgetinte huidskleur getinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	stel met hart man man lichtgetinte huidskleur donkergetinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	stel met hart man man lichtgetinte huidskleur donkere huidskleur
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus man man lichtgetinte huidskleur lichte huidskleur
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus man man lichtgetinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus man man lichtgetinte huidskleur getinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus man man lichtgetinte huidskleur donkergetinte huidskleur
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus man man lichtgetinte huidskleur donkere huidskleur
+1F468-1F3FC-200D-1F33E	mannelijke boer lichtgetinte huidskleur
+1F468-1F3FC-200D-1F373	mannelijke kok lichtgetinte huidskleur
+1F468-1F3FC-200D-1F37C	man die een baby voedt lichtgetinte huidskleur
+1F468-1F3FC-200D-1F393	mannelijke student lichtgetinte huidskleur
+1F468-1F3FC-200D-1F3A4	mannelijke zanger lichtgetinte huidskleur
+1F468-1F3FC-200D-1F3A8	mannelijke kunstenaar lichtgetinte huidskleur
+1F468-1F3FC-200D-1F3EB	mannelijke docent lichtgetinte huidskleur
+1F468-1F3FC-200D-1F3ED	mannelijke fabrieksarbeider lichtgetinte huidskleur
+1F468-1F3FC-200D-1F4BB	mannelijke technoloog lichtgetinte huidskleur
+1F468-1F3FC-200D-1F4BC	mannelijke kantoormedewerker lichtgetinte huidskleur
+1F468-1F3FC-200D-1F527	mannelijke monteur lichtgetinte huidskleur
+1F468-1F3FC-200D-1F52C	mannelijke wetenschapper lichtgetinte huidskleur
+1F468-1F3FC-200D-1F680	mannelijke astronaut lichtgetinte huidskleur
+1F468-1F3FC-200D-1F692	mannelijke brandweerman lichtgetinte huidskleur
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	mannen hand in hand lichtgetinte huidskleur lichte huidskleur
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	mannen hand in hand lichtgetinte huidskleur getinte huidskleur
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	mannen hand in hand lichtgetinte huidskleur donkergetinte huidskleur
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	mannen hand in hand lichtgetinte huidskleur donkere huidskleur
+1F468-1F3FC-200D-1F9AF	man met taststok lichtgetinte huidskleur
+1F468-1F3FC-200D-1F9B0	man lichtgetinte huidskleur rood haar
+1F468-1F3FC-200D-1F9B1	man lichtgetinte huidskleur krullend haar
+1F468-1F3FC-200D-1F9B2	man lichtgetinte huidskleur kaal
+1F468-1F3FC-200D-1F9B3	man lichtgetinte huidskleur wit haar
+1F468-1F3FC-200D-1F9BC	man in elektrische rolstoel lichtgetinte huidskleur
+1F468-1F3FC-200D-1F9BD	man in rolstoel lichtgetinte huidskleur
+1F468-1F3FD	man getinte huidskleur
+1F468-1F3FD-200D-2695	mannelijke gezondheidsmedewerker getinte huidskleur
+1F468-1F3FD-200D-2696	mannelijke rechter getinte huidskleur
+1F468-1F3FD-200D-2708	mannelijke piloot getinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	stel met hart man man getinte huidskleur lichte huidskleur
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	stel met hart man man getinte huidskleur lichtgetinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	stel met hart man man getinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	stel met hart man man getinte huidskleur donkergetinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	stel met hart man man getinte huidskleur donkere huidskleur
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus man man getinte huidskleur lichte huidskleur
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus man man getinte huidskleur lichtgetinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus man man getinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus man man getinte huidskleur donkergetinte huidskleur
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus man man getinte huidskleur donkere huidskleur
+1F468-1F3FD-200D-1F33E	mannelijke boer getinte huidskleur
+1F468-1F3FD-200D-1F373	mannelijke kok getinte huidskleur
+1F468-1F3FD-200D-1F37C	man die een baby voedt getinte huidskleur
+1F468-1F3FD-200D-1F393	mannelijke student getinte huidskleur
+1F468-1F3FD-200D-1F3A4	mannelijke zanger getinte huidskleur
+1F468-1F3FD-200D-1F3A8	mannelijke kunstenaar getinte huidskleur
+1F468-1F3FD-200D-1F3EB	mannelijke docent getinte huidskleur
+1F468-1F3FD-200D-1F3ED	mannelijke fabrieksarbeider getinte huidskleur
+1F468-1F3FD-200D-1F4BB	mannelijke technoloog getinte huidskleur
+1F468-1F3FD-200D-1F4BC	mannelijke kantoormedewerker getinte huidskleur
+1F468-1F3FD-200D-1F527	mannelijke monteur getinte huidskleur
+1F468-1F3FD-200D-1F52C	mannelijke wetenschapper getinte huidskleur
+1F468-1F3FD-200D-1F680	mannelijke astronaut getinte huidskleur
+1F468-1F3FD-200D-1F692	mannelijke brandweerman getinte huidskleur
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	mannen hand in hand getinte huidskleur lichte huidskleur
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	mannen hand in hand getinte huidskleur lichtgetinte huidskleur
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	mannen hand in hand getinte huidskleur donkergetinte huidskleur
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	mannen hand in hand getinte huidskleur donkere huidskleur
+1F468-1F3FD-200D-1F9AF	man met taststok getinte huidskleur
+1F468-1F3FD-200D-1F9B0	man getinte huidskleur rood haar
+1F468-1F3FD-200D-1F9B1	man getinte huidskleur krullend haar
+1F468-1F3FD-200D-1F9B2	man getinte huidskleur kaal
+1F468-1F3FD-200D-1F9B3	man getinte huidskleur wit haar
+1F468-1F3FD-200D-1F9BC	man in elektrische rolstoel getinte huidskleur
+1F468-1F3FD-200D-1F9BD	man in rolstoel getinte huidskleur
+1F468-1F3FE	man donkergetinte huidskleur
+1F468-1F3FE-200D-2695	mannelijke gezondheidsmedewerker donkergetinte huidskleur
+1F468-1F3FE-200D-2696	mannelijke rechter donkergetinte huidskleur
+1F468-1F3FE-200D-2708	mannelijke piloot donkergetinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	stel met hart man man donkergetinte huidskleur lichte huidskleur
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	stel met hart man man donkergetinte huidskleur lichtgetinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	stel met hart man man donkergetinte huidskleur getinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	stel met hart man man donkergetinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	stel met hart man man donkergetinte huidskleur donkere huidskleur
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus man man donkergetinte huidskleur lichte huidskleur
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus man man donkergetinte huidskleur lichtgetinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus man man donkergetinte huidskleur getinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus man man donkergetinte huidskleur
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus man man donkergetinte huidskleur donkere huidskleur
+1F468-1F3FE-200D-1F33E	mannelijke boer donkergetinte huidskleur
+1F468-1F3FE-200D-1F373	mannelijke kok donkergetinte huidskleur
+1F468-1F3FE-200D-1F37C	man die een baby voedt donkergetinte huidskleur
+1F468-1F3FE-200D-1F393	mannelijke student donkergetinte huidskleur
+1F468-1F3FE-200D-1F3A4	mannelijke zanger donkergetinte huidskleur
+1F468-1F3FE-200D-1F3A8	mannelijke kunstenaar donkergetinte huidskleur
+1F468-1F3FE-200D-1F3EB	mannelijke docent donkergetinte huidskleur
+1F468-1F3FE-200D-1F3ED	mannelijke fabrieksarbeider donkergetinte huidskleur
+1F468-1F3FE-200D-1F4BB	mannelijke technoloog donkergetinte huidskleur
+1F468-1F3FE-200D-1F4BC	mannelijke kantoormedewerker donkergetinte huidskleur
+1F468-1F3FE-200D-1F527	mannelijke monteur donkergetinte huidskleur
+1F468-1F3FE-200D-1F52C	mannelijke wetenschapper donkergetinte huidskleur
+1F468-1F3FE-200D-1F680	mannelijke astronaut donkergetinte huidskleur
+1F468-1F3FE-200D-1F692	mannelijke brandweerman donkergetinte huidskleur
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	mannen hand in hand donkergetinte huidskleur lichte huidskleur
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	mannen hand in hand donkergetinte huidskleur lichtgetinte huidskleur
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	mannen hand in hand donkergetinte huidskleur getinte huidskleur
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	mannen hand in hand donkergetinte huidskleur donkere huidskleur
+1F468-1F3FE-200D-1F9AF	man met taststok donkergetinte huidskleur
+1F468-1F3FE-200D-1F9B0	man donkergetinte huidskleur rood haar
+1F468-1F3FE-200D-1F9B1	man donkergetinte huidskleur krullend haar
+1F468-1F3FE-200D-1F9B2	man donkergetinte huidskleur kaal
+1F468-1F3FE-200D-1F9B3	man donkergetinte huidskleur wit haar
+1F468-1F3FE-200D-1F9BC	man in elektrische rolstoel donkergetinte huidskleur
+1F468-1F3FE-200D-1F9BD	man in rolstoel donkergetinte huidskleur
+1F468-1F3FF	man donkere huidskleur
+1F468-1F3FF-200D-2695	mannelijke gezondheidsmedewerker donkere huidskleur
+1F468-1F3FF-200D-2696	mannelijke rechter donkere huidskleur
+1F468-1F3FF-200D-2708	mannelijke piloot donkere huidskleur
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	stel met hart man man donkere huidskleur lichte huidskleur
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	stel met hart man man donkere huidskleur lichtgetinte huidskleur
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	stel met hart man man donkere huidskleur getinte huidskleur
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	stel met hart man man donkere huidskleur donkergetinte huidskleur
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	stel met hart man man donkere huidskleur
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus man man donkere huidskleur lichte huidskleur
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus man man donkere huidskleur lichtgetinte huidskleur
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus man man donkere huidskleur getinte huidskleur
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus man man donkere huidskleur donkergetinte huidskleur
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus man man donkere huidskleur
+1F468-1F3FF-200D-1F33E	mannelijke boer donkere huidskleur
+1F468-1F3FF-200D-1F373	mannelijke kok donkere huidskleur
+1F468-1F3FF-200D-1F37C	man die een baby voedt donkere huidskleur
+1F468-1F3FF-200D-1F393	mannelijke student donkere huidskleur
+1F468-1F3FF-200D-1F3A4	mannelijke zanger donkere huidskleur
+1F468-1F3FF-200D-1F3A8	mannelijke kunstenaar donkere huidskleur
+1F468-1F3FF-200D-1F3EB	mannelijke docent donkere huidskleur
+1F468-1F3FF-200D-1F3ED	mannelijke fabrieksarbeider donkere huidskleur
+1F468-1F3FF-200D-1F4BB	mannelijke technoloog donkere huidskleur
+1F468-1F3FF-200D-1F4BC	mannelijke kantoormedewerker donkere huidskleur
+1F468-1F3FF-200D-1F527	mannelijke monteur donkere huidskleur
+1F468-1F3FF-200D-1F52C	mannelijke wetenschapper donkere huidskleur
+1F468-1F3FF-200D-1F680	mannelijke astronaut donkere huidskleur
+1F468-1F3FF-200D-1F692	mannelijke brandweerman donkere huidskleur
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	mannen hand in hand donkere huidskleur lichte huidskleur
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	mannen hand in hand donkere huidskleur lichtgetinte huidskleur
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	mannen hand in hand donkere huidskleur getinte huidskleur
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	mannen hand in hand donkere huidskleur donkergetinte huidskleur
+1F468-1F3FF-200D-1F9AF	man met taststok donkere huidskleur
+1F468-1F3FF-200D-1F9B0	man donkere huidskleur rood haar
+1F468-1F3FF-200D-1F9B1	man donkere huidskleur krullend haar
+1F468-1F3FF-200D-1F9B2	man donkere huidskleur kaal
+1F468-1F3FF-200D-1F9B3	man donkere huidskleur wit haar
+1F468-1F3FF-200D-1F9BC	man in elektrische rolstoel donkere huidskleur
+1F468-1F3FF-200D-1F9BD	man in rolstoel donkere huidskleur
+1F469	vrouw
+1F469-200D-2695	gezondheidsmedewerkster
+1F469-200D-2696	vrouwelijke rechter
+1F469-200D-2708	pilote
+1F469-200D-2764-200D-1F468	stel met hart vrouw man
+1F469-200D-2764-200D-1F469	stel met hart vrouw vrouw
+1F469-200D-2764-200D-1F48B-200D-1F468	kus vrouw man
+1F469-200D-2764-200D-1F48B-200D-1F469	kus vrouw vrouw
+1F469-200D-1F33E	boerin
+1F469-200D-1F373	kokkin
+1F469-200D-1F37C	vrouw die een baby voedt
+1F469-200D-1F393	studente
+1F469-200D-1F3A4	zangeres
+1F469-200D-1F3A8	kunstenares
+1F469-200D-1F3EB	docente
+1F469-200D-1F3ED	fabrieksarbeidster
+1F469-200D-1F466	gezin vrouw jongen
+1F469-200D-1F466-200D-1F466	gezin vrouw jongen jongen
+1F469-200D-1F467	gezin vrouw meisje
+1F469-200D-1F467-200D-1F466	gezin vrouw meisje jongen
+1F469-200D-1F467-200D-1F467	gezin vrouw meisje meisje
+1F469-200D-1F469-200D-1F466	gezin vrouw vrouw jongen
+1F469-200D-1F469-200D-1F466-200D-1F466	gezin vrouw vrouw jongen jongen
+1F469-200D-1F469-200D-1F467	gezin vrouw vrouw meisje
+1F469-200D-1F469-200D-1F467-200D-1F466	gezin vrouw vrouw meisje jongen
+1F469-200D-1F469-200D-1F467-200D-1F467	gezin vrouw vrouw meisje meisje
+1F469-200D-1F4BB	technologe
+1F469-200D-1F4BC	kantoormedewerkster
+1F469-200D-1F527	monteuse
+1F469-200D-1F52C	wetenschapster
+1F469-200D-1F680	astronaute
+1F469-200D-1F692	brandweervrouw
+1F469-200D-1F9AF	vrouw met taststok
+1F469-200D-1F9B0	vrouw rood haar
+1F469-200D-1F9B1	vrouw krullend haar
+1F469-200D-1F9B2	vrouw kaal
+1F469-200D-1F9B3	vrouw wit haar
+1F469-200D-1F9BC	vrouw in elektrische rolstoel
+1F469-200D-1F9BD	vrouw in rolstoel
+1F469-1F3FB	vrouw lichte huidskleur
+1F469-1F3FB-200D-2695	gezondheidsmedewerkster lichte huidskleur
+1F469-1F3FB-200D-2696	vrouwelijke rechter lichte huidskleur
+1F469-1F3FB-200D-2708	pilote lichte huidskleur
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	stel met hart vrouw man lichte huidskleur
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	stel met hart vrouw man lichte huidskleur lichtgetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	stel met hart vrouw man lichte huidskleur getinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	stel met hart vrouw man lichte huidskleur donkergetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	stel met hart vrouw man lichte huidskleur donkere huidskleur
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	stel met hart vrouw vrouw lichte huidskleur
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	stel met hart vrouw vrouw lichte huidskleur lichtgetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	stel met hart vrouw vrouw lichte huidskleur getinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	stel met hart vrouw vrouw lichte huidskleur donkergetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	stel met hart vrouw vrouw lichte huidskleur donkere huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus vrouw man lichte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus vrouw man lichte huidskleur lichtgetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus vrouw man lichte huidskleur getinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus vrouw man lichte huidskleur donkergetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus vrouw man lichte huidskleur donkere huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	kus vrouw vrouw lichte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	kus vrouw vrouw lichte huidskleur lichtgetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	kus vrouw vrouw lichte huidskleur getinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	kus vrouw vrouw lichte huidskleur donkergetinte huidskleur
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	kus vrouw vrouw lichte huidskleur donkere huidskleur
+1F469-1F3FB-200D-1F33E	boerin lichte huidskleur
+1F469-1F3FB-200D-1F373	kokkin lichte huidskleur
+1F469-1F3FB-200D-1F37C	vrouw die een baby voedt lichte huidskleur
+1F469-1F3FB-200D-1F393	studente lichte huidskleur
+1F469-1F3FB-200D-1F3A4	zangeres lichte huidskleur
+1F469-1F3FB-200D-1F3A8	kunstenares lichte huidskleur
+1F469-1F3FB-200D-1F3EB	docente lichte huidskleur
+1F469-1F3FB-200D-1F3ED	fabrieksarbeidster lichte huidskleur
+1F469-1F3FB-200D-1F4BB	technologe lichte huidskleur
+1F469-1F3FB-200D-1F4BC	kantoormedewerkster lichte huidskleur
+1F469-1F3FB-200D-1F527	monteuse lichte huidskleur
+1F469-1F3FB-200D-1F52C	wetenschapster lichte huidskleur
+1F469-1F3FB-200D-1F680	astronaute lichte huidskleur
+1F469-1F3FB-200D-1F692	brandweervrouw lichte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	man en vrouw hand in hand lichte huidskleur lichtgetinte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	man en vrouw hand in hand lichte huidskleur getinte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	man en vrouw hand in hand lichte huidskleur donkergetinte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	man en vrouw hand in hand lichte huidskleur donkere huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	vrouwen hand in hand lichte huidskleur lichtgetinte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	vrouwen hand in hand lichte huidskleur getinte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	vrouwen hand in hand lichte huidskleur donkergetinte huidskleur
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	vrouwen hand in hand lichte huidskleur donkere huidskleur
+1F469-1F3FB-200D-1F9AF	vrouw met taststok lichte huidskleur
+1F469-1F3FB-200D-1F9B0	vrouw lichte huidskleur rood haar
+1F469-1F3FB-200D-1F9B1	vrouw lichte huidskleur krullend haar
+1F469-1F3FB-200D-1F9B2	vrouw lichte huidskleur kaal
+1F469-1F3FB-200D-1F9B3	vrouw lichte huidskleur wit haar
+1F469-1F3FB-200D-1F9BC	vrouw in elektrische rolstoel lichte huidskleur
+1F469-1F3FB-200D-1F9BD	vrouw in rolstoel lichte huidskleur
+1F469-1F3FC	vrouw lichtgetinte huidskleur
+1F469-1F3FC-200D-2695	gezondheidsmedewerkster lichtgetinte huidskleur
+1F469-1F3FC-200D-2696	vrouwelijke rechter lichtgetinte huidskleur
+1F469-1F3FC-200D-2708	pilote lichtgetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	stel met hart vrouw man lichtgetinte huidskleur lichte huidskleur
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	stel met hart vrouw man lichtgetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	stel met hart vrouw man lichtgetinte huidskleur getinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	stel met hart vrouw man lichtgetinte huidskleur donkergetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	stel met hart vrouw man lichtgetinte huidskleur donkere huidskleur
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	stel met hart vrouw vrouw lichtgetinte huidskleur lichte huidskleur
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	stel met hart vrouw vrouw lichtgetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	stel met hart vrouw vrouw lichtgetinte huidskleur getinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	stel met hart vrouw vrouw lichtgetinte huidskleur donkergetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	stel met hart vrouw vrouw lichtgetinte huidskleur donkere huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus vrouw man lichtgetinte huidskleur lichte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus vrouw man lichtgetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus vrouw man lichtgetinte huidskleur getinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus vrouw man lichtgetinte huidskleur donkergetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus vrouw man lichtgetinte huidskleur donkere huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	kus vrouw vrouw lichtgetinte huidskleur lichte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	kus vrouw vrouw lichtgetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	kus vrouw vrouw lichtgetinte huidskleur getinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	kus vrouw vrouw lichtgetinte huidskleur donkergetinte huidskleur
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	kus vrouw vrouw lichtgetinte huidskleur donkere huidskleur
+1F469-1F3FC-200D-1F33E	boerin lichtgetinte huidskleur
+1F469-1F3FC-200D-1F373	kokkin lichtgetinte huidskleur
+1F469-1F3FC-200D-1F37C	vrouw die een baby voedt lichtgetinte huidskleur
+1F469-1F3FC-200D-1F393	studente lichtgetinte huidskleur
+1F469-1F3FC-200D-1F3A4	zangeres lichtgetinte huidskleur
+1F469-1F3FC-200D-1F3A8	kunstenares lichtgetinte huidskleur
+1F469-1F3FC-200D-1F3EB	docente lichtgetinte huidskleur
+1F469-1F3FC-200D-1F3ED	fabrieksarbeidster lichtgetinte huidskleur
+1F469-1F3FC-200D-1F4BB	technologe lichtgetinte huidskleur
+1F469-1F3FC-200D-1F4BC	kantoormedewerkster lichtgetinte huidskleur
+1F469-1F3FC-200D-1F527	monteuse lichtgetinte huidskleur
+1F469-1F3FC-200D-1F52C	wetenschapster lichtgetinte huidskleur
+1F469-1F3FC-200D-1F680	astronaute lichtgetinte huidskleur
+1F469-1F3FC-200D-1F692	brandweervrouw lichtgetinte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	man en vrouw hand in hand lichtgetinte huidskleur lichte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	man en vrouw hand in hand lichtgetinte huidskleur getinte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	man en vrouw hand in hand lichtgetinte huidskleur donkergetinte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	man en vrouw hand in hand lichtgetinte huidskleur donkere huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	vrouwen hand in hand lichtgetinte huidskleur lichte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	vrouwen hand in hand lichtgetinte huidskleur getinte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	vrouwen hand in hand lichtgetinte huidskleur donkergetinte huidskleur
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	vrouwen hand in hand lichtgetinte huidskleur donkere huidskleur
+1F469-1F3FC-200D-1F9AF	vrouw met taststok lichtgetinte huidskleur
+1F469-1F3FC-200D-1F9B0	vrouw lichtgetinte huidskleur rood haar
+1F469-1F3FC-200D-1F9B1	vrouw lichtgetinte huidskleur krullend haar
+1F469-1F3FC-200D-1F9B2	vrouw lichtgetinte huidskleur kaal
+1F469-1F3FC-200D-1F9B3	vrouw lichtgetinte huidskleur wit haar
+1F469-1F3FC-200D-1F9BC	vrouw in elektrische rolstoel lichtgetinte huidskleur
+1F469-1F3FC-200D-1F9BD	vrouw in rolstoel lichtgetinte huidskleur
+1F469-1F3FD	vrouw getinte huidskleur
+1F469-1F3FD-200D-2695	gezondheidsmedewerkster getinte huidskleur
+1F469-1F3FD-200D-2696	vrouwelijke rechter getinte huidskleur
+1F469-1F3FD-200D-2708	pilote getinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	stel met hart vrouw man getinte huidskleur lichte huidskleur
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	stel met hart vrouw man getinte huidskleur lichtgetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	stel met hart vrouw man getinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	stel met hart vrouw man getinte huidskleur donkergetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	stel met hart vrouw man getinte huidskleur donkere huidskleur
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	stel met hart vrouw vrouw getinte huidskleur lichte huidskleur
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	stel met hart vrouw vrouw getinte huidskleur lichtgetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	stel met hart vrouw vrouw getinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	stel met hart vrouw vrouw getinte huidskleur donkergetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	stel met hart vrouw vrouw getinte huidskleur donkere huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus vrouw man getinte huidskleur lichte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus vrouw man getinte huidskleur lichtgetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus vrouw man getinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus vrouw man getinte huidskleur donkergetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus vrouw man getinte huidskleur donkere huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	kus vrouw vrouw getinte huidskleur lichte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	kus vrouw vrouw getinte huidskleur lichtgetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	kus vrouw vrouw getinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	kus vrouw vrouw getinte huidskleur donkergetinte huidskleur
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	kus vrouw vrouw getinte huidskleur donkere huidskleur
+1F469-1F3FD-200D-1F33E	boerin getinte huidskleur
+1F469-1F3FD-200D-1F373	kokkin getinte huidskleur
+1F469-1F3FD-200D-1F37C	vrouw die een baby voedt getinte huidskleur
+1F469-1F3FD-200D-1F393	studente getinte huidskleur
+1F469-1F3FD-200D-1F3A4	zangeres getinte huidskleur
+1F469-1F3FD-200D-1F3A8	kunstenares getinte huidskleur
+1F469-1F3FD-200D-1F3EB	docente getinte huidskleur
+1F469-1F3FD-200D-1F3ED	fabrieksarbeidster getinte huidskleur
+1F469-1F3FD-200D-1F4BB	technologe getinte huidskleur
+1F469-1F3FD-200D-1F4BC	kantoormedewerkster getinte huidskleur
+1F469-1F3FD-200D-1F527	monteuse getinte huidskleur
+1F469-1F3FD-200D-1F52C	wetenschapster getinte huidskleur
+1F469-1F3FD-200D-1F680	astronaute getinte huidskleur
+1F469-1F3FD-200D-1F692	brandweervrouw getinte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	man en vrouw hand in hand getinte huidskleur lichte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	man en vrouw hand in hand getinte huidskleur lichtgetinte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	man en vrouw hand in hand getinte huidskleur donkergetinte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	man en vrouw hand in hand getinte huidskleur donkere huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	vrouwen hand in hand getinte huidskleur lichte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	vrouwen hand in hand getinte huidskleur lichtgetinte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	vrouwen hand in hand getinte huidskleur donkergetinte huidskleur
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	vrouwen hand in hand getinte huidskleur donkere huidskleur
+1F469-1F3FD-200D-1F9AF	vrouw met taststok getinte huidskleur
+1F469-1F3FD-200D-1F9B0	vrouw getinte huidskleur rood haar
+1F469-1F3FD-200D-1F9B1	vrouw getinte huidskleur krullend haar
+1F469-1F3FD-200D-1F9B2	vrouw getinte huidskleur kaal
+1F469-1F3FD-200D-1F9B3	vrouw getinte huidskleur wit haar
+1F469-1F3FD-200D-1F9BC	vrouw in elektrische rolstoel getinte huidskleur
+1F469-1F3FD-200D-1F9BD	vrouw in rolstoel getinte huidskleur
+1F469-1F3FE	vrouw donkergetinte huidskleur
+1F469-1F3FE-200D-2695	gezondheidsmedewerkster donkergetinte huidskleur
+1F469-1F3FE-200D-2696	vrouwelijke rechter donkergetinte huidskleur
+1F469-1F3FE-200D-2708	pilote donkergetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	stel met hart vrouw man donkergetinte huidskleur lichte huidskleur
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	stel met hart vrouw man donkergetinte huidskleur lichtgetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	stel met hart vrouw man donkergetinte huidskleur getinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	stel met hart vrouw man donkergetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	stel met hart vrouw man donkergetinte huidskleur donkere huidskleur
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	stel met hart vrouw vrouw donkergetinte huidskleur lichte huidskleur
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	stel met hart vrouw vrouw donkergetinte huidskleur lichtgetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	stel met hart vrouw vrouw donkergetinte huidskleur getinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	stel met hart vrouw vrouw donkergetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	stel met hart vrouw vrouw donkergetinte huidskleur donkere huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus vrouw man donkergetinte huidskleur lichte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus vrouw man donkergetinte huidskleur lichtgetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus vrouw man donkergetinte huidskleur getinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus vrouw man donkergetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus vrouw man donkergetinte huidskleur donkere huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	kus vrouw vrouw donkergetinte huidskleur lichte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	kus vrouw vrouw donkergetinte huidskleur lichtgetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	kus vrouw vrouw donkergetinte huidskleur getinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	kus vrouw vrouw donkergetinte huidskleur
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	kus vrouw vrouw donkergetinte huidskleur donkere huidskleur
+1F469-1F3FE-200D-1F33E	boerin donkergetinte huidskleur
+1F469-1F3FE-200D-1F373	kokkin donkergetinte huidskleur
+1F469-1F3FE-200D-1F37C	vrouw die een baby voedt donkergetinte huidskleur
+1F469-1F3FE-200D-1F393	studente donkergetinte huidskleur
+1F469-1F3FE-200D-1F3A4	zangeres donkergetinte huidskleur
+1F469-1F3FE-200D-1F3A8	kunstenares donkergetinte huidskleur
+1F469-1F3FE-200D-1F3EB	docente donkergetinte huidskleur
+1F469-1F3FE-200D-1F3ED	fabrieksarbeidster donkergetinte huidskleur
+1F469-1F3FE-200D-1F4BB	technologe donkergetinte huidskleur
+1F469-1F3FE-200D-1F4BC	kantoormedewerkster donkergetinte huidskleur
+1F469-1F3FE-200D-1F527	monteuse donkergetinte huidskleur
+1F469-1F3FE-200D-1F52C	wetenschapster donkergetinte huidskleur
+1F469-1F3FE-200D-1F680	astronaute donkergetinte huidskleur
+1F469-1F3FE-200D-1F692	brandweervrouw donkergetinte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	man en vrouw hand in hand donkergetinte huidskleur lichte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	man en vrouw hand in hand donkergetinte huidskleur lichtgetinte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	man en vrouw hand in hand donkergetinte huidskleur getinte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	man en vrouw hand in hand donkergetinte huidskleur donkere huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	vrouwen hand in hand donkergetinte huidskleur lichte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	vrouwen hand in hand donkergetinte huidskleur lichtgetinte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	vrouwen hand in hand donkergetinte huidskleur getinte huidskleur
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	vrouwen hand in hand donkergetinte huidskleur donkere huidskleur
+1F469-1F3FE-200D-1F9AF	vrouw met taststok donkergetinte huidskleur
+1F469-1F3FE-200D-1F9B0	vrouw donkergetinte huidskleur rood haar
+1F469-1F3FE-200D-1F9B1	vrouw donkergetinte huidskleur krullend haar
+1F469-1F3FE-200D-1F9B2	vrouw donkergetinte huidskleur kaal
+1F469-1F3FE-200D-1F9B3	vrouw donkergetinte huidskleur wit haar
+1F469-1F3FE-200D-1F9BC	vrouw in elektrische rolstoel donkergetinte huidskleur
+1F469-1F3FE-200D-1F9BD	vrouw in rolstoel donkergetinte huidskleur
+1F469-1F3FF	vrouw donkere huidskleur
+1F469-1F3FF-200D-2695	gezondheidsmedewerkster donkere huidskleur
+1F469-1F3FF-200D-2696	vrouwelijke rechter donkere huidskleur
+1F469-1F3FF-200D-2708	pilote donkere huidskleur
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	stel met hart vrouw man donkere huidskleur lichte huidskleur
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	stel met hart vrouw man donkere huidskleur lichtgetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	stel met hart vrouw man donkere huidskleur getinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	stel met hart vrouw man donkere huidskleur donkergetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	stel met hart vrouw man donkere huidskleur
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	stel met hart vrouw vrouw donkere huidskleur lichte huidskleur
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	stel met hart vrouw vrouw donkere huidskleur lichtgetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	stel met hart vrouw vrouw donkere huidskleur getinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	stel met hart vrouw vrouw donkere huidskleur donkergetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	stel met hart vrouw vrouw donkere huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	kus vrouw man donkere huidskleur lichte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	kus vrouw man donkere huidskleur lichtgetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	kus vrouw man donkere huidskleur getinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	kus vrouw man donkere huidskleur donkergetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	kus vrouw man donkere huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	kus vrouw vrouw donkere huidskleur lichte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	kus vrouw vrouw donkere huidskleur lichtgetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	kus vrouw vrouw donkere huidskleur getinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	kus vrouw vrouw donkere huidskleur donkergetinte huidskleur
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	kus vrouw vrouw donkere huidskleur
+1F469-1F3FF-200D-1F33E	boerin donkere huidskleur
+1F469-1F3FF-200D-1F373	kokkin donkere huidskleur
+1F469-1F3FF-200D-1F37C	vrouw die een baby voedt donkere huidskleur
+1F469-1F3FF-200D-1F393	studente donkere huidskleur
+1F469-1F3FF-200D-1F3A4	zangeres donkere huidskleur
+1F469-1F3FF-200D-1F3A8	kunstenares donkere huidskleur
+1F469-1F3FF-200D-1F3EB	docente donkere huidskleur
+1F469-1F3FF-200D-1F3ED	fabrieksarbeidster donkere huidskleur
+1F469-1F3FF-200D-1F4BB	technologe donkere huidskleur
+1F469-1F3FF-200D-1F4BC	kantoormedewerkster donkere huidskleur
+1F469-1F3FF-200D-1F527	monteuse donkere huidskleur
+1F469-1F3FF-200D-1F52C	wetenschapster donkere huidskleur
+1F469-1F3FF-200D-1F680	astronaute donkere huidskleur
+1F469-1F3FF-200D-1F692	brandweervrouw donkere huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	man en vrouw hand in hand donkere huidskleur lichte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	man en vrouw hand in hand donkere huidskleur lichtgetinte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	man en vrouw hand in hand donkere huidskleur getinte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	man en vrouw hand in hand donkere huidskleur donkergetinte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	vrouwen hand in hand donkere huidskleur lichte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	vrouwen hand in hand donkere huidskleur lichtgetinte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	vrouwen hand in hand donkere huidskleur getinte huidskleur
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	vrouwen hand in hand donkere huidskleur donkergetinte huidskleur
+1F469-1F3FF-200D-1F9AF	vrouw met taststok donkere huidskleur
+1F469-1F3FF-200D-1F9B0	vrouw donkere huidskleur rood haar
+1F469-1F3FF-200D-1F9B1	vrouw donkere huidskleur krullend haar
+1F469-1F3FF-200D-1F9B2	vrouw donkere huidskleur kaal
+1F469-1F3FF-200D-1F9B3	vrouw donkere huidskleur wit haar
+1F469-1F3FF-200D-1F9BC	vrouw in elektrische rolstoel donkere huidskleur
+1F469-1F3FF-200D-1F9BD	vrouw in rolstoel donkere huidskleur
+1F46A	gezin
+1F46B	man en vrouw hand in hand
+1F46B-1F3FB	man en vrouw hand in hand lichte huidskleur
+1F46B-1F3FC	man en vrouw hand in hand lichtgetinte huidskleur
+1F46B-1F3FD	man en vrouw hand in hand getinte huidskleur
+1F46B-1F3FE	man en vrouw hand in hand donkergetinte huidskleur
+1F46B-1F3FF	man en vrouw hand in hand donkere huidskleur
+1F46C	mannen hand in hand
+1F46C-1F3FB	mannen hand in hand lichte huidskleur
+1F46C-1F3FC	mannen hand in hand lichtgetinte huidskleur
+1F46C-1F3FD	mannen hand in hand getinte huidskleur
+1F46C-1F3FE	mannen hand in hand donkergetinte huidskleur
+1F46C-1F3FF	mannen hand in hand donkere huidskleur
+1F46D	vrouwen hand in hand
+1F46D-1F3FB	vrouwen hand in hand lichte huidskleur
+1F46D-1F3FC	vrouwen hand in hand lichtgetinte huidskleur
+1F46D-1F3FD	vrouwen hand in hand getinte huidskleur
+1F46D-1F3FE	vrouwen hand in hand donkergetinte huidskleur
+1F46D-1F3FF	vrouwen hand in hand donkere huidskleur
+1F46E	politieagent
+1F46E-200D-2640	politievrouw
+1F46E-200D-2642	politieman
+1F46E-1F3FB	politieagent lichte huidskleur
+1F46E-1F3FB-200D-2640	politievrouw lichte huidskleur
+1F46E-1F3FB-200D-2642	politieman lichte huidskleur
+1F46E-1F3FC	politieagent lichtgetinte huidskleur
+1F46E-1F3FC-200D-2640	politievrouw lichtgetinte huidskleur
+1F46E-1F3FC-200D-2642	politieman lichtgetinte huidskleur
+1F46E-1F3FD	politieagent getinte huidskleur
+1F46E-1F3FD-200D-2640	politievrouw getinte huidskleur
+1F46E-1F3FD-200D-2642	politieman getinte huidskleur
+1F46E-1F3FE	politieagent donkergetinte huidskleur
+1F46E-1F3FE-200D-2640	politievrouw donkergetinte huidskleur
+1F46E-1F3FE-200D-2642	politieman donkergetinte huidskleur
+1F46E-1F3FF	politieagent donkere huidskleur
+1F46E-1F3FF-200D-2640	politievrouw donkere huidskleur
+1F46E-1F3FF-200D-2642	politieman donkere huidskleur
+1F46F	mensen met konijnenoren
+1F46F-200D-2640	vrouwen met konijnenoren
+1F46F-200D-2642	mannen met konijnenoren
+1F470	persoon met sluier
+1F470-200D-2640	vrouw met sluier
+1F470-200D-2642	man met sluier
+1F470-1F3FB	persoon met sluier lichte huidskleur
+1F470-1F3FB-200D-2640	vrouw met sluier lichte huidskleur
+1F470-1F3FB-200D-2642	man met sluier lichte huidskleur
+1F470-1F3FC	persoon met sluier lichtgetinte huidskleur
+1F470-1F3FC-200D-2640	vrouw met sluier lichtgetinte huidskleur
+1F470-1F3FC-200D-2642	man met sluier lichtgetinte huidskleur
+1F470-1F3FD	persoon met sluier getinte huidskleur
+1F470-1F3FD-200D-2640	vrouw met sluier getinte huidskleur
+1F470-1F3FD-200D-2642	man met sluier getinte huidskleur
+1F470-1F3FE	persoon met sluier donkergetinte huidskleur
+1F470-1F3FE-200D-2640	vrouw met sluier donkergetinte huidskleur
+1F470-1F3FE-200D-2642	man met sluier donkergetinte huidskleur
+1F470-1F3FF	persoon met sluier donkere huidskleur
+1F470-1F3FF-200D-2640	vrouw met sluier donkere huidskleur
+1F470-1F3FF-200D-2642	man met sluier donkere huidskleur
+1F471	persoon met blond haar
+1F471-200D-2640	vrouw met blond haar
+1F471-200D-2642	man met blond haar
+1F471-1F3FB	persoon met blond haar lichte huidskleur
+1F471-1F3FB-200D-2640	vrouw met blond haar lichte huidskleur
+1F471-1F3FB-200D-2642	man met blond haar lichte huidskleur
+1F471-1F3FC	persoon met blond haar lichtgetinte huidskleur
+1F471-1F3FC-200D-2640	vrouw met blond haar lichtgetinte huidskleur
+1F471-1F3FC-200D-2642	man met blond haar lichtgetinte huidskleur
+1F471-1F3FD	persoon met blond haar getinte huidskleur
+1F471-1F3FD-200D-2640	vrouw met blond haar getinte huidskleur
+1F471-1F3FD-200D-2642	man met blond haar getinte huidskleur
+1F471-1F3FE	persoon met blond haar donkergetinte huidskleur
+1F471-1F3FE-200D-2640	vrouw met blond haar donkergetinte huidskleur
+1F471-1F3FE-200D-2642	man met blond haar donkergetinte huidskleur
+1F471-1F3FF	persoon met blond haar donkere huidskleur
+1F471-1F3FF-200D-2640	vrouw met blond haar donkere huidskleur
+1F471-1F3FF-200D-2642	man met blond haar donkere huidskleur
+1F472	man met Chinees petje
+1F472-1F3FB	man met Chinees petje lichte huidskleur
+1F472-1F3FC	man met Chinees petje lichtgetinte huidskleur
+1F472-1F3FD	man met Chinees petje getinte huidskleur
+1F472-1F3FE	man met Chinees petje donkergetinte huidskleur
+1F472-1F3FF	man met Chinees petje donkere huidskleur
+1F473	persoon met tulband
+1F473-200D-2640	vrouw met tulband
+1F473-200D-2642	man met tulband
+1F473-1F3FB	persoon met tulband lichte huidskleur
+1F473-1F3FB-200D-2640	vrouw met tulband lichte huidskleur
+1F473-1F3FB-200D-2642	man met tulband lichte huidskleur
+1F473-1F3FC	persoon met tulband lichtgetinte huidskleur
+1F473-1F3FC-200D-2640	vrouw met tulband lichtgetinte huidskleur
+1F473-1F3FC-200D-2642	man met tulband lichtgetinte huidskleur
+1F473-1F3FD	persoon met tulband getinte huidskleur
+1F473-1F3FD-200D-2640	vrouw met tulband getinte huidskleur
+1F473-1F3FD-200D-2642	man met tulband getinte huidskleur
+1F473-1F3FE	persoon met tulband donkergetinte huidskleur
+1F473-1F3FE-200D-2640	vrouw met tulband donkergetinte huidskleur
+1F473-1F3FE-200D-2642	man met tulband donkergetinte huidskleur
+1F473-1F3FF	persoon met tulband donkere huidskleur
+1F473-1F3FF-200D-2640	vrouw met tulband donkere huidskleur
+1F473-1F3FF-200D-2642	man met tulband donkere huidskleur
+1F474	oude man
+1F474-1F3FB	oude man lichte huidskleur
+1F474-1F3FC	oude man lichtgetinte huidskleur
+1F474-1F3FD	oude man getinte huidskleur
+1F474-1F3FE	oude man donkergetinte huidskleur
+1F474-1F3FF	oude man donkere huidskleur
+1F475	oude vrouw
+1F475-1F3FB	oude vrouw lichte huidskleur
+1F475-1F3FC	oude vrouw lichtgetinte huidskleur
+1F475-1F3FD	oude vrouw getinte huidskleur
+1F475-1F3FE	oude vrouw donkergetinte huidskleur
+1F475-1F3FF	oude vrouw donkere huidskleur
+1F476	baby
+1F476-1F3FB	baby lichte huidskleur
+1F476-1F3FC	baby lichtgetinte huidskleur
+1F476-1F3FD	baby getinte huidskleur
+1F476-1F3FE	baby donkergetinte huidskleur
+1F476-1F3FF	baby donkere huidskleur
+1F477	bouwvakker
+1F477-200D-2640	vrouwelijke bouwvakker
+1F477-200D-2642	mannelijke bouwvakker
+1F477-1F3FB	bouwvakker lichte huidskleur
+1F477-1F3FB-200D-2640	vrouwelijke bouwvakker lichte huidskleur
+1F477-1F3FB-200D-2642	mannelijke bouwvakker lichte huidskleur
+1F477-1F3FC	bouwvakker lichtgetinte huidskleur
+1F477-1F3FC-200D-2640	vrouwelijke bouwvakker lichtgetinte huidskleur
+1F477-1F3FC-200D-2642	mannelijke bouwvakker lichtgetinte huidskleur
+1F477-1F3FD	bouwvakker getinte huidskleur
+1F477-1F3FD-200D-2640	vrouwelijke bouwvakker getinte huidskleur
+1F477-1F3FD-200D-2642	mannelijke bouwvakker getinte huidskleur
+1F477-1F3FE	bouwvakker donkergetinte huidskleur
+1F477-1F3FE-200D-2640	vrouwelijke bouwvakker donkergetinte huidskleur
+1F477-1F3FE-200D-2642	mannelijke bouwvakker donkergetinte huidskleur
+1F477-1F3FF	bouwvakker donkere huidskleur
+1F477-1F3FF-200D-2640	vrouwelijke bouwvakker donkere huidskleur
+1F477-1F3FF-200D-2642	mannelijke bouwvakker donkere huidskleur
+1F478	prinses
+1F478-1F3FB	prinses lichte huidskleur
+1F478-1F3FC	prinses lichtgetinte huidskleur
+1F478-1F3FD	prinses getinte huidskleur
+1F478-1F3FE	prinses donkergetinte huidskleur
+1F478-1F3FF	prinses donkere huidskleur
+1F479	trol
+1F47A	kobold
+1F47B	spook
+1F47C	baby-engel
+1F47C-1F3FB	baby-engel lichte huidskleur
+1F47C-1F3FC	baby-engel lichtgetinte huidskleur
+1F47C-1F3FD	baby-engel getinte huidskleur
+1F47C-1F3FE	baby-engel donkergetinte huidskleur
+1F47C-1F3FF	baby-engel donkere huidskleur
+1F47D	buitenaards wezen
+1F47E	buitenaards monster
+1F47F	boos gezicht met hoorns
+1F480	schedel
+1F481	persoon achter informatiebalie
+1F481-200D-2640	vrouw achter informatiebalie
+1F481-200D-2642	man achter informatiebalie
+1F481-1F3FB	persoon achter informatiebalie lichte huidskleur
+1F481-1F3FB-200D-2640	vrouw achter informatiebalie lichte huidskleur
+1F481-1F3FB-200D-2642	man achter informatiebalie lichte huidskleur
+1F481-1F3FC	persoon achter informatiebalie lichtgetinte huidskleur
+1F481-1F3FC-200D-2640	vrouw achter informatiebalie lichtgetinte huidskleur
+1F481-1F3FC-200D-2642	man achter informatiebalie lichtgetinte huidskleur
+1F481-1F3FD	persoon achter informatiebalie getinte huidskleur
+1F481-1F3FD-200D-2640	vrouw achter informatiebalie getinte huidskleur
+1F481-1F3FD-200D-2642	man achter informatiebalie getinte huidskleur
+1F481-1F3FE	persoon achter informatiebalie donkergetinte huidskleur
+1F481-1F3FE-200D-2640	vrouw achter informatiebalie donkergetinte huidskleur
+1F481-1F3FE-200D-2642	man achter informatiebalie donkergetinte huidskleur
+1F481-1F3FF	persoon achter informatiebalie donkere huidskleur
+1F481-1F3FF-200D-2640	vrouw achter informatiebalie donkere huidskleur
+1F481-1F3FF-200D-2642	man achter informatiebalie donkere huidskleur
+1F482	wachter
+1F482-200D-2640	vrouwelijke wachter
+1F482-200D-2642	mannelijke wachter
+1F482-1F3FB	wachter lichte huidskleur
+1F482-1F3FB-200D-2640	vrouwelijke wachter lichte huidskleur
+1F482-1F3FB-200D-2642	mannelijke wachter lichte huidskleur
+1F482-1F3FC	wachter lichtgetinte huidskleur
+1F482-1F3FC-200D-2640	vrouwelijke wachter lichtgetinte huidskleur
+1F482-1F3FC-200D-2642	mannelijke wachter lichtgetinte huidskleur
+1F482-1F3FD	wachter getinte huidskleur
+1F482-1F3FD-200D-2640	vrouwelijke wachter getinte huidskleur
+1F482-1F3FD-200D-2642	mannelijke wachter getinte huidskleur
+1F482-1F3FE	wachter donkergetinte huidskleur
+1F482-1F3FE-200D-2640	vrouwelijke wachter donkergetinte huidskleur
+1F482-1F3FE-200D-2642	mannelijke wachter donkergetinte huidskleur
+1F482-1F3FF	wachter donkere huidskleur
+1F482-1F3FF-200D-2640	vrouwelijke wachter donkere huidskleur
+1F482-1F3FF-200D-2642	mannelijke wachter donkere huidskleur
+1F483	dansende vrouw
+1F483-1F3FB	dansende vrouw lichte huidskleur
+1F483-1F3FC	dansende vrouw lichtgetinte huidskleur
+1F483-1F3FD	dansende vrouw getinte huidskleur
+1F483-1F3FE	dansende vrouw donkergetinte huidskleur
+1F483-1F3FF	dansende vrouw donkere huidskleur
+1F484	lippenstift
+1F485	nagellak
+1F485-1F3FB	nagellak lichte huidskleur
+1F485-1F3FC	nagellak lichtgetinte huidskleur
+1F485-1F3FD	nagellak getinte huidskleur
+1F485-1F3FE	nagellak donkergetinte huidskleur
+1F485-1F3FF	nagellak donkere huidskleur
+1F486	persoon die hoofdmassage krijgt
+1F486-200D-2640	vrouw die hoofdmassage krijgt
+1F486-200D-2642	man die hoofdmassage krijgt
+1F486-1F3FB	persoon die hoofdmassage krijgt lichte huidskleur
+1F486-1F3FB-200D-2640	vrouw die hoofdmassage krijgt lichte huidskleur
+1F486-1F3FB-200D-2642	man die hoofdmassage krijgt lichte huidskleur
+1F486-1F3FC	persoon die hoofdmassage krijgt lichtgetinte huidskleur
+1F486-1F3FC-200D-2640	vrouw die hoofdmassage krijgt lichtgetinte huidskleur
+1F486-1F3FC-200D-2642	man die hoofdmassage krijgt lichtgetinte huidskleur
+1F486-1F3FD	persoon die hoofdmassage krijgt getinte huidskleur
+1F486-1F3FD-200D-2640	vrouw die hoofdmassage krijgt getinte huidskleur
+1F486-1F3FD-200D-2642	man die hoofdmassage krijgt getinte huidskleur
+1F486-1F3FE	persoon die hoofdmassage krijgt donkergetinte huidskleur
+1F486-1F3FE-200D-2640	vrouw die hoofdmassage krijgt donkergetinte huidskleur
+1F486-1F3FE-200D-2642	man die hoofdmassage krijgt donkergetinte huidskleur
+1F486-1F3FF	persoon die hoofdmassage krijgt donkere huidskleur
+1F486-1F3FF-200D-2640	vrouw die hoofdmassage krijgt donkere huidskleur
+1F486-1F3FF-200D-2642	man die hoofdmassage krijgt donkere huidskleur
+1F487	persoon die wordt geknipt
+1F487-200D-2640	vrouw die wordt geknipt
+1F487-200D-2642	man die wordt geknipt
+1F487-1F3FB	persoon die wordt geknipt lichte huidskleur
+1F487-1F3FB-200D-2640	vrouw die wordt geknipt lichte huidskleur
+1F487-1F3FB-200D-2642	man die wordt geknipt lichte huidskleur
+1F487-1F3FC	persoon die wordt geknipt lichtgetinte huidskleur
+1F487-1F3FC-200D-2640	vrouw die wordt geknipt lichtgetinte huidskleur
+1F487-1F3FC-200D-2642	man die wordt geknipt lichtgetinte huidskleur
+1F487-1F3FD	persoon die wordt geknipt getinte huidskleur
+1F487-1F3FD-200D-2640	vrouw die wordt geknipt getinte huidskleur
+1F487-1F3FD-200D-2642	man die wordt geknipt getinte huidskleur
+1F487-1F3FE	persoon die wordt geknipt donkergetinte huidskleur
+1F487-1F3FE-200D-2640	vrouw die wordt geknipt donkergetinte huidskleur
+1F487-1F3FE-200D-2642	man die wordt geknipt donkergetinte huidskleur
+1F487-1F3FF	persoon die wordt geknipt donkere huidskleur
+1F487-1F3FF-200D-2640	vrouw die wordt geknipt donkere huidskleur
+1F487-1F3FF-200D-2642	man die wordt geknipt donkere huidskleur
+1F488	kapperspaal
+1F489	injectiespuit
+1F48A	pil
+1F48B	lipafdruk
+1F48C	liefdesbrief
+1F48D	ring
+1F48E	edelsteen
+1F48F	kus
+1F490	boeket
+1F491	stel met hart
+1F492	bruiloft
+1F493	kloppend hart
+1F494	gebroken hart
+1F495	twee harten
+1F496	fonkelend hart
+1F497	groeiend hart
+1F498	hart met pijl
+1F499	blauw hart
+1F49A	groen hart
+1F49B	geel hart
+1F49C	paars hart
+1F49D	hart met strik
+1F49E	ronddraaiende harten
+1F49F	decoratief hart
+1F4A0	ruitvorm met stip erin
+1F4A1	gloeilamp
+1F4A2	woedesymbool
+1F4A3	bom
+1F4A4	slaapsymbool
+1F4A5	botsing
+1F4A6	zweetdruppels
+1F4A7	druppel
+1F4A8	wegrennen
+1F4A9	drol
+1F4AA	spierballen
+1F4AA-1F3FB	spierballen lichte huidskleur
+1F4AA-1F3FC	spierballen lichtgetinte huidskleur
+1F4AA-1F3FD	spierballen getinte huidskleur
+1F4AA-1F3FE	spierballen donkergetinte huidskleur
+1F4AA-1F3FF	spierballen donkere huidskleur
+1F4AB	duizelig
+1F4AC	spraakballon
+1F4AD	gedachteballon
+1F4AE	witte bloem
+1F4AF	maximumscore
+1F4B0	zak met geld
+1F4B1	geld wisselen
+1F4B2	dollarteken
+1F4B3	creditcard
+1F4B4	yenbiljet
+1F4B5	dollarbiljet
+1F4B6	eurobiljet
+1F4B7	pondbiljet
+1F4B8	vliegend geld
+1F4B9	stijgende grafiek met yenteken
+1F4BA	stoel
+1F4BB	laptop
+1F4BC	aktentas
+1F4BD	harddisk
+1F4BE	floppydisk
+1F4BF	optische schijf
+1F4C0	dvd
+1F4C1	bestandsmap
+1F4C2	geopende map
+1F4C3	omkrullende pagina
+1F4C4	pagina met bovenzijde omhoog
+1F4C5	kalender
+1F4C6	scheurkalender
+1F4C7	kaartindex
+1F4C8	stijgende trend
+1F4C9	dalende trend
+1F4CA	staafdiagram
+1F4CB	klembord
+1F4CC	punaise
+1F4CD	ronde speld
+1F4CE	paperclip
+1F4CF	liniaal
+1F4D0	geodriehoek
+1F4D1	bladwijzertabs
+1F4D2	grootboek
+1F4D3	schrift
+1F4D4	versierd schrift
+1F4D5	gesloten boek
+1F4D6	geopend boek
+1F4D7	groen boek
+1F4D8	blauw boek
+1F4D9	oranje boek
+1F4DA	boeken
+1F4DB	naamkaartje
+1F4DC	rol
+1F4DD	memo
+1F4DE	telefoonhoorn
+1F4DF	pager
+1F4E0	fax
+1F4E1	satellietschotel
+1F4E2	luidspreker
+1F4E3	megafoon
+1F4E4	postvak uit
+1F4E5	postvak in
+1F4E6	pakket
+1F4E7	e-mail
+1F4E8	inkomende post
+1F4E9	envelop met pijl
+1F4EA	gesloten brievenbus met vlaggetje omlaag
+1F4EB	gesloten brievenbus met vlaggetje omhoog
+1F4EC	open brievenbus met vlaggetje omhoog
+1F4ED	open brievenbus met vlaggetje omlaag
+1F4EE	brievenbus
+1F4EF	posthoorn
+1F4F0	krant
+1F4F1	mobiele telefoon
+1F4F2	mobiel met pijl
+1F4F3	trilstand
+1F4F4	telefoon uit
+1F4F5	geen mobiele telefoon
+1F4F6	mobiel signaal
+1F4F7	camera
+1F4F8	camera met flitser
+1F4F9	videocamera
+1F4FA	tv
+1F4FB	radio
+1F4FC	videoband
+1F4FD	filmprojector
+1F4FF	gebedssnoer
+1F500	knop voor shuffle
+1F501	knop voor herhalen
+1F502	knop voor n herhalen
+1F503	verticale pijlen met de klok mee
+1F504	pijlen tegen de klok in
+1F505	knop voor lagere helderheid
+1F506	knop voor hogere helderheid
+1F507	speaker uit
+1F508	speaker
+1F509	speaker aan
+1F50A	speaker luid
+1F50B	batterij
+1F50C	stekker
+1F50D	vergrootglas naar links gericht
+1F50E	vergrootglas naar rechts gericht
+1F50F	slot met pen
+1F510	gesloten slot met sleutel
+1F511	sleutel
+1F512	slot
+1F513	geopend hangslot
+1F514	bel
+1F515	doorgestreepte bel
+1F516	bladwijzer
+1F517	schakels
+1F518	keuzerondje
+1F519	BACK-pijl
+1F51A	END-pijl
+1F51B	ON-pijl
+1F51C	SOON-pijl
+1F51D	TOP-pijl
+1F51E	niemand onder de 18
+1F51F	toets 10
+1F520	hoofdletters
+1F521	kleine letters
+1F522	cijfers
+1F523	symbolen
+1F524	Latijns alfabet
+1F525	vuur
+1F526	zaklamp
+1F527	moersleutel
+1F528	hamer
+1F529	bout en moer
+1F52A	keukenmes
+1F52B	waterpistool
+1F52C	microscoop
+1F52D	telescoop
+1F52E	kristallen bol
+1F52F	zespuntige ster
+1F530	Japans symbool voor beginner
+1F531	drietand-symbool
+1F532	zwarte vierkante knop
+1F533	witte vierkante knop
+1F534	rode cirkel
+1F535	blauwe cirkel
+1F536	grote oranje ruit
+1F537	grote blauwe ruit
+1F538	kleine oranje ruit
+1F539	kleine blauwe ruit
+1F53A	rode omhoogwijzende driehoek
+1F53B	rode omlaagwijzende driehoek
+1F53C	knop voor omhoog
+1F53D	knop voor omlaag
+1F549	om-symbool
+1F54A	duif
+1F54B	kaba
+1F54C	moskee
+1F54D	synagoge
+1F54E	menora
+1F550	n uur
+1F551	twee uur
+1F552	drie uur
+1F553	vier uur
+1F554	vijf uur
+1F555	zes uur
+1F556	zeven uur
+1F557	acht uur
+1F558	negen uur
+1F559	tien uur
+1F55A	elf uur
+1F55B	twaalf uur
+1F55C	half twee
+1F55D	half drie
+1F55E	half vier
+1F55F	half vijf
+1F560	half zes
+1F561	half zeven
+1F562	half acht
+1F563	half negen
+1F564	half tien
+1F565	half elf
+1F566	half twaalf
+1F567	half n
+1F56F	kaars
+1F570	klok
+1F573	gat
+1F574	zwevende man in pak
+1F574-1F3FB	zwevende man in pak lichte huidskleur
+1F574-1F3FC	zwevende man in pak lichtgetinte huidskleur
+1F574-1F3FD	zwevende man in pak getinte huidskleur
+1F574-1F3FE	zwevende man in pak donkergetinte huidskleur
+1F574-1F3FF	zwevende man in pak donkere huidskleur
+1F575	detective
+1F575-200D-2640	vrouwelijke detective
+1F575-200D-2642	mannelijke detective
+1F575-1F3FB	detective lichte huidskleur
+1F575-1F3FB-200D-2640	vrouwelijke detective lichte huidskleur
+1F575-1F3FB-200D-2642	mannelijke detective lichte huidskleur
+1F575-1F3FC	detective lichtgetinte huidskleur
+1F575-1F3FC-200D-2640	vrouwelijke detective lichtgetinte huidskleur
+1F575-1F3FC-200D-2642	mannelijke detective lichtgetinte huidskleur
+1F575-1F3FD	detective getinte huidskleur
+1F575-1F3FD-200D-2640	vrouwelijke detective getinte huidskleur
+1F575-1F3FD-200D-2642	mannelijke detective getinte huidskleur
+1F575-1F3FE	detective donkergetinte huidskleur
+1F575-1F3FE-200D-2640	vrouwelijke detective donkergetinte huidskleur
+1F575-1F3FE-200D-2642	mannelijke detective donkergetinte huidskleur
+1F575-1F3FF	detective donkere huidskleur
+1F575-1F3FF-200D-2640	vrouwelijke detective donkere huidskleur
+1F575-1F3FF-200D-2642	mannelijke detective donkere huidskleur
+1F576	zonnebril
+1F577	spin
+1F578	spinnenweb
+1F579	joystick
+1F57A	dansende man
+1F57A-1F3FB	dansende man lichte huidskleur
+1F57A-1F3FC	dansende man lichtgetinte huidskleur
+1F57A-1F3FD	dansende man getinte huidskleur
+1F57A-1F3FE	dansende man donkergetinte huidskleur
+1F57A-1F3FF	dansende man donkere huidskleur
+1F587	twee paperclips aan elkaar
+1F58A	pen
+1F58B	vulpen
+1F58C	kwast
+1F58D	krijtje
+1F590	opgeheven hand met uitgestoken vingers
+1F590-1F3FB	opgeheven hand met uitgestoken vingers lichte huidskleur
+1F590-1F3FC	opgeheven hand met uitgestoken vingers lichtgetinte huidskleur
+1F590-1F3FD	opgeheven hand met uitgestoken vingers getinte huidskleur
+1F590-1F3FE	opgeheven hand met uitgestoken vingers donkergetinte huidskleur
+1F590-1F3FF	opgeheven hand met uitgestoken vingers donkere huidskleur
+1F595	middelvinger
+1F595-1F3FB	middelvinger lichte huidskleur
+1F595-1F3FC	middelvinger lichtgetinte huidskleur
+1F595-1F3FD	middelvinger getinte huidskleur
+1F595-1F3FE	middelvinger donkergetinte huidskleur
+1F595-1F3FF	middelvinger donkere huidskleur
+1F596	Vulcaanse groet
+1F596-1F3FB	Vulcaanse groet lichte huidskleur
+1F596-1F3FC	Vulcaanse groet lichtgetinte huidskleur
+1F596-1F3FD	Vulcaanse groet getinte huidskleur
+1F596-1F3FE	Vulcaanse groet donkergetinte huidskleur
+1F596-1F3FF	Vulcaanse groet donkere huidskleur
+1F5A4	zwart hart
+1F5A5	desktop
+1F5A8	printer
+1F5B1	computermuis
+1F5B2	trackball
+1F5BC	lijst met afbeelding
+1F5C2	tabbladen
+1F5C3	kaartenbak
+1F5C4	archiefkast
+1F5D1	prullenmand
+1F5D2	schrijfblok met spiraal
+1F5D3	kalender met spiraal
+1F5DC	lijmklem
+1F5DD	oude sleutel
+1F5DE	opgerolde krant
+1F5E1	dolk
+1F5E3	silhouet van sprekend hoofd
+1F5E8	spraakballon naar links
+1F5EF	boze spraakballon naar rechts
+1F5F3	stembus met stembiljet
+1F5FA	wereldkaart
+1F5FB	berg Fuji
+1F5FC	Tokio-toren
+1F5FD	vrijheidsbeeld
+1F5FE	kaart van Japan
+1F5FF	moai-beeld
+1F600	grijnzend gezicht
+1F601	stralend gezicht met lachende ogen
+1F602	gezicht met tranen van vreugde
+1F603	grijnzend gezicht met grote ogen
+1F604	grijnzend gezicht met lachende ogen
+1F605	grijnzend gezicht met zweetdruppels
+1F606	grijnzend gezicht met stijf dichtgeknepen ogen
+1F607	lachend gezicht met halo
+1F608	lachend gezicht met hoorns
+1F609	knipogend gezicht
+1F60A	lachend gezicht met lachende ogen
+1F60B	lachend gezicht dat lippen likt
+1F60C	opgelucht gezicht
+1F60D	lachend gezicht met hartvormige ogen
+1F60E	lachend gezicht met zonnebril
+1F60F	gniffelend gezicht
+1F610	neutraal gezicht
+1F611	uitdrukkingsloos gezicht
+1F612	chagrijnig gezicht
+1F613	neerslachtig gezicht met zweetdruppel
+1F614	peinzend gezicht
+1F615	verward gezicht
+1F616	onthutst gezicht
+1F617	kussend gezicht
+1F618	gezicht dat kus toeblaast
+1F619	kussend gezicht met lachende ogen
+1F61A	kussend gezicht met gesloten ogen
+1F61B	gezicht met uitgestoken tong
+1F61C	knipoog met uitgestoken tong
+1F61D	gezicht met uitgestoken tong en dichtgeknepen ogen
+1F61E	teleurgesteld gezicht
+1F61F	bezorgd gezicht
+1F620	boos gezicht
+1F621	pruilend gezicht
+1F622	huilend gezicht
+1F623	volhardend gezicht
+1F624	gezicht blazend van woede
+1F625	teleurgesteld maar opgelucht gezicht
+1F626	fronsend gezicht met open mond
+1F627	gekweld gezicht
+1F628	bang gezicht
+1F629	moe gezicht
+1F62A	slaperig gezicht
+1F62B	vermoeid gezicht
+1F62C	gezicht met grimas
+1F62D	hard huilend gezicht
+1F62E	gezicht met open mond
+1F62E-200D-1F4A8	gezicht dat uitademt
+1F62F	verstomd gezicht
+1F630	angstig gezicht met zweetdruppel
+1F631	angstig schreeuwend gezicht
+1F632	verbaasd gezicht
+1F633	blozend gezicht
+1F634	slapend gezicht
+1F635	duizelig gezicht
+1F635-200D-1F4AB	gezicht met spiraalvormige ogen
+1F636	gezicht zonder mond
+1F636-200D-1F32B	gezicht in de wolken
+1F637	gezicht met doktersmasker
+1F638	grijnzende kat met lachende ogen
+1F639	kat met tranen van vreugde
+1F63A	grijnzende kat
+1F63B	lachende kat met hartvormige ogen
+1F63C	gniffelende kat
+1F63D	kussende kat
+1F63E	pruilende kat
+1F63F	huilende kat
+1F640	vermoeide kat
+1F641	licht fronsend gezicht
+1F642	enigszins lachend gezicht
+1F643	omgekeerd gezicht
+1F644	gezicht met rollende ogen
+1F645	persoon die nee-gebaar maakt
+1F645-200D-2640	vrouw die nee-gebaar maakt
+1F645-200D-2642	man die nee-gebaar maakt
+1F645-1F3FB	persoon die nee-gebaar maakt lichte huidskleur
+1F645-1F3FB-200D-2640	vrouw die nee-gebaar maakt lichte huidskleur
+1F645-1F3FB-200D-2642	man die nee-gebaar maakt lichte huidskleur
+1F645-1F3FC	persoon die nee-gebaar maakt lichtgetinte huidskleur
+1F645-1F3FC-200D-2640	vrouw die nee-gebaar maakt lichtgetinte huidskleur
+1F645-1F3FC-200D-2642	man die nee-gebaar maakt lichtgetinte huidskleur
+1F645-1F3FD	persoon die nee-gebaar maakt getinte huidskleur
+1F645-1F3FD-200D-2640	vrouw die nee-gebaar maakt getinte huidskleur
+1F645-1F3FD-200D-2642	man die nee-gebaar maakt getinte huidskleur
+1F645-1F3FE	persoon die nee-gebaar maakt donkergetinte huidskleur
+1F645-1F3FE-200D-2640	vrouw die nee-gebaar maakt donkergetinte huidskleur
+1F645-1F3FE-200D-2642	man die nee-gebaar maakt donkergetinte huidskleur
+1F645-1F3FF	persoon die nee-gebaar maakt donkere huidskleur
+1F645-1F3FF-200D-2640	vrouw die nee-gebaar maakt donkere huidskleur
+1F645-1F3FF-200D-2642	man die nee-gebaar maakt donkere huidskleur
+1F646	persoon die OK-gebaar maakt
+1F646-200D-2640	vrouw die OK-gebaar maakt
+1F646-200D-2642	man die OK-gebaar maakt
+1F646-1F3FB	persoon die OK-gebaar maakt lichte huidskleur
+1F646-1F3FB-200D-2640	vrouw die OK-gebaar maakt lichte huidskleur
+1F646-1F3FB-200D-2642	man die OK-gebaar maakt lichte huidskleur
+1F646-1F3FC	persoon die OK-gebaar maakt lichtgetinte huidskleur
+1F646-1F3FC-200D-2640	vrouw die OK-gebaar maakt lichtgetinte huidskleur
+1F646-1F3FC-200D-2642	man die OK-gebaar maakt lichtgetinte huidskleur
+1F646-1F3FD	persoon die OK-gebaar maakt getinte huidskleur
+1F646-1F3FD-200D-2640	vrouw die OK-gebaar maakt getinte huidskleur
+1F646-1F3FD-200D-2642	man die OK-gebaar maakt getinte huidskleur
+1F646-1F3FE	persoon die OK-gebaar maakt donkergetinte huidskleur
+1F646-1F3FE-200D-2640	vrouw die OK-gebaar maakt donkergetinte huidskleur
+1F646-1F3FE-200D-2642	man die OK-gebaar maakt donkergetinte huidskleur
+1F646-1F3FF	persoon die OK-gebaar maakt donkere huidskleur
+1F646-1F3FF-200D-2640	vrouw die OK-gebaar maakt donkere huidskleur
+1F646-1F3FF-200D-2642	man die OK-gebaar maakt donkere huidskleur
+1F647	buigende persoon
+1F647-200D-2640	buigende vrouw
+1F647-200D-2642	buigende man
+1F647-1F3FB	buigende persoon lichte huidskleur
+1F647-1F3FB-200D-2640	buigende vrouw lichte huidskleur
+1F647-1F3FB-200D-2642	buigende man lichte huidskleur
+1F647-1F3FC	buigende persoon lichtgetinte huidskleur
+1F647-1F3FC-200D-2640	buigende vrouw lichtgetinte huidskleur
+1F647-1F3FC-200D-2642	buigende man lichtgetinte huidskleur
+1F647-1F3FD	buigende persoon getinte huidskleur
+1F647-1F3FD-200D-2640	buigende vrouw getinte huidskleur
+1F647-1F3FD-200D-2642	buigende man getinte huidskleur
+1F647-1F3FE	buigende persoon donkergetinte huidskleur
+1F647-1F3FE-200D-2640	buigende vrouw donkergetinte huidskleur
+1F647-1F3FE-200D-2642	buigende man donkergetinte huidskleur
+1F647-1F3FF	buigende persoon donkere huidskleur
+1F647-1F3FF-200D-2640	buigende vrouw donkere huidskleur
+1F647-1F3FF-200D-2642	buigende man donkere huidskleur
+1F648	geen kwaad zien
+1F649	geen kwaad horen
+1F64A	geen kwaad spreken
+1F64B	persoon met opgeheven hand
+1F64B-200D-2640	vrouw met opgeheven hand
+1F64B-200D-2642	man met opgeheven hand
+1F64B-1F3FB	persoon met opgeheven hand lichte huidskleur
+1F64B-1F3FB-200D-2640	vrouw met opgeheven hand lichte huidskleur
+1F64B-1F3FB-200D-2642	man met opgeheven hand lichte huidskleur
+1F64B-1F3FC	persoon met opgeheven hand lichtgetinte huidskleur
+1F64B-1F3FC-200D-2640	vrouw met opgeheven hand lichtgetinte huidskleur
+1F64B-1F3FC-200D-2642	man met opgeheven hand lichtgetinte huidskleur
+1F64B-1F3FD	persoon met opgeheven hand getinte huidskleur
+1F64B-1F3FD-200D-2640	vrouw met opgeheven hand getinte huidskleur
+1F64B-1F3FD-200D-2642	man met opgeheven hand getinte huidskleur
+1F64B-1F3FE	persoon met opgeheven hand donkergetinte huidskleur
+1F64B-1F3FE-200D-2640	vrouw met opgeheven hand donkergetinte huidskleur
+1F64B-1F3FE-200D-2642	man met opgeheven hand donkergetinte huidskleur
+1F64B-1F3FF	persoon met opgeheven hand donkere huidskleur
+1F64B-1F3FF-200D-2640	vrouw met opgeheven hand donkere huidskleur
+1F64B-1F3FF-200D-2642	man met opgeheven hand donkere huidskleur
+1F64C	juichend omhooggestoken handen
+1F64C-1F3FB	juichend omhooggestoken handen lichte huidskleur
+1F64C-1F3FC	juichend omhooggestoken handen lichtgetinte huidskleur
+1F64C-1F3FD	juichend omhooggestoken handen getinte huidskleur
+1F64C-1F3FE	juichend omhooggestoken handen donkergetinte huidskleur
+1F64C-1F3FF	juichend omhooggestoken handen donkere huidskleur
+1F64D	fronsend persoon
+1F64D-200D-2640	fronsende vrouw
+1F64D-200D-2642	fronsende man
+1F64D-1F3FB	fronsend persoon lichte huidskleur
+1F64D-1F3FB-200D-2640	fronsende vrouw lichte huidskleur
+1F64D-1F3FB-200D-2642	fronsende man lichte huidskleur
+1F64D-1F3FC	fronsend persoon lichtgetinte huidskleur
+1F64D-1F3FC-200D-2640	fronsende vrouw lichtgetinte huidskleur
+1F64D-1F3FC-200D-2642	fronsende man lichtgetinte huidskleur
+1F64D-1F3FD	fronsend persoon getinte huidskleur
+1F64D-1F3FD-200D-2640	fronsende vrouw getinte huidskleur
+1F64D-1F3FD-200D-2642	fronsende man getinte huidskleur
+1F64D-1F3FE	fronsend persoon donkergetinte huidskleur
+1F64D-1F3FE-200D-2640	fronsende vrouw donkergetinte huidskleur
+1F64D-1F3FE-200D-2642	fronsende man donkergetinte huidskleur
+1F64D-1F3FF	fronsend persoon donkere huidskleur
+1F64D-1F3FF-200D-2640	fronsende vrouw donkere huidskleur
+1F64D-1F3FF-200D-2642	fronsende man donkere huidskleur
+1F64E	pruilend persoon
+1F64E-200D-2640	pruilende vrouw
+1F64E-200D-2642	pruilende man
+1F64E-1F3FB	pruilend persoon lichte huidskleur
+1F64E-1F3FB-200D-2640	pruilende vrouw lichte huidskleur
+1F64E-1F3FB-200D-2642	pruilende man lichte huidskleur
+1F64E-1F3FC	pruilend persoon lichtgetinte huidskleur
+1F64E-1F3FC-200D-2640	pruilende vrouw lichtgetinte huidskleur
+1F64E-1F3FC-200D-2642	pruilende man lichtgetinte huidskleur
+1F64E-1F3FD	pruilend persoon getinte huidskleur
+1F64E-1F3FD-200D-2640	pruilende vrouw getinte huidskleur
+1F64E-1F3FD-200D-2642	pruilende man getinte huidskleur
+1F64E-1F3FE	pruilend persoon donkergetinte huidskleur
+1F64E-1F3FE-200D-2640	pruilende vrouw donkergetinte huidskleur
+1F64E-1F3FE-200D-2642	pruilende man donkergetinte huidskleur
+1F64E-1F3FF	pruilend persoon donkere huidskleur
+1F64E-1F3FF-200D-2640	pruilende vrouw donkere huidskleur
+1F64E-1F3FF-200D-2642	pruilende man donkere huidskleur
+1F64F	gevouwen handen
+1F64F-1F3FB	gevouwen handen lichte huidskleur
+1F64F-1F3FC	gevouwen handen lichtgetinte huidskleur
+1F64F-1F3FD	gevouwen handen getinte huidskleur
+1F64F-1F3FE	gevouwen handen donkergetinte huidskleur
+1F64F-1F3FF	gevouwen handen donkere huidskleur
+1F680	raket
+1F681	helikopter
+1F682	locomotief
+1F683	treinwagon
+1F684	hogesnelheidstrein
+1F685	hogesnelheidstrein met kogelneus
+1F686	trein
+1F687	metro
+1F688	lightrail
+1F689	treinstation
+1F68A	tram
+1F68B	tramwagon
+1F68C	bus
+1F68D	naderende bus
+1F68E	trolleybus
+1F68F	bushalte
+1F690	minibus
+1F691	ambulance
+1F692	brandweerauto
+1F693	politieauto
+1F694	naderende politieauto
+1F695	taxi
+1F696	naderende taxi
+1F697	auto
+1F698	naderende auto
+1F699	SUV
+1F69A	bestelbus
+1F69B	vrachtwagen
+1F69C	tractor
+1F69D	monorail
+1F69E	bergspoor
+1F69F	zweeftrein
+1F6A0	bergkabelbaan
+1F6A1	kabelbaan
+1F6A2	schip
+1F6A3	persoon in roeiboot
+1F6A3-200D-2640	vrouw in roeiboot
+1F6A3-200D-2642	man in roeiboot
+1F6A3-1F3FB	persoon in roeiboot lichte huidskleur
+1F6A3-1F3FB-200D-2640	vrouw in roeiboot lichte huidskleur
+1F6A3-1F3FB-200D-2642	man in roeiboot lichte huidskleur
+1F6A3-1F3FC	persoon in roeiboot lichtgetinte huidskleur
+1F6A3-1F3FC-200D-2640	vrouw in roeiboot lichtgetinte huidskleur
+1F6A3-1F3FC-200D-2642	man in roeiboot lichtgetinte huidskleur
+1F6A3-1F3FD	persoon in roeiboot getinte huidskleur
+1F6A3-1F3FD-200D-2640	vrouw in roeiboot getinte huidskleur
+1F6A3-1F3FD-200D-2642	man in roeiboot getinte huidskleur
+1F6A3-1F3FE	persoon in roeiboot donkergetinte huidskleur
+1F6A3-1F3FE-200D-2640	vrouw in roeiboot donkergetinte huidskleur
+1F6A3-1F3FE-200D-2642	man in roeiboot donkergetinte huidskleur
+1F6A3-1F3FF	persoon in roeiboot donkere huidskleur
+1F6A3-1F3FF-200D-2640	vrouw in roeiboot donkere huidskleur
+1F6A3-1F3FF-200D-2642	man in roeiboot donkere huidskleur
+1F6A4	speedboot
+1F6A5	horizontaal verkeerslicht
+1F6A6	verticaal verkeerslicht
+1F6A7	bouwwerkzaamheden
+1F6A8	zwaailicht van politieauto
+1F6A9	driehoekige vlag
+1F6AA	deur
+1F6AB	verboden
+1F6AC	sigaret
+1F6AD	niet roken
+1F6AE	prullenbaksymbool
+1F6AF	geen afval weggooien
+1F6B0	drinkwater
+1F6B1	geen drinkwater
+1F6B2	fiets
+1F6B3	geen fietsen
+1F6B4	fietsende persoon
+1F6B4-200D-2640	fietsende vrouw
+1F6B4-200D-2642	fietsende man
+1F6B4-1F3FB	fietsende persoon lichte huidskleur
+1F6B4-1F3FB-200D-2640	fietsende vrouw lichte huidskleur
+1F6B4-1F3FB-200D-2642	fietsende man lichte huidskleur
+1F6B4-1F3FC	fietsende persoon lichtgetinte huidskleur
+1F6B4-1F3FC-200D-2640	fietsende vrouw lichtgetinte huidskleur
+1F6B4-1F3FC-200D-2642	fietsende man lichtgetinte huidskleur
+1F6B4-1F3FD	fietsende persoon getinte huidskleur
+1F6B4-1F3FD-200D-2640	fietsende vrouw getinte huidskleur
+1F6B4-1F3FD-200D-2642	fietsende man getinte huidskleur
+1F6B4-1F3FE	fietsende persoon donkergetinte huidskleur
+1F6B4-1F3FE-200D-2640	fietsende vrouw donkergetinte huidskleur
+1F6B4-1F3FE-200D-2642	fietsende man donkergetinte huidskleur
+1F6B4-1F3FF	fietsende persoon donkere huidskleur
+1F6B4-1F3FF-200D-2640	fietsende vrouw donkere huidskleur
+1F6B4-1F3FF-200D-2642	fietsende man donkere huidskleur
+1F6B5	persoon op mountainbike
+1F6B5-200D-2640	vrouw op mountainbike
+1F6B5-200D-2642	man op mountainbike
+1F6B5-1F3FB	persoon op mountainbike lichte huidskleur
+1F6B5-1F3FB-200D-2640	vrouw op mountainbike lichte huidskleur
+1F6B5-1F3FB-200D-2642	man op mountainbike lichte huidskleur
+1F6B5-1F3FC	persoon op mountainbike lichtgetinte huidskleur
+1F6B5-1F3FC-200D-2640	vrouw op mountainbike lichtgetinte huidskleur
+1F6B5-1F3FC-200D-2642	man op mountainbike lichtgetinte huidskleur
+1F6B5-1F3FD	persoon op mountainbike getinte huidskleur
+1F6B5-1F3FD-200D-2640	vrouw op mountainbike getinte huidskleur
+1F6B5-1F3FD-200D-2642	man op mountainbike getinte huidskleur
+1F6B5-1F3FE	persoon op mountainbike donkergetinte huidskleur
+1F6B5-1F3FE-200D-2640	vrouw op mountainbike donkergetinte huidskleur
+1F6B5-1F3FE-200D-2642	man op mountainbike donkergetinte huidskleur
+1F6B5-1F3FF	persoon op mountainbike donkere huidskleur
+1F6B5-1F3FF-200D-2640	vrouw op mountainbike donkere huidskleur
+1F6B5-1F3FF-200D-2642	man op mountainbike donkere huidskleur
+1F6B6	voetganger
+1F6B6-200D-2640	wandelende vrouw
+1F6B6-200D-2642	wandelende man
+1F6B6-1F3FB	voetganger lichte huidskleur
+1F6B6-1F3FB-200D-2640	wandelende vrouw lichte huidskleur
+1F6B6-1F3FB-200D-2642	wandelende man lichte huidskleur
+1F6B6-1F3FC	voetganger lichtgetinte huidskleur
+1F6B6-1F3FC-200D-2640	wandelende vrouw lichtgetinte huidskleur
+1F6B6-1F3FC-200D-2642	wandelende man lichtgetinte huidskleur
+1F6B6-1F3FD	voetganger getinte huidskleur
+1F6B6-1F3FD-200D-2640	wandelende vrouw getinte huidskleur
+1F6B6-1F3FD-200D-2642	wandelende man getinte huidskleur
+1F6B6-1F3FE	voetganger donkergetinte huidskleur
+1F6B6-1F3FE-200D-2640	wandelende vrouw donkergetinte huidskleur
+1F6B6-1F3FE-200D-2642	wandelende man donkergetinte huidskleur
+1F6B6-1F3FF	voetganger donkere huidskleur
+1F6B6-1F3FF-200D-2640	wandelende vrouw donkere huidskleur
+1F6B6-1F3FF-200D-2642	wandelende man donkere huidskleur
+1F6B7	geen voetgangers
+1F6B8	overstekende kinderen
+1F6B9	herentoilet
+1F6BA	damestoilet
+1F6BB	toiletten
+1F6BC	babysymbool
+1F6BD	toilet
+1F6BE	wc
+1F6BF	douche
+1F6C0	persoon in badkuip
+1F6C0-1F3FB	persoon in badkuip lichte huidskleur
+1F6C0-1F3FC	persoon in badkuip lichtgetinte huidskleur
+1F6C0-1F3FD	persoon in badkuip getinte huidskleur
+1F6C0-1F3FE	persoon in badkuip donkergetinte huidskleur
+1F6C0-1F3FF	persoon in badkuip donkere huidskleur
+1F6C1	badkuip
+1F6C2	paspoortcontrole
+1F6C3	douane
+1F6C4	bagage afhalen
+1F6C5	bagagekluis
+1F6CB	bank en lamp
+1F6CC	persoon in bed
+1F6CC-1F3FB	persoon in bed lichte huidskleur
+1F6CC-1F3FC	persoon in bed lichtgetinte huidskleur
+1F6CC-1F3FD	persoon in bed getinte huidskleur
+1F6CC-1F3FE	persoon in bed donkergetinte huidskleur
+1F6CC-1F3FF	persoon in bed donkere huidskleur
+1F6CD	boodschappentassen
+1F6CE	piccolobel
+1F6CF	bed
+1F6D0	gebedsruimte
+1F6D1	stopteken
+1F6D2	winkelwagen
+1F6D5	hindoetempel
+1F6D6	hut
+1F6D7	lift
+1F6E0	hamer en moersleutel
+1F6E1	schild
+1F6E2	olievat
+1F6E3	snelweg
+1F6E4	treinspoor
+1F6E5	motorboot
+1F6E9	vliegtuigje
+1F6EB	vertrek van vliegtuig
+1F6EC	aankomst van vliegtuig
+1F6F0	satelliet
+1F6F3	passagiersschip
+1F6F4	step
+1F6F5	scooter
+1F6F6	kano
+1F6F7	slee
+1F6F8	vliegende schotel
+1F6F9	skateboard
+1F6FA	riksja
+1F6FB	pick-up
+1F6FC	rolschaats
+1F7E0	oranje cirkel
+1F7E1	gele cirkel
+1F7E2	groene cirkel
+1F7E3	paarse cirkel
+1F7E4	bruine cirkel
+1F7E5	rood vierkant
+1F7E6	blauw vierkant
+1F7E7	oranje vierkant
+1F7E8	geel vierkant
+1F7E9	groen vierkant
+1F7EA	paars vierkant
+1F7EB	bruin vierkant
+1F90C	samengeknepen vingers
+1F90C-1F3FB	samengeknepen vingers lichte huidskleur
+1F90C-1F3FC	samengeknepen vingers lichtgetinte huidskleur
+1F90C-1F3FD	samengeknepen vingers getinte huidskleur
+1F90C-1F3FE	samengeknepen vingers donkergetinte huidskleur
+1F90C-1F3FF	samengeknepen vingers donkere huidskleur
+1F90D	wit hart
+1F90E	bruin hart
+1F90F	hand met samengeknepen vingers
+1F90F-1F3FB	hand met samengeknepen vingers lichte huidskleur
+1F90F-1F3FC	hand met samengeknepen vingers lichtgetinte huidskleur
+1F90F-1F3FD	hand met samengeknepen vingers getinte huidskleur
+1F90F-1F3FE	hand met samengeknepen vingers donkergetinte huidskleur
+1F90F-1F3FF	hand met samengeknepen vingers donkere huidskleur
+1F910	gezicht met een rits als mond
+1F911	gezicht met geld in de mond
+1F912	gezicht met thermometer
+1F913	nerdgezicht
+1F914	nadenkend gezicht
+1F915	gezicht met een verband om het hoofd
+1F916	robot
+1F917	blij gezicht met handen uitgestoken voor een knuffel
+1F918	duivelshorens
+1F918-1F3FB	duivelshorens lichte huidskleur
+1F918-1F3FC	duivelshorens lichtgetinte huidskleur
+1F918-1F3FD	duivelshorens getinte huidskleur
+1F918-1F3FE	duivelshorens donkergetinte huidskleur
+1F918-1F3FF	duivelshorens donkere huidskleur
+1F919	bel me-gebaar
+1F919-1F3FB	bel me-gebaar lichte huidskleur
+1F919-1F3FC	bel me-gebaar lichtgetinte huidskleur
+1F919-1F3FD	bel me-gebaar getinte huidskleur
+1F919-1F3FE	bel me-gebaar donkergetinte huidskleur
+1F919-1F3FF	bel me-gebaar donkere huidskleur
+1F91A	achterkant van opgeheven hand
+1F91A-1F3FB	achterkant van opgeheven hand lichte huidskleur
+1F91A-1F3FC	achterkant van opgeheven hand lichtgetinte huidskleur
+1F91A-1F3FD	achterkant van opgeheven hand getinte huidskleur
+1F91A-1F3FE	achterkant van opgeheven hand donkergetinte huidskleur
+1F91A-1F3FF	achterkant van opgeheven hand donkere huidskleur
+1F91B	naar links gerichte vuist
+1F91B-1F3FB	naar links gerichte vuist lichte huidskleur
+1F91B-1F3FC	naar links gerichte vuist lichtgetinte huidskleur
+1F91B-1F3FD	naar links gerichte vuist getinte huidskleur
+1F91B-1F3FE	naar links gerichte vuist donkergetinte huidskleur
+1F91B-1F3FF	naar links gerichte vuist donkere huidskleur
+1F91C	naar rechts gerichte vuist
+1F91C-1F3FB	naar rechts gerichte vuist lichte huidskleur
+1F91C-1F3FC	naar rechts gerichte vuist lichtgetinte huidskleur
+1F91C-1F3FD	naar rechts gerichte vuist getinte huidskleur
+1F91C-1F3FE	naar rechts gerichte vuist donkergetinte huidskleur
+1F91C-1F3FF	naar rechts gerichte vuist donkere huidskleur
+1F91D	handdruk
+1F91E	gekruiste vingers
+1F91E-1F3FB	gekruiste vingers lichte huidskleur
+1F91E-1F3FC	gekruiste vingers lichtgetinte huidskleur
+1F91E-1F3FD	gekruiste vingers getinte huidskleur
+1F91E-1F3FE	gekruiste vingers donkergetinte huidskleur
+1F91E-1F3FF	gekruiste vingers donkere huidskleur
+1F91F	ik-hou-van-je-gebaar
+1F91F-1F3FB	ik-hou-van-je-gebaar lichte huidskleur
+1F91F-1F3FC	ik-hou-van-je-gebaar lichtgetinte huidskleur
+1F91F-1F3FD	ik-hou-van-je-gebaar getinte huidskleur
+1F91F-1F3FE	ik-hou-van-je-gebaar donkergetinte huidskleur
+1F91F-1F3FF	ik-hou-van-je-gebaar donkere huidskleur
+1F920	gezicht met cowboyhoed
+1F921	clownsgezicht
+1F922	misselijk gezicht
+1F923	gezicht dat op de grond rolt van het lachen
+1F924	kwijlend gezicht
+1F925	liegend gezicht
+1F926	persoon die het gezicht met de hand bedekt
+1F926-200D-2640	vrouw die het gezicht met de hand bedekt
+1F926-200D-2642	man die het gezicht met de hand bedekt
+1F926-1F3FB	persoon die het gezicht met de hand bedekt lichte huidskleur
+1F926-1F3FB-200D-2640	vrouw die het gezicht met de hand bedekt lichte huidskleur
+1F926-1F3FB-200D-2642	man die het gezicht met de hand bedekt lichte huidskleur
+1F926-1F3FC	persoon die het gezicht met de hand bedekt lichtgetinte huidskleur
+1F926-1F3FC-200D-2640	vrouw die het gezicht met de hand bedekt lichtgetinte huidskleur
+1F926-1F3FC-200D-2642	man die het gezicht met de hand bedekt lichtgetinte huidskleur
+1F926-1F3FD	persoon die het gezicht met de hand bedekt getinte huidskleur
+1F926-1F3FD-200D-2640	vrouw die het gezicht met de hand bedekt getinte huidskleur
+1F926-1F3FD-200D-2642	man die het gezicht met de hand bedekt getinte huidskleur
+1F926-1F3FE	persoon die het gezicht met de hand bedekt donkergetinte huidskleur
+1F926-1F3FE-200D-2640	vrouw die het gezicht met de hand bedekt donkergetinte huidskleur
+1F926-1F3FE-200D-2642	man die het gezicht met de hand bedekt donkergetinte huidskleur
+1F926-1F3FF	persoon die het gezicht met de hand bedekt donkere huidskleur
+1F926-1F3FF-200D-2640	vrouw die het gezicht met de hand bedekt donkere huidskleur
+1F926-1F3FF-200D-2642	man die het gezicht met de hand bedekt donkere huidskleur
+1F927	niezend gezicht
+1F928	gezicht met opgeheven wenkbrauw
+1F929	sterren in de ogen
+1F92A	gek gezicht
+1F92B	gezicht dat tot stilte maant
+1F92C	gezicht met symbolen op mond
+1F92D	gezicht met hand over de mond
+1F92E	brakend gezicht
+1F92F	ontploffend hoofd
+1F930	zwangere vrouw
+1F930-1F3FB	zwangere vrouw lichte huidskleur
+1F930-1F3FC	zwangere vrouw lichtgetinte huidskleur
+1F930-1F3FD	zwangere vrouw getinte huidskleur
+1F930-1F3FE	zwangere vrouw donkergetinte huidskleur
+1F930-1F3FF	zwangere vrouw donkere huidskleur
+1F931	borstvoeding
+1F931-1F3FB	borstvoeding lichte huidskleur
+1F931-1F3FC	borstvoeding lichtgetinte huidskleur
+1F931-1F3FD	borstvoeding getinte huidskleur
+1F931-1F3FE	borstvoeding donkergetinte huidskleur
+1F931-1F3FF	borstvoeding donkere huidskleur
+1F932	beide handpalmen omhoog
+1F932-1F3FB	beide handpalmen omhoog lichte huidskleur
+1F932-1F3FC	beide handpalmen omhoog lichtgetinte huidskleur
+1F932-1F3FD	beide handpalmen omhoog getinte huidskleur
+1F932-1F3FE	beide handpalmen omhoog donkergetinte huidskleur
+1F932-1F3FF	beide handpalmen omhoog donkere huidskleur
+1F933	selfie
+1F933-1F3FB	selfie lichte huidskleur
+1F933-1F3FC	selfie lichtgetinte huidskleur
+1F933-1F3FD	selfie getinte huidskleur
+1F933-1F3FE	selfie donkergetinte huidskleur
+1F933-1F3FF	selfie donkere huidskleur
+1F934	prins
+1F934-1F3FB	prins lichte huidskleur
+1F934-1F3FC	prins lichtgetinte huidskleur
+1F934-1F3FD	prins getinte huidskleur
+1F934-1F3FE	prins donkergetinte huidskleur
+1F934-1F3FF	prins donkere huidskleur
+1F935	persoon in smoking
+1F935-200D-2640	vrouw in smoking
+1F935-200D-2642	man in smoking
+1F935-1F3FB	persoon in smoking lichte huidskleur
+1F935-1F3FB-200D-2640	vrouw in smoking lichte huidskleur
+1F935-1F3FB-200D-2642	man in smoking lichte huidskleur
+1F935-1F3FC	persoon in smoking lichtgetinte huidskleur
+1F935-1F3FC-200D-2640	vrouw in smoking lichtgetinte huidskleur
+1F935-1F3FC-200D-2642	man in smoking lichtgetinte huidskleur
+1F935-1F3FD	persoon in smoking getinte huidskleur
+1F935-1F3FD-200D-2640	vrouw in smoking getinte huidskleur
+1F935-1F3FD-200D-2642	man in smoking getinte huidskleur
+1F935-1F3FE	persoon in smoking donkergetinte huidskleur
+1F935-1F3FE-200D-2640	vrouw in smoking donkergetinte huidskleur
+1F935-1F3FE-200D-2642	man in smoking donkergetinte huidskleur
+1F935-1F3FF	persoon in smoking donkere huidskleur
+1F935-1F3FF-200D-2640	vrouw in smoking donkere huidskleur
+1F935-1F3FF-200D-2642	man in smoking donkere huidskleur
+1F936	kerstvrouw
+1F936-1F3FB	kerstvrouw lichte huidskleur
+1F936-1F3FC	kerstvrouw lichtgetinte huidskleur
+1F936-1F3FD	kerstvrouw getinte huidskleur
+1F936-1F3FE	kerstvrouw donkergetinte huidskleur
+1F936-1F3FF	kerstvrouw donkere huidskleur
+1F937	persoon die schouders ophaalt
+1F937-200D-2640	vrouw die schouders ophaalt
+1F937-200D-2642	man die schouders ophaalt
+1F937-1F3FB	persoon die schouders ophaalt lichte huidskleur
+1F937-1F3FB-200D-2640	vrouw die schouders ophaalt lichte huidskleur
+1F937-1F3FB-200D-2642	man die schouders ophaalt lichte huidskleur
+1F937-1F3FC	persoon die schouders ophaalt lichtgetinte huidskleur
+1F937-1F3FC-200D-2640	vrouw die schouders ophaalt lichtgetinte huidskleur
+1F937-1F3FC-200D-2642	man die schouders ophaalt lichtgetinte huidskleur
+1F937-1F3FD	persoon die schouders ophaalt getinte huidskleur
+1F937-1F3FD-200D-2640	vrouw die schouders ophaalt getinte huidskleur
+1F937-1F3FD-200D-2642	man die schouders ophaalt getinte huidskleur
+1F937-1F3FE	persoon die schouders ophaalt donkergetinte huidskleur
+1F937-1F3FE-200D-2640	vrouw die schouders ophaalt donkergetinte huidskleur
+1F937-1F3FE-200D-2642	man die schouders ophaalt donkergetinte huidskleur
+1F937-1F3FF	persoon die schouders ophaalt donkere huidskleur
+1F937-1F3FF-200D-2640	vrouw die schouders ophaalt donkere huidskleur
+1F937-1F3FF-200D-2642	man die schouders ophaalt donkere huidskleur
+1F938	persoon die een radslag doet
+1F938-200D-2640	vrouw die een radslag doet
+1F938-200D-2642	man die een radslag doet
+1F938-1F3FB	persoon die een radslag doet lichte huidskleur
+1F938-1F3FB-200D-2640	vrouw die een radslag doet lichte huidskleur
+1F938-1F3FB-200D-2642	man die een radslag doet lichte huidskleur
+1F938-1F3FC	persoon die een radslag doet lichtgetinte huidskleur
+1F938-1F3FC-200D-2640	vrouw die een radslag doet lichtgetinte huidskleur
+1F938-1F3FC-200D-2642	man die een radslag doet lichtgetinte huidskleur
+1F938-1F3FD	persoon die een radslag doet getinte huidskleur
+1F938-1F3FD-200D-2640	vrouw die een radslag doet getinte huidskleur
+1F938-1F3FD-200D-2642	man die een radslag doet getinte huidskleur
+1F938-1F3FE	persoon die een radslag doet donkergetinte huidskleur
+1F938-1F3FE-200D-2640	vrouw die een radslag doet donkergetinte huidskleur
+1F938-1F3FE-200D-2642	man die een radslag doet donkergetinte huidskleur
+1F938-1F3FF	persoon die een radslag doet donkere huidskleur
+1F938-1F3FF-200D-2640	vrouw die een radslag doet donkere huidskleur
+1F938-1F3FF-200D-2642	man die een radslag doet donkere huidskleur
+1F939	persoon die jongleert
+1F939-200D-2640	vrouw die jongleert
+1F939-200D-2642	man die jongleert
+1F939-1F3FB	persoon die jongleert lichte huidskleur
+1F939-1F3FB-200D-2640	vrouw die jongleert lichte huidskleur
+1F939-1F3FB-200D-2642	man die jongleert lichte huidskleur
+1F939-1F3FC	persoon die jongleert lichtgetinte huidskleur
+1F939-1F3FC-200D-2640	vrouw die jongleert lichtgetinte huidskleur
+1F939-1F3FC-200D-2642	man die jongleert lichtgetinte huidskleur
+1F939-1F3FD	persoon die jongleert getinte huidskleur
+1F939-1F3FD-200D-2640	vrouw die jongleert getinte huidskleur
+1F939-1F3FD-200D-2642	man die jongleert getinte huidskleur
+1F939-1F3FE	persoon die jongleert donkergetinte huidskleur
+1F939-1F3FE-200D-2640	vrouw die jongleert donkergetinte huidskleur
+1F939-1F3FE-200D-2642	man die jongleert donkergetinte huidskleur
+1F939-1F3FF	persoon die jongleert donkere huidskleur
+1F939-1F3FF-200D-2640	vrouw die jongleert donkere huidskleur
+1F939-1F3FF-200D-2642	man die jongleert donkere huidskleur
+1F93A	schermer
+1F93C	personen die worstelen
+1F93C-200D-2640	worstelende vrouwen
+1F93C-200D-2642	worstelende mannen
+1F93D	persoon die waterpolo speelt
+1F93D-200D-2640	vrouw die waterpolo speelt
+1F93D-200D-2642	man die waterpolo speelt
+1F93D-1F3FB	persoon die waterpolo speelt lichte huidskleur
+1F93D-1F3FB-200D-2640	vrouw die waterpolo speelt lichte huidskleur
+1F93D-1F3FB-200D-2642	man die waterpolo speelt lichte huidskleur
+1F93D-1F3FC	persoon die waterpolo speelt lichtgetinte huidskleur
+1F93D-1F3FC-200D-2640	vrouw die waterpolo speelt lichtgetinte huidskleur
+1F93D-1F3FC-200D-2642	man die waterpolo speelt lichtgetinte huidskleur
+1F93D-1F3FD	persoon die waterpolo speelt getinte huidskleur
+1F93D-1F3FD-200D-2640	vrouw die waterpolo speelt getinte huidskleur
+1F93D-1F3FD-200D-2642	man die waterpolo speelt getinte huidskleur
+1F93D-1F3FE	persoon die waterpolo speelt donkergetinte huidskleur
+1F93D-1F3FE-200D-2640	vrouw die waterpolo speelt donkergetinte huidskleur
+1F93D-1F3FE-200D-2642	man die waterpolo speelt donkergetinte huidskleur
+1F93D-1F3FF	persoon die waterpolo speelt donkere huidskleur
+1F93D-1F3FF-200D-2640	vrouw die waterpolo speelt donkere huidskleur
+1F93D-1F3FF-200D-2642	man die waterpolo speelt donkere huidskleur
+1F93E	persoon die handbal speelt
+1F93E-200D-2640	vrouw die handbal speelt
+1F93E-200D-2642	man die handbal speelt
+1F93E-1F3FB	persoon die handbal speelt lichte huidskleur
+1F93E-1F3FB-200D-2640	vrouw die handbal speelt lichte huidskleur
+1F93E-1F3FB-200D-2642	man die handbal speelt lichte huidskleur
+1F93E-1F3FC	persoon die handbal speelt lichtgetinte huidskleur
+1F93E-1F3FC-200D-2640	vrouw die handbal speelt lichtgetinte huidskleur
+1F93E-1F3FC-200D-2642	man die handbal speelt lichtgetinte huidskleur
+1F93E-1F3FD	persoon die handbal speelt getinte huidskleur
+1F93E-1F3FD-200D-2640	vrouw die handbal speelt getinte huidskleur
+1F93E-1F3FD-200D-2642	man die handbal speelt getinte huidskleur
+1F93E-1F3FE	persoon die handbal speelt donkergetinte huidskleur
+1F93E-1F3FE-200D-2640	vrouw die handbal speelt donkergetinte huidskleur
+1F93E-1F3FE-200D-2642	man die handbal speelt donkergetinte huidskleur
+1F93E-1F3FF	persoon die handbal speelt donkere huidskleur
+1F93E-1F3FF-200D-2640	vrouw die handbal speelt donkere huidskleur
+1F93E-1F3FF-200D-2642	man die handbal speelt donkere huidskleur
+1F93F	duikbril
+1F940	verwelkte bloem
+1F941	trommel
+1F942	klinkende glazen
+1F943	tumblerglas
+1F944	lepel
+1F945	doelnet
+1F947	medaille 1e plaats
+1F948	medaille 2e plaats
+1F949	medaille 3e plaats
+1F94A	bokshandschoen
+1F94B	pak voor vechtsporten
+1F94C	curlingsteen
+1F94D	lacrosse
+1F94E	softbal
+1F94F	frisbee
+1F950	croissant
+1F951	avocado
+1F952	komkommer
+1F953	bacon
+1F954	aardappel
+1F955	wortel
+1F956	stokbrood
+1F957	groene salade
+1F958	paellapan
+1F959	gevuld pitabroodje
+1F95A	ei
+1F95B	glas melk
+1F95C	pindas
+1F95D	kiwi
+1F95E	pannenkoeken
+1F95F	knoedel
+1F960	gelukskoekje
+1F961	afhaalmaaltijd
+1F962	chopsticks
+1F963	kom met lepel
+1F964	beker met rietje
+1F965	kokosnoot
+1F966	broccoli
+1F967	taart
+1F968	pretzel
+1F969	vlees
+1F96A	boterham
+1F96B	blikvoedsel
+1F96C	bladgroente
+1F96D	mango
+1F96E	maancake
+1F96F	bagel
+1F970	lachend gezicht met hartjes
+1F971	gapend gezicht
+1F972	lachend gezicht met traan
+1F973	feestend gezicht
+1F974	wazig gezicht
+1F975	heet gezicht
+1F976	koud gezicht
+1F977	ninja
+1F977-1F3FB	ninja lichte huidskleur
+1F977-1F3FC	ninja lichtgetinte huidskleur
+1F977-1F3FD	ninja getinte huidskleur
+1F977-1F3FE	ninja donkergetinte huidskleur
+1F977-1F3FF	ninja donkere huidskleur
+1F978	vermomd gezicht
+1F97A	smekend gezicht
+1F97B	sari
+1F97C	labjas
+1F97D	oogscherm
+1F97E	wandelschoen
+1F97F	platte schoen
+1F980	krab
+1F981	leeuw
+1F982	schorpioen
+1F983	kalkoen
+1F984	eenhoorn
+1F985	adelaar
+1F986	eend
+1F987	vleermuis
+1F988	haai
+1F989	uil
+1F98A	vos
+1F98B	vlinder
+1F98C	hert
+1F98D	gorilla
+1F98E	hagedis
+1F98F	neushoorn
+1F990	garnaal
+1F991	inktvis
+1F992	giraffe
+1F993	zebra
+1F994	egel
+1F995	sauropode
+1F996	T-Rex
+1F997	krekel
+1F998	kangoeroe
+1F999	lama
+1F99A	pauw
+1F99B	nijlpaard
+1F99C	papegaai
+1F99D	wasbeer
+1F99E	kreeft
+1F99F	mug
+1F9A0	microbe
+1F9A1	das
+1F9A2	zwaan
+1F9A3	mammoet
+1F9A4	dodo
+1F9A5	luiaard
+1F9A6	otter
+1F9A7	orang-oetang
+1F9A8	stinkdier
+1F9A9	flamingo
+1F9AA	oester
+1F9AB	bever
+1F9AC	bizon
+1F9AD	zeehond
+1F9AE	blindengeleidehond
+1F9AF	taststok
+1F9B0	rood haar
+1F9B1	krullend haar
+1F9B2	kaal
+1F9B3	wit haar
+1F9B4	bot
+1F9B5	been
+1F9B5-1F3FB	been lichte huidskleur
+1F9B5-1F3FC	been lichtgetinte huidskleur
+1F9B5-1F3FD	been getinte huidskleur
+1F9B5-1F3FE	been donkergetinte huidskleur
+1F9B5-1F3FF	been donkere huidskleur
+1F9B6	voet
+1F9B6-1F3FB	voet lichte huidskleur
+1F9B6-1F3FC	voet lichtgetinte huidskleur
+1F9B6-1F3FD	voet getinte huidskleur
+1F9B6-1F3FE	voet donkergetinte huidskleur
+1F9B6-1F3FF	voet donkere huidskleur
+1F9B7	tand
+1F9B8	superheld
+1F9B8-200D-2640	vrouwelijke superheld
+1F9B8-200D-2642	mannelijke superheld
+1F9B8-1F3FB	superheld lichte huidskleur
+1F9B8-1F3FB-200D-2640	vrouwelijke superheld lichte huidskleur
+1F9B8-1F3FB-200D-2642	mannelijke superheld lichte huidskleur
+1F9B8-1F3FC	superheld lichtgetinte huidskleur
+1F9B8-1F3FC-200D-2640	vrouwelijke superheld lichtgetinte huidskleur
+1F9B8-1F3FC-200D-2642	mannelijke superheld lichtgetinte huidskleur
+1F9B8-1F3FD	superheld getinte huidskleur
+1F9B8-1F3FD-200D-2640	vrouwelijke superheld getinte huidskleur
+1F9B8-1F3FD-200D-2642	mannelijke superheld getinte huidskleur
+1F9B8-1F3FE	superheld donkergetinte huidskleur
+1F9B8-1F3FE-200D-2640	vrouwelijke superheld donkergetinte huidskleur
+1F9B8-1F3FE-200D-2642	mannelijke superheld donkergetinte huidskleur
+1F9B8-1F3FF	superheld donkere huidskleur
+1F9B8-1F3FF-200D-2640	vrouwelijke superheld donkere huidskleur
+1F9B8-1F3FF-200D-2642	mannelijke superheld donkere huidskleur
+1F9B9	superschurk
+1F9B9-200D-2640	vrouwelijke superschurk
+1F9B9-200D-2642	mannelijke superschurk
+1F9B9-1F3FB	superschurk lichte huidskleur
+1F9B9-1F3FB-200D-2640	vrouwelijke superschurk lichte huidskleur
+1F9B9-1F3FB-200D-2642	mannelijke superschurk lichte huidskleur
+1F9B9-1F3FC	superschurk lichtgetinte huidskleur
+1F9B9-1F3FC-200D-2640	vrouwelijke superschurk lichtgetinte huidskleur
+1F9B9-1F3FC-200D-2642	mannelijke superschurk lichtgetinte huidskleur
+1F9B9-1F3FD	superschurk getinte huidskleur
+1F9B9-1F3FD-200D-2640	vrouwelijke superschurk getinte huidskleur
+1F9B9-1F3FD-200D-2642	mannelijke superschurk getinte huidskleur
+1F9B9-1F3FE	superschurk donkergetinte huidskleur
+1F9B9-1F3FE-200D-2640	vrouwelijke superschurk donkergetinte huidskleur
+1F9B9-1F3FE-200D-2642	mannelijke superschurk donkergetinte huidskleur
+1F9B9-1F3FF	superschurk donkere huidskleur
+1F9B9-1F3FF-200D-2640	vrouwelijke superschurk donkere huidskleur
+1F9B9-1F3FF-200D-2642	mannelijke superschurk donkere huidskleur
+1F9BA	veiligheidsvest
+1F9BB	oor met gehoorapparaat
+1F9BB-1F3FB	oor met gehoorapparaat lichte huidskleur
+1F9BB-1F3FC	oor met gehoorapparaat lichtgetinte huidskleur
+1F9BB-1F3FD	oor met gehoorapparaat getinte huidskleur
+1F9BB-1F3FE	oor met gehoorapparaat donkergetinte huidskleur
+1F9BB-1F3FF	oor met gehoorapparaat donkere huidskleur
+1F9BC	elektrische rolstoel
+1F9BD	rolstoel
+1F9BE	armprothese
+1F9BF	beenprothese
+1F9C0	stuk kaas
+1F9C1	cupcake
+1F9C2	zout
+1F9C3	pakje drinken
+1F9C4	knoflook
+1F9C5	ui
+1F9C6	falafel
+1F9C7	wafel
+1F9C8	boter
+1F9C9	mat
+1F9CA	ijsklontje
+1F9CB	bubbelthee
+1F9CD	staande persoon
+1F9CD-200D-2640	staande vrouw
+1F9CD-200D-2642	staande man
+1F9CD-1F3FB	staande persoon lichte huidskleur
+1F9CD-1F3FB-200D-2640	staande vrouw lichte huidskleur
+1F9CD-1F3FB-200D-2642	staande man lichte huidskleur
+1F9CD-1F3FC	staande persoon lichtgetinte huidskleur
+1F9CD-1F3FC-200D-2640	staande vrouw lichtgetinte huidskleur
+1F9CD-1F3FC-200D-2642	staande man lichtgetinte huidskleur
+1F9CD-1F3FD	staande persoon getinte huidskleur
+1F9CD-1F3FD-200D-2640	staande vrouw getinte huidskleur
+1F9CD-1F3FD-200D-2642	staande man getinte huidskleur
+1F9CD-1F3FE	staande persoon donkergetinte huidskleur
+1F9CD-1F3FE-200D-2640	staande vrouw donkergetinte huidskleur
+1F9CD-1F3FE-200D-2642	staande man donkergetinte huidskleur
+1F9CD-1F3FF	staande persoon donkere huidskleur
+1F9CD-1F3FF-200D-2640	staande vrouw donkere huidskleur
+1F9CD-1F3FF-200D-2642	staande man donkere huidskleur
+1F9CE	knielende persoon
+1F9CE-200D-2640	knielende vrouw
+1F9CE-200D-2642	knielende man
+1F9CE-1F3FB	knielende persoon lichte huidskleur
+1F9CE-1F3FB-200D-2640	knielende vrouw lichte huidskleur
+1F9CE-1F3FB-200D-2642	knielende man lichte huidskleur
+1F9CE-1F3FC	knielende persoon lichtgetinte huidskleur
+1F9CE-1F3FC-200D-2640	knielende vrouw lichtgetinte huidskleur
+1F9CE-1F3FC-200D-2642	knielende man lichtgetinte huidskleur
+1F9CE-1F3FD	knielende persoon getinte huidskleur
+1F9CE-1F3FD-200D-2640	knielende vrouw getinte huidskleur
+1F9CE-1F3FD-200D-2642	knielende man getinte huidskleur
+1F9CE-1F3FE	knielende persoon donkergetinte huidskleur
+1F9CE-1F3FE-200D-2640	knielende vrouw donkergetinte huidskleur
+1F9CE-1F3FE-200D-2642	knielende man donkergetinte huidskleur
+1F9CE-1F3FF	knielende persoon donkere huidskleur
+1F9CE-1F3FF-200D-2640	knielende vrouw donkere huidskleur
+1F9CE-1F3FF-200D-2642	knielende man donkere huidskleur
+1F9CF	doof persoon
+1F9CF-200D-2640	dove vrouw
+1F9CF-200D-2642	dove man
+1F9CF-1F3FB	doof persoon lichte huidskleur
+1F9CF-1F3FB-200D-2640	dove vrouw lichte huidskleur
+1F9CF-1F3FB-200D-2642	dove man lichte huidskleur
+1F9CF-1F3FC	doof persoon lichtgetinte huidskleur
+1F9CF-1F3FC-200D-2640	dove vrouw lichtgetinte huidskleur
+1F9CF-1F3FC-200D-2642	dove man lichtgetinte huidskleur
+1F9CF-1F3FD	doof persoon getinte huidskleur
+1F9CF-1F3FD-200D-2640	dove vrouw getinte huidskleur
+1F9CF-1F3FD-200D-2642	dove man getinte huidskleur
+1F9CF-1F3FE	doof persoon donkergetinte huidskleur
+1F9CF-1F3FE-200D-2640	dove vrouw donkergetinte huidskleur
+1F9CF-1F3FE-200D-2642	dove man donkergetinte huidskleur
+1F9CF-1F3FF	doof persoon donkere huidskleur
+1F9CF-1F3FF-200D-2640	dove vrouw donkere huidskleur
+1F9CF-1F3FF-200D-2642	dove man donkere huidskleur
+1F9D0	gezicht met monocle
+1F9D1	volwassene
+1F9D1-200D-2695	gezondheidsmedewerker
+1F9D1-200D-2696	rechter
+1F9D1-200D-2708	piloot
+1F9D1-200D-1F33E	boer
+1F9D1-200D-1F373	kok
+1F9D1-200D-1F37C	persoon die een baby voedt
+1F9D1-200D-1F384	kersttransgender
+1F9D1-200D-1F393	student
+1F9D1-200D-1F3A4	zanger
+1F9D1-200D-1F3A8	kunstenaar
+1F9D1-200D-1F3EB	docent
+1F9D1-200D-1F3ED	fabrieksarbeider
+1F9D1-200D-1F4BB	technoloog
+1F9D1-200D-1F4BC	kantoormedewerker
+1F9D1-200D-1F527	monteur
+1F9D1-200D-1F52C	wetenschapper
+1F9D1-200D-1F680	astronaut
+1F9D1-200D-1F692	brandweerman
+1F9D1-200D-1F91D-200D-1F9D1	personen hand in hand
+1F9D1-200D-1F9AF	persoon met taststok
+1F9D1-200D-1F9B0	volwassene rood haar
+1F9D1-200D-1F9B1	volwassene krullend haar
+1F9D1-200D-1F9B2	volwassene kaal
+1F9D1-200D-1F9B3	volwassene wit haar
+1F9D1-200D-1F9BC	persoon in elektrische rolstoel
+1F9D1-200D-1F9BD	persoon in rolstoel
+1F9D1-1F3FB	volwassene lichte huidskleur
+1F9D1-1F3FB-200D-2695	gezondheidsmedewerker lichte huidskleur
+1F9D1-1F3FB-200D-2696	rechter lichte huidskleur
+1F9D1-1F3FB-200D-2708	piloot lichte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	kus volwassene volwassene lichte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	kus volwassene volwassene lichte huidskleur getinte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	kus volwassene volwassene lichte huidskleur donkergetinte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	kus volwassene volwassene lichte huidskleur donkere huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	stel met hart volwassene volwassene lichte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	stel met hart volwassene volwassene lichte huidskleur getinte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	stel met hart volwassene volwassene lichte huidskleur donkergetinte huidskleur
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	stel met hart volwassene volwassene lichte huidskleur donkere huidskleur
+1F9D1-1F3FB-200D-1F33E	boer lichte huidskleur
+1F9D1-1F3FB-200D-1F373	kok lichte huidskleur
+1F9D1-1F3FB-200D-1F37C	persoon die een baby voedt lichte huidskleur
+1F9D1-1F3FB-200D-1F384	kersttransgender lichte huidskleur
+1F9D1-1F3FB-200D-1F393	student lichte huidskleur
+1F9D1-1F3FB-200D-1F3A4	zanger lichte huidskleur
+1F9D1-1F3FB-200D-1F3A8	kunstenaar lichte huidskleur
+1F9D1-1F3FB-200D-1F3EB	docent lichte huidskleur
+1F9D1-1F3FB-200D-1F3ED	fabrieksarbeider lichte huidskleur
+1F9D1-1F3FB-200D-1F4BB	technoloog lichte huidskleur
+1F9D1-1F3FB-200D-1F4BC	kantoormedewerker lichte huidskleur
+1F9D1-1F3FB-200D-1F527	monteur lichte huidskleur
+1F9D1-1F3FB-200D-1F52C	wetenschapper lichte huidskleur
+1F9D1-1F3FB-200D-1F680	astronaut lichte huidskleur
+1F9D1-1F3FB-200D-1F692	brandweerman lichte huidskleur
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	personen hand in hand lichte huidskleur
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	personen hand in hand lichte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	personen hand in hand lichte huidskleur getinte huidskleur
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	personen hand in hand lichte huidskleur donkergetinte huidskleur
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	personen hand in hand lichte huidskleur donkere huidskleur
+1F9D1-1F3FB-200D-1F9AF	persoon met taststok lichte huidskleur
+1F9D1-1F3FB-200D-1F9B0	volwassene lichte huidskleur rood haar
+1F9D1-1F3FB-200D-1F9B1	volwassene lichte huidskleur krullend haar
+1F9D1-1F3FB-200D-1F9B2	volwassene lichte huidskleur kaal
+1F9D1-1F3FB-200D-1F9B3	volwassene lichte huidskleur wit haar
+1F9D1-1F3FB-200D-1F9BC	persoon in elektrische rolstoel lichte huidskleur
+1F9D1-1F3FB-200D-1F9BD	persoon in rolstoel lichte huidskleur
+1F9D1-1F3FC	volwassene lichtgetinte huidskleur
+1F9D1-1F3FC-200D-2695	gezondheidsmedewerker lichtgetinte huidskleur
+1F9D1-1F3FC-200D-2696	rechter lichtgetinte huidskleur
+1F9D1-1F3FC-200D-2708	piloot lichtgetinte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	kus volwassene volwassene lichtgetinte huidskleur lichte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	kus volwassene volwassene lichtgetinte huidskleur getinte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	kus volwassene volwassene lichtgetinte huidskleur donkergetinte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	kus volwassene volwassene lichtgetinte huidskleur donkere huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	stel met hart volwassene volwassene lichtgetinte huidskleur lichte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	stel met hart volwassene volwassene lichtgetinte huidskleur getinte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	stel met hart volwassene volwassene lichtgetinte huidskleur donkergetinte huidskleur
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	stel met hart volwassene volwassene lichtgetinte huidskleur donkere huidskleur
+1F9D1-1F3FC-200D-1F33E	boer lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F373	kok lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F37C	persoon die een baby voedt lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F384	kersttransgender lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F393	student lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F3A4	zanger lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F3A8	kunstenaar lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F3EB	docent lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F3ED	fabrieksarbeider lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F4BB	technoloog lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F4BC	kantoormedewerker lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F527	monteur lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F52C	wetenschapper lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F680	astronaut lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F692	brandweerman lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	personen hand in hand lichtgetinte huidskleur lichte huidskleur
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	personen hand in hand lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	personen hand in hand lichtgetinte huidskleur getinte huidskleur
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	personen hand in hand lichtgetinte huidskleur donkergetinte huidskleur
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	personen hand in hand lichtgetinte huidskleur donkere huidskleur
+1F9D1-1F3FC-200D-1F9AF	persoon met taststok lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F9B0	volwassene lichtgetinte huidskleur rood haar
+1F9D1-1F3FC-200D-1F9B1	volwassene lichtgetinte huidskleur krullend haar
+1F9D1-1F3FC-200D-1F9B2	volwassene lichtgetinte huidskleur kaal
+1F9D1-1F3FC-200D-1F9B3	volwassene lichtgetinte huidskleur wit haar
+1F9D1-1F3FC-200D-1F9BC	persoon in elektrische rolstoel lichtgetinte huidskleur
+1F9D1-1F3FC-200D-1F9BD	persoon in rolstoel lichtgetinte huidskleur
+1F9D1-1F3FD	volwassene getinte huidskleur
+1F9D1-1F3FD-200D-2695	gezondheidsmedewerker getinte huidskleur
+1F9D1-1F3FD-200D-2696	rechter getinte huidskleur
+1F9D1-1F3FD-200D-2708	piloot getinte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	kus volwassene volwassene getinte huidskleur lichte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	kus volwassene volwassene getinte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	kus volwassene volwassene getinte huidskleur donkergetinte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	kus volwassene volwassene getinte huidskleur donkere huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	stel met hart volwassene volwassene getinte huidskleur lichte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	stel met hart volwassene volwassene getinte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	stel met hart volwassene volwassene getinte huidskleur donkergetinte huidskleur
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	stel met hart volwassene volwassene getinte huidskleur donkere huidskleur
+1F9D1-1F3FD-200D-1F33E	boer getinte huidskleur
+1F9D1-1F3FD-200D-1F373	kok getinte huidskleur
+1F9D1-1F3FD-200D-1F37C	persoon die een baby voedt getinte huidskleur
+1F9D1-1F3FD-200D-1F384	kersttransgender getinte huidskleur
+1F9D1-1F3FD-200D-1F393	student getinte huidskleur
+1F9D1-1F3FD-200D-1F3A4	zanger getinte huidskleur
+1F9D1-1F3FD-200D-1F3A8	kunstenaar getinte huidskleur
+1F9D1-1F3FD-200D-1F3EB	docent getinte huidskleur
+1F9D1-1F3FD-200D-1F3ED	fabrieksarbeider getinte huidskleur
+1F9D1-1F3FD-200D-1F4BB	technoloog getinte huidskleur
+1F9D1-1F3FD-200D-1F4BC	kantoormedewerker getinte huidskleur
+1F9D1-1F3FD-200D-1F527	monteur getinte huidskleur
+1F9D1-1F3FD-200D-1F52C	wetenschapper getinte huidskleur
+1F9D1-1F3FD-200D-1F680	astronaut getinte huidskleur
+1F9D1-1F3FD-200D-1F692	brandweerman getinte huidskleur
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	personen hand in hand getinte huidskleur lichte huidskleur
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	personen hand in hand getinte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	personen hand in hand getinte huidskleur
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	personen hand in hand getinte huidskleur donkergetinte huidskleur
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	personen hand in hand getinte huidskleur donkere huidskleur
+1F9D1-1F3FD-200D-1F9AF	persoon met taststok getinte huidskleur
+1F9D1-1F3FD-200D-1F9B0	volwassene getinte huidskleur rood haar
+1F9D1-1F3FD-200D-1F9B1	volwassene getinte huidskleur krullend haar
+1F9D1-1F3FD-200D-1F9B2	volwassene getinte huidskleur kaal
+1F9D1-1F3FD-200D-1F9B3	volwassene getinte huidskleur wit haar
+1F9D1-1F3FD-200D-1F9BC	persoon in elektrische rolstoel getinte huidskleur
+1F9D1-1F3FD-200D-1F9BD	persoon in rolstoel getinte huidskleur
+1F9D1-1F3FE	volwassene donkergetinte huidskleur
+1F9D1-1F3FE-200D-2695	gezondheidsmedewerker donkergetinte huidskleur
+1F9D1-1F3FE-200D-2696	rechter donkergetinte huidskleur
+1F9D1-1F3FE-200D-2708	piloot donkergetinte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	kus volwassene volwassene donkergetinte huidskleur lichte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	kus volwassene volwassene donkergetinte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	kus volwassene volwassene donkergetinte huidskleur getinte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	kus volwassene volwassene donkergetinte huidskleur donkere huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	stel met hart volwassene volwassene donkergetinte huidskleur lichte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	stel met hart volwassene volwassene donkergetinte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	stel met hart volwassene volwassene donkergetinte huidskleur getinte huidskleur
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	stel met hart volwassene volwassene donkergetinte huidskleur donkere huidskleur
+1F9D1-1F3FE-200D-1F33E	boer donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F373	kok donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F37C	persoon die een baby voedt donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F384	kersttransgender donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F393	student donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F3A4	zanger donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F3A8	kunstenaar donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F3EB	docent donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F3ED	fabrieksarbeider donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F4BB	technoloog donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F4BC	kantoormedewerker donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F527	monteur donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F52C	wetenschapper donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F680	astronaut donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F692	brandweerman donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	personen hand in hand donkergetinte huidskleur lichte huidskleur
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	personen hand in hand donkergetinte huidskleur lichtgetinte huidskleur
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	personen hand in hand donkergetinte huidskleur getinte huidskleur
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	personen hand in hand donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	personen hand in hand donkergetinte huidskleur donkere huidskleur
+1F9D1-1F3FE-200D-1F9AF	persoon met taststok donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F9B0	volwassene donkergetinte huidskleur rood haar
+1F9D1-1F3FE-200D-1F9B1	volwassene donkergetinte huidskleur krullend haar
+1F9D1-1F3FE-200D-1F9B2	volwassene donkergetinte huidskleur kaal
+1F9D1-1F3FE-200D-1F9B3	volwassene donkergetinte huidskleur wit haar
+1F9D1-1F3FE-200D-1F9BC	persoon in elektrische rolstoel donkergetinte huidskleur
+1F9D1-1F3FE-200D-1F9BD	persoon in rolstoel donkergetinte huidskleur
+1F9D1-1F3FF	volwassene donkere huidskleur
+1F9D1-1F3FF-200D-2695	gezondheidsmedewerker donkere huidskleur
+1F9D1-1F3FF-200D-2696	rechter donkere huidskleur
+1F9D1-1F3FF-200D-2708	piloot donkere huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	kus volwassene volwassene donkere huidskleur lichte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	kus volwassene volwassene donkere huidskleur lichtgetinte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	kus volwassene volwassene donkere huidskleur getinte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	kus volwassene volwassene donkere huidskleur donkergetinte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	stel met hart volwassene volwassene donkere huidskleur lichte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	stel met hart volwassene volwassene donkere huidskleur lichtgetinte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	stel met hart volwassene volwassene donkere huidskleur getinte huidskleur
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	stel met hart volwassene volwassene donkere huidskleur donkergetinte huidskleur
+1F9D1-1F3FF-200D-1F33E	boer donkere huidskleur
+1F9D1-1F3FF-200D-1F373	kok donkere huidskleur
+1F9D1-1F3FF-200D-1F37C	persoon die een baby voedt donkere huidskleur
+1F9D1-1F3FF-200D-1F384	kersttransgender donkere huidskleur
+1F9D1-1F3FF-200D-1F393	student donkere huidskleur
+1F9D1-1F3FF-200D-1F3A4	zanger donkere huidskleur
+1F9D1-1F3FF-200D-1F3A8	kunstenaar donkere huidskleur
+1F9D1-1F3FF-200D-1F3EB	docent donkere huidskleur
+1F9D1-1F3FF-200D-1F3ED	fabrieksarbeider donkere huidskleur
+1F9D1-1F3FF-200D-1F4BB	technoloog donkere huidskleur
+1F9D1-1F3FF-200D-1F4BC	kantoormedewerker donkere huidskleur
+1F9D1-1F3FF-200D-1F527	monteur donkere huidskleur
+1F9D1-1F3FF-200D-1F52C	wetenschapper donkere huidskleur
+1F9D1-1F3FF-200D-1F680	astronaut donkere huidskleur
+1F9D1-1F3FF-200D-1F692	brandweerman donkere huidskleur
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	personen hand in hand donkere huidskleur lichte huidskleur
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	personen hand in hand donkere huidskleur lichtgetinte huidskleur
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	personen hand in hand donkere huidskleur getinte huidskleur
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	personen hand in hand donkere huidskleur donkergetinte huidskleur
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	personen hand in hand donkere huidskleur
+1F9D1-1F3FF-200D-1F9AF	persoon met taststok donkere huidskleur
+1F9D1-1F3FF-200D-1F9B0	volwassene donkere huidskleur rood haar
+1F9D1-1F3FF-200D-1F9B1	volwassene donkere huidskleur krullend haar
+1F9D1-1F3FF-200D-1F9B2	volwassene donkere huidskleur kaal
+1F9D1-1F3FF-200D-1F9B3	volwassene donkere huidskleur wit haar
+1F9D1-1F3FF-200D-1F9BC	persoon in elektrische rolstoel donkere huidskleur
+1F9D1-1F3FF-200D-1F9BD	persoon in rolstoel donkere huidskleur
+1F9D2	kind
+1F9D2-1F3FB	kind lichte huidskleur
+1F9D2-1F3FC	kind lichtgetinte huidskleur
+1F9D2-1F3FD	kind getinte huidskleur
+1F9D2-1F3FE	kind donkergetinte huidskleur
+1F9D2-1F3FF	kind donkere huidskleur
+1F9D3	oudere persoon
+1F9D3-1F3FB	oudere persoon lichte huidskleur
+1F9D3-1F3FC	oudere persoon lichtgetinte huidskleur
+1F9D3-1F3FD	oudere persoon getinte huidskleur
+1F9D3-1F3FE	oudere persoon donkergetinte huidskleur
+1F9D3-1F3FF	oudere persoon donkere huidskleur
+1F9D4	persoon baard
+1F9D4-200D-2640	vrouw baard
+1F9D4-200D-2642	man baard
+1F9D4-1F3FB	persoon lichte huidskleur baard
+1F9D4-1F3FB-200D-2640	vrouw lichte huidskleur baard
+1F9D4-1F3FB-200D-2642	man lichte huidskleur baard
+1F9D4-1F3FC	persoon lichtgetinte huidskleur baard
+1F9D4-1F3FC-200D-2640	vrouw lichtgetinte huidskleur baard
+1F9D4-1F3FC-200D-2642	man lichtgetinte huidskleur baard
+1F9D4-1F3FD	persoon getinte huidskleur baard
+1F9D4-1F3FD-200D-2640	vrouw getinte huidskleur baard
+1F9D4-1F3FD-200D-2642	man getinte huidskleur baard
+1F9D4-1F3FE	persoon donkergetinte huidskleur baard
+1F9D4-1F3FE-200D-2640	vrouw donkergetinte huidskleur baard
+1F9D4-1F3FE-200D-2642	man donkergetinte huidskleur baard
+1F9D4-1F3FF	persoon donkere huidskleur baard
+1F9D4-1F3FF-200D-2640	vrouw donkere huidskleur baard
+1F9D4-1F3FF-200D-2642	man donkere huidskleur baard
+1F9D5	vrouw met hoofddoek
+1F9D5-1F3FB	vrouw met hoofddoek lichte huidskleur
+1F9D5-1F3FC	vrouw met hoofddoek lichtgetinte huidskleur
+1F9D5-1F3FD	vrouw met hoofddoek getinte huidskleur
+1F9D5-1F3FE	vrouw met hoofddoek donkergetinte huidskleur
+1F9D5-1F3FF	vrouw met hoofddoek donkere huidskleur
+1F9D6	persoon in ruimte vol stoom
+1F9D6-200D-2640	vrouw in ruimte vol stoom
+1F9D6-200D-2642	man in ruimte vol stoom
+1F9D6-1F3FB	persoon in ruimte vol stoom lichte huidskleur
+1F9D6-1F3FB-200D-2640	vrouw in ruimte vol stoom lichte huidskleur
+1F9D6-1F3FB-200D-2642	man in ruimte vol stoom lichte huidskleur
+1F9D6-1F3FC	persoon in ruimte vol stoom lichtgetinte huidskleur
+1F9D6-1F3FC-200D-2640	vrouw in ruimte vol stoom lichtgetinte huidskleur
+1F9D6-1F3FC-200D-2642	man in ruimte vol stoom lichtgetinte huidskleur
+1F9D6-1F3FD	persoon in ruimte vol stoom getinte huidskleur
+1F9D6-1F3FD-200D-2640	vrouw in ruimte vol stoom getinte huidskleur
+1F9D6-1F3FD-200D-2642	man in ruimte vol stoom getinte huidskleur
+1F9D6-1F3FE	persoon in ruimte vol stoom donkergetinte huidskleur
+1F9D6-1F3FE-200D-2640	vrouw in ruimte vol stoom donkergetinte huidskleur
+1F9D6-1F3FE-200D-2642	man in ruimte vol stoom donkergetinte huidskleur
+1F9D6-1F3FF	persoon in ruimte vol stoom donkere huidskleur
+1F9D6-1F3FF-200D-2640	vrouw in ruimte vol stoom donkere huidskleur
+1F9D6-1F3FF-200D-2642	man in ruimte vol stoom donkere huidskleur
+1F9D7	klimmende persoon
+1F9D7-200D-2640	klimmende vrouw
+1F9D7-200D-2642	klimmende man
+1F9D7-1F3FB	klimmende persoon lichte huidskleur
+1F9D7-1F3FB-200D-2640	klimmende vrouw lichte huidskleur
+1F9D7-1F3FB-200D-2642	klimmende man lichte huidskleur
+1F9D7-1F3FC	klimmende persoon lichtgetinte huidskleur
+1F9D7-1F3FC-200D-2640	klimmende vrouw lichtgetinte huidskleur
+1F9D7-1F3FC-200D-2642	klimmende man lichtgetinte huidskleur
+1F9D7-1F3FD	klimmende persoon getinte huidskleur
+1F9D7-1F3FD-200D-2640	klimmende vrouw getinte huidskleur
+1F9D7-1F3FD-200D-2642	klimmende man getinte huidskleur
+1F9D7-1F3FE	klimmende persoon donkergetinte huidskleur
+1F9D7-1F3FE-200D-2640	klimmende vrouw donkergetinte huidskleur
+1F9D7-1F3FE-200D-2642	klimmende man donkergetinte huidskleur
+1F9D7-1F3FF	klimmende persoon donkere huidskleur
+1F9D7-1F3FF-200D-2640	klimmende vrouw donkere huidskleur
+1F9D7-1F3FF-200D-2642	klimmende man donkere huidskleur
+1F9D8	persoon in lotushouding
+1F9D8-200D-2640	vrouw in lotushouding
+1F9D8-200D-2642	man in lotushouding
+1F9D8-1F3FB	persoon in lotushouding lichte huidskleur
+1F9D8-1F3FB-200D-2640	vrouw in lotushouding lichte huidskleur
+1F9D8-1F3FB-200D-2642	man in lotushouding lichte huidskleur
+1F9D8-1F3FC	persoon in lotushouding lichtgetinte huidskleur
+1F9D8-1F3FC-200D-2640	vrouw in lotushouding lichtgetinte huidskleur
+1F9D8-1F3FC-200D-2642	man in lotushouding lichtgetinte huidskleur
+1F9D8-1F3FD	persoon in lotushouding getinte huidskleur
+1F9D8-1F3FD-200D-2640	vrouw in lotushouding getinte huidskleur
+1F9D8-1F3FD-200D-2642	man in lotushouding getinte huidskleur
+1F9D8-1F3FE	persoon in lotushouding donkergetinte huidskleur
+1F9D8-1F3FE-200D-2640	vrouw in lotushouding donkergetinte huidskleur
+1F9D8-1F3FE-200D-2642	man in lotushouding donkergetinte huidskleur
+1F9D8-1F3FF	persoon in lotushouding donkere huidskleur
+1F9D8-1F3FF-200D-2640	vrouw in lotushouding donkere huidskleur
+1F9D8-1F3FF-200D-2642	man in lotushouding donkere huidskleur
+1F9D9	magir
+1F9D9-200D-2640	vrouwelijke magir
+1F9D9-200D-2642	mannelijke magir
+1F9D9-1F3FB	magir lichte huidskleur
+1F9D9-1F3FB-200D-2640	vrouwelijke magir lichte huidskleur
+1F9D9-1F3FB-200D-2642	mannelijke magir lichte huidskleur
+1F9D9-1F3FC	magir lichtgetinte huidskleur
+1F9D9-1F3FC-200D-2640	vrouwelijke magir lichtgetinte huidskleur
+1F9D9-1F3FC-200D-2642	mannelijke magir lichtgetinte huidskleur
+1F9D9-1F3FD	magir getinte huidskleur
+1F9D9-1F3FD-200D-2640	vrouwelijke magir getinte huidskleur
+1F9D9-1F3FD-200D-2642	mannelijke magir getinte huidskleur
+1F9D9-1F3FE	magir donkergetinte huidskleur
+1F9D9-1F3FE-200D-2640	vrouwelijke magir donkergetinte huidskleur
+1F9D9-1F3FE-200D-2642	mannelijke magir donkergetinte huidskleur
+1F9D9-1F3FF	magir donkere huidskleur
+1F9D9-1F3FF-200D-2640	vrouwelijke magir donkere huidskleur
+1F9D9-1F3FF-200D-2642	mannelijke magir donkere huidskleur
+1F9DA	elfje
+1F9DA-200D-2640	vrouwelijk elfje
+1F9DA-200D-2642	mannelijk elfje
+1F9DA-1F3FB	elfje lichte huidskleur
+1F9DA-1F3FB-200D-2640	vrouwelijk elfje lichte huidskleur
+1F9DA-1F3FB-200D-2642	mannelijk elfje lichte huidskleur
+1F9DA-1F3FC	elfje lichtgetinte huidskleur
+1F9DA-1F3FC-200D-2640	vrouwelijk elfje lichtgetinte huidskleur
+1F9DA-1F3FC-200D-2642	mannelijk elfje lichtgetinte huidskleur
+1F9DA-1F3FD	elfje getinte huidskleur
+1F9DA-1F3FD-200D-2640	vrouwelijk elfje getinte huidskleur
+1F9DA-1F3FD-200D-2642	mannelijk elfje getinte huidskleur
+1F9DA-1F3FE	elfje donkergetinte huidskleur
+1F9DA-1F3FE-200D-2640	vrouwelijk elfje donkergetinte huidskleur
+1F9DA-1F3FE-200D-2642	mannelijk elfje donkergetinte huidskleur
+1F9DA-1F3FF	elfje donkere huidskleur
+1F9DA-1F3FF-200D-2640	vrouwelijk elfje donkere huidskleur
+1F9DA-1F3FF-200D-2642	mannelijk elfje donkere huidskleur
+1F9DB	vampier
+1F9DB-200D-2640	vrouwelijke vampier
+1F9DB-200D-2642	mannelijke vampier
+1F9DB-1F3FB	vampier lichte huidskleur
+1F9DB-1F3FB-200D-2640	vrouwelijke vampier lichte huidskleur
+1F9DB-1F3FB-200D-2642	mannelijke vampier lichte huidskleur
+1F9DB-1F3FC	vampier lichtgetinte huidskleur
+1F9DB-1F3FC-200D-2640	vrouwelijke vampier lichtgetinte huidskleur
+1F9DB-1F3FC-200D-2642	mannelijke vampier lichtgetinte huidskleur
+1F9DB-1F3FD	vampier getinte huidskleur
+1F9DB-1F3FD-200D-2640	vrouwelijke vampier getinte huidskleur
+1F9DB-1F3FD-200D-2642	mannelijke vampier getinte huidskleur
+1F9DB-1F3FE	vampier donkergetinte huidskleur
+1F9DB-1F3FE-200D-2640	vrouwelijke vampier donkergetinte huidskleur
+1F9DB-1F3FE-200D-2642	mannelijke vampier donkergetinte huidskleur
+1F9DB-1F3FF	vampier donkere huidskleur
+1F9DB-1F3FF-200D-2640	vrouwelijke vampier donkere huidskleur
+1F9DB-1F3FF-200D-2642	mannelijke vampier donkere huidskleur
+1F9DC	zeemeermin
+1F9DC-200D-2640	sirene
+1F9DC-200D-2642	zeemeerman
+1F9DC-1F3FB	zeemeermin lichte huidskleur
+1F9DC-1F3FB-200D-2640	sirene lichte huidskleur
+1F9DC-1F3FB-200D-2642	zeemeerman lichte huidskleur
+1F9DC-1F3FC	zeemeermin lichtgetinte huidskleur
+1F9DC-1F3FC-200D-2640	sirene lichtgetinte huidskleur
+1F9DC-1F3FC-200D-2642	zeemeerman lichtgetinte huidskleur
+1F9DC-1F3FD	zeemeermin getinte huidskleur
+1F9DC-1F3FD-200D-2640	sirene getinte huidskleur
+1F9DC-1F3FD-200D-2642	zeemeerman getinte huidskleur
+1F9DC-1F3FE	zeemeermin donkergetinte huidskleur
+1F9DC-1F3FE-200D-2640	sirene donkergetinte huidskleur
+1F9DC-1F3FE-200D-2642	zeemeerman donkergetinte huidskleur
+1F9DC-1F3FF	zeemeermin donkere huidskleur
+1F9DC-1F3FF-200D-2640	sirene donkere huidskleur
+1F9DC-1F3FF-200D-2642	zeemeerman donkere huidskleur
+1F9DD	elf
+1F9DD-200D-2640	vrouwelijke elf
+1F9DD-200D-2642	mannelijke elf
+1F9DD-1F3FB	elf lichte huidskleur
+1F9DD-1F3FB-200D-2640	vrouwelijke elf lichte huidskleur
+1F9DD-1F3FB-200D-2642	mannelijke elf lichte huidskleur
+1F9DD-1F3FC	elf lichtgetinte huidskleur
+1F9DD-1F3FC-200D-2640	vrouwelijke elf lichtgetinte huidskleur
+1F9DD-1F3FC-200D-2642	mannelijke elf lichtgetinte huidskleur
+1F9DD-1F3FD	elf getinte huidskleur
+1F9DD-1F3FD-200D-2640	vrouwelijke elf getinte huidskleur
+1F9DD-1F3FD-200D-2642	mannelijke elf getinte huidskleur
+1F9DD-1F3FE	elf donkergetinte huidskleur
+1F9DD-1F3FE-200D-2640	vrouwelijke elf donkergetinte huidskleur
+1F9DD-1F3FE-200D-2642	mannelijke elf donkergetinte huidskleur
+1F9DD-1F3FF	elf donkere huidskleur
+1F9DD-1F3FF-200D-2640	vrouwelijke elf donkere huidskleur
+1F9DD-1F3FF-200D-2642	mannelijke elf donkere huidskleur
+1F9DE	geest in de fles
+1F9DE-200D-2640	vrouwelijke geest in de fles
+1F9DE-200D-2642	mannelijke geest in de fles
+1F9DF	zombie
+1F9DF-200D-2640	vrouwelijke zombie
+1F9DF-200D-2642	mannelijke zombie
+1F9E0	brein
+1F9E1	oranje hart
+1F9E2	pet
+1F9E3	sjaal
+1F9E4	handschoenen
+1F9E5	jas
+1F9E6	sokken
+1F9E7	rode envelop
+1F9E8	rotje
+1F9E9	puzzelstukje
+1F9EA	reageerbuis
+1F9EB	petrischaal
+1F9EC	DNA
+1F9ED	kompas
+1F9EE	abacus
+1F9EF	brandblusapparaat
+1F9F0	gereedschapskist
+1F9F1	baksteen
+1F9F2	magneet
+1F9F3	bagage
+1F9F4	lotionfles
+1F9F5	garen
+1F9F6	wol
+1F9F7	veiligheidsspeld
+1F9F8	teddybeer
+1F9F9	bezem
+1F9FA	mand
+1F9FB	rol papier
+1F9FC	zeep
+1F9FD	spons
+1F9FE	kassabon
+1F9FF	Nazar-amulet
+1FA70	balletschoenen
+1FA71	badpak
+1FA72	slip
+1FA73	korte broek
+1FA74	teenslipper
+1FA78	bloeddruppel
+1FA79	pleister
+1FA7A	stethoscoop
+1FA80	jojo
+1FA81	vlieger
+1FA82	parachute
+1FA83	boemerang
+1FA84	toverstok
+1FA85	piata
+1FA86	matroesjka
+1FA90	planeet met ringen
+1FA91	hoge stoel
+1FA92	scheermes
+1FA93	bijl
+1FA94	diya-lamp
+1FA95	banjo
+1FA96	legerhelm
+1FA97	accordeon
+1FA98	hoge trom
+1FA99	munt
+1FA9A	houtzaag
+1FA9B	schroevendraaier
+1FA9C	ladder
+1FA9D	haak
+1FA9E	spiegel
+1FA9F	raam
+1FAA0	ontstopper
+1FAA1	naald
+1FAA2	knoop
+1FAA3	emmer
+1FAA4	muizenval
+1FAA5	tandenborstel
+1FAA6	grafsteen
+1FAA7	plakkaat
+1FAA8	rots
+1FAB0	vlieg
+1FAB1	worm
+1FAB2	kever
+1FAB3	kakkerlak
+1FAB4	potplant
+1FAB5	hout
+1FAB6	veer
+1FAC0	hart
+1FAC1	longen
+1FAC2	personen in een omhelzing
+1FAD0	bosbessen
+1FAD1	paprika
+1FAD2	olijf
+1FAD3	platbrood
+1FAD4	tamale
+1FAD5	fondue
+1FAD6	theepot

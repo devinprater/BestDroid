@@ -1,0 +1,3658 @@
+23-20E3	Teclas #
+2A-20E3	Teclas *
+30-20E3	Teclas 0
+31-20E3	Teclas 1
+32-20E3	Teclas 2
+33-20E3	Teclas 3
+34-20E3	Teclas 4
+35-20E3	Teclas 5
+36-20E3	Teclas 6
+37-20E3	Teclas 7
+38-20E3	Teclas 8
+39-20E3	Teclas 9
+A1	exclamacin de apertura
+A2	cntimo
+A3	libra esterlina
+A4	moneda desconocida
+A5	yen
+A7	signo de seccin
+A8	diresis
+A9	copyright
+AB	comillas latinas de apertura
+AC	negacin
+AE	marca registrada
+B0	grado
+B1	signo ms/menos
+B2	dos en superndice
+B3	tres en superndice
+B4	acento agudo
+B5	smbolo de micro
+B6	caldern
+B7	punto medio
+B9	uno en superndice
+BB	comillas latinas de cierre
+BF	interrogacin de apertura
+D7	signo de multiplicacin
+F7	signo de divisin
+58F	dram
+60B	afgani
+60C	coma rabe
+61B	punto y coma rabe
+61F	interrogacin rabe
+9F3	taka
+E3F	bat
+17DB	riel
+2010	guion
+2013	guion corto
+2014	raya
+2015	barra horizontal
+2018	apstrofo izquierdo
+2019	apstrofo derecho
+201A	apstrofo derecho bajo
+201C	comillas dobles izquierdas
+201D	comillas dobles derechas
+201E	comillas dobles derechas bajas
+2020	signo de cruz
+2021	signo de cruz doble
+2022	bolo
+2026	puntos suspensivos
+2027	punto de unin con guion
+2030	por mil
+2032	prima
+2033	doble prima
+2034	triple prima
+2038	intercalacin
+203B	marca de referencia
+203C	exclamacin doble
+203D	exclarrogativo
+203E	lnea superpuesta
+2042	asterismo
+2049	exclamacin e interrogacin
+207B	menos en superndice
+20A1	coln costarricense
+20A5	milsimo
+20A6	naira
+20A7	peseta espaola
+20A9	won
+20AA	nuevo squel israel
+20AB	dong
+20AC	euro
+20AD	kip
+20AE	tugrik
+20B1	peso
+20B2	guaran paraguayo
+20B4	grivna
+20B5	cedi
+20B8	tenge kazako
+20B9	rupia india
+20BA	lira turca
+20BC	manat azerbaiyano
+20BD	rublo
+20BE	lari
+20BF	bitcin
+2117	copyright de grabacin de sonido
+2122	smbolo de marca comercial
+2139	informacin
+2190	flecha apuntando hacia la izquierda
+2191	flecha apuntando hacia arriba
+2192	flecha apuntando hacia la derecha
+2193	flecha apuntando hacia abajo
+2194	flecha izquierda y derecha
+2195	flecha arriba y abajo
+2196	flecha hacia la esquina superior izquierda
+2197	flecha hacia la esquina superior derecha
+2198	flecha hacia la esquina inferior derecha
+2199	flecha hacia la esquina inferior izquierda
+219A	flecha hacia la izquierda con trazo
+219B	flecha hacia la derecha con trazo
+219C	flecha de onda hacia la izquierda
+219D	flecha de onda hacia la derecha
+219E	flecha de doble punta hacia la izquierda
+219F	flecha de doble punta hacia arriba
+21A0	flecha de doble punta hacia la derecha
+21A1	flecha de doble punta hacia abajo
+21A2	flecha hacia la izquierda con cola
+21A3	flecha hacia la derecha con cola
+21A4	flecha hacia la izquierda desde la barra
+21A5	flecha hacia arriba desde la barra
+21A6	flecha hacia la derecha desde la barra
+21A7	flecha hacia abajo desde la barra
+21A8	flecha arriba abajo con base
+21A9	flecha derecha curvndose a la izquierda
+21AA	flecha izquierda curvndose a la derecha
+21AB	flecha hacia la izquierda con bucle
+21AC	flecha hacia la derecha con bucle
+21AD	flecha de onda hacia derecha e izquierda
+21AE	flecha hacia la izquierda y la derecha con trazo
+21AF	flecha en zigzag hacia abajo
+21B0	flecha hacia arriba con punta hacia la izquierda
+21B1	flecha hacia arriba con punta hacia la derecha
+21B2	flecha hacia abajo con punta hacia la izquierda
+21B3	flecha hacia abajo con punta hacia la derecha
+21C5	flechas apuntando arriba y abajo
+21C6	flechas apuntando izquierda sobre derecha
+2206	incremento
+2207	nabla
+2208	elemento de
+2212	signo menos
+221A	raz cuadrada
+221E	signo de infinito
+2229	interseccin
+222A	unin
+2248	casi igual
+2260	no igual
+2261	equivalente a
+2264	menor que o igual
+2265	mayor que o igual
+2282	subconjunto de
+231A	reloj
+231B	reloj de arena sin tiempo
+2328	teclado
+23CF	expulsar
+23E9	avance rpido
+23EA	rebobinado
+23EB	tringulo doble hacia arriba
+23EC	tringulo doble hacia abajo
+23ED	pista siguiente
+23EE	pista anterior
+23EF	reproducir o pausa
+23F0	reloj despertador
+23F1	cronmetro
+23F2	temporizador
+23F3	reloj de arena con tiempo
+23F8	pausa
+23F9	detener
+23FA	grabar
+24C2	m en crculo
+25AA	cuadrado negro pequeo
+25AB	cuadrado blanco pequeo
+25B2	tringulo relleno apuntando hacia arriba
+25B6	reproducir
+25BC	tringulo relleno apuntando hacia abajo
+25C0	retroceso
+25CA	rombo
+25CB	crculo hueco
+25CF	crculo relleno
+25EF	crculo hueco grande
+25FB	cuadrado blanco mediano
+25FC	cuadrado negro mediano
+25FD	cuadrado blanco mediano-pequeo
+25FE	cuadrado negro mediano-pequeo
+2600	sol
+2601	nube
+2602	paraguas
+2603	mueco de nieve con nieve
+2604	meteorito
+260E	telfono
+2611	casilla con marca de verificacin
+2614	paraguas con gotas de lluvia
+2615	bebida caliente
+2618	trbol
+261D	dedo ndice hacia arriba
+261D-1F3FB	dedo ndice hacia arriba tono de piel claro
+261D-1F3FC	dedo ndice hacia arriba tono de piel claro medio
+261D-1F3FD	dedo ndice hacia arriba tono de piel medio
+261D-1F3FE	dedo ndice hacia arriba tono de piel oscuro medio
+261D-1F3FF	dedo ndice hacia arriba tono de piel oscuro
+2620	calavera y huesos cruzados
+2622	radiactivo
+2623	riesgo biolgico
+2626	cruz ortodoxa
+262A	media luna y estrella
+262E	smbolo de la paz
+262F	yin yang
+2638	rueda del dharma
+2639	cara con el ceo fruncido
+263A	cara sonriente
+2640	signo femenino
+2642	signo masculino
+2648	Aries
+2649	Tauro
+264A	Gminis
+264B	Cncer
+264C	Leo
+264D	Virgo
+264E	Libra
+264F	Escorpio
+2650	Sagitario
+2651	Capricornio
+2652	Acuario
+2653	Piscis
+265F	pen de ajedrez
+2660	palo de picas
+2663	palo de trboles
+2665	palo de corazones
+2666	palo de diamantes
+2668	aguas termales
+266A	corchea
+266D	bemol
+266F	sostenido
+267B	smbolo de reciclaje
+267E	infinito
+267F	smbolo de silla de ruedas
+2692	martillo y pico
+2693	ancla
+2694	espadas cruzadas
+2695	smbolo de medicina
+2696	balanza
+2697	alambique
+2699	engranaje
+269B	smbolo de tomo
+269C	flor de lis
+26A0	advertencia
+26A1	alto voltaje
+26A7	smbolo de transgnero
+26AA	crculo blanco
+26AB	crculo negro
+26B0	atad
+26B1	urna funeraria
+26BD	baln de ftbol
+26BE	bisbol
+26C4	mueco de nieve
+26C5	sol detrs de una nube
+26C8	nube con rayo y lluvia
+26CE	Ofiuco
+26CF	pico
+26D1	casco con una cruz blanca
+26D3	cadenas
+26D4	direccin prohibida
+26E9	santuario sintosta
+26EA	iglesia
+26F0	montaa
+26F1	sombrilla en la arena
+26F2	fuente
+26F3	bandern en hoyo
+26F4	ferri
+26F5	velero
+26F7	esquiador
+26F8	patn de hielo
+26F9	persona botando un baln
+26F9-200D-2640	mujer botando un baln
+26F9-200D-2642	hombre botando un baln
+26F9-1F3FB	persona botando un baln tono de piel claro
+26F9-1F3FB-200D-2640	mujer botando un baln tono de piel claro
+26F9-1F3FB-200D-2642	hombre botando un baln tono de piel claro
+26F9-1F3FC	persona botando un baln tono de piel claro medio
+26F9-1F3FC-200D-2640	mujer botando un baln tono de piel claro medio
+26F9-1F3FC-200D-2642	hombre botando un baln tono de piel claro medio
+26F9-1F3FD	persona botando un baln tono de piel medio
+26F9-1F3FD-200D-2640	mujer botando un baln tono de piel medio
+26F9-1F3FD-200D-2642	hombre botando un baln tono de piel medio
+26F9-1F3FE	persona botando un baln tono de piel oscuro medio
+26F9-1F3FE-200D-2640	mujer botando un baln tono de piel oscuro medio
+26F9-1F3FE-200D-2642	hombre botando un baln tono de piel oscuro medio
+26F9-1F3FF	persona botando un baln tono de piel oscuro
+26F9-1F3FF-200D-2640	mujer botando un baln tono de piel oscuro
+26F9-1F3FF-200D-2642	hombre botando un baln tono de piel oscuro
+26FA	tienda de campaa
+26FD	surtidor de gasolina
+2702	tijeras
+2705	botn de marca de verificacin
+2708	avin
+2709	sobre
+270A	puo en alto
+270A-1F3FB	puo en alto tono de piel claro
+270A-1F3FC	puo en alto tono de piel claro medio
+270A-1F3FD	puo en alto tono de piel medio
+270A-1F3FE	puo en alto tono de piel oscuro medio
+270A-1F3FF	puo en alto tono de piel oscuro
+270B	mano levantada
+270B-1F3FB	mano levantada tono de piel claro
+270B-1F3FC	mano levantada tono de piel claro medio
+270B-1F3FD	mano levantada tono de piel medio
+270B-1F3FE	mano levantada tono de piel oscuro medio
+270B-1F3FF	mano levantada tono de piel oscuro
+270C	mano con seal de victoria
+270C-1F3FB	mano con seal de victoria tono de piel claro
+270C-1F3FC	mano con seal de victoria tono de piel claro medio
+270C-1F3FD	mano con seal de victoria tono de piel medio
+270C-1F3FE	mano con seal de victoria tono de piel oscuro medio
+270C-1F3FF	mano con seal de victoria tono de piel oscuro
+270D	mano escribiendo
+270D-1F3FB	mano escribiendo tono de piel claro
+270D-1F3FC	mano escribiendo tono de piel claro medio
+270D-1F3FD	mano escribiendo tono de piel medio
+270D-1F3FE	mano escribiendo tono de piel oscuro medio
+270D-1F3FF	mano escribiendo tono de piel oscuro
+270F	lpiz
+2712	pluma negra
+2714	marca de verificacin
+2716	multiplicacin
+271D	cruz latina
+2721	estrella de David
+2728	chispas
+2733	asterisco de ocho puntas
+2734	estrella de ocho puntas
+2744	copo de nieve
+2747	chispa
+274C	marca de cruz
+274E	botn con marca de cruz
+2753	interrogacin roja
+2754	interrogacin blanca
+2755	exclamacin blanca
+2757	exclamacin roja
+2763	exclamacin de corazn
+2764	corazn rojo
+2764-200D-1F525	corazn en llamas
+2764-200D-1FA79	corazn curndose
+2795	ms
+2796	menos
+2797	divisin
+27A1	flecha hacia la derecha
+27B0	bucle
+27BF	bucle doble
+2934	flecha derecha curvndose hacia arriba
+2935	flecha derecha curvndose hacia abajo
+2B05	flecha hacia la izquierda
+2B06	flecha hacia arriba
+2B07	flecha hacia abajo
+2B1B	cuadrado negro grande
+2B1C	cuadrado blanco grande
+2B50	estrella blanca mediana
+2B55	crculo rojo hueco
+3001	coma ideogrfica
+3002	punto ideogrfico
+3008	corchete angular de apertura
+3009	corchete angular de cierre
+300A	corchete angular doble de apertura
+300B	corchete angular doble de cierre
+300C	corchete esquinado de apertura
+300D	corchete esquinado de cierre
+300E	corchete esquinado de apertura hueco
+300F	corchete esquinado de cierre hueco
+3010	corchete lenticular de apertura
+3011	corchete lenticular de cierre
+3014	corchete caparazn tortuga de apertura
+3015	corchete caparazn tortuga de cierre
+3016	corchete lenticular de apertura hueco
+3017	corchete lenticular de cierre hueco
+3030	guion ondulado
+303D	marca de alternancia
+30FB	punto medio katakana
+3297	ideograma japons para enhorabuena
+3299	ideograma japons para secreto
+1F004	dragn rojo de mahjong
+1F0CF	comodn
+1F170	grupo sanguneo A
+1F171	grupo sanguneo B
+1F17E	grupo sanguneo tipo O
+1F17F	aparcamiento
+1F18E	grupo sanguneo AB
+1F191	borrar
+1F192	botn COOL
+1F193	botn FREE
+1F194	smbolo de identificacin
+1F195	botn NEW
+1F196	botn NG
+1F197	botn OK
+1F198	smbolo de socorro
+1F199	botn UP
+1F19A	botn VS
+1F1E6-1F1E8	Bandera Isla de la Ascensin
+1F1E6-1F1E9	Bandera Andorra
+1F1E6-1F1EA	Bandera Emiratos rabes Unidos
+1F1E6-1F1EB	Bandera Afganistn
+1F1E6-1F1EC	Bandera Antigua y Barbuda
+1F1E6-1F1EE	Bandera Anguila
+1F1E6-1F1F1	Bandera Albania
+1F1E6-1F1F2	Bandera Armenia
+1F1E6-1F1F4	Bandera Angola
+1F1E6-1F1F6	Bandera Antrtida
+1F1E6-1F1F7	Bandera Argentina
+1F1E6-1F1F8	Bandera Samoa Americana
+1F1E6-1F1F9	Bandera Austria
+1F1E6-1F1FA	Bandera Australia
+1F1E6-1F1FC	Bandera Aruba
+1F1E6-1F1FD	Bandera Islas Aland
+1F1E6-1F1FF	Bandera Azerbaiyn
+1F1E7-1F1E6	Bandera Bosnia y Herzegovina
+1F1E7-1F1E7	Bandera Barbados
+1F1E7-1F1E9	Bandera Banglads
+1F1E7-1F1EA	Bandera Blgica
+1F1E7-1F1EB	Bandera Burkina Faso
+1F1E7-1F1EC	Bandera Bulgaria
+1F1E7-1F1ED	Bandera Barin
+1F1E7-1F1EE	Bandera Burundi
+1F1E7-1F1EF	Bandera Benn
+1F1E7-1F1F1	Bandera San Bartolom
+1F1E7-1F1F2	Bandera Bermudas
+1F1E7-1F1F3	Bandera Bruni
+1F1E7-1F1F4	Bandera Bolivia
+1F1E7-1F1F6	Bandera Caribe neerlands
+1F1E7-1F1F7	Bandera Brasil
+1F1E7-1F1F8	Bandera Bahamas
+1F1E7-1F1F9	Bandera Butn
+1F1E7-1F1FB	Bandera Isla Bouvet
+1F1E7-1F1FC	Bandera Botsuana
+1F1E7-1F1FE	Bandera Bielorrusia
+1F1E7-1F1FF	Bandera Belice
+1F1E8-1F1E6	Bandera Canad
+1F1E8-1F1E8	Bandera Islas Cocos
+1F1E8-1F1E9	Bandera Repblica Democrtica del Congo
+1F1E8-1F1EB	Bandera Repblica Centroafricana
+1F1E8-1F1EC	Bandera Congo
+1F1E8-1F1ED	Bandera Suiza
+1F1E8-1F1EE	Bandera Cte dIvoire
+1F1E8-1F1F0	Bandera Islas Cook
+1F1E8-1F1F1	Bandera Chile
+1F1E8-1F1F2	Bandera Camern
+1F1E8-1F1F3	Bandera China
+1F1E8-1F1F4	Bandera Colombia
+1F1E8-1F1F5	Bandera Isla Clipperton
+1F1E8-1F1F7	Bandera Costa Rica
+1F1E8-1F1FA	Bandera Cuba
+1F1E8-1F1FB	Bandera Cabo Verde
+1F1E8-1F1FC	Bandera Curazao
+1F1E8-1F1FD	Bandera Isla de Navidad
+1F1E8-1F1FE	Bandera Chipre
+1F1E8-1F1FF	Bandera Chequia
+1F1E9-1F1EA	Bandera Alemania
+1F1E9-1F1EC	Bandera Diego Garca
+1F1E9-1F1EF	Bandera Yibuti
+1F1E9-1F1F0	Bandera Dinamarca
+1F1E9-1F1F2	Bandera Dominica
+1F1E9-1F1F4	Bandera Repblica Dominicana
+1F1E9-1F1FF	Bandera Argelia
+1F1EA-1F1E6	Bandera Ceuta y Melilla
+1F1EA-1F1E8	Bandera Ecuador
+1F1EA-1F1EA	Bandera Estonia
+1F1EA-1F1EC	Bandera Egipto
+1F1EA-1F1ED	Bandera Shara Occidental
+1F1EA-1F1F7	Bandera Eritrea
+1F1EA-1F1F8	Bandera Espaa
+1F1EA-1F1F9	Bandera Etiopa
+1F1EA-1F1FA	Bandera Unin Europea
+1F1EB-1F1EE	Bandera Finlandia
+1F1EB-1F1EF	Bandera Fiyi
+1F1EB-1F1F0	Bandera Islas Malvinas
+1F1EB-1F1F2	Bandera Micronesia
+1F1EB-1F1F4	Bandera Islas Feroe
+1F1EB-1F1F7	Bandera Francia
+1F1EC-1F1E6	Bandera Gabn
+1F1EC-1F1E7	Bandera Reino Unido
+1F1EC-1F1E9	Bandera Granada
+1F1EC-1F1EA	Bandera Georgia
+1F1EC-1F1EB	Bandera Guayana Francesa
+1F1EC-1F1EC	Bandera Guernesey
+1F1EC-1F1ED	Bandera Ghana
+1F1EC-1F1EE	Bandera Gibraltar
+1F1EC-1F1F1	Bandera Groenlandia
+1F1EC-1F1F2	Bandera Gambia
+1F1EC-1F1F3	Bandera Guinea
+1F1EC-1F1F5	Bandera Guadalupe
+1F1EC-1F1F6	Bandera Guinea Ecuatorial
+1F1EC-1F1F7	Bandera Grecia
+1F1EC-1F1F8	Bandera Islas Georgia del Sur y Sandwich del Sur
+1F1EC-1F1F9	Bandera Guatemala
+1F1EC-1F1FA	Bandera Guam
+1F1EC-1F1FC	Bandera Guinea-Bisu
+1F1EC-1F1FE	Bandera Guyana
+1F1ED-1F1F0	Bandera RAE de Hong Kong China
+1F1ED-1F1F2	Bandera Islas Heard y McDonald
+1F1ED-1F1F3	Bandera Honduras
+1F1ED-1F1F7	Bandera Croacia
+1F1ED-1F1F9	Bandera Hait
+1F1ED-1F1FA	Bandera Hungra
+1F1EE-1F1E8	Bandera Canarias
+1F1EE-1F1E9	Bandera Indonesia
+1F1EE-1F1EA	Bandera Irlanda
+1F1EE-1F1F1	Bandera Israel
+1F1EE-1F1F2	Bandera Isla de Man
+1F1EE-1F1F3	Bandera India
+1F1EE-1F1F4	Bandera Territorio Britnico del Ocano ndico
+1F1EE-1F1F6	Bandera Irak
+1F1EE-1F1F7	Bandera Irn
+1F1EE-1F1F8	Bandera Islandia
+1F1EE-1F1F9	Bandera Italia
+1F1EF-1F1EA	Bandera Jersey
+1F1EF-1F1F2	Bandera Jamaica
+1F1EF-1F1F4	Bandera Jordania
+1F1EF-1F1F5	Bandera Japn
+1F1F0-1F1EA	Bandera Kenia
+1F1F0-1F1EC	Bandera Kirguistn
+1F1F0-1F1ED	Bandera Camboya
+1F1F0-1F1EE	Bandera Kiribati
+1F1F0-1F1F2	Bandera Comoras
+1F1F0-1F1F3	Bandera San Cristbal y Nieves
+1F1F0-1F1F5	Bandera Corea del Norte
+1F1F0-1F1F7	Bandera Corea del Sur
+1F1F0-1F1FC	Bandera Kuwait
+1F1F0-1F1FE	Bandera Islas Caimn
+1F1F0-1F1FF	Bandera Kazajistn
+1F1F1-1F1E6	Bandera Laos
+1F1F1-1F1E7	Bandera Lbano
+1F1F1-1F1E8	Bandera Santa Luca
+1F1F1-1F1EE	Bandera Liechtenstein
+1F1F1-1F1F0	Bandera Sri Lanka
+1F1F1-1F1F7	Bandera Liberia
+1F1F1-1F1F8	Bandera Lesoto
+1F1F1-1F1F9	Bandera Lituania
+1F1F1-1F1FA	Bandera Luxemburgo
+1F1F1-1F1FB	Bandera Letonia
+1F1F1-1F1FE	Bandera Libia
+1F1F2-1F1E6	Bandera Marruecos
+1F1F2-1F1E8	Bandera Mnaco
+1F1F2-1F1E9	Bandera Moldavia
+1F1F2-1F1EA	Bandera Montenegro
+1F1F2-1F1EB	Bandera San Martn
+1F1F2-1F1EC	Bandera Madagascar
+1F1F2-1F1ED	Bandera Islas Marshall
+1F1F2-1F1F0	Bandera Macedonia del Norte
+1F1F2-1F1F1	Bandera Mali
+1F1F2-1F1F2	Bandera Myanmar Birmania
+1F1F2-1F1F3	Bandera Mongolia
+1F1F2-1F1F4	Bandera RAE de Macao China
+1F1F2-1F1F5	Bandera Islas Marianas del Norte
+1F1F2-1F1F6	Bandera Martinica
+1F1F2-1F1F7	Bandera Mauritania
+1F1F2-1F1F8	Bandera Montserrat
+1F1F2-1F1F9	Bandera Malta
+1F1F2-1F1FA	Bandera Mauricio
+1F1F2-1F1FB	Bandera Maldivas
+1F1F2-1F1FC	Bandera Malaui
+1F1F2-1F1FD	Bandera Mxico
+1F1F2-1F1FE	Bandera Malasia
+1F1F2-1F1FF	Bandera Mozambique
+1F1F3-1F1E6	Bandera Namibia
+1F1F3-1F1E8	Bandera Nueva Caledonia
+1F1F3-1F1EA	Bandera Nger
+1F1F3-1F1EB	Bandera Isla Norfolk
+1F1F3-1F1EC	Bandera Nigeria
+1F1F3-1F1EE	Bandera Nicaragua
+1F1F3-1F1F1	Bandera Pases Bajos
+1F1F3-1F1F4	Bandera Noruega
+1F1F3-1F1F5	Bandera Nepal
+1F1F3-1F1F7	Bandera Nauru
+1F1F3-1F1FA	Bandera Niue
+1F1F3-1F1FF	Bandera Nueva Zelanda
+1F1F4-1F1F2	Bandera Omn
+1F1F5-1F1E6	Bandera Panam
+1F1F5-1F1EA	Bandera Per
+1F1F5-1F1EB	Bandera Polinesia Francesa
+1F1F5-1F1EC	Bandera Papa Nueva Guinea
+1F1F5-1F1ED	Bandera Filipinas
+1F1F5-1F1F0	Bandera Pakistn
+1F1F5-1F1F1	Bandera Polonia
+1F1F5-1F1F2	Bandera San Pedro y Miqueln
+1F1F5-1F1F3	Bandera Islas Pitcairn
+1F1F5-1F1F7	Bandera Puerto Rico
+1F1F5-1F1F8	Bandera Territorios Palestinos
+1F1F5-1F1F9	Bandera Portugal
+1F1F5-1F1FC	Bandera Palaos
+1F1F5-1F1FE	Bandera Paraguay
+1F1F6-1F1E6	Bandera Catar
+1F1F7-1F1EA	Bandera Reunin
+1F1F7-1F1F4	Bandera Rumana
+1F1F7-1F1F8	Bandera Serbia
+1F1F7-1F1FA	Bandera Rusia
+1F1F7-1F1FC	Bandera Ruanda
+1F1F8-1F1E6	Bandera Arabia Saud
+1F1F8-1F1E7	Bandera Islas Salomn
+1F1F8-1F1E8	Bandera Seychelles
+1F1F8-1F1E9	Bandera Sudn
+1F1F8-1F1EA	Bandera Suecia
+1F1F8-1F1EC	Bandera Singapur
+1F1F8-1F1ED	Bandera Santa Elena
+1F1F8-1F1EE	Bandera Eslovenia
+1F1F8-1F1EF	Bandera Svalbard y Jan Mayen
+1F1F8-1F1F0	Bandera Eslovaquia
+1F1F8-1F1F1	Bandera Sierra Leona
+1F1F8-1F1F2	Bandera San Marino
+1F1F8-1F1F3	Bandera Senegal
+1F1F8-1F1F4	Bandera Somalia
+1F1F8-1F1F7	Bandera Surinam
+1F1F8-1F1F8	Bandera Sudn del Sur
+1F1F8-1F1F9	Bandera Santo Tom y Prncipe
+1F1F8-1F1FB	Bandera El Salvador
+1F1F8-1F1FD	Bandera Sint Maarten
+1F1F8-1F1FE	Bandera Siria
+1F1F8-1F1FF	Bandera Esuatini
+1F1F9-1F1E6	Bandera Tristn de Acua
+1F1F9-1F1E8	Bandera Islas Turcas y Caicos
+1F1F9-1F1E9	Bandera Chad
+1F1F9-1F1EB	Bandera Territorios Australes Franceses
+1F1F9-1F1EC	Bandera Togo
+1F1F9-1F1ED	Bandera Tailandia
+1F1F9-1F1EF	Bandera Tayikistn
+1F1F9-1F1F0	Bandera Tokelau
+1F1F9-1F1F1	Bandera Timor-Leste
+1F1F9-1F1F2	Bandera Turkmenistn
+1F1F9-1F1F3	Bandera Tnez
+1F1F9-1F1F4	Bandera Tonga
+1F1F9-1F1F7	Bandera Turqua
+1F1F9-1F1F9	Bandera Trinidad y Tobago
+1F1F9-1F1FB	Bandera Tuvalu
+1F1F9-1F1FC	Bandera Taiwn
+1F1F9-1F1FF	Bandera Tanzania
+1F1FA-1F1E6	Bandera Ucrania
+1F1FA-1F1EC	Bandera Uganda
+1F1FA-1F1F2	Bandera Islas menores alejadas de EE. UU.
+1F1FA-1F1F3	Bandera Naciones Unidas
+1F1FA-1F1F8	Bandera Estados Unidos
+1F1FA-1F1FE	Bandera Uruguay
+1F1FA-1F1FF	Bandera Uzbekistn
+1F1FB-1F1E6	Bandera Ciudad del Vaticano
+1F1FB-1F1E8	Bandera San Vicente y las Granadinas
+1F1FB-1F1EA	Bandera Venezuela
+1F1FB-1F1EC	Bandera Islas Vrgenes Britnicas
+1F1FB-1F1EE	Bandera Islas Vrgenes de EE. UU.
+1F1FB-1F1F3	Bandera Vietnam
+1F1FB-1F1FA	Bandera Vanuatu
+1F1FC-1F1EB	Bandera Wallis y Futuna
+1F1FC-1F1F8	Bandera Samoa
+1F1FD-1F1F0	Bandera Kosovo
+1F1FE-1F1EA	Bandera Yemen
+1F1FE-1F1F9	Bandera Mayotte
+1F1FF-1F1E6	Bandera Sudfrica
+1F1FF-1F1F2	Bandera Zambia
+1F1FF-1F1FC	Bandera Zimbabue
+1F201	ideograma japons para aqu
+1F202	ideograma japons para de cortesa
+1F21A	ideograma japons para gratis
+1F22F	ideograma japons para reservado
+1F232	ideograma japons para prohibido
+1F233	ideograma japons para vacante
+1F234	ideograma japons para aprobado
+1F235	ideograma japons para completo
+1F236	ideograma japons para de pago
+1F237	ideograma japons para cantidad mensual
+1F238	ideograma japons para aplicacin
+1F239	ideograma japons para descuento
+1F23A	ideograma japons para abierto
+1F250	ideograma japons para ganga
+1F251	ideograma japons para aceptable
+1F300	cicln
+1F301	bruma
+1F302	paraguas cerrado
+1F303	noche estrellada
+1F304	amanecer sobre montaas
+1F305	amanecer
+1F306	ciudad al atardecer
+1F307	puesta del sol
+1F308	arcoris
+1F309	puente de noche
+1F30A	ola de mar
+1F30B	volcn
+1F30C	Va Lctea
+1F30D	globo terrqueo mostrando Europa y frica
+1F30E	globo terrqueo mostrando Amrica
+1F30F	globo terrqueo mostrando Asia y Australia
+1F310	globo terrqueo con meridianos
+1F311	luna nueva
+1F312	luna creciente
+1F313	luna en cuarto creciente
+1F314	luna gibosa creciente
+1F315	luna llena
+1F316	luna gibosa menguante
+1F317	luna en cuarto menguante
+1F318	luna menguante
+1F319	luna
+1F31A	luna nueva con cara
+1F31B	luna de cuarto creciente con cara
+1F31C	luna de cuarto menguante con cara
+1F31D	luna llena con cara
+1F31E	sol con cara
+1F31F	estrella brillante
+1F320	estrella fugaz
+1F321	termmetro
+1F324	sol detrs de una nube pequea
+1F325	sol detrs de una nube grande
+1F326	sol detrs de una nube con lluvia
+1F327	nube con lluvia
+1F328	nube con nieve
+1F329	nube con rayo
+1F32A	tornado
+1F32B	niebla
+1F32C	cara de viento
+1F32D	perrito caliente
+1F32E	taco
+1F32F	burrito
+1F330	castaa
+1F331	planta joven
+1F332	rbol de hoja perenne
+1F333	rbol de hoja caduca
+1F334	palmera
+1F335	cactus
+1F336	chile picante
+1F337	tulipn
+1F338	flor de cerezo
+1F339	rosa
+1F33A	flor de hibisco
+1F33B	girasol
+1F33C	flor
+1F33D	espiga de maz
+1F33E	espiga de arroz
+1F33F	hierba
+1F340	trbol de cuatro hojas
+1F341	hoja de arce
+1F342	hojas cadas
+1F343	hojas revoloteando al viento
+1F344	champin
+1F345	tomate
+1F346	berenjena
+1F347	uvas
+1F348	meln
+1F349	sanda
+1F34A	mandarina
+1F34B	limn
+1F34C	pltano
+1F34D	pia
+1F34E	manzana roja
+1F34F	manzana verde
+1F350	pera
+1F351	melocotn
+1F352	cerezas
+1F353	fresa
+1F354	hamburguesa
+1F355	pizza
+1F356	carne con hueso
+1F357	muslo de pollo
+1F358	galleta de arroz
+1F359	bola de arroz
+1F35A	arroz cocido
+1F35B	arroz con curry
+1F35C	tazn de fideos
+1F35D	espagueti
+1F35E	pan de molde
+1F35F	patatas fritas
+1F360	patata asada
+1F361	dango
+1F362	brocheta
+1F363	sushi
+1F364	gamba frita
+1F365	pastel de pescado japons
+1F366	cucurucho de helado
+1F367	granizado hawaiano
+1F368	helado
+1F369	dnut
+1F36A	galleta
+1F36B	tableta de chocolate
+1F36C	caramelo
+1F36D	piruleta
+1F36E	flan
+1F36F	tarro de miel
+1F370	trozo de tarta
+1F371	caja de bento
+1F372	olla de comida
+1F373	cocinar
+1F374	tenedor y cuchillo
+1F375	tazn de t
+1F376	sake
+1F377	copa de vino
+1F378	copa de cctel
+1F379	bebida tropical
+1F37A	jarra de cerveza
+1F37B	jarras de cerveza brindando
+1F37C	bibern
+1F37D	cuchillo y tenedor con un plato
+1F37E	botella descorchada
+1F37F	palomitas
+1F380	lazo
+1F381	regalo
+1F382	tarta de cumpleaos
+1F383	calabaza de Halloween
+1F384	rbol de Navidad
+1F385	Pap Noel
+1F385-1F3FB	Pap Noel tono de piel claro
+1F385-1F3FC	Pap Noel tono de piel claro medio
+1F385-1F3FD	Pap Noel tono de piel medio
+1F385-1F3FE	Pap Noel tono de piel oscuro medio
+1F385-1F3FF	Pap Noel tono de piel oscuro
+1F386	fuegos artificiales
+1F387	bengala
+1F388	globo
+1F389	can de confeti
+1F38A	bola de confeti
+1F38B	rbol de tanabata
+1F38C	banderas cruzadas
+1F38D	decoracin de pino
+1F38E	muecas japonesas
+1F38F	bandern de carpas
+1F390	campanilla de viento
+1F391	ceremonia de contemplacin de la luna
+1F392	mochila escolar
+1F393	birrete
+1F396	medalla militar
+1F397	lazo conmemorativo
+1F399	micrfono de estudio
+1F39A	control de volumen
+1F39B	ruedas de control
+1F39E	fotograma de pelcula
+1F39F	entradas
+1F3A0	caballo de tiovivo
+1F3A1	noria de feria
+1F3A2	montaa rusa
+1F3A3	caa de pescar
+1F3A4	micrfono
+1F3A5	cmara de cine
+1F3A6	cine
+1F3A7	auricular
+1F3A8	paleta de pintor
+1F3A9	sombrero de copa
+1F3AA	carpa de circo
+1F3AB	tique
+1F3AC	claqueta
+1F3AD	mscaras de teatro
+1F3AE	mando de videoconsola
+1F3AF	diana
+1F3B0	mquina tragaperras
+1F3B1	bola negra de billar
+1F3B2	dado
+1F3B3	bolos
+1F3B4	cartas de flores
+1F3B5	nota musical
+1F3B6	notas musicales
+1F3B7	saxofn
+1F3B8	guitarra
+1F3B9	teclado musical
+1F3BA	trompeta
+1F3BB	violn
+1F3BC	pentagrama
+1F3BD	camiseta sin mangas
+1F3BE	pelota de tenis
+1F3BF	esqus
+1F3C0	baln de baloncesto
+1F3C1	bandera de cuadros
+1F3C2	practicante de snowboard
+1F3C2-1F3FB	practicante de snowboard tono de piel claro
+1F3C2-1F3FC	practicante de snowboard tono de piel claro medio
+1F3C2-1F3FD	practicante de snowboard tono de piel medio
+1F3C2-1F3FE	practicante de snowboard tono de piel oscuro medio
+1F3C2-1F3FF	practicante de snowboard tono de piel oscuro
+1F3C3	persona corriendo
+1F3C3-200D-2640	mujer corriendo
+1F3C3-200D-2642	hombre corriendo
+1F3C3-1F3FB	persona corriendo tono de piel claro
+1F3C3-1F3FB-200D-2640	mujer corriendo tono de piel claro
+1F3C3-1F3FB-200D-2642	hombre corriendo tono de piel claro
+1F3C3-1F3FC	persona corriendo tono de piel claro medio
+1F3C3-1F3FC-200D-2640	mujer corriendo tono de piel claro medio
+1F3C3-1F3FC-200D-2642	hombre corriendo tono de piel claro medio
+1F3C3-1F3FD	persona corriendo tono de piel medio
+1F3C3-1F3FD-200D-2640	mujer corriendo tono de piel medio
+1F3C3-1F3FD-200D-2642	hombre corriendo tono de piel medio
+1F3C3-1F3FE	persona corriendo tono de piel oscuro medio
+1F3C3-1F3FE-200D-2640	mujer corriendo tono de piel oscuro medio
+1F3C3-1F3FE-200D-2642	hombre corriendo tono de piel oscuro medio
+1F3C3-1F3FF	persona corriendo tono de piel oscuro
+1F3C3-1F3FF-200D-2640	mujer corriendo tono de piel oscuro
+1F3C3-1F3FF-200D-2642	hombre corriendo tono de piel oscuro
+1F3C4	persona haciendo surf
+1F3C4-200D-2640	mujer haciendo surf
+1F3C4-200D-2642	hombre haciendo surf
+1F3C4-1F3FB	persona haciendo surf tono de piel claro
+1F3C4-1F3FB-200D-2640	mujer haciendo surf tono de piel claro
+1F3C4-1F3FB-200D-2642	hombre haciendo surf tono de piel claro
+1F3C4-1F3FC	persona haciendo surf tono de piel claro medio
+1F3C4-1F3FC-200D-2640	mujer haciendo surf tono de piel claro medio
+1F3C4-1F3FC-200D-2642	hombre haciendo surf tono de piel claro medio
+1F3C4-1F3FD	persona haciendo surf tono de piel medio
+1F3C4-1F3FD-200D-2640	mujer haciendo surf tono de piel medio
+1F3C4-1F3FD-200D-2642	hombre haciendo surf tono de piel medio
+1F3C4-1F3FE	persona haciendo surf tono de piel oscuro medio
+1F3C4-1F3FE-200D-2640	mujer haciendo surf tono de piel oscuro medio
+1F3C4-1F3FE-200D-2642	hombre haciendo surf tono de piel oscuro medio
+1F3C4-1F3FF	persona haciendo surf tono de piel oscuro
+1F3C4-1F3FF-200D-2640	mujer haciendo surf tono de piel oscuro
+1F3C4-1F3FF-200D-2642	hombre haciendo surf tono de piel oscuro
+1F3C5	medalla deportiva
+1F3C6	trofeo
+1F3C7	carrera de caballos
+1F3C7-1F3FB	carrera de caballos tono de piel claro
+1F3C7-1F3FC	carrera de caballos tono de piel claro medio
+1F3C7-1F3FD	carrera de caballos tono de piel medio
+1F3C7-1F3FE	carrera de caballos tono de piel oscuro medio
+1F3C7-1F3FF	carrera de caballos tono de piel oscuro
+1F3C8	baln de ftbol americano
+1F3C9	baln de rugby
+1F3CA	persona nadando
+1F3CA-200D-2640	mujer nadando
+1F3CA-200D-2642	hombre nadando
+1F3CA-1F3FB	persona nadando tono de piel claro
+1F3CA-1F3FB-200D-2640	mujer nadando tono de piel claro
+1F3CA-1F3FB-200D-2642	hombre nadando tono de piel claro
+1F3CA-1F3FC	persona nadando tono de piel claro medio
+1F3CA-1F3FC-200D-2640	mujer nadando tono de piel claro medio
+1F3CA-1F3FC-200D-2642	hombre nadando tono de piel claro medio
+1F3CA-1F3FD	persona nadando tono de piel medio
+1F3CA-1F3FD-200D-2640	mujer nadando tono de piel medio
+1F3CA-1F3FD-200D-2642	hombre nadando tono de piel medio
+1F3CA-1F3FE	persona nadando tono de piel oscuro medio
+1F3CA-1F3FE-200D-2640	mujer nadando tono de piel oscuro medio
+1F3CA-1F3FE-200D-2642	hombre nadando tono de piel oscuro medio
+1F3CA-1F3FF	persona nadando tono de piel oscuro
+1F3CA-1F3FF-200D-2640	mujer nadando tono de piel oscuro
+1F3CA-1F3FF-200D-2642	hombre nadando tono de piel oscuro
+1F3CB	persona levantando pesas
+1F3CB-200D-2640	mujer levantando pesas
+1F3CB-200D-2642	hombre levantando pesas
+1F3CB-1F3FB	persona levantando pesas tono de piel claro
+1F3CB-1F3FB-200D-2640	mujer levantando pesas tono de piel claro
+1F3CB-1F3FB-200D-2642	hombre levantando pesas tono de piel claro
+1F3CB-1F3FC	persona levantando pesas tono de piel claro medio
+1F3CB-1F3FC-200D-2640	mujer levantando pesas tono de piel claro medio
+1F3CB-1F3FC-200D-2642	hombre levantando pesas tono de piel claro medio
+1F3CB-1F3FD	persona levantando pesas tono de piel medio
+1F3CB-1F3FD-200D-2640	mujer levantando pesas tono de piel medio
+1F3CB-1F3FD-200D-2642	hombre levantando pesas tono de piel medio
+1F3CB-1F3FE	persona levantando pesas tono de piel oscuro medio
+1F3CB-1F3FE-200D-2640	mujer levantando pesas tono de piel oscuro medio
+1F3CB-1F3FE-200D-2642	hombre levantando pesas tono de piel oscuro medio
+1F3CB-1F3FF	persona levantando pesas tono de piel oscuro
+1F3CB-1F3FF-200D-2640	mujer levantando pesas tono de piel oscuro
+1F3CB-1F3FF-200D-2642	hombre levantando pesas tono de piel oscuro
+1F3CC	golfista
+1F3CC-200D-2640	mujer jugando al golf
+1F3CC-200D-2642	hombre jugando al golf
+1F3CC-1F3FB	golfista tono de piel claro
+1F3CC-1F3FB-200D-2640	mujer jugando al golf tono de piel claro
+1F3CC-1F3FB-200D-2642	hombre jugando al golf tono de piel claro
+1F3CC-1F3FC	golfista tono de piel claro medio
+1F3CC-1F3FC-200D-2640	mujer jugando al golf tono de piel claro medio
+1F3CC-1F3FC-200D-2642	hombre jugando al golf tono de piel claro medio
+1F3CC-1F3FD	golfista tono de piel medio
+1F3CC-1F3FD-200D-2640	mujer jugando al golf tono de piel medio
+1F3CC-1F3FD-200D-2642	hombre jugando al golf tono de piel medio
+1F3CC-1F3FE	golfista tono de piel oscuro medio
+1F3CC-1F3FE-200D-2640	mujer jugando al golf tono de piel oscuro medio
+1F3CC-1F3FE-200D-2642	hombre jugando al golf tono de piel oscuro medio
+1F3CC-1F3FF	golfista tono de piel oscuro
+1F3CC-1F3FF-200D-2640	mujer jugando al golf tono de piel oscuro
+1F3CC-1F3FF-200D-2642	hombre jugando al golf tono de piel oscuro
+1F3CD	moto
+1F3CE	coche de carreras
+1F3CF	crquet
+1F3D0	voleibol
+1F3D1	hockey sobre hierba
+1F3D2	hockey sobre hielo
+1F3D3	tenis de mesa
+1F3D4	montaa con nieve
+1F3D5	camping
+1F3D6	playa y sombrilla
+1F3D7	construccin
+1F3D8	casas
+1F3D9	paisaje urbano
+1F3DA	casa abandonada
+1F3DB	edificio clsico
+1F3DC	desierto
+1F3DD	isla desierta
+1F3DE	parque nacional
+1F3DF	estadio
+1F3E0	casa
+1F3E1	casa con jardn
+1F3E2	edificio de oficinas
+1F3E3	oficina de correos japonesa
+1F3E4	oficina de correos europea
+1F3E5	hospital
+1F3E6	banco
+1F3E7	seal de cajero automtico
+1F3E8	hotel
+1F3E9	hotel del amor
+1F3EA	tienda 24 horas
+1F3EB	colegio
+1F3EC	grandes almacenes
+1F3ED	fbrica
+1F3EE	lmpara japonesa
+1F3EF	castillo japons
+1F3F0	castillo europeo
+1F3F3	bandera blanca
+1F3F3-200D-26A7	bandera transgnero
+1F3F3-200D-1F308	bandera del arcoris
+1F3F4	bandera negra
+1F3F4-200D-2620	bandera pirata
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	Bandera Inglaterra
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	Bandera Escocia
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	Bandera Gales
+1F3F5	roseta
+1F3F7	etiqueta
+1F3F8	bdminton
+1F3F9	arco y flecha
+1F3FA	nfora
+1F3FB	tono de piel claro
+1F3FC	tono de piel claro medio
+1F3FD	tono de piel medio
+1F3FE	tono de piel oscuro medio
+1F3FF	tono de piel oscuro
+1F400	rata
+1F401	ratn
+1F402	buey
+1F403	bfalo de agua
+1F404	vaca
+1F405	tigre
+1F406	leopardo
+1F407	conejo
+1F408	gato
+1F408-200D-2B1B	gato negro
+1F409	dragn
+1F40A	cocodrilo
+1F40B	ballena
+1F40C	caracol
+1F40D	serpiente
+1F40E	caballo
+1F40F	carnero
+1F410	cabra
+1F411	oveja
+1F412	mono
+1F413	gallo
+1F414	gallina
+1F415	perro
+1F415-200D-1F9BA	perro de servicio
+1F416	cerdo
+1F417	jabal
+1F418	elefante
+1F419	pulpo
+1F41A	concha de mar
+1F41B	insecto
+1F41C	hormiga
+1F41D	abeja
+1F41E	mariquita
+1F41F	pez
+1F420	pez tropical
+1F421	pez globo
+1F422	tortuga
+1F423	pollito rompiendo el cascarn
+1F424	pollito
+1F425	pollito de frente
+1F426	pjaro
+1F427	pingino
+1F428	koala
+1F429	caniche
+1F42A	dromedario
+1F42B	camello
+1F42C	delfn
+1F42D	cara de ratn
+1F42E	cara de vaca
+1F42F	cara de tigre
+1F430	cara de conejo
+1F431	cara de gato
+1F432	cara de dragn
+1F433	ballena soltando un chorro
+1F434	cara de caballo
+1F435	cara de mono
+1F436	cara de perro
+1F437	cara de cerdo
+1F438	rana
+1F439	hmster
+1F43A	lobo
+1F43B	oso
+1F43B-200D-2744	oso polar
+1F43C	panda
+1F43D	nariz de cerdo
+1F43E	huellas de pezuas
+1F43F	ardilla
+1F440	ojos
+1F441	ojo
+1F441-200D-1F5E8	ojo en bocadillo de texto
+1F442	oreja
+1F442-1F3FB	oreja tono de piel claro
+1F442-1F3FC	oreja tono de piel claro medio
+1F442-1F3FD	oreja tono de piel medio
+1F442-1F3FE	oreja tono de piel oscuro medio
+1F442-1F3FF	oreja tono de piel oscuro
+1F443	nariz
+1F443-1F3FB	nariz tono de piel claro
+1F443-1F3FC	nariz tono de piel claro medio
+1F443-1F3FD	nariz tono de piel medio
+1F443-1F3FE	nariz tono de piel oscuro medio
+1F443-1F3FF	nariz tono de piel oscuro
+1F444	boca
+1F445	lengua
+1F446	dorso de mano con ndice hacia arriba
+1F446-1F3FB	dorso de mano con ndice hacia arriba tono de piel claro
+1F446-1F3FC	dorso de mano con ndice hacia arriba tono de piel claro medio
+1F446-1F3FD	dorso de mano con ndice hacia arriba tono de piel medio
+1F446-1F3FE	dorso de mano con ndice hacia arriba tono de piel oscuro medio
+1F446-1F3FF	dorso de mano con ndice hacia arriba tono de piel oscuro
+1F447	dorso de mano con ndice hacia abajo
+1F447-1F3FB	dorso de mano con ndice hacia abajo tono de piel claro
+1F447-1F3FC	dorso de mano con ndice hacia abajo tono de piel claro medio
+1F447-1F3FD	dorso de mano con ndice hacia abajo tono de piel medio
+1F447-1F3FE	dorso de mano con ndice hacia abajo tono de piel oscuro medio
+1F447-1F3FF	dorso de mano con ndice hacia abajo tono de piel oscuro
+1F448	dorso de mano con ndice a la izquierda
+1F448-1F3FB	dorso de mano con ndice a la izquierda tono de piel claro
+1F448-1F3FC	dorso de mano con ndice a la izquierda tono de piel claro medio
+1F448-1F3FD	dorso de mano con ndice a la izquierda tono de piel medio
+1F448-1F3FE	dorso de mano con ndice a la izquierda tono de piel oscuro medio
+1F448-1F3FF	dorso de mano con ndice a la izquierda tono de piel oscuro
+1F449	dorso de mano con ndice a la derecha
+1F449-1F3FB	dorso de mano con ndice a la derecha tono de piel claro
+1F449-1F3FC	dorso de mano con ndice a la derecha tono de piel claro medio
+1F449-1F3FD	dorso de mano con ndice a la derecha tono de piel medio
+1F449-1F3FE	dorso de mano con ndice a la derecha tono de piel oscuro medio
+1F449-1F3FF	dorso de mano con ndice a la derecha tono de piel oscuro
+1F44A	puo cerrado
+1F44A-1F3FB	puo cerrado tono de piel claro
+1F44A-1F3FC	puo cerrado tono de piel claro medio
+1F44A-1F3FD	puo cerrado tono de piel medio
+1F44A-1F3FE	puo cerrado tono de piel oscuro medio
+1F44A-1F3FF	puo cerrado tono de piel oscuro
+1F44B	mano saludando
+1F44B-1F3FB	mano saludando tono de piel claro
+1F44B-1F3FC	mano saludando tono de piel claro medio
+1F44B-1F3FD	mano saludando tono de piel medio
+1F44B-1F3FE	mano saludando tono de piel oscuro medio
+1F44B-1F3FF	mano saludando tono de piel oscuro
+1F44C	seal de aprobacin con la mano
+1F44C-1F3FB	seal de aprobacin con la mano tono de piel claro
+1F44C-1F3FC	seal de aprobacin con la mano tono de piel claro medio
+1F44C-1F3FD	seal de aprobacin con la mano tono de piel medio
+1F44C-1F3FE	seal de aprobacin con la mano tono de piel oscuro medio
+1F44C-1F3FF	seal de aprobacin con la mano tono de piel oscuro
+1F44D	pulgar hacia arriba
+1F44D-1F3FB	pulgar hacia arriba tono de piel claro
+1F44D-1F3FC	pulgar hacia arriba tono de piel claro medio
+1F44D-1F3FD	pulgar hacia arriba tono de piel medio
+1F44D-1F3FE	pulgar hacia arriba tono de piel oscuro medio
+1F44D-1F3FF	pulgar hacia arriba tono de piel oscuro
+1F44E	pulgar hacia abajo
+1F44E-1F3FB	pulgar hacia abajo tono de piel claro
+1F44E-1F3FC	pulgar hacia abajo tono de piel claro medio
+1F44E-1F3FD	pulgar hacia abajo tono de piel medio
+1F44E-1F3FE	pulgar hacia abajo tono de piel oscuro medio
+1F44E-1F3FF	pulgar hacia abajo tono de piel oscuro
+1F44F	manos aplaudiendo
+1F44F-1F3FB	manos aplaudiendo tono de piel claro
+1F44F-1F3FC	manos aplaudiendo tono de piel claro medio
+1F44F-1F3FD	manos aplaudiendo tono de piel medio
+1F44F-1F3FE	manos aplaudiendo tono de piel oscuro medio
+1F44F-1F3FF	manos aplaudiendo tono de piel oscuro
+1F450	manos abiertas
+1F450-1F3FB	manos abiertas tono de piel claro
+1F450-1F3FC	manos abiertas tono de piel claro medio
+1F450-1F3FD	manos abiertas tono de piel medio
+1F450-1F3FE	manos abiertas tono de piel oscuro medio
+1F450-1F3FF	manos abiertas tono de piel oscuro
+1F451	corona
+1F452	sombrero de mujer
+1F453	gafas
+1F454	corbata
+1F455	camiseta
+1F456	vaqueros
+1F457	vestido
+1F458	kimono
+1F459	bikini
+1F45A	ropa de mujer
+1F45B	monedero
+1F45C	bolso
+1F45D	bolso de mano
+1F45E	zapato de hombre
+1F45F	zapatilla deportiva
+1F460	zapato de tacn
+1F461	sandalia de mujer
+1F462	bota de mujer
+1F463	huellas de pies
+1F464	silueta de busto
+1F465	dos siluetas de bustos
+1F466	nio
+1F466-1F3FB	nio tono de piel claro
+1F466-1F3FC	nio tono de piel claro medio
+1F466-1F3FD	nio tono de piel medio
+1F466-1F3FE	nio tono de piel oscuro medio
+1F466-1F3FF	nio tono de piel oscuro
+1F467	nia
+1F467-1F3FB	nia tono de piel claro
+1F467-1F3FC	nia tono de piel claro medio
+1F467-1F3FD	nia tono de piel medio
+1F467-1F3FE	nia tono de piel oscuro medio
+1F467-1F3FF	nia tono de piel oscuro
+1F468	hombre
+1F468-200D-2695	profesional sanitario hombre
+1F468-200D-2696	fiscal hombre
+1F468-200D-2708	piloto hombre
+1F468-200D-2764-200D-1F468	pareja enamorada hombre y hombre
+1F468-200D-2764-200D-1F48B-200D-1F468	beso hombre y hombre
+1F468-200D-1F33E	profesional de la agricultura hombre
+1F468-200D-1F373	chef hombre
+1F468-200D-1F37C	hombre alimentando a beb
+1F468-200D-1F393	estudiante hombre
+1F468-200D-1F3A4	cantante hombre
+1F468-200D-1F3A8	artista hombre
+1F468-200D-1F3EB	docente hombre
+1F468-200D-1F3ED	profesional industrial hombre
+1F468-200D-1F466	familia hombre y nio
+1F468-200D-1F466-200D-1F466	familia hombre nio nio
+1F468-200D-1F467	familia hombre y nia
+1F468-200D-1F467-200D-1F466	familia hombre nia nio
+1F468-200D-1F467-200D-1F467	familia hombre nia nia
+1F468-200D-1F468-200D-1F466	familia hombre hombre nio
+1F468-200D-1F468-200D-1F466-200D-1F466	familia hombre hombre nio nio
+1F468-200D-1F468-200D-1F467	familia hombre hombre nia
+1F468-200D-1F468-200D-1F467-200D-1F466	familia hombre hombre nia nio
+1F468-200D-1F468-200D-1F467-200D-1F467	familia hombre hombre nia nia
+1F468-200D-1F469-200D-1F466	familia hombre mujer nio
+1F468-200D-1F469-200D-1F466-200D-1F466	familia hombre mujer nio nio
+1F468-200D-1F469-200D-1F467	familia hombre mujer nia
+1F468-200D-1F469-200D-1F467-200D-1F466	familia hombre mujer nia nio
+1F468-200D-1F469-200D-1F467-200D-1F467	familia hombre mujer nia nia
+1F468-200D-1F4BB	profesional de la tecnologa hombre
+1F468-200D-1F4BC	oficinista hombre
+1F468-200D-1F527	profesional de la mecnica hombre
+1F468-200D-1F52C	profesional de la ciencia hombre
+1F468-200D-1F680	astronauta hombre
+1F468-200D-1F692	bombero hombre
+1F468-200D-1F9AF	hombre con bastn
+1F468-200D-1F9B0	hombre pelo pelirrojo
+1F468-200D-1F9B1	hombre pelo rizado
+1F468-200D-1F9B2	hombre sin pelo
+1F468-200D-1F9B3	hombre pelo blanco
+1F468-200D-1F9BC	hombre en silla de ruedas elctrica
+1F468-200D-1F9BD	hombre en silla de ruedas manual
+1F468-1F3FB	hombre tono de piel claro
+1F468-1F3FB-200D-2695	profesional sanitario hombre tono de piel claro
+1F468-1F3FB-200D-2696	fiscal hombre tono de piel claro
+1F468-1F3FB-200D-2708	piloto hombre tono de piel claro
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	pareja enamorada hombre hombre tono de piel claro
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	pareja enamorada hombre hombre tono de piel claro tono de piel claro medio
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	pareja enamorada hombre hombre tono de piel claro tono de piel medio
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	pareja enamorada hombre hombre tono de piel claro tono de piel oscuro medio
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	pareja enamorada hombre hombre tono de piel claro tono de piel oscuro
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso hombre hombre tono de piel claro
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso hombre hombre tono de piel claro tono de piel claro medio
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso hombre hombre tono de piel claro tono de piel medio
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso hombre hombre tono de piel claro tono de piel oscuro medio
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso hombre hombre tono de piel claro tono de piel oscuro
+1F468-1F3FB-200D-1F33E	profesional de la agricultura hombre tono de piel claro
+1F468-1F3FB-200D-1F373	chef hombre tono de piel claro
+1F468-1F3FB-200D-1F37C	hombre alimentando a beb tono de piel claro
+1F468-1F3FB-200D-1F393	estudiante hombre tono de piel claro
+1F468-1F3FB-200D-1F3A4	cantante hombre tono de piel claro
+1F468-1F3FB-200D-1F3A8	artista hombre tono de piel claro
+1F468-1F3FB-200D-1F3EB	docente hombre tono de piel claro
+1F468-1F3FB-200D-1F3ED	profesional industrial hombre tono de piel claro
+1F468-1F3FB-200D-1F4BB	profesional de la tecnologa hombre tono de piel claro
+1F468-1F3FB-200D-1F4BC	oficinista hombre tono de piel claro
+1F468-1F3FB-200D-1F527	profesional de la mecnica hombre tono de piel claro
+1F468-1F3FB-200D-1F52C	profesional de la ciencia hombre tono de piel claro
+1F468-1F3FB-200D-1F680	astronauta hombre tono de piel claro
+1F468-1F3FB-200D-1F692	bombero hombre tono de piel claro
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	hombres de la mano tono de piel claro y tono de piel claro medio
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	hombres de la mano tono de piel claro y tono de piel medio
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	hombres de la mano tono de piel claro y tono de piel oscuro medio
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	hombres de la mano tono de piel claro y tono de piel oscuro
+1F468-1F3FB-200D-1F9AF	hombre con bastn tono de piel claro
+1F468-1F3FB-200D-1F9B0	hombre tono de piel claro y pelo pelirrojo
+1F468-1F3FB-200D-1F9B1	hombre tono de piel claro y pelo rizado
+1F468-1F3FB-200D-1F9B2	hombre tono de piel claro y sin pelo
+1F468-1F3FB-200D-1F9B3	hombre tono de piel claro y pelo blanco
+1F468-1F3FB-200D-1F9BC	hombre en silla de ruedas elctrica tono de piel claro
+1F468-1F3FB-200D-1F9BD	hombre en silla de ruedas manual tono de piel claro
+1F468-1F3FC	hombre tono de piel claro medio
+1F468-1F3FC-200D-2695	profesional sanitario hombre tono de piel claro medio
+1F468-1F3FC-200D-2696	fiscal hombre tono de piel claro medio
+1F468-1F3FC-200D-2708	piloto hombre tono de piel claro medio
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	pareja enamorada hombre hombre tono de piel claro medio tono de piel claro
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	pareja enamorada hombre hombre tono de piel claro medio
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	pareja enamorada hombre hombre tono de piel claro medio tono de piel medio
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	pareja enamorada hombre hombre tono de piel claro medio tono de piel oscuro medio
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	pareja enamorada hombre hombre tono de piel claro medio tono de piel oscuro
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso hombre hombre tono de piel claro medio tono de piel claro
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso hombre hombre tono de piel claro medio
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso hombre hombre tono de piel claro medio tono de piel medio
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso hombre hombre tono de piel claro medio tono de piel oscuro medio
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso hombre hombre tono de piel claro medio tono de piel oscuro
+1F468-1F3FC-200D-1F33E	profesional de la agricultura hombre tono de piel claro medio
+1F468-1F3FC-200D-1F373	chef hombre tono de piel claro medio
+1F468-1F3FC-200D-1F37C	hombre alimentando a beb tono de piel claro medio
+1F468-1F3FC-200D-1F393	estudiante hombre tono de piel claro medio
+1F468-1F3FC-200D-1F3A4	cantante hombre tono de piel claro medio
+1F468-1F3FC-200D-1F3A8	artista hombre tono de piel claro medio
+1F468-1F3FC-200D-1F3EB	docente hombre tono de piel claro medio
+1F468-1F3FC-200D-1F3ED	profesional industrial hombre tono de piel claro medio
+1F468-1F3FC-200D-1F4BB	profesional de la tecnologa hombre tono de piel claro medio
+1F468-1F3FC-200D-1F4BC	oficinista hombre tono de piel claro medio
+1F468-1F3FC-200D-1F527	profesional de la mecnica hombre tono de piel claro medio
+1F468-1F3FC-200D-1F52C	profesional de la ciencia hombre tono de piel claro medio
+1F468-1F3FC-200D-1F680	astronauta hombre tono de piel claro medio
+1F468-1F3FC-200D-1F692	bombero hombre tono de piel claro medio
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	hombres de la mano tono de piel claro medio y tono de piel claro
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	hombres de la mano tono de piel claro medio y tono de piel medio
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	hombres de la mano tono de piel claro medio y tono de piel oscuro medio
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	hombres de la mano tono de piel claro medio y tono de piel oscuro
+1F468-1F3FC-200D-1F9AF	hombre con bastn tono de piel claro medio
+1F468-1F3FC-200D-1F9B0	hombre tono de piel claro medio y pelo pelirrojo
+1F468-1F3FC-200D-1F9B1	hombre tono de piel claro medio y pelo rizado
+1F468-1F3FC-200D-1F9B2	hombre tono de piel claro medio y sin pelo
+1F468-1F3FC-200D-1F9B3	hombre tono de piel claro medio y pelo blanco
+1F468-1F3FC-200D-1F9BC	hombre en silla de ruedas elctrica tono de piel claro medio
+1F468-1F3FC-200D-1F9BD	hombre en silla de ruedas manual tono de piel claro medio
+1F468-1F3FD	hombre tono de piel medio
+1F468-1F3FD-200D-2695	profesional sanitario hombre tono de piel medio
+1F468-1F3FD-200D-2696	fiscal hombre tono de piel medio
+1F468-1F3FD-200D-2708	piloto hombre tono de piel medio
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	pareja enamorada hombre hombre tono de piel medio tono de piel claro
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	pareja enamorada hombre hombre tono de piel medio tono de piel claro medio
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	pareja enamorada hombre hombre tono de piel medio
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	pareja enamorada hombre hombre tono de piel medio tono de piel oscuro medio
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	pareja enamorada hombre hombre tono de piel medio tono de piel oscuro
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso hombre hombre tono de piel medio tono de piel claro
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso hombre hombre tono de piel medio tono de piel claro medio
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso hombre hombre tono de piel medio
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso hombre hombre tono de piel medio tono de piel oscuro medio
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso hombre hombre tono de piel medio tono de piel oscuro
+1F468-1F3FD-200D-1F33E	profesional de la agricultura hombre tono de piel medio
+1F468-1F3FD-200D-1F373	chef hombre tono de piel medio
+1F468-1F3FD-200D-1F37C	hombre alimentando a beb tono de piel medio
+1F468-1F3FD-200D-1F393	estudiante hombre tono de piel medio
+1F468-1F3FD-200D-1F3A4	cantante hombre tono de piel medio
+1F468-1F3FD-200D-1F3A8	artista hombre tono de piel medio
+1F468-1F3FD-200D-1F3EB	docente hombre tono de piel medio
+1F468-1F3FD-200D-1F3ED	profesional industrial hombre tono de piel medio
+1F468-1F3FD-200D-1F4BB	profesional de la tecnologa hombre tono de piel medio
+1F468-1F3FD-200D-1F4BC	oficinista hombre tono de piel medio
+1F468-1F3FD-200D-1F527	profesional de la mecnica hombre tono de piel medio
+1F468-1F3FD-200D-1F52C	profesional de la ciencia hombre tono de piel medio
+1F468-1F3FD-200D-1F680	astronauta hombre tono de piel medio
+1F468-1F3FD-200D-1F692	bombero hombre tono de piel medio
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	hombres de la mano tono de piel medio y tono de piel claro
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	hombres de la mano tono de piel medio y tono de piel claro medio
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	hombres de la mano tono de piel medio y tono de piel oscuro medio
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	hombres de la mano tono de piel medio y tono de piel oscuro
+1F468-1F3FD-200D-1F9AF	hombre con bastn tono de piel medio
+1F468-1F3FD-200D-1F9B0	hombre tono de piel medio y pelo pelirrojo
+1F468-1F3FD-200D-1F9B1	hombre tono de piel medio y pelo rizado
+1F468-1F3FD-200D-1F9B2	hombre tono de piel medio y sin pelo
+1F468-1F3FD-200D-1F9B3	hombre tono de piel medio y pelo blanco
+1F468-1F3FD-200D-1F9BC	hombre en silla de ruedas elctrica tono de piel medio
+1F468-1F3FD-200D-1F9BD	hombre en silla de ruedas manual tono de piel medio
+1F468-1F3FE	hombre tono de piel oscuro medio
+1F468-1F3FE-200D-2695	profesional sanitario hombre tono de piel oscuro medio
+1F468-1F3FE-200D-2696	fiscal hombre tono de piel oscuro medio
+1F468-1F3FE-200D-2708	piloto hombre tono de piel oscuro medio
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	pareja enamorada hombre hombre tono de piel oscuro medio tono de piel claro
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	pareja enamorada hombre hombre tono de piel oscuro medio tono de piel claro medio
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	pareja enamorada hombre hombre tono de piel oscuro medio tono de piel medio
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	pareja enamorada hombre hombre tono de piel oscuro medio
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	pareja enamorada hombre hombre tono de piel oscuro medio tono de piel oscuro
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso hombre hombre tono de piel oscuro medio tono de piel claro
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso hombre hombre tono de piel oscuro medio tono de piel claro medio
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso hombre hombre tono de piel oscuro medio tono de piel medio
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso hombre hombre tono de piel oscuro medio
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso hombre hombre tono de piel oscuro medio tono de piel oscuro
+1F468-1F3FE-200D-1F33E	profesional de la agricultura hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F373	chef hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F37C	hombre alimentando a beb tono de piel oscuro medio
+1F468-1F3FE-200D-1F393	estudiante hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F3A4	cantante hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F3A8	artista hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F3EB	docente hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F3ED	profesional industrial hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F4BB	profesional de la tecnologa hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F4BC	oficinista hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F527	profesional de la mecnica hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F52C	profesional de la ciencia hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F680	astronauta hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F692	bombero hombre tono de piel oscuro medio
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	hombres de la mano tono de piel oscuro medio y tono de piel claro
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	hombres de la mano tono de piel oscuro medio y tono de piel claro medio
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	hombres de la mano tono de piel oscuro medio y tono de piel medio
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	hombres de la mano tono de piel oscuro medio y tono de piel oscuro
+1F468-1F3FE-200D-1F9AF	hombre con bastn tono de piel oscuro medio
+1F468-1F3FE-200D-1F9B0	hombre tono de piel oscuro medio y pelo pelirrojo
+1F468-1F3FE-200D-1F9B1	hombre tono de piel oscuro medio y pelo rizado
+1F468-1F3FE-200D-1F9B2	hombre tono de piel oscuro medio y sin pelo
+1F468-1F3FE-200D-1F9B3	hombre tono de piel oscuro medio y pelo blanco
+1F468-1F3FE-200D-1F9BC	hombre en silla de ruedas elctrica tono de piel oscuro medio
+1F468-1F3FE-200D-1F9BD	hombre en silla de ruedas manual tono de piel oscuro medio
+1F468-1F3FF	hombre tono de piel oscuro
+1F468-1F3FF-200D-2695	profesional sanitario hombre tono de piel oscuro
+1F468-1F3FF-200D-2696	fiscal hombre tono de piel oscuro
+1F468-1F3FF-200D-2708	piloto hombre tono de piel oscuro
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	pareja enamorada hombre hombre tono de piel oscuro tono de piel claro
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	pareja enamorada hombre hombre tono de piel oscuro tono de piel claro medio
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	pareja enamorada hombre hombre tono de piel oscuro tono de piel medio
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	pareja enamorada hombre hombre tono de piel oscuro tono de piel oscuro medio
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	pareja enamorada hombre hombre tono de piel oscuro
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso hombre hombre tono de piel oscuro tono de piel claro
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso hombre hombre tono de piel oscuro tono de piel claro medio
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso hombre hombre tono de piel oscuro tono de piel medio
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso hombre hombre tono de piel oscuro tono de piel oscuro medio
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso hombre hombre tono de piel oscuro
+1F468-1F3FF-200D-1F33E	profesional de la agricultura hombre tono de piel oscuro
+1F468-1F3FF-200D-1F373	chef hombre tono de piel oscuro
+1F468-1F3FF-200D-1F37C	hombre alimentando a beb tono de piel oscuro
+1F468-1F3FF-200D-1F393	estudiante hombre tono de piel oscuro
+1F468-1F3FF-200D-1F3A4	cantante hombre tono de piel oscuro
+1F468-1F3FF-200D-1F3A8	artista hombre tono de piel oscuro
+1F468-1F3FF-200D-1F3EB	docente hombre tono de piel oscuro
+1F468-1F3FF-200D-1F3ED	profesional industrial hombre tono de piel oscuro
+1F468-1F3FF-200D-1F4BB	profesional de la tecnologa hombre tono de piel oscuro
+1F468-1F3FF-200D-1F4BC	oficinista hombre tono de piel oscuro
+1F468-1F3FF-200D-1F527	profesional de la mecnica hombre tono de piel oscuro
+1F468-1F3FF-200D-1F52C	profesional de la ciencia hombre tono de piel oscuro
+1F468-1F3FF-200D-1F680	astronauta hombre tono de piel oscuro
+1F468-1F3FF-200D-1F692	bombero hombre tono de piel oscuro
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	hombres de la mano tono de piel oscuro y tono de piel claro
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	hombres de la mano tono de piel oscuro y tono de piel claro medio
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	hombres de la mano tono de piel oscuro y tono de piel medio
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	hombres de la mano tono de piel oscuro y tono de piel oscuro medio
+1F468-1F3FF-200D-1F9AF	hombre con bastn tono de piel oscuro
+1F468-1F3FF-200D-1F9B0	hombre tono de piel oscuro y pelo pelirrojo
+1F468-1F3FF-200D-1F9B1	hombre tono de piel oscuro y pelo rizado
+1F468-1F3FF-200D-1F9B2	hombre tono de piel oscuro y sin pelo
+1F468-1F3FF-200D-1F9B3	hombre tono de piel oscuro y pelo blanco
+1F468-1F3FF-200D-1F9BC	hombre en silla de ruedas elctrica tono de piel oscuro
+1F468-1F3FF-200D-1F9BD	hombre en silla de ruedas manual tono de piel oscuro
+1F469	mujer
+1F469-200D-2695	profesional sanitario mujer
+1F469-200D-2696	fiscal mujer
+1F469-200D-2708	piloto mujer
+1F469-200D-2764-200D-1F468	pareja enamorada mujer y hombre
+1F469-200D-2764-200D-1F469	pareja enamorada mujer y mujer
+1F469-200D-2764-200D-1F48B-200D-1F468	beso mujer y hombre
+1F469-200D-2764-200D-1F48B-200D-1F469	beso mujer y mujer
+1F469-200D-1F33E	profesional de la agricultura mujer
+1F469-200D-1F373	chef mujer
+1F469-200D-1F37C	mujer alimentando a beb
+1F469-200D-1F393	estudiante mujer
+1F469-200D-1F3A4	cantante mujer
+1F469-200D-1F3A8	artista mujer
+1F469-200D-1F3EB	docente mujer
+1F469-200D-1F3ED	profesional industrial mujer
+1F469-200D-1F466	familia mujer y nio
+1F469-200D-1F466-200D-1F466	familia mujer nio nio
+1F469-200D-1F467	familia mujer y nia
+1F469-200D-1F467-200D-1F466	familia mujer nia nio
+1F469-200D-1F467-200D-1F467	familia mujer nia nia
+1F469-200D-1F469-200D-1F466	familia mujer mujer nio
+1F469-200D-1F469-200D-1F466-200D-1F466	familia mujer mujer nio nio
+1F469-200D-1F469-200D-1F467	familia mujer mujer nia
+1F469-200D-1F469-200D-1F467-200D-1F466	familia mujer mujer nia nio
+1F469-200D-1F469-200D-1F467-200D-1F467	familia mujer mujer nia nia
+1F469-200D-1F4BB	profesional de la tecnologa mujer
+1F469-200D-1F4BC	oficinista mujer
+1F469-200D-1F527	profesional de la mecnica mujer
+1F469-200D-1F52C	profesional de la ciencia mujer
+1F469-200D-1F680	astronauta mujer
+1F469-200D-1F692	bombera
+1F469-200D-1F9AF	mujer con bastn
+1F469-200D-1F9B0	mujer pelo pelirrojo
+1F469-200D-1F9B1	mujer pelo rizado
+1F469-200D-1F9B2	mujer sin pelo
+1F469-200D-1F9B3	mujer pelo blanco
+1F469-200D-1F9BC	mujer en silla de ruedas elctrica
+1F469-200D-1F9BD	mujer en silla de ruedas manual
+1F469-1F3FB	mujer tono de piel claro
+1F469-1F3FB-200D-2695	profesional sanitario mujer tono de piel claro
+1F469-1F3FB-200D-2696	fiscal mujer tono de piel claro
+1F469-1F3FB-200D-2708	piloto mujer tono de piel claro
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	pareja enamorada mujer hombre tono de piel claro
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	pareja enamorada mujer hombre tono de piel claro tono de piel claro medio
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	pareja enamorada mujer hombre tono de piel claro tono de piel medio
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	pareja enamorada mujer hombre tono de piel claro tono de piel oscuro medio
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	pareja enamorada mujer hombre tono de piel claro tono de piel oscuro
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	pareja enamorada mujer mujer tono de piel claro
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	pareja enamorada mujer mujer tono de piel claro tono de piel claro medio
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	pareja enamorada mujer mujer tono de piel claro tono de piel medio
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	pareja enamorada mujer mujer tono de piel claro tono de piel oscuro medio
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	pareja enamorada mujer mujer tono de piel claro tono de piel oscuro
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso mujer hombre tono de piel claro
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso mujer hombre tono de piel claro tono de piel claro medio
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso mujer hombre tono de piel claro tono de piel medio
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso mujer hombre tono de piel claro tono de piel oscuro medio
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso mujer hombre tono de piel claro tono de piel oscuro
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	beso mujer mujer tono de piel claro
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	beso mujer mujer tono de piel claro tono de piel claro medio
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	beso mujer mujer tono de piel claro tono de piel medio
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	beso mujer mujer tono de piel claro tono de piel oscuro medio
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	beso mujer mujer tono de piel claro tono de piel oscuro
+1F469-1F3FB-200D-1F33E	profesional de la agricultura mujer tono de piel claro
+1F469-1F3FB-200D-1F373	chef mujer tono de piel claro
+1F469-1F3FB-200D-1F37C	mujer alimentando a beb tono de piel claro
+1F469-1F3FB-200D-1F393	estudiante mujer tono de piel claro
+1F469-1F3FB-200D-1F3A4	cantante mujer tono de piel claro
+1F469-1F3FB-200D-1F3A8	artista mujer tono de piel claro
+1F469-1F3FB-200D-1F3EB	docente mujer tono de piel claro
+1F469-1F3FB-200D-1F3ED	profesional industrial mujer tono de piel claro
+1F469-1F3FB-200D-1F4BB	profesional de la tecnologa mujer tono de piel claro
+1F469-1F3FB-200D-1F4BC	oficinista mujer tono de piel claro
+1F469-1F3FB-200D-1F527	profesional de la mecnica mujer tono de piel claro
+1F469-1F3FB-200D-1F52C	profesional de la ciencia mujer tono de piel claro
+1F469-1F3FB-200D-1F680	astronauta mujer tono de piel claro
+1F469-1F3FB-200D-1F692	bombera tono de piel claro
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	mujer y hombre de la mano tono de piel claro y tono de piel claro medio
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	mujer y hombre de la mano tono de piel claro y tono de piel medio
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	mujer y hombre de la mano tono de piel claro y tono de piel oscuro medio
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	mujer y hombre de la mano tono de piel claro y tono de piel oscuro
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	mujeres de la mano tono de piel claro y tono de piel claro medio
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	mujeres de la mano tono de piel claro y tono de piel medio
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	mujeres de la mano tono de piel claro y tono de piel oscuro medio
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	mujeres de la mano tono de piel claro y tono de piel oscuro
+1F469-1F3FB-200D-1F9AF	mujer con bastn tono de piel claro
+1F469-1F3FB-200D-1F9B0	mujer tono de piel claro y pelo pelirrojo
+1F469-1F3FB-200D-1F9B1	mujer tono de piel claro y pelo rizado
+1F469-1F3FB-200D-1F9B2	mujer tono de piel claro y sin pelo
+1F469-1F3FB-200D-1F9B3	mujer tono de piel claro y pelo blanco
+1F469-1F3FB-200D-1F9BC	mujer en silla de ruedas elctrica tono de piel claro
+1F469-1F3FB-200D-1F9BD	mujer en silla de ruedas manual tono de piel claro
+1F469-1F3FC	mujer tono de piel claro medio
+1F469-1F3FC-200D-2695	profesional sanitario mujer tono de piel claro medio
+1F469-1F3FC-200D-2696	fiscal mujer tono de piel claro medio
+1F469-1F3FC-200D-2708	piloto mujer tono de piel claro medio
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	pareja enamorada mujer hombre tono de piel claro medio tono de piel claro
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	pareja enamorada mujer hombre tono de piel claro medio
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	pareja enamorada mujer hombre tono de piel claro medio tono de piel medio
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	pareja enamorada mujer hombre tono de piel claro medio tono de piel oscuro medio
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	pareja enamorada mujer hombre tono de piel claro medio tono de piel oscuro
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	pareja enamorada mujer mujer tono de piel claro medio tono de piel claro
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	pareja enamorada mujer mujer tono de piel claro medio
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	pareja enamorada mujer mujer tono de piel claro medio tono de piel medio
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	pareja enamorada mujer mujer tono de piel claro medio tono de piel oscuro medio
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	pareja enamorada mujer mujer tono de piel claro medio tono de piel oscuro
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso mujer hombre tono de piel claro medio tono de piel claro
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso mujer hombre tono de piel claro medio
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso mujer hombre tono de piel claro medio tono de piel medio
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso mujer hombre tono de piel claro medio tono de piel oscuro medio
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso mujer hombre tono de piel claro medio tono de piel oscuro
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	beso mujer mujer tono de piel claro medio tono de piel claro
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	beso mujer mujer tono de piel claro medio
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	beso mujer mujer tono de piel claro medio tono de piel medio
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	beso mujer mujer tono de piel claro medio tono de piel oscuro medio
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	beso mujer mujer tono de piel claro medio tono de piel oscuro
+1F469-1F3FC-200D-1F33E	profesional de la agricultura mujer tono de piel claro medio
+1F469-1F3FC-200D-1F373	chef mujer tono de piel claro medio
+1F469-1F3FC-200D-1F37C	mujer alimentando a beb tono de piel claro medio
+1F469-1F3FC-200D-1F393	estudiante mujer tono de piel claro medio
+1F469-1F3FC-200D-1F3A4	cantante mujer tono de piel claro medio
+1F469-1F3FC-200D-1F3A8	artista mujer tono de piel claro medio
+1F469-1F3FC-200D-1F3EB	docente mujer tono de piel claro medio
+1F469-1F3FC-200D-1F3ED	profesional industrial mujer tono de piel claro medio
+1F469-1F3FC-200D-1F4BB	profesional de la tecnologa mujer tono de piel claro medio
+1F469-1F3FC-200D-1F4BC	oficinista mujer tono de piel claro medio
+1F469-1F3FC-200D-1F527	profesional de la mecnica mujer tono de piel claro medio
+1F469-1F3FC-200D-1F52C	profesional de la ciencia mujer tono de piel claro medio
+1F469-1F3FC-200D-1F680	astronauta mujer tono de piel claro medio
+1F469-1F3FC-200D-1F692	bombera tono de piel claro medio
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	mujer y hombre de la mano tono de piel claro medio y tono de piel claro
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	mujer y hombre de la mano tono de piel claro medio y tono de piel medio
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	mujer y hombre de la mano tono de piel claro medio y tono de piel oscuro medio
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	mujer y hombre de la mano tono de piel claro medio y tono de piel oscuro
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	mujeres de la mano tono de piel claro medio y tono de piel claro
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	mujeres de la mano tono de piel claro medio y tono de piel medio
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	mujeres de la mano tono de piel claro medio y tono de piel oscuro medio
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	mujeres de la mano tono de piel claro medio y tono de piel oscuro
+1F469-1F3FC-200D-1F9AF	mujer con bastn tono de piel claro medio
+1F469-1F3FC-200D-1F9B0	mujer tono de piel claro medio y pelo pelirrojo
+1F469-1F3FC-200D-1F9B1	mujer tono de piel claro medio y pelo rizado
+1F469-1F3FC-200D-1F9B2	mujer tono de piel claro medio y sin pelo
+1F469-1F3FC-200D-1F9B3	mujer tono de piel claro medio y pelo blanco
+1F469-1F3FC-200D-1F9BC	mujer en silla de ruedas elctrica tono de piel claro medio
+1F469-1F3FC-200D-1F9BD	mujer en silla de ruedas manual tono de piel claro medio
+1F469-1F3FD	mujer tono de piel medio
+1F469-1F3FD-200D-2695	profesional sanitario mujer tono de piel medio
+1F469-1F3FD-200D-2696	fiscal mujer tono de piel medio
+1F469-1F3FD-200D-2708	piloto mujer tono de piel medio
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	pareja enamorada mujer hombre tono de piel medio tono de piel claro
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	pareja enamorada mujer hombre tono de piel medio tono de piel claro medio
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	pareja enamorada mujer hombre tono de piel medio
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	pareja enamorada mujer hombre tono de piel medio tono de piel oscuro medio
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	pareja enamorada mujer hombre tono de piel medio tono de piel oscuro
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	pareja enamorada mujer mujer tono de piel medio tono de piel claro
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	pareja enamorada mujer mujer tono de piel medio tono de piel claro medio
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	pareja enamorada mujer mujer tono de piel medio
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	pareja enamorada mujer mujer tono de piel medio tono de piel oscuro medio
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	pareja enamorada mujer mujer tono de piel medio tono de piel oscuro
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso mujer hombre tono de piel medio tono de piel claro
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso mujer hombre tono de piel medio tono de piel claro medio
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso mujer hombre tono de piel medio
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso mujer hombre tono de piel medio tono de piel oscuro medio
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso mujer hombre tono de piel medio tono de piel oscuro
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	beso mujer mujer tono de piel medio tono de piel claro
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	beso mujer mujer tono de piel medio tono de piel claro medio
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	beso mujer mujer tono de piel medio
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	beso mujer mujer tono de piel medio tono de piel oscuro medio
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	beso mujer mujer tono de piel medio tono de piel oscuro
+1F469-1F3FD-200D-1F33E	profesional de la agricultura mujer tono de piel medio
+1F469-1F3FD-200D-1F373	chef mujer tono de piel medio
+1F469-1F3FD-200D-1F37C	mujer alimentando a beb tono de piel medio
+1F469-1F3FD-200D-1F393	estudiante mujer tono de piel medio
+1F469-1F3FD-200D-1F3A4	cantante mujer tono de piel medio
+1F469-1F3FD-200D-1F3A8	artista mujer tono de piel medio
+1F469-1F3FD-200D-1F3EB	docente mujer tono de piel medio
+1F469-1F3FD-200D-1F3ED	profesional industrial mujer tono de piel medio
+1F469-1F3FD-200D-1F4BB	profesional de la tecnologa mujer tono de piel medio
+1F469-1F3FD-200D-1F4BC	oficinista mujer tono de piel medio
+1F469-1F3FD-200D-1F527	profesional de la mecnica mujer tono de piel medio
+1F469-1F3FD-200D-1F52C	profesional de la ciencia mujer tono de piel medio
+1F469-1F3FD-200D-1F680	astronauta mujer tono de piel medio
+1F469-1F3FD-200D-1F692	bombera tono de piel medio
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	mujer y hombre de la mano tono de piel medio y tono de piel claro
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	mujer y hombre de la mano tono de piel medio y tono de piel claro medio
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	mujer y hombre de la mano tono de piel medio y tono de piel oscuro medio
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	mujer y hombre de la mano tono de piel medio y tono de piel oscuro
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	mujeres de la mano tono de piel medio y tono de piel claro
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	mujeres de la mano tono de piel medio y tono de piel claro medio
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	mujeres de la mano tono de piel medio y tono de piel oscuro medio
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	mujeres de la mano tono de piel medio y tono de piel oscuro
+1F469-1F3FD-200D-1F9AF	mujer con bastn tono de piel medio
+1F469-1F3FD-200D-1F9B0	mujer tono de piel medio y pelo pelirrojo
+1F469-1F3FD-200D-1F9B1	mujer tono de piel medio y pelo rizado
+1F469-1F3FD-200D-1F9B2	mujer tono de piel medio y sin pelo
+1F469-1F3FD-200D-1F9B3	mujer tono de piel medio y pelo blanco
+1F469-1F3FD-200D-1F9BC	mujer en silla de ruedas elctrica tono de piel medio
+1F469-1F3FD-200D-1F9BD	mujer en silla de ruedas manual tono de piel medio
+1F469-1F3FE	mujer tono de piel oscuro medio
+1F469-1F3FE-200D-2695	profesional sanitario mujer tono de piel oscuro medio
+1F469-1F3FE-200D-2696	fiscal mujer tono de piel oscuro medio
+1F469-1F3FE-200D-2708	piloto mujer tono de piel oscuro medio
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	pareja enamorada mujer hombre tono de piel oscuro medio tono de piel claro
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	pareja enamorada mujer hombre tono de piel oscuro medio tono de piel claro medio
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	pareja enamorada mujer hombre tono de piel oscuro medio tono de piel medio
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	pareja enamorada mujer hombre tono de piel oscuro medio
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	pareja enamorada mujer hombre tono de piel oscuro medio tono de piel oscuro
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	pareja enamorada mujer mujer tono de piel oscuro medio tono de piel claro
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	pareja enamorada mujer mujer tono de piel oscuro medio tono de piel claro medio
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	pareja enamorada mujer mujer tono de piel oscuro medio tono de piel medio
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	pareja enamorada mujer mujer tono de piel oscuro medio
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	pareja enamorada mujer mujer tono de piel oscuro medio tono de piel oscuro
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso mujer hombre tono de piel oscuro medio tono de piel claro
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso mujer hombre tono de piel oscuro medio tono de piel claro medio
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso mujer hombre tono de piel oscuro medio tono de piel medio
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso mujer hombre tono de piel oscuro medio
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso mujer hombre tono de piel oscuro medio tono de piel oscuro
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	beso mujer mujer tono de piel oscuro medio tono de piel claro
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	beso mujer mujer tono de piel oscuro medio tono de piel claro medio
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	beso mujer mujer tono de piel oscuro medio tono de piel medio
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	beso mujer mujer tono de piel oscuro medio
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	beso mujer mujer tono de piel oscuro medio tono de piel oscuro
+1F469-1F3FE-200D-1F33E	profesional de la agricultura mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F373	chef mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F37C	mujer alimentando a beb tono de piel oscuro medio
+1F469-1F3FE-200D-1F393	estudiante mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F3A4	cantante mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F3A8	artista mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F3EB	docente mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F3ED	profesional industrial mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F4BB	profesional de la tecnologa mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F4BC	oficinista mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F527	profesional de la mecnica mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F52C	profesional de la ciencia mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F680	astronauta mujer tono de piel oscuro medio
+1F469-1F3FE-200D-1F692	bombera tono de piel oscuro medio
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	mujer y hombre de la mano tono de piel oscuro medio y tono de piel claro
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	mujer y hombre de la mano tono de piel oscuro medio y tono de piel claro medio
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	mujer y hombre de la mano tono de piel oscuro medio y tono de piel medio
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	mujer y hombre de la mano tono de piel oscuro medio y tono de piel oscuro
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	mujeres de la mano tono de piel oscuro medio y tono de piel claro
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	mujeres de la mano tono de piel oscuro medio y tono de piel claro medio
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	mujeres de la mano tono de piel oscuro medio y tono de piel medio
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	mujeres de la mano tono de piel oscuro medio y tono de piel oscuro
+1F469-1F3FE-200D-1F9AF	mujer con bastn tono de piel oscuro medio
+1F469-1F3FE-200D-1F9B0	mujer tono de piel oscuro medio y pelo pelirrojo
+1F469-1F3FE-200D-1F9B1	mujer tono de piel oscuro medio y pelo rizado
+1F469-1F3FE-200D-1F9B2	mujer tono de piel oscuro medio y sin pelo
+1F469-1F3FE-200D-1F9B3	mujer tono de piel oscuro medio y pelo blanco
+1F469-1F3FE-200D-1F9BC	mujer en silla de ruedas elctrica tono de piel oscuro medio
+1F469-1F3FE-200D-1F9BD	mujer en silla de ruedas manual tono de piel oscuro medio
+1F469-1F3FF	mujer tono de piel oscuro
+1F469-1F3FF-200D-2695	profesional sanitario mujer tono de piel oscuro
+1F469-1F3FF-200D-2696	fiscal mujer tono de piel oscuro
+1F469-1F3FF-200D-2708	piloto mujer tono de piel oscuro
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	pareja enamorada mujer hombre tono de piel oscuro tono de piel claro
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	pareja enamorada mujer hombre tono de piel oscuro tono de piel claro medio
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	pareja enamorada mujer hombre tono de piel oscuro tono de piel medio
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	pareja enamorada mujer hombre tono de piel oscuro tono de piel oscuro medio
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	pareja enamorada mujer hombre tono de piel oscuro
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	pareja enamorada mujer mujer tono de piel oscuro tono de piel claro
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	pareja enamorada mujer mujer tono de piel oscuro tono de piel claro medio
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	pareja enamorada mujer mujer tono de piel oscuro tono de piel medio
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	pareja enamorada mujer mujer tono de piel oscuro tono de piel oscuro medio
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	pareja enamorada mujer mujer tono de piel oscuro
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	beso mujer hombre tono de piel oscuro tono de piel claro
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	beso mujer hombre tono de piel oscuro tono de piel claro medio
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	beso mujer hombre tono de piel oscuro tono de piel medio
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	beso mujer hombre tono de piel oscuro tono de piel oscuro medio
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	beso mujer hombre tono de piel oscuro
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	beso mujer mujer tono de piel oscuro tono de piel claro
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	beso mujer mujer tono de piel oscuro tono de piel claro medio
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	beso mujer mujer tono de piel oscuro tono de piel medio
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	beso mujer mujer tono de piel oscuro tono de piel oscuro medio
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	beso mujer mujer tono de piel oscuro
+1F469-1F3FF-200D-1F33E	profesional de la agricultura mujer tono de piel oscuro
+1F469-1F3FF-200D-1F373	chef mujer tono de piel oscuro
+1F469-1F3FF-200D-1F37C	mujer alimentando a beb tono de piel oscuro
+1F469-1F3FF-200D-1F393	estudiante mujer tono de piel oscuro
+1F469-1F3FF-200D-1F3A4	cantante mujer tono de piel oscuro
+1F469-1F3FF-200D-1F3A8	artista mujer tono de piel oscuro
+1F469-1F3FF-200D-1F3EB	docente mujer tono de piel oscuro
+1F469-1F3FF-200D-1F3ED	profesional industrial mujer tono de piel oscuro
+1F469-1F3FF-200D-1F4BB	profesional de la tecnologa mujer tono de piel oscuro
+1F469-1F3FF-200D-1F4BC	oficinista mujer tono de piel oscuro
+1F469-1F3FF-200D-1F527	profesional de la mecnica mujer tono de piel oscuro
+1F469-1F3FF-200D-1F52C	profesional de la ciencia mujer tono de piel oscuro
+1F469-1F3FF-200D-1F680	astronauta mujer tono de piel oscuro
+1F469-1F3FF-200D-1F692	bombera tono de piel oscuro
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	mujer y hombre de la mano tono de piel oscuro y tono de piel claro
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	mujer y hombre de la mano tono de piel oscuro y tono de piel claro medio
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	mujer y hombre de la mano tono de piel oscuro y tono de piel medio
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	mujer y hombre de la mano tono de piel oscuro y tono de piel oscuro medio
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	mujeres de la mano tono de piel oscuro y tono de piel claro
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	mujeres de la mano tono de piel oscuro y tono de piel claro medio
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	mujeres de la mano tono de piel oscuro y tono de piel medio
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	mujeres de la mano tono de piel oscuro y tono de piel oscuro medio
+1F469-1F3FF-200D-1F9AF	mujer con bastn tono de piel oscuro
+1F469-1F3FF-200D-1F9B0	mujer tono de piel oscuro y pelo pelirrojo
+1F469-1F3FF-200D-1F9B1	mujer tono de piel oscuro y pelo rizado
+1F469-1F3FF-200D-1F9B2	mujer tono de piel oscuro y sin pelo
+1F469-1F3FF-200D-1F9B3	mujer tono de piel oscuro y pelo blanco
+1F469-1F3FF-200D-1F9BC	mujer en silla de ruedas elctrica tono de piel oscuro
+1F469-1F3FF-200D-1F9BD	mujer en silla de ruedas manual tono de piel oscuro
+1F46A	familia
+1F46B	mujer y hombre de la mano
+1F46B-1F3FB	mujer y hombre de la mano tono de piel claro
+1F46B-1F3FC	mujer y hombre de la mano tono de piel claro medio
+1F46B-1F3FD	mujer y hombre de la mano tono de piel medio
+1F46B-1F3FE	mujer y hombre de la mano tono de piel oscuro medio
+1F46B-1F3FF	mujer y hombre de la mano tono de piel oscuro
+1F46C	hombres de la mano
+1F46C-1F3FB	hombres de la mano tono de piel claro
+1F46C-1F3FC	hombres de la mano tono de piel claro medio
+1F46C-1F3FD	hombres de la mano tono de piel medio
+1F46C-1F3FE	hombres de la mano tono de piel oscuro medio
+1F46C-1F3FF	hombres de la mano tono de piel oscuro
+1F46D	mujeres de la mano
+1F46D-1F3FB	mujeres de la mano tono de piel claro
+1F46D-1F3FC	mujeres de la mano tono de piel claro medio
+1F46D-1F3FD	mujeres de la mano tono de piel medio
+1F46D-1F3FE	mujeres de la mano tono de piel oscuro medio
+1F46D-1F3FF	mujeres de la mano tono de piel oscuro
+1F46E	agente de polica
+1F46E-200D-2640	agente de polica mujer
+1F46E-200D-2642	agente de polica hombre
+1F46E-1F3FB	agente de polica tono de piel claro
+1F46E-1F3FB-200D-2640	agente de polica mujer tono de piel claro
+1F46E-1F3FB-200D-2642	agente de polica hombre tono de piel claro
+1F46E-1F3FC	agente de polica tono de piel claro medio
+1F46E-1F3FC-200D-2640	agente de polica mujer tono de piel claro medio
+1F46E-1F3FC-200D-2642	agente de polica hombre tono de piel claro medio
+1F46E-1F3FD	agente de polica tono de piel medio
+1F46E-1F3FD-200D-2640	agente de polica mujer tono de piel medio
+1F46E-1F3FD-200D-2642	agente de polica hombre tono de piel medio
+1F46E-1F3FE	agente de polica tono de piel oscuro medio
+1F46E-1F3FE-200D-2640	agente de polica mujer tono de piel oscuro medio
+1F46E-1F3FE-200D-2642	agente de polica hombre tono de piel oscuro medio
+1F46E-1F3FF	agente de polica tono de piel oscuro
+1F46E-1F3FF-200D-2640	agente de polica mujer tono de piel oscuro
+1F46E-1F3FF-200D-2642	agente de polica hombre tono de piel oscuro
+1F46F	personas con orejas de conejo
+1F46F-200D-2640	mujeres con orejas de conejo
+1F46F-200D-2642	hombres con orejas de conejo
+1F470	persona con velo
+1F470-200D-2640	mujer con velo
+1F470-200D-2642	hombre con velo
+1F470-1F3FB	persona con velo tono de piel claro
+1F470-1F3FB-200D-2640	mujer con velo tono de piel claro
+1F470-1F3FB-200D-2642	hombre con velo tono de piel claro
+1F470-1F3FC	persona con velo tono de piel claro medio
+1F470-1F3FC-200D-2640	mujer con velo tono de piel claro medio
+1F470-1F3FC-200D-2642	hombre con velo tono de piel claro medio
+1F470-1F3FD	persona con velo tono de piel medio
+1F470-1F3FD-200D-2640	mujer con velo tono de piel medio
+1F470-1F3FD-200D-2642	hombre con velo tono de piel medio
+1F470-1F3FE	persona con velo tono de piel oscuro medio
+1F470-1F3FE-200D-2640	mujer con velo tono de piel oscuro medio
+1F470-1F3FE-200D-2642	hombre con velo tono de piel oscuro medio
+1F470-1F3FF	persona con velo tono de piel oscuro
+1F470-1F3FF-200D-2640	mujer con velo tono de piel oscuro
+1F470-1F3FF-200D-2642	hombre con velo tono de piel oscuro
+1F471	persona adulta rubia
+1F471-200D-2640	mujer rubia
+1F471-200D-2642	hombre rubio
+1F471-1F3FB	persona adulta rubia tono de piel claro
+1F471-1F3FB-200D-2640	mujer rubia tono de piel claro
+1F471-1F3FB-200D-2642	hombre rubio tono de piel claro
+1F471-1F3FC	persona adulta rubia tono de piel claro medio
+1F471-1F3FC-200D-2640	mujer rubia tono de piel claro medio
+1F471-1F3FC-200D-2642	hombre rubio tono de piel claro medio
+1F471-1F3FD	persona adulta rubia tono de piel medio
+1F471-1F3FD-200D-2640	mujer rubia tono de piel medio
+1F471-1F3FD-200D-2642	hombre rubio tono de piel medio
+1F471-1F3FE	persona adulta rubia tono de piel oscuro medio
+1F471-1F3FE-200D-2640	mujer rubia tono de piel oscuro medio
+1F471-1F3FE-200D-2642	hombre rubio tono de piel oscuro medio
+1F471-1F3FF	persona adulta rubia tono de piel oscuro
+1F471-1F3FF-200D-2640	mujer rubia tono de piel oscuro
+1F471-1F3FF-200D-2642	hombre rubio tono de piel oscuro
+1F472	hombre con gorro chino
+1F472-1F3FB	hombre con gorro chino tono de piel claro
+1F472-1F3FC	hombre con gorro chino tono de piel claro medio
+1F472-1F3FD	hombre con gorro chino tono de piel medio
+1F472-1F3FE	hombre con gorro chino tono de piel oscuro medio
+1F472-1F3FF	hombre con gorro chino tono de piel oscuro
+1F473	persona con turbante
+1F473-200D-2640	mujer con turbante
+1F473-200D-2642	hombre con turbante
+1F473-1F3FB	persona con turbante tono de piel claro
+1F473-1F3FB-200D-2640	mujer con turbante tono de piel claro
+1F473-1F3FB-200D-2642	hombre con turbante tono de piel claro
+1F473-1F3FC	persona con turbante tono de piel claro medio
+1F473-1F3FC-200D-2640	mujer con turbante tono de piel claro medio
+1F473-1F3FC-200D-2642	hombre con turbante tono de piel claro medio
+1F473-1F3FD	persona con turbante tono de piel medio
+1F473-1F3FD-200D-2640	mujer con turbante tono de piel medio
+1F473-1F3FD-200D-2642	hombre con turbante tono de piel medio
+1F473-1F3FE	persona con turbante tono de piel oscuro medio
+1F473-1F3FE-200D-2640	mujer con turbante tono de piel oscuro medio
+1F473-1F3FE-200D-2642	hombre con turbante tono de piel oscuro medio
+1F473-1F3FF	persona con turbante tono de piel oscuro
+1F473-1F3FF-200D-2640	mujer con turbante tono de piel oscuro
+1F473-1F3FF-200D-2642	hombre con turbante tono de piel oscuro
+1F474	anciano
+1F474-1F3FB	anciano tono de piel claro
+1F474-1F3FC	anciano tono de piel claro medio
+1F474-1F3FD	anciano tono de piel medio
+1F474-1F3FE	anciano tono de piel oscuro medio
+1F474-1F3FF	anciano tono de piel oscuro
+1F475	anciana
+1F475-1F3FB	anciana tono de piel claro
+1F475-1F3FC	anciana tono de piel claro medio
+1F475-1F3FD	anciana tono de piel medio
+1F475-1F3FE	anciana tono de piel oscuro medio
+1F475-1F3FF	anciana tono de piel oscuro
+1F476	beb
+1F476-1F3FB	beb tono de piel claro
+1F476-1F3FC	beb tono de piel claro medio
+1F476-1F3FD	beb tono de piel medio
+1F476-1F3FE	beb tono de piel oscuro medio
+1F476-1F3FF	beb tono de piel oscuro
+1F477	profesional de la construccin
+1F477-200D-2640	profesional de la construccin mujer
+1F477-200D-2642	profesional de la construccin hombre
+1F477-1F3FB	profesional de la construccin tono de piel claro
+1F477-1F3FB-200D-2640	profesional de la construccin mujer tono de piel claro
+1F477-1F3FB-200D-2642	profesional de la construccin hombre tono de piel claro
+1F477-1F3FC	profesional de la construccin tono de piel claro medio
+1F477-1F3FC-200D-2640	profesional de la construccin mujer tono de piel claro medio
+1F477-1F3FC-200D-2642	profesional de la construccin hombre tono de piel claro medio
+1F477-1F3FD	profesional de la construccin tono de piel medio
+1F477-1F3FD-200D-2640	profesional de la construccin mujer tono de piel medio
+1F477-1F3FD-200D-2642	profesional de la construccin hombre tono de piel medio
+1F477-1F3FE	profesional de la construccin tono de piel oscuro medio
+1F477-1F3FE-200D-2640	profesional de la construccin mujer tono de piel oscuro medio
+1F477-1F3FE-200D-2642	profesional de la construccin hombre tono de piel oscuro medio
+1F477-1F3FF	profesional de la construccin tono de piel oscuro
+1F477-1F3FF-200D-2640	profesional de la construccin mujer tono de piel oscuro
+1F477-1F3FF-200D-2642	profesional de la construccin hombre tono de piel oscuro
+1F478	princesa
+1F478-1F3FB	princesa tono de piel claro
+1F478-1F3FC	princesa tono de piel claro medio
+1F478-1F3FD	princesa tono de piel medio
+1F478-1F3FE	princesa tono de piel oscuro medio
+1F478-1F3FF	princesa tono de piel oscuro
+1F479	demonio japons oni
+1F47A	demonio japons tengu
+1F47B	fantasma
+1F47C	beb ngel
+1F47C-1F3FB	beb ngel tono de piel claro
+1F47C-1F3FC	beb ngel tono de piel claro medio
+1F47C-1F3FD	beb ngel tono de piel medio
+1F47C-1F3FE	beb ngel tono de piel oscuro medio
+1F47C-1F3FF	beb ngel tono de piel oscuro
+1F47D	aliengena
+1F47E	monstruo aliengena
+1F47F	cara enfadada con cuernos
+1F480	calavera
+1F481	persona de mostrador de informacin
+1F481-200D-2640	empleada de mostrador de informacin
+1F481-200D-2642	empleado de mostrador de informacin
+1F481-1F3FB	persona de mostrador de informacin tono de piel claro
+1F481-1F3FB-200D-2640	empleada de mostrador de informacin tono de piel claro
+1F481-1F3FB-200D-2642	empleado de mostrador de informacin tono de piel claro
+1F481-1F3FC	persona de mostrador de informacin tono de piel claro medio
+1F481-1F3FC-200D-2640	empleada de mostrador de informacin tono de piel claro medio
+1F481-1F3FC-200D-2642	empleado de mostrador de informacin tono de piel claro medio
+1F481-1F3FD	persona de mostrador de informacin tono de piel medio
+1F481-1F3FD-200D-2640	empleada de mostrador de informacin tono de piel medio
+1F481-1F3FD-200D-2642	empleado de mostrador de informacin tono de piel medio
+1F481-1F3FE	persona de mostrador de informacin tono de piel oscuro medio
+1F481-1F3FE-200D-2640	empleada de mostrador de informacin tono de piel oscuro medio
+1F481-1F3FE-200D-2642	empleado de mostrador de informacin tono de piel oscuro medio
+1F481-1F3FF	persona de mostrador de informacin tono de piel oscuro
+1F481-1F3FF-200D-2640	empleada de mostrador de informacin tono de piel oscuro
+1F481-1F3FF-200D-2642	empleado de mostrador de informacin tono de piel oscuro
+1F482	guardia
+1F482-200D-2640	guardia mujer
+1F482-200D-2642	guardia hombre
+1F482-1F3FB	guardia tono de piel claro
+1F482-1F3FB-200D-2640	guardia mujer tono de piel claro
+1F482-1F3FB-200D-2642	guardia hombre tono de piel claro
+1F482-1F3FC	guardia tono de piel claro medio
+1F482-1F3FC-200D-2640	guardia mujer tono de piel claro medio
+1F482-1F3FC-200D-2642	guardia hombre tono de piel claro medio
+1F482-1F3FD	guardia tono de piel medio
+1F482-1F3FD-200D-2640	guardia mujer tono de piel medio
+1F482-1F3FD-200D-2642	guardia hombre tono de piel medio
+1F482-1F3FE	guardia tono de piel oscuro medio
+1F482-1F3FE-200D-2640	guardia mujer tono de piel oscuro medio
+1F482-1F3FE-200D-2642	guardia hombre tono de piel oscuro medio
+1F482-1F3FF	guardia tono de piel oscuro
+1F482-1F3FF-200D-2640	guardia mujer tono de piel oscuro
+1F482-1F3FF-200D-2642	guardia hombre tono de piel oscuro
+1F483	mujer bailando
+1F483-1F3FB	mujer bailando tono de piel claro
+1F483-1F3FC	mujer bailando tono de piel claro medio
+1F483-1F3FD	mujer bailando tono de piel medio
+1F483-1F3FE	mujer bailando tono de piel oscuro medio
+1F483-1F3FF	mujer bailando tono de piel oscuro
+1F484	pintalabios
+1F485	pintarse las uas
+1F485-1F3FB	pintarse las uas tono de piel claro
+1F485-1F3FC	pintarse las uas tono de piel claro medio
+1F485-1F3FD	pintarse las uas tono de piel medio
+1F485-1F3FE	pintarse las uas tono de piel oscuro medio
+1F485-1F3FF	pintarse las uas tono de piel oscuro
+1F486	persona recibiendo masaje
+1F486-200D-2640	mujer recibiendo masaje
+1F486-200D-2642	hombre recibiendo masaje
+1F486-1F3FB	persona recibiendo masaje tono de piel claro
+1F486-1F3FB-200D-2640	mujer recibiendo masaje tono de piel claro
+1F486-1F3FB-200D-2642	hombre recibiendo masaje tono de piel claro
+1F486-1F3FC	persona recibiendo masaje tono de piel claro medio
+1F486-1F3FC-200D-2640	mujer recibiendo masaje tono de piel claro medio
+1F486-1F3FC-200D-2642	hombre recibiendo masaje tono de piel claro medio
+1F486-1F3FD	persona recibiendo masaje tono de piel medio
+1F486-1F3FD-200D-2640	mujer recibiendo masaje tono de piel medio
+1F486-1F3FD-200D-2642	hombre recibiendo masaje tono de piel medio
+1F486-1F3FE	persona recibiendo masaje tono de piel oscuro medio
+1F486-1F3FE-200D-2640	mujer recibiendo masaje tono de piel oscuro medio
+1F486-1F3FE-200D-2642	hombre recibiendo masaje tono de piel oscuro medio
+1F486-1F3FF	persona recibiendo masaje tono de piel oscuro
+1F486-1F3FF-200D-2640	mujer recibiendo masaje tono de piel oscuro
+1F486-1F3FF-200D-2642	hombre recibiendo masaje tono de piel oscuro
+1F487	persona cortndose el pelo
+1F487-200D-2640	mujer cortndose el pelo
+1F487-200D-2642	hombre cortndose el pelo
+1F487-1F3FB	persona cortndose el pelo tono de piel claro
+1F487-1F3FB-200D-2640	mujer cortndose el pelo tono de piel claro
+1F487-1F3FB-200D-2642	hombre cortndose el pelo tono de piel claro
+1F487-1F3FC	persona cortndose el pelo tono de piel claro medio
+1F487-1F3FC-200D-2640	mujer cortndose el pelo tono de piel claro medio
+1F487-1F3FC-200D-2642	hombre cortndose el pelo tono de piel claro medio
+1F487-1F3FD	persona cortndose el pelo tono de piel medio
+1F487-1F3FD-200D-2640	mujer cortndose el pelo tono de piel medio
+1F487-1F3FD-200D-2642	hombre cortndose el pelo tono de piel medio
+1F487-1F3FE	persona cortndose el pelo tono de piel oscuro medio
+1F487-1F3FE-200D-2640	mujer cortndose el pelo tono de piel oscuro medio
+1F487-1F3FE-200D-2642	hombre cortndose el pelo tono de piel oscuro medio
+1F487-1F3FF	persona cortndose el pelo tono de piel oscuro
+1F487-1F3FF-200D-2640	mujer cortndose el pelo tono de piel oscuro
+1F487-1F3FF-200D-2642	hombre cortndose el pelo tono de piel oscuro
+1F488	poste de barbero
+1F489	jeringuilla
+1F48A	pldora
+1F48B	marca de beso
+1F48C	carta de amor
+1F48D	anillo
+1F48E	piedra preciosa
+1F48F	beso
+1F490	ramo de flores
+1F491	pareja enamorada
+1F492	iglesia celebrando boda
+1F493	corazn latiendo
+1F494	corazn roto
+1F495	dos corazones
+1F496	corazn brillante
+1F497	corazn creciente
+1F498	corazn con flecha
+1F499	corazn azul
+1F49A	corazn verde
+1F49B	corazn amarillo
+1F49C	corazn morado
+1F49D	corazn con lazo
+1F49E	corazones giratorios
+1F49F	adorno de corazn
+1F4A0	rombo con ptalo
+1F4A1	bombilla
+1F4A2	smbolo de enfado
+1F4A3	bomba
+1F4A4	smbolo de sueo
+1F4A5	colisin
+1F4A6	gotas de sudor
+1F4A7	gota
+1F4A8	salir corriendo
+1F4A9	caca con ojos
+1F4AA	bceps flexionado
+1F4AA-1F3FB	bceps flexionado tono de piel claro
+1F4AA-1F3FC	bceps flexionado tono de piel claro medio
+1F4AA-1F3FD	bceps flexionado tono de piel medio
+1F4AA-1F3FE	bceps flexionado tono de piel oscuro medio
+1F4AA-1F3FF	bceps flexionado tono de piel oscuro
+1F4AB	smbolo de mareo
+1F4AC	bocadillo de dilogo
+1F4AD	bocadillo de pensamiento
+1F4AE	flor blanca
+1F4AF	cien puntos
+1F4B0	bolsa de dinero
+1F4B1	cambio de divisas
+1F4B2	smbolo de dlar
+1F4B3	tarjeta de crdito
+1F4B4	billete de yen
+1F4B5	billete de dlar
+1F4B6	billete de euro
+1F4B7	billete de libra
+1F4B8	billete con alas
+1F4B9	mercado al alza
+1F4BA	asiento de transporte
+1F4BB	ordenador porttil
+1F4BC	maletn
+1F4BD	minidisc
+1F4BE	disquete
+1F4BF	disco ptico
+1F4C0	disco DVD
+1F4C1	carpeta de archivos
+1F4C2	carpeta de archivos abierta
+1F4C3	pgina doblada
+1F4C4	pgina hacia arriba
+1F4C5	calendario
+1F4C6	calendario recortable
+1F4C7	organizador de fichas
+1F4C8	grfica de evolucin ascendente
+1F4C9	grfica de evolucin descendente
+1F4CA	grfico de barras
+1F4CB	portapapeles
+1F4CC	chincheta
+1F4CD	chincheta redonda
+1F4CE	clip
+1F4CF	regla
+1F4D0	escuadra
+1F4D1	marcadores
+1F4D2	libro de contabilidad
+1F4D3	cuaderno
+1F4D4	cuaderno con tapa decorativa
+1F4D5	libro cerrado
+1F4D6	libro abierto
+1F4D7	libro verde
+1F4D8	libro azul
+1F4D9	libro naranja
+1F4DA	libros
+1F4DB	etiqueta identificativa
+1F4DC	pergamino
+1F4DD	cuaderno de notas
+1F4DE	auricular de telfono
+1F4DF	busca
+1F4E0	mquina de fax
+1F4E1	antena de satlite
+1F4E2	altavoz de mano
+1F4E3	megfono
+1F4E4	bandeja de salida
+1F4E5	bandeja de entrada
+1F4E6	paquete
+1F4E7	correo electrnico
+1F4E8	sobre entrante
+1F4E9	sobre con flecha
+1F4EA	buzn cerrado con la bandera bajada
+1F4EB	buzn cerrado con la bandera levantada
+1F4EC	buzn abierto con la bandera levantada
+1F4ED	buzn abierto con la bandera bajada
+1F4EE	buzn
+1F4EF	corneta de posta
+1F4F0	peridico
+1F4F1	telfono mvil
+1F4F2	mvil con una flecha
+1F4F3	modo vibracin
+1F4F4	telfono mvil apagado
+1F4F5	prohibido el uso de mviles
+1F4F6	barras de cobertura
+1F4F7	cmara de fotos
+1F4F8	cmara con flash
+1F4F9	videocmara
+1F4FA	televisin
+1F4FB	radio
+1F4FC	cinta de vdeo
+1F4FD	proyector de cine
+1F4FF	rosario
+1F500	reproduccin aleatoria
+1F501	repetir
+1F502	repetir una vez
+1F503	flechas verticales en sentido horario
+1F504	flechas en sentido antihorario
+1F505	brillo bajo
+1F506	brillo alto
+1F507	altavoz silenciado
+1F508	altavoz a volumen bajo
+1F509	altavoz a volumen medio
+1F50A	altavoz a volumen alto
+1F50B	pila
+1F50C	enchufe elctrico
+1F50D	lupa orientada hacia la izquierda
+1F50E	lupa orientada hacia la derecha
+1F50F	candado con pluma estilogrfica
+1F510	candado cerrado y llave
+1F511	llave
+1F512	candado cerrado
+1F513	candado abierto
+1F514	campana
+1F515	campana con signo de cancelacin
+1F516	marcapginas
+1F517	eslabn
+1F518	botn de opcin
+1F519	flecha BACK
+1F51A	flecha END
+1F51B	flecha ON
+1F51C	flecha SOON
+1F51D	flecha TOP
+1F51E	prohibido para menos de 18 aos
+1F51F	Teclas 10
+1F520	letras latinas maysculas
+1F521	letras latinas minsculas
+1F522	nmeros
+1F523	smbolos
+1F524	alfabeto latino
+1F525	fuego
+1F526	linterna
+1F527	llave inglesa
+1F528	martillo
+1F529	tornillo y tuerca
+1F52A	cuchillo de cocina
+1F52B	pistola de agua
+1F52C	microscopio
+1F52D	telescopio
+1F52E	bola de cristal
+1F52F	estrella de seis puntas
+1F530	smbolo japons para principiante
+1F531	emblema de tridente
+1F532	botn cuadrado con borde negro
+1F533	botn cuadrado con borde blanco
+1F534	crculo rojo grande
+1F535	crculo azul grande
+1F536	rombo naranja grande
+1F537	rombo azul grande
+1F538	rombo naranja pequeo
+1F539	rombo azul pequeo
+1F53A	tringulo rojo hacia arriba
+1F53B	tringulo rojo hacia abajo
+1F53C	tringulo hacia arriba
+1F53D	tringulo hacia abajo
+1F549	om
+1F54A	paloma
+1F54B	Kaaba
+1F54C	mezquita
+1F54D	sinagoga
+1F54E	menor
+1F550	1 en punto
+1F551	2 en punto
+1F552	3 en punto
+1F553	4 en punto
+1F554	5 en punto
+1F555	6 en punto
+1F556	7 en punto
+1F557	8 en punto
+1F558	9 en punto
+1F559	10 en punto
+1F55A	11 en punto
+1F55B	12 en punto
+1F55C	una y media
+1F55D	dos y media
+1F55E	tres y media
+1F55F	cuatro y media
+1F560	cinco y media
+1F561	seis y media
+1F562	siete y media
+1F563	ocho y media
+1F564	nueve y media
+1F565	diez y media
+1F566	once y media
+1F567	doce y media
+1F56F	vela
+1F570	reloj de sobremesa
+1F573	agujero
+1F574	hombre trajeado levitando
+1F574-1F3FB	hombre trajeado levitando tono de piel claro
+1F574-1F3FC	hombre trajeado levitando tono de piel claro medio
+1F574-1F3FD	hombre trajeado levitando tono de piel medio
+1F574-1F3FE	hombre trajeado levitando tono de piel oscuro medio
+1F574-1F3FF	hombre trajeado levitando tono de piel oscuro
+1F575	detective
+1F575-200D-2640	detective mujer
+1F575-200D-2642	detective hombre
+1F575-1F3FB	detective tono de piel claro
+1F575-1F3FB-200D-2640	detective mujer tono de piel claro
+1F575-1F3FB-200D-2642	detective hombre tono de piel claro
+1F575-1F3FC	detective tono de piel claro medio
+1F575-1F3FC-200D-2640	detective mujer tono de piel claro medio
+1F575-1F3FC-200D-2642	detective hombre tono de piel claro medio
+1F575-1F3FD	detective tono de piel medio
+1F575-1F3FD-200D-2640	detective mujer tono de piel medio
+1F575-1F3FD-200D-2642	detective hombre tono de piel medio
+1F575-1F3FE	detective tono de piel oscuro medio
+1F575-1F3FE-200D-2640	detective mujer tono de piel oscuro medio
+1F575-1F3FE-200D-2642	detective hombre tono de piel oscuro medio
+1F575-1F3FF	detective tono de piel oscuro
+1F575-1F3FF-200D-2640	detective mujer tono de piel oscuro
+1F575-1F3FF-200D-2642	detective hombre tono de piel oscuro
+1F576	gafas de sol
+1F577	araa
+1F578	tela de araa
+1F579	joystick
+1F57A	hombre bailando
+1F57A-1F3FB	hombre bailando tono de piel claro
+1F57A-1F3FC	hombre bailando tono de piel claro medio
+1F57A-1F3FD	hombre bailando tono de piel medio
+1F57A-1F3FE	hombre bailando tono de piel oscuro medio
+1F57A-1F3FF	hombre bailando tono de piel oscuro
+1F587	clips unidos
+1F58A	bolgrafo
+1F58B	estilogrfica
+1F58C	pincel
+1F58D	lpiz de cera
+1F590	mano abierta
+1F590-1F3FB	mano abierta tono de piel claro
+1F590-1F3FC	mano abierta tono de piel claro medio
+1F590-1F3FD	mano abierta tono de piel medio
+1F590-1F3FE	mano abierta tono de piel oscuro medio
+1F590-1F3FF	mano abierta tono de piel oscuro
+1F595	dedo corazn hacia arriba
+1F595-1F3FB	dedo corazn hacia arriba tono de piel claro
+1F595-1F3FC	dedo corazn hacia arriba tono de piel claro medio
+1F595-1F3FD	dedo corazn hacia arriba tono de piel medio
+1F595-1F3FE	dedo corazn hacia arriba tono de piel oscuro medio
+1F595-1F3FF	dedo corazn hacia arriba tono de piel oscuro
+1F596	saludo vulcano
+1F596-1F3FB	saludo vulcano tono de piel claro
+1F596-1F3FC	saludo vulcano tono de piel claro medio
+1F596-1F3FD	saludo vulcano tono de piel medio
+1F596-1F3FE	saludo vulcano tono de piel oscuro medio
+1F596-1F3FF	saludo vulcano tono de piel oscuro
+1F5A4	corazn negro
+1F5A5	ordenador de sobremesa
+1F5A8	impresora
+1F5B1	ratn de ordenador
+1F5B2	bola de desplazamiento
+1F5BC	cuadro enmarcado
+1F5C2	separador de fichas
+1F5C3	archivador de tarjetas
+1F5C4	archivador
+1F5D1	papelera
+1F5D2	bloc de notas de espiral
+1F5D3	calendario de espiral
+1F5DC	tornillo de banco
+1F5DD	llave antigua
+1F5DE	peridico enrollado
+1F5E1	pual
+1F5E3	cabeza parlante
+1F5E8	bocadillo de dilogo por la izquierda
+1F5EF	bocadillo de enfado por la derecha
+1F5F3	urna con papeleta
+1F5FA	mapa mundial
+1F5FB	monte Fuji
+1F5FC	Torre de Tokio
+1F5FD	Estatua de la Libertad
+1F5FE	mapa de Japn
+1F5FF	estatua moi
+1F600	cara sonriendo
+1F601	cara radiante con ojos sonrientes
+1F602	cara llorando de risa
+1F603	cara sonriendo con ojos grandes
+1F604	cara sonriendo con ojos sonrientes
+1F605	cara sonriendo con sudor fro
+1F606	cara sonriendo con los ojos cerrados
+1F607	cara sonriendo con aureola
+1F608	cara sonriendo con cuernos
+1F609	cara guiando el ojo
+1F60A	cara feliz con ojos sonrientes
+1F60B	cara saboreando comida
+1F60C	cara de alivio
+1F60D	cara sonriendo con ojos de corazn
+1F60E	cara sonriendo con gafas de sol
+1F60F	cara sonriendo con superioridad
+1F610	cara neutral
+1F611	cara sin expresin
+1F612	cara de desaprobacin
+1F613	cara con sudor fro
+1F614	cara desanimada
+1F615	cara de confusin
+1F616	cara de frustracin
+1F617	cara besando
+1F618	cara lanzando un beso
+1F619	cara besando con ojos sonrientes
+1F61A	cara besando con los ojos cerrados
+1F61B	cara sacando la lengua
+1F61C	cara sacando la lengua y guiando un ojo
+1F61D	cara con ojos cerrados y lengua fuera
+1F61E	cara decepcionada
+1F61F	cara preocupada
+1F620	cara enfadada
+1F621	cara cabreada
+1F622	cara llorando
+1F623	cara desesperada
+1F624	cara resoplando
+1F625	cara triste pero aliviada
+1F626	cara con el ceo fruncido y la boca abierta
+1F627	cara angustiada
+1F628	cara asustada
+1F629	cara agotada
+1F62A	cara de sueo
+1F62B	cara cansada
+1F62C	cara haciendo una mueca
+1F62D	cara llorando fuerte
+1F62E	cara con la boca abierta
+1F62E-200D-1F4A8	cara exhalando
+1F62F	cara estupefacta
+1F630	cara con ansiedad y sudor
+1F631	cara gritando de miedo
+1F632	cara asombrada
+1F633	cara sonrojada
+1F634	cara durmiendo
+1F635	cara mareada
+1F635-200D-1F4AB	cara con ojos de espiral
+1F636	cara sin boca
+1F636-200D-1F32B	cara en las nubes
+1F637	cara con mascarilla mdica
+1F638	gato sonriendo con ojos sonrientes
+1F639	gato llorando de risa
+1F63A	gato sonriendo
+1F63B	gato sonriendo con ojos de corazn
+1F63C	gato haciendo una mueca
+1F63D	gato besando
+1F63E	gato enfadado
+1F63F	gato llorando
+1F640	gato asustado
+1F641	cara con el ceo ligeramente fruncido
+1F642	cara sonriendo ligeramente
+1F643	cara al revs
+1F644	cara con ojos en blanco
+1F645	persona haciendo el gesto de no
+1F645-200D-2640	mujer haciendo el gesto de no
+1F645-200D-2642	hombre haciendo el gesto de no
+1F645-1F3FB	persona haciendo el gesto de no tono de piel claro
+1F645-1F3FB-200D-2640	mujer haciendo el gesto de no tono de piel claro
+1F645-1F3FB-200D-2642	hombre haciendo el gesto de no tono de piel claro
+1F645-1F3FC	persona haciendo el gesto de no tono de piel claro medio
+1F645-1F3FC-200D-2640	mujer haciendo el gesto de no tono de piel claro medio
+1F645-1F3FC-200D-2642	hombre haciendo el gesto de no tono de piel claro medio
+1F645-1F3FD	persona haciendo el gesto de no tono de piel medio
+1F645-1F3FD-200D-2640	mujer haciendo el gesto de no tono de piel medio
+1F645-1F3FD-200D-2642	hombre haciendo el gesto de no tono de piel medio
+1F645-1F3FE	persona haciendo el gesto de no tono de piel oscuro medio
+1F645-1F3FE-200D-2640	mujer haciendo el gesto de no tono de piel oscuro medio
+1F645-1F3FE-200D-2642	hombre haciendo el gesto de no tono de piel oscuro medio
+1F645-1F3FF	persona haciendo el gesto de no tono de piel oscuro
+1F645-1F3FF-200D-2640	mujer haciendo el gesto de no tono de piel oscuro
+1F645-1F3FF-200D-2642	hombre haciendo el gesto de no tono de piel oscuro
+1F646	persona haciendo el gesto de de acuerdo
+1F646-200D-2640	mujer haciendo el gesto de de acuerdo
+1F646-200D-2642	hombre haciendo el gesto de de acuerdo
+1F646-1F3FB	persona haciendo el gesto de de acuerdo tono de piel claro
+1F646-1F3FB-200D-2640	mujer haciendo el gesto de de acuerdo tono de piel claro
+1F646-1F3FB-200D-2642	hombre haciendo el gesto de de acuerdo tono de piel claro
+1F646-1F3FC	persona haciendo el gesto de de acuerdo tono de piel claro medio
+1F646-1F3FC-200D-2640	mujer haciendo el gesto de de acuerdo tono de piel claro medio
+1F646-1F3FC-200D-2642	hombre haciendo el gesto de de acuerdo tono de piel claro medio
+1F646-1F3FD	persona haciendo el gesto de de acuerdo tono de piel medio
+1F646-1F3FD-200D-2640	mujer haciendo el gesto de de acuerdo tono de piel medio
+1F646-1F3FD-200D-2642	hombre haciendo el gesto de de acuerdo tono de piel medio
+1F646-1F3FE	persona haciendo el gesto de de acuerdo tono de piel oscuro medio
+1F646-1F3FE-200D-2640	mujer haciendo el gesto de de acuerdo tono de piel oscuro medio
+1F646-1F3FE-200D-2642	hombre haciendo el gesto de de acuerdo tono de piel oscuro medio
+1F646-1F3FF	persona haciendo el gesto de de acuerdo tono de piel oscuro
+1F646-1F3FF-200D-2640	mujer haciendo el gesto de de acuerdo tono de piel oscuro
+1F646-1F3FF-200D-2642	hombre haciendo el gesto de de acuerdo tono de piel oscuro
+1F647	persona haciendo una reverencia
+1F647-200D-2640	mujer haciendo una reverencia
+1F647-200D-2642	hombre haciendo una reverencia
+1F647-1F3FB	persona haciendo una reverencia tono de piel claro
+1F647-1F3FB-200D-2640	mujer haciendo una reverencia tono de piel claro
+1F647-1F3FB-200D-2642	hombre haciendo una reverencia tono de piel claro
+1F647-1F3FC	persona haciendo una reverencia tono de piel claro medio
+1F647-1F3FC-200D-2640	mujer haciendo una reverencia tono de piel claro medio
+1F647-1F3FC-200D-2642	hombre haciendo una reverencia tono de piel claro medio
+1F647-1F3FD	persona haciendo una reverencia tono de piel medio
+1F647-1F3FD-200D-2640	mujer haciendo una reverencia tono de piel medio
+1F647-1F3FD-200D-2642	hombre haciendo una reverencia tono de piel medio
+1F647-1F3FE	persona haciendo una reverencia tono de piel oscuro medio
+1F647-1F3FE-200D-2640	mujer haciendo una reverencia tono de piel oscuro medio
+1F647-1F3FE-200D-2642	hombre haciendo una reverencia tono de piel oscuro medio
+1F647-1F3FF	persona haciendo una reverencia tono de piel oscuro
+1F647-1F3FF-200D-2640	mujer haciendo una reverencia tono de piel oscuro
+1F647-1F3FF-200D-2642	hombre haciendo una reverencia tono de piel oscuro
+1F648	mono con los ojos tapados
+1F649	mono con los odos tapados
+1F64A	mono con la boca tapada
+1F64B	persona con la mano levantada
+1F64B-200D-2640	mujer con la mano levantada
+1F64B-200D-2642	hombre con la mano levantada
+1F64B-1F3FB	persona con la mano levantada tono de piel claro
+1F64B-1F3FB-200D-2640	mujer con la mano levantada tono de piel claro
+1F64B-1F3FB-200D-2642	hombre con la mano levantada tono de piel claro
+1F64B-1F3FC	persona con la mano levantada tono de piel claro medio
+1F64B-1F3FC-200D-2640	mujer con la mano levantada tono de piel claro medio
+1F64B-1F3FC-200D-2642	hombre con la mano levantada tono de piel claro medio
+1F64B-1F3FD	persona con la mano levantada tono de piel medio
+1F64B-1F3FD-200D-2640	mujer con la mano levantada tono de piel medio
+1F64B-1F3FD-200D-2642	hombre con la mano levantada tono de piel medio
+1F64B-1F3FE	persona con la mano levantada tono de piel oscuro medio
+1F64B-1F3FE-200D-2640	mujer con la mano levantada tono de piel oscuro medio
+1F64B-1F3FE-200D-2642	hombre con la mano levantada tono de piel oscuro medio
+1F64B-1F3FF	persona con la mano levantada tono de piel oscuro
+1F64B-1F3FF-200D-2640	mujer con la mano levantada tono de piel oscuro
+1F64B-1F3FF-200D-2642	hombre con la mano levantada tono de piel oscuro
+1F64C	manos levantadas celebrando
+1F64C-1F3FB	manos levantadas celebrando tono de piel claro
+1F64C-1F3FC	manos levantadas celebrando tono de piel claro medio
+1F64C-1F3FD	manos levantadas celebrando tono de piel medio
+1F64C-1F3FE	manos levantadas celebrando tono de piel oscuro medio
+1F64C-1F3FF	manos levantadas celebrando tono de piel oscuro
+1F64D	persona frunciendo el ceo
+1F64D-200D-2640	mujer frunciendo el ceo
+1F64D-200D-2642	hombre frunciendo el ceo
+1F64D-1F3FB	persona frunciendo el ceo tono de piel claro
+1F64D-1F3FB-200D-2640	mujer frunciendo el ceo tono de piel claro
+1F64D-1F3FB-200D-2642	hombre frunciendo el ceo tono de piel claro
+1F64D-1F3FC	persona frunciendo el ceo tono de piel claro medio
+1F64D-1F3FC-200D-2640	mujer frunciendo el ceo tono de piel claro medio
+1F64D-1F3FC-200D-2642	hombre frunciendo el ceo tono de piel claro medio
+1F64D-1F3FD	persona frunciendo el ceo tono de piel medio
+1F64D-1F3FD-200D-2640	mujer frunciendo el ceo tono de piel medio
+1F64D-1F3FD-200D-2642	hombre frunciendo el ceo tono de piel medio
+1F64D-1F3FE	persona frunciendo el ceo tono de piel oscuro medio
+1F64D-1F3FE-200D-2640	mujer frunciendo el ceo tono de piel oscuro medio
+1F64D-1F3FE-200D-2642	hombre frunciendo el ceo tono de piel oscuro medio
+1F64D-1F3FF	persona frunciendo el ceo tono de piel oscuro
+1F64D-1F3FF-200D-2640	mujer frunciendo el ceo tono de piel oscuro
+1F64D-1F3FF-200D-2642	hombre frunciendo el ceo tono de piel oscuro
+1F64E	persona haciendo pucheros
+1F64E-200D-2640	mujer haciendo pucheros
+1F64E-200D-2642	hombre haciendo pucheros
+1F64E-1F3FB	persona haciendo pucheros tono de piel claro
+1F64E-1F3FB-200D-2640	mujer haciendo pucheros tono de piel claro
+1F64E-1F3FB-200D-2642	hombre haciendo pucheros tono de piel claro
+1F64E-1F3FC	persona haciendo pucheros tono de piel claro medio
+1F64E-1F3FC-200D-2640	mujer haciendo pucheros tono de piel claro medio
+1F64E-1F3FC-200D-2642	hombre haciendo pucheros tono de piel claro medio
+1F64E-1F3FD	persona haciendo pucheros tono de piel medio
+1F64E-1F3FD-200D-2640	mujer haciendo pucheros tono de piel medio
+1F64E-1F3FD-200D-2642	hombre haciendo pucheros tono de piel medio
+1F64E-1F3FE	persona haciendo pucheros tono de piel oscuro medio
+1F64E-1F3FE-200D-2640	mujer haciendo pucheros tono de piel oscuro medio
+1F64E-1F3FE-200D-2642	hombre haciendo pucheros tono de piel oscuro medio
+1F64E-1F3FF	persona haciendo pucheros tono de piel oscuro
+1F64E-1F3FF-200D-2640	mujer haciendo pucheros tono de piel oscuro
+1F64E-1F3FF-200D-2642	hombre haciendo pucheros tono de piel oscuro
+1F64F	manos en oracin
+1F64F-1F3FB	manos en oracin tono de piel claro
+1F64F-1F3FC	manos en oracin tono de piel claro medio
+1F64F-1F3FD	manos en oracin tono de piel medio
+1F64F-1F3FE	manos en oracin tono de piel oscuro medio
+1F64F-1F3FF	manos en oracin tono de piel oscuro
+1F680	cohete
+1F681	helicptero
+1F682	locomotora de vapor
+1F683	vagn
+1F684	tren de alta velocidad
+1F685	tren bala
+1F686	tren
+1F687	metro
+1F688	tren ligero
+1F689	estacin de tren
+1F68A	tranva
+1F68B	vagn de tranva
+1F68C	autobs
+1F68D	autobs prximo
+1F68E	trolebs
+1F68F	parada de autobs
+1F690	minibs
+1F691	ambulancia
+1F692	coche de bomberos
+1F693	coche de polica
+1F694	coche de polica prximo
+1F695	taxi
+1F696	taxi prximo
+1F697	coche
+1F698	coche prximo
+1F699	vehculo deportivo utilitario
+1F69A	camin de reparto
+1F69B	camin articulado
+1F69C	tractor
+1F69D	monorral
+1F69E	ferrocarril de montaa
+1F69F	ferrocarril de suspensin
+1F6A0	telefrico de montaa
+1F6A1	telefrico
+1F6A2	barco
+1F6A3	persona remando en un bote
+1F6A3-200D-2640	mujer remando en un bote
+1F6A3-200D-2642	hombre remando en un bote
+1F6A3-1F3FB	persona remando en un bote tono de piel claro
+1F6A3-1F3FB-200D-2640	mujer remando en un bote tono de piel claro
+1F6A3-1F3FB-200D-2642	hombre remando en un bote tono de piel claro
+1F6A3-1F3FC	persona remando en un bote tono de piel claro medio
+1F6A3-1F3FC-200D-2640	mujer remando en un bote tono de piel claro medio
+1F6A3-1F3FC-200D-2642	hombre remando en un bote tono de piel claro medio
+1F6A3-1F3FD	persona remando en un bote tono de piel medio
+1F6A3-1F3FD-200D-2640	mujer remando en un bote tono de piel medio
+1F6A3-1F3FD-200D-2642	hombre remando en un bote tono de piel medio
+1F6A3-1F3FE	persona remando en un bote tono de piel oscuro medio
+1F6A3-1F3FE-200D-2640	mujer remando en un bote tono de piel oscuro medio
+1F6A3-1F3FE-200D-2642	hombre remando en un bote tono de piel oscuro medio
+1F6A3-1F3FF	persona remando en un bote tono de piel oscuro
+1F6A3-1F3FF-200D-2640	mujer remando en un bote tono de piel oscuro
+1F6A3-1F3FF-200D-2642	hombre remando en un bote tono de piel oscuro
+1F6A4	lancha motora
+1F6A5	semforo horizontal
+1F6A6	semforo
+1F6A7	obras
+1F6A8	luces de polica
+1F6A9	bandera triangular
+1F6AA	puerta
+1F6AB	prohibido
+1F6AC	cigarrillo
+1F6AD	prohibido fumar
+1F6AE	seal de usar papelera
+1F6AF	prohibido tirar basura
+1F6B0	agua potable
+1F6B1	agua no potable
+1F6B2	bicicleta
+1F6B3	bicicletas prohibidas
+1F6B4	persona en bicicleta
+1F6B4-200D-2640	mujer en bicicleta
+1F6B4-200D-2642	hombre en bicicleta
+1F6B4-1F3FB	persona en bicicleta tono de piel claro
+1F6B4-1F3FB-200D-2640	mujer en bicicleta tono de piel claro
+1F6B4-1F3FB-200D-2642	hombre en bicicleta tono de piel claro
+1F6B4-1F3FC	persona en bicicleta tono de piel claro medio
+1F6B4-1F3FC-200D-2640	mujer en bicicleta tono de piel claro medio
+1F6B4-1F3FC-200D-2642	hombre en bicicleta tono de piel claro medio
+1F6B4-1F3FD	persona en bicicleta tono de piel medio
+1F6B4-1F3FD-200D-2640	mujer en bicicleta tono de piel medio
+1F6B4-1F3FD-200D-2642	hombre en bicicleta tono de piel medio
+1F6B4-1F3FE	persona en bicicleta tono de piel oscuro medio
+1F6B4-1F3FE-200D-2640	mujer en bicicleta tono de piel oscuro medio
+1F6B4-1F3FE-200D-2642	hombre en bicicleta tono de piel oscuro medio
+1F6B4-1F3FF	persona en bicicleta tono de piel oscuro
+1F6B4-1F3FF-200D-2640	mujer en bicicleta tono de piel oscuro
+1F6B4-1F3FF-200D-2642	hombre en bicicleta tono de piel oscuro
+1F6B5	persona en bicicleta de montaa
+1F6B5-200D-2640	mujer en bicicleta de montaa
+1F6B5-200D-2642	hombre en bicicleta de montaa
+1F6B5-1F3FB	persona en bicicleta de montaa tono de piel claro
+1F6B5-1F3FB-200D-2640	mujer en bicicleta de montaa tono de piel claro
+1F6B5-1F3FB-200D-2642	hombre en bicicleta de montaa tono de piel claro
+1F6B5-1F3FC	persona en bicicleta de montaa tono de piel claro medio
+1F6B5-1F3FC-200D-2640	mujer en bicicleta de montaa tono de piel claro medio
+1F6B5-1F3FC-200D-2642	hombre en bicicleta de montaa tono de piel claro medio
+1F6B5-1F3FD	persona en bicicleta de montaa tono de piel medio
+1F6B5-1F3FD-200D-2640	mujer en bicicleta de montaa tono de piel medio
+1F6B5-1F3FD-200D-2642	hombre en bicicleta de montaa tono de piel medio
+1F6B5-1F3FE	persona en bicicleta de montaa tono de piel oscuro medio
+1F6B5-1F3FE-200D-2640	mujer en bicicleta de montaa tono de piel oscuro medio
+1F6B5-1F3FE-200D-2642	hombre en bicicleta de montaa tono de piel oscuro medio
+1F6B5-1F3FF	persona en bicicleta de montaa tono de piel oscuro
+1F6B5-1F3FF-200D-2640	mujer en bicicleta de montaa tono de piel oscuro
+1F6B5-1F3FF-200D-2642	hombre en bicicleta de montaa tono de piel oscuro
+1F6B6	persona caminando
+1F6B6-200D-2640	mujer caminando
+1F6B6-200D-2642	hombre caminando
+1F6B6-1F3FB	persona caminando tono de piel claro
+1F6B6-1F3FB-200D-2640	mujer caminando tono de piel claro
+1F6B6-1F3FB-200D-2642	hombre caminando tono de piel claro
+1F6B6-1F3FC	persona caminando tono de piel claro medio
+1F6B6-1F3FC-200D-2640	mujer caminando tono de piel claro medio
+1F6B6-1F3FC-200D-2642	hombre caminando tono de piel claro medio
+1F6B6-1F3FD	persona caminando tono de piel medio
+1F6B6-1F3FD-200D-2640	mujer caminando tono de piel medio
+1F6B6-1F3FD-200D-2642	hombre caminando tono de piel medio
+1F6B6-1F3FE	persona caminando tono de piel oscuro medio
+1F6B6-1F3FE-200D-2640	mujer caminando tono de piel oscuro medio
+1F6B6-1F3FE-200D-2642	hombre caminando tono de piel oscuro medio
+1F6B6-1F3FF	persona caminando tono de piel oscuro
+1F6B6-1F3FF-200D-2640	mujer caminando tono de piel oscuro
+1F6B6-1F3FF-200D-2642	hombre caminando tono de piel oscuro
+1F6B7	prohibido el paso de peatones
+1F6B8	nios cruzando
+1F6B9	aseo para hombres
+1F6BA	seal de aseo para mujeres
+1F6BB	seal de aseos
+1F6BC	seal de beb
+1F6BD	inodoro
+1F6BE	aseos
+1F6BF	ducha
+1F6C0	persona en la baera
+1F6C0-1F3FB	persona en la baera tono de piel claro
+1F6C0-1F3FC	persona en la baera tono de piel claro medio
+1F6C0-1F3FD	persona en la baera tono de piel medio
+1F6C0-1F3FE	persona en la baera tono de piel oscuro medio
+1F6C0-1F3FF	persona en la baera tono de piel oscuro
+1F6C1	baera
+1F6C2	control de pasaportes
+1F6C3	aduana
+1F6C4	recogida de equipajes
+1F6C5	consigna
+1F6CB	sof y lmpara
+1F6CC	persona en la cama
+1F6CC-1F3FB	persona en la cama tono de piel claro
+1F6CC-1F3FC	persona en la cama tono de piel claro medio
+1F6CC-1F3FD	persona en la cama tono de piel medio
+1F6CC-1F3FE	persona en la cama tono de piel oscuro medio
+1F6CC-1F3FF	persona en la cama tono de piel oscuro
+1F6CD	bolsas de compras
+1F6CE	timbre de hotel
+1F6CF	cama
+1F6D0	lugar de culto
+1F6D1	seal de stop
+1F6D2	carrito de la compra
+1F6D5	templo hind
+1F6D6	cabaa
+1F6D7	ascensor
+1F6E0	martillo y llave inglesa
+1F6E1	escudo
+1F6E2	barril de petrleo
+1F6E3	autopista
+1F6E4	va de tren
+1F6E5	barco a motor
+1F6E9	avioneta
+1F6EB	avin despegando
+1F6EC	avin aterrizando
+1F6F0	satlite
+1F6F3	barco de pasajeros
+1F6F4	patinete
+1F6F5	scooter
+1F6F6	canoa
+1F6F7	trineo
+1F6F8	platillo volante
+1F6F9	monopatn
+1F6FA	mototaxi
+1F6FB	camioneta
+1F6FC	patines
+1F7E0	crculo naranja
+1F7E1	crculo amarillo
+1F7E2	crculo verde
+1F7E3	crculo morado
+1F7E4	crculo marrn
+1F7E5	cuadrado rojo
+1F7E6	cuadrado azul
+1F7E7	cuadrado naranja
+1F7E8	cuadrado amarillo
+1F7E9	cuadrado verde
+1F7EA	cuadrado morado
+1F7EB	cuadrado marrn
+1F90C	dedos juntos apuntando hacia arriba
+1F90C-1F3FB	dedos juntos apuntando hacia arriba tono de piel claro
+1F90C-1F3FC	dedos juntos apuntando hacia arriba tono de piel claro medio
+1F90C-1F3FD	dedos juntos apuntando hacia arriba tono de piel medio
+1F90C-1F3FE	dedos juntos apuntando hacia arriba tono de piel oscuro medio
+1F90C-1F3FF	dedos juntos apuntando hacia arriba tono de piel oscuro
+1F90D	corazn blanco
+1F90E	corazn marrn
+1F90F	mano pellizcando
+1F90F-1F3FB	mano pellizcando tono de piel claro
+1F90F-1F3FC	mano pellizcando tono de piel claro medio
+1F90F-1F3FD	mano pellizcando tono de piel medio
+1F90F-1F3FE	mano pellizcando tono de piel oscuro medio
+1F90F-1F3FF	mano pellizcando tono de piel oscuro
+1F910	cara con la boca cerrada con cremallera
+1F911	cara con lengua de dinero
+1F912	cara con termmetro
+1F913	cara de empolln
+1F914	cara pensativa
+1F915	cara con la cabeza vendada
+1F916	robot
+1F917	cara con manos abrazando
+1F918	mano haciendo el signo de cuernos
+1F918-1F3FB	mano haciendo el signo de cuernos tono de piel claro
+1F918-1F3FC	mano haciendo el signo de cuernos tono de piel claro medio
+1F918-1F3FD	mano haciendo el signo de cuernos tono de piel medio
+1F918-1F3FE	mano haciendo el signo de cuernos tono de piel oscuro medio
+1F918-1F3FF	mano haciendo el signo de cuernos tono de piel oscuro
+1F919	mano haciendo el gesto de llamar
+1F919-1F3FB	mano haciendo el gesto de llamar tono de piel claro
+1F919-1F3FC	mano haciendo el gesto de llamar tono de piel claro medio
+1F919-1F3FD	mano haciendo el gesto de llamar tono de piel medio
+1F919-1F3FE	mano haciendo el gesto de llamar tono de piel oscuro medio
+1F919-1F3FF	mano haciendo el gesto de llamar tono de piel oscuro
+1F91A	dorso de la mano
+1F91A-1F3FB	dorso de la mano tono de piel claro
+1F91A-1F3FC	dorso de la mano tono de piel claro medio
+1F91A-1F3FD	dorso de la mano tono de piel medio
+1F91A-1F3FE	dorso de la mano tono de piel oscuro medio
+1F91A-1F3FF	dorso de la mano tono de piel oscuro
+1F91B	puo hacia la izquierda
+1F91B-1F3FB	puo hacia la izquierda tono de piel claro
+1F91B-1F3FC	puo hacia la izquierda tono de piel claro medio
+1F91B-1F3FD	puo hacia la izquierda tono de piel medio
+1F91B-1F3FE	puo hacia la izquierda tono de piel oscuro medio
+1F91B-1F3FF	puo hacia la izquierda tono de piel oscuro
+1F91C	puo hacia la derecha
+1F91C-1F3FB	puo hacia la derecha tono de piel claro
+1F91C-1F3FC	puo hacia la derecha tono de piel claro medio
+1F91C-1F3FD	puo hacia la derecha tono de piel medio
+1F91C-1F3FE	puo hacia la derecha tono de piel oscuro medio
+1F91C-1F3FF	puo hacia la derecha tono de piel oscuro
+1F91D	apretn de manos
+1F91E	dedos cruzados
+1F91E-1F3FB	dedos cruzados tono de piel claro
+1F91E-1F3FC	dedos cruzados tono de piel claro medio
+1F91E-1F3FD	dedos cruzados tono de piel medio
+1F91E-1F3FE	dedos cruzados tono de piel oscuro medio
+1F91E-1F3FF	dedos cruzados tono de piel oscuro
+1F91F	gesto de te quiero
+1F91F-1F3FB	gesto de te quiero tono de piel claro
+1F91F-1F3FC	gesto de te quiero tono de piel claro medio
+1F91F-1F3FD	gesto de te quiero tono de piel medio
+1F91F-1F3FE	gesto de te quiero tono de piel oscuro medio
+1F91F-1F3FF	gesto de te quiero tono de piel oscuro
+1F920	cara con sombrero de vaquero
+1F921	cara de payaso
+1F922	cara de nuseas
+1F923	cara revolvindose de la risa
+1F924	cara babeando
+1F925	cara de mentiroso
+1F926	persona con la mano en la frente
+1F926-200D-2640	mujer con la mano en la frente
+1F926-200D-2642	hombre con la mano en la frente
+1F926-1F3FB	persona con la mano en la frente tono de piel claro
+1F926-1F3FB-200D-2640	mujer con la mano en la frente tono de piel claro
+1F926-1F3FB-200D-2642	hombre con la mano en la frente tono de piel claro
+1F926-1F3FC	persona con la mano en la frente tono de piel claro medio
+1F926-1F3FC-200D-2640	mujer con la mano en la frente tono de piel claro medio
+1F926-1F3FC-200D-2642	hombre con la mano en la frente tono de piel claro medio
+1F926-1F3FD	persona con la mano en la frente tono de piel medio
+1F926-1F3FD-200D-2640	mujer con la mano en la frente tono de piel medio
+1F926-1F3FD-200D-2642	hombre con la mano en la frente tono de piel medio
+1F926-1F3FE	persona con la mano en la frente tono de piel oscuro medio
+1F926-1F3FE-200D-2640	mujer con la mano en la frente tono de piel oscuro medio
+1F926-1F3FE-200D-2642	hombre con la mano en la frente tono de piel oscuro medio
+1F926-1F3FF	persona con la mano en la frente tono de piel oscuro
+1F926-1F3FF-200D-2640	mujer con la mano en la frente tono de piel oscuro
+1F926-1F3FF-200D-2642	hombre con la mano en la frente tono de piel oscuro
+1F927	cara estornudando
+1F928	cara con ceja alzada
+1F929	cara sonriendo con estrellas
+1F92A	cara de loco
+1F92B	cara pidiendo silencio
+1F92C	cara con smbolos en la boca
+1F92D	cara con mano sobre la boca
+1F92E	cara vomitando
+1F92F	cabeza explotando
+1F930	mujer embarazada
+1F930-1F3FB	mujer embarazada tono de piel claro
+1F930-1F3FC	mujer embarazada tono de piel claro medio
+1F930-1F3FD	mujer embarazada tono de piel medio
+1F930-1F3FE	mujer embarazada tono de piel oscuro medio
+1F930-1F3FF	mujer embarazada tono de piel oscuro
+1F931	lactancia materna
+1F931-1F3FB	lactancia materna tono de piel claro
+1F931-1F3FC	lactancia materna tono de piel claro medio
+1F931-1F3FD	lactancia materna tono de piel medio
+1F931-1F3FE	lactancia materna tono de piel oscuro medio
+1F931-1F3FF	lactancia materna tono de piel oscuro
+1F932	palmas hacia arriba juntas
+1F932-1F3FB	palmas hacia arriba juntas tono de piel claro
+1F932-1F3FC	palmas hacia arriba juntas tono de piel claro medio
+1F932-1F3FD	palmas hacia arriba juntas tono de piel medio
+1F932-1F3FE	palmas hacia arriba juntas tono de piel oscuro medio
+1F932-1F3FF	palmas hacia arriba juntas tono de piel oscuro
+1F933	selfi
+1F933-1F3FB	selfi tono de piel claro
+1F933-1F3FC	selfi tono de piel claro medio
+1F933-1F3FD	selfi tono de piel medio
+1F933-1F3FE	selfi tono de piel oscuro medio
+1F933-1F3FF	selfi tono de piel oscuro
+1F934	prncipe
+1F934-1F3FB	prncipe tono de piel claro
+1F934-1F3FC	prncipe tono de piel claro medio
+1F934-1F3FD	prncipe tono de piel medio
+1F934-1F3FE	prncipe tono de piel oscuro medio
+1F934-1F3FF	prncipe tono de piel oscuro
+1F935	persona con esmoquin
+1F935-200D-2640	mujer con esmoquin
+1F935-200D-2642	hombre con esmoquin
+1F935-1F3FB	persona con esmoquin tono de piel claro
+1F935-1F3FB-200D-2640	mujer con esmoquin tono de piel claro
+1F935-1F3FB-200D-2642	hombre con esmoquin tono de piel claro
+1F935-1F3FC	persona con esmoquin tono de piel claro medio
+1F935-1F3FC-200D-2640	mujer con esmoquin tono de piel claro medio
+1F935-1F3FC-200D-2642	hombre con esmoquin tono de piel claro medio
+1F935-1F3FD	persona con esmoquin tono de piel medio
+1F935-1F3FD-200D-2640	mujer con esmoquin tono de piel medio
+1F935-1F3FD-200D-2642	hombre con esmoquin tono de piel medio
+1F935-1F3FE	persona con esmoquin tono de piel oscuro medio
+1F935-1F3FE-200D-2640	mujer con esmoquin tono de piel oscuro medio
+1F935-1F3FE-200D-2642	hombre con esmoquin tono de piel oscuro medio
+1F935-1F3FF	persona con esmoquin tono de piel oscuro
+1F935-1F3FF-200D-2640	mujer con esmoquin tono de piel oscuro
+1F935-1F3FF-200D-2642	hombre con esmoquin tono de piel oscuro
+1F936	Mam Noel
+1F936-1F3FB	Mam Noel tono de piel claro
+1F936-1F3FC	Mam Noel tono de piel claro medio
+1F936-1F3FD	Mam Noel tono de piel medio
+1F936-1F3FE	Mam Noel tono de piel oscuro medio
+1F936-1F3FF	Mam Noel tono de piel oscuro
+1F937	persona encogida de hombros
+1F937-200D-2640	mujer encogida de hombros
+1F937-200D-2642	hombre encogido de hombros
+1F937-1F3FB	persona encogida de hombros tono de piel claro
+1F937-1F3FB-200D-2640	mujer encogida de hombros tono de piel claro
+1F937-1F3FB-200D-2642	hombre encogido de hombros tono de piel claro
+1F937-1F3FC	persona encogida de hombros tono de piel claro medio
+1F937-1F3FC-200D-2640	mujer encogida de hombros tono de piel claro medio
+1F937-1F3FC-200D-2642	hombre encogido de hombros tono de piel claro medio
+1F937-1F3FD	persona encogida de hombros tono de piel medio
+1F937-1F3FD-200D-2640	mujer encogida de hombros tono de piel medio
+1F937-1F3FD-200D-2642	hombre encogido de hombros tono de piel medio
+1F937-1F3FE	persona encogida de hombros tono de piel oscuro medio
+1F937-1F3FE-200D-2640	mujer encogida de hombros tono de piel oscuro medio
+1F937-1F3FE-200D-2642	hombre encogido de hombros tono de piel oscuro medio
+1F937-1F3FF	persona encogida de hombros tono de piel oscuro
+1F937-1F3FF-200D-2640	mujer encogida de hombros tono de piel oscuro
+1F937-1F3FF-200D-2642	hombre encogido de hombros tono de piel oscuro
+1F938	persona haciendo voltereta lateral
+1F938-200D-2640	mujer dando una voltereta lateral
+1F938-200D-2642	hombre dando una voltereta lateral
+1F938-1F3FB	persona haciendo voltereta lateral tono de piel claro
+1F938-1F3FB-200D-2640	mujer dando una voltereta lateral tono de piel claro
+1F938-1F3FB-200D-2642	hombre dando una voltereta lateral tono de piel claro
+1F938-1F3FC	persona haciendo voltereta lateral tono de piel claro medio
+1F938-1F3FC-200D-2640	mujer dando una voltereta lateral tono de piel claro medio
+1F938-1F3FC-200D-2642	hombre dando una voltereta lateral tono de piel claro medio
+1F938-1F3FD	persona haciendo voltereta lateral tono de piel medio
+1F938-1F3FD-200D-2640	mujer dando una voltereta lateral tono de piel medio
+1F938-1F3FD-200D-2642	hombre dando una voltereta lateral tono de piel medio
+1F938-1F3FE	persona haciendo voltereta lateral tono de piel oscuro medio
+1F938-1F3FE-200D-2640	mujer dando una voltereta lateral tono de piel oscuro medio
+1F938-1F3FE-200D-2642	hombre dando una voltereta lateral tono de piel oscuro medio
+1F938-1F3FF	persona haciendo voltereta lateral tono de piel oscuro
+1F938-1F3FF-200D-2640	mujer dando una voltereta lateral tono de piel oscuro
+1F938-1F3FF-200D-2642	hombre dando una voltereta lateral tono de piel oscuro
+1F939	persona haciendo malabares
+1F939-200D-2640	mujer haciendo malabares
+1F939-200D-2642	hombre haciendo malabares
+1F939-1F3FB	persona haciendo malabares tono de piel claro
+1F939-1F3FB-200D-2640	mujer haciendo malabares tono de piel claro
+1F939-1F3FB-200D-2642	hombre haciendo malabares tono de piel claro
+1F939-1F3FC	persona haciendo malabares tono de piel claro medio
+1F939-1F3FC-200D-2640	mujer haciendo malabares tono de piel claro medio
+1F939-1F3FC-200D-2642	hombre haciendo malabares tono de piel claro medio
+1F939-1F3FD	persona haciendo malabares tono de piel medio
+1F939-1F3FD-200D-2640	mujer haciendo malabares tono de piel medio
+1F939-1F3FD-200D-2642	hombre haciendo malabares tono de piel medio
+1F939-1F3FE	persona haciendo malabares tono de piel oscuro medio
+1F939-1F3FE-200D-2640	mujer haciendo malabares tono de piel oscuro medio
+1F939-1F3FE-200D-2642	hombre haciendo malabares tono de piel oscuro medio
+1F939-1F3FF	persona haciendo malabares tono de piel oscuro
+1F939-1F3FF-200D-2640	mujer haciendo malabares tono de piel oscuro
+1F939-1F3FF-200D-2642	hombre haciendo malabares tono de piel oscuro
+1F93A	esgrima
+1F93C	personas luchando
+1F93C-200D-2640	mujeres luchando
+1F93C-200D-2642	hombres luchando
+1F93D	persona jugando al waterpolo
+1F93D-200D-2640	mujer jugando al waterpolo
+1F93D-200D-2642	hombre jugando al waterpolo
+1F93D-1F3FB	persona jugando al waterpolo tono de piel claro
+1F93D-1F3FB-200D-2640	mujer jugando al waterpolo tono de piel claro
+1F93D-1F3FB-200D-2642	hombre jugando al waterpolo tono de piel claro
+1F93D-1F3FC	persona jugando al waterpolo tono de piel claro medio
+1F93D-1F3FC-200D-2640	mujer jugando al waterpolo tono de piel claro medio
+1F93D-1F3FC-200D-2642	hombre jugando al waterpolo tono de piel claro medio
+1F93D-1F3FD	persona jugando al waterpolo tono de piel medio
+1F93D-1F3FD-200D-2640	mujer jugando al waterpolo tono de piel medio
+1F93D-1F3FD-200D-2642	hombre jugando al waterpolo tono de piel medio
+1F93D-1F3FE	persona jugando al waterpolo tono de piel oscuro medio
+1F93D-1F3FE-200D-2640	mujer jugando al waterpolo tono de piel oscuro medio
+1F93D-1F3FE-200D-2642	hombre jugando al waterpolo tono de piel oscuro medio
+1F93D-1F3FF	persona jugando al waterpolo tono de piel oscuro
+1F93D-1F3FF-200D-2640	mujer jugando al waterpolo tono de piel oscuro
+1F93D-1F3FF-200D-2642	hombre jugando al waterpolo tono de piel oscuro
+1F93E	persona jugando al balonmano
+1F93E-200D-2640	mujer jugando al balonmano
+1F93E-200D-2642	hombre jugando al balonmano
+1F93E-1F3FB	persona jugando al balonmano tono de piel claro
+1F93E-1F3FB-200D-2640	mujer jugando al balonmano tono de piel claro
+1F93E-1F3FB-200D-2642	hombre jugando al balonmano tono de piel claro
+1F93E-1F3FC	persona jugando al balonmano tono de piel claro medio
+1F93E-1F3FC-200D-2640	mujer jugando al balonmano tono de piel claro medio
+1F93E-1F3FC-200D-2642	hombre jugando al balonmano tono de piel claro medio
+1F93E-1F3FD	persona jugando al balonmano tono de piel medio
+1F93E-1F3FD-200D-2640	mujer jugando al balonmano tono de piel medio
+1F93E-1F3FD-200D-2642	hombre jugando al balonmano tono de piel medio
+1F93E-1F3FE	persona jugando al balonmano tono de piel oscuro medio
+1F93E-1F3FE-200D-2640	mujer jugando al balonmano tono de piel oscuro medio
+1F93E-1F3FE-200D-2642	hombre jugando al balonmano tono de piel oscuro medio
+1F93E-1F3FF	persona jugando al balonmano tono de piel oscuro
+1F93E-1F3FF-200D-2640	mujer jugando al balonmano tono de piel oscuro
+1F93E-1F3FF-200D-2642	hombre jugando al balonmano tono de piel oscuro
+1F93F	mscara de buceo
+1F940	flor marchita
+1F941	tambor
+1F942	copas brindando
+1F943	vaso de whisky
+1F944	cuchara
+1F945	portera
+1F947	medalla de oro
+1F948	medalla de plata
+1F949	medalla de bronce
+1F94A	guante de boxeo
+1F94B	uniforme de artes marciales
+1F94C	piedra de curling
+1F94D	lacrosse
+1F94E	pelota de softball
+1F94F	disco volador
+1F950	cruasn
+1F951	aguacate
+1F952	pepino
+1F953	beicon
+1F954	patata
+1F955	zanahoria
+1F956	baguete
+1F957	ensalada
+1F958	paella
+1F959	pan relleno
+1F95A	huevo
+1F95B	vaso de leche
+1F95C	cacahuetes
+1F95D	kiwi
+1F95E	tortitas
+1F95F	dumpling
+1F960	galleta de la fortuna
+1F961	caja para llevar
+1F962	palillos
+1F963	cuenco con cuchara
+1F964	vaso con pajita
+1F965	coco
+1F966	brcoli
+1F967	pastel
+1F968	bretzel
+1F969	corte de carne
+1F96A	sndwich
+1F96B	comida enlatada
+1F96C	verdura de hoja verde
+1F96D	mango
+1F96E	pastel de luna
+1F96F	bagel
+1F970	cara sonriendo con corazones
+1F971	cara de bostezo
+1F972	cara sonriente con lgrima
+1F973	cara de fiesta
+1F974	cara de grogui
+1F975	cara con calor
+1F976	cara con fro
+1F977	ninja
+1F977-1F3FB	ninja tono de piel claro
+1F977-1F3FC	ninja tono de piel claro medio
+1F977-1F3FD	ninja tono de piel medio
+1F977-1F3FE	ninja tono de piel oscuro medio
+1F977-1F3FF	ninja tono de piel oscuro
+1F978	cara disfrazada
+1F97A	cara de por favor
+1F97B	sari
+1F97C	bata de laboratorio
+1F97D	gafas de proteccin
+1F97E	bota de senderismo
+1F97F	bailarina
+1F980	cangrejo
+1F981	len
+1F982	escorpin
+1F983	pavo
+1F984	unicornio
+1F985	guila
+1F986	pato
+1F987	murcilago
+1F988	tiburn
+1F989	bho
+1F98A	zorro
+1F98B	mariposa
+1F98C	ciervo
+1F98D	gorila
+1F98E	lagarto
+1F98F	rinoceronte
+1F990	gamba
+1F991	calamar
+1F992	jirafa
+1F993	cebra
+1F994	erizo
+1F995	saurpodo
+1F996	t-rex
+1F997	grillo
+1F998	canguro
+1F999	llama
+1F99A	pavo real
+1F99B	hipoptamo
+1F99C	loro
+1F99D	mapache
+1F99E	langosta
+1F99F	mosquito
+1F9A0	microbio
+1F9A1	tejn
+1F9A2	cisne
+1F9A3	mamut
+1F9A4	dodo
+1F9A5	perezoso
+1F9A6	nutria
+1F9A7	orangutn
+1F9A8	mofeta
+1F9A9	flamenco
+1F9AA	ostra
+1F9AB	castor
+1F9AC	bisonte
+1F9AD	foca
+1F9AE	perro gua
+1F9AF	bastn
+1F9B0	pelo pelirrojo
+1F9B1	pelo rizado
+1F9B2	sin pelo
+1F9B3	pelo blanco
+1F9B4	hueso
+1F9B5	pierna
+1F9B5-1F3FB	pierna tono de piel claro
+1F9B5-1F3FC	pierna tono de piel claro medio
+1F9B5-1F3FD	pierna tono de piel medio
+1F9B5-1F3FE	pierna tono de piel oscuro medio
+1F9B5-1F3FF	pierna tono de piel oscuro
+1F9B6	pie
+1F9B6-1F3FB	pie tono de piel claro
+1F9B6-1F3FC	pie tono de piel claro medio
+1F9B6-1F3FD	pie tono de piel medio
+1F9B6-1F3FE	pie tono de piel oscuro medio
+1F9B6-1F3FF	pie tono de piel oscuro
+1F9B7	diente
+1F9B8	personaje de superhroe
+1F9B8-200D-2640	superherona
+1F9B8-200D-2642	superhroe
+1F9B8-1F3FB	personaje de superhroe tono de piel claro
+1F9B8-1F3FB-200D-2640	superherona tono de piel claro
+1F9B8-1F3FB-200D-2642	superhroe tono de piel claro
+1F9B8-1F3FC	personaje de superhroe tono de piel claro medio
+1F9B8-1F3FC-200D-2640	superherona tono de piel claro medio
+1F9B8-1F3FC-200D-2642	superhroe tono de piel claro medio
+1F9B8-1F3FD	personaje de superhroe tono de piel medio
+1F9B8-1F3FD-200D-2640	superherona tono de piel medio
+1F9B8-1F3FD-200D-2642	superhroe tono de piel medio
+1F9B8-1F3FE	personaje de superhroe tono de piel oscuro medio
+1F9B8-1F3FE-200D-2640	superherona tono de piel oscuro medio
+1F9B8-1F3FE-200D-2642	superhroe tono de piel oscuro medio
+1F9B8-1F3FF	personaje de superhroe tono de piel oscuro
+1F9B8-1F3FF-200D-2640	superherona tono de piel oscuro
+1F9B8-1F3FF-200D-2642	superhroe tono de piel oscuro
+1F9B9	personaje de supervillano
+1F9B9-200D-2640	supervillana
+1F9B9-200D-2642	supervillano
+1F9B9-1F3FB	personaje de supervillano tono de piel claro
+1F9B9-1F3FB-200D-2640	supervillana tono de piel claro
+1F9B9-1F3FB-200D-2642	supervillano tono de piel claro
+1F9B9-1F3FC	personaje de supervillano tono de piel claro medio
+1F9B9-1F3FC-200D-2640	supervillana tono de piel claro medio
+1F9B9-1F3FC-200D-2642	supervillano tono de piel claro medio
+1F9B9-1F3FD	personaje de supervillano tono de piel medio
+1F9B9-1F3FD-200D-2640	supervillana tono de piel medio
+1F9B9-1F3FD-200D-2642	supervillano tono de piel medio
+1F9B9-1F3FE	personaje de supervillano tono de piel oscuro medio
+1F9B9-1F3FE-200D-2640	supervillana tono de piel oscuro medio
+1F9B9-1F3FE-200D-2642	supervillano tono de piel oscuro medio
+1F9B9-1F3FF	personaje de supervillano tono de piel oscuro
+1F9B9-1F3FF-200D-2640	supervillana tono de piel oscuro
+1F9B9-1F3FF-200D-2642	supervillano tono de piel oscuro
+1F9BA	chaleco de seguridad
+1F9BB	oreja con audfono
+1F9BB-1F3FB	oreja con audfono tono de piel claro
+1F9BB-1F3FC	oreja con audfono tono de piel claro medio
+1F9BB-1F3FD	oreja con audfono tono de piel medio
+1F9BB-1F3FE	oreja con audfono tono de piel oscuro medio
+1F9BB-1F3FF	oreja con audfono tono de piel oscuro
+1F9BC	silla de ruedas elctrica
+1F9BD	silla de ruedas manual
+1F9BE	brazo mecnico
+1F9BF	pierna mecnica
+1F9C0	cua de queso
+1F9C1	magdalena
+1F9C2	sal
+1F9C3	tetrabrik
+1F9C4	ajo
+1F9C5	cebolla
+1F9C6	falafel
+1F9C7	gofre
+1F9C8	mantequilla
+1F9C9	mate
+1F9CA	cubito de hielo
+1F9CB	t de burbujas
+1F9CD	persona de pie
+1F9CD-200D-2640	mujer de pie
+1F9CD-200D-2642	hombre de pie
+1F9CD-1F3FB	persona de pie tono de piel claro
+1F9CD-1F3FB-200D-2640	mujer de pie tono de piel claro
+1F9CD-1F3FB-200D-2642	hombre de pie tono de piel claro
+1F9CD-1F3FC	persona de pie tono de piel claro medio
+1F9CD-1F3FC-200D-2640	mujer de pie tono de piel claro medio
+1F9CD-1F3FC-200D-2642	hombre de pie tono de piel claro medio
+1F9CD-1F3FD	persona de pie tono de piel medio
+1F9CD-1F3FD-200D-2640	mujer de pie tono de piel medio
+1F9CD-1F3FD-200D-2642	hombre de pie tono de piel medio
+1F9CD-1F3FE	persona de pie tono de piel oscuro medio
+1F9CD-1F3FE-200D-2640	mujer de pie tono de piel oscuro medio
+1F9CD-1F3FE-200D-2642	hombre de pie tono de piel oscuro medio
+1F9CD-1F3FF	persona de pie tono de piel oscuro
+1F9CD-1F3FF-200D-2640	mujer de pie tono de piel oscuro
+1F9CD-1F3FF-200D-2642	hombre de pie tono de piel oscuro
+1F9CE	persona de rodillas
+1F9CE-200D-2640	mujer de rodillas
+1F9CE-200D-2642	hombre de rodillas
+1F9CE-1F3FB	persona de rodillas tono de piel claro
+1F9CE-1F3FB-200D-2640	mujer de rodillas tono de piel claro
+1F9CE-1F3FB-200D-2642	hombre de rodillas tono de piel claro
+1F9CE-1F3FC	persona de rodillas tono de piel claro medio
+1F9CE-1F3FC-200D-2640	mujer de rodillas tono de piel claro medio
+1F9CE-1F3FC-200D-2642	hombre de rodillas tono de piel claro medio
+1F9CE-1F3FD	persona de rodillas tono de piel medio
+1F9CE-1F3FD-200D-2640	mujer de rodillas tono de piel medio
+1F9CE-1F3FD-200D-2642	hombre de rodillas tono de piel medio
+1F9CE-1F3FE	persona de rodillas tono de piel oscuro medio
+1F9CE-1F3FE-200D-2640	mujer de rodillas tono de piel oscuro medio
+1F9CE-1F3FE-200D-2642	hombre de rodillas tono de piel oscuro medio
+1F9CE-1F3FF	persona de rodillas tono de piel oscuro
+1F9CE-1F3FF-200D-2640	mujer de rodillas tono de piel oscuro
+1F9CE-1F3FF-200D-2642	hombre de rodillas tono de piel oscuro
+1F9CF	persona sorda
+1F9CF-200D-2640	mujer sorda
+1F9CF-200D-2642	hombre sordo
+1F9CF-1F3FB	persona sorda tono de piel claro
+1F9CF-1F3FB-200D-2640	mujer sorda tono de piel claro
+1F9CF-1F3FB-200D-2642	hombre sordo tono de piel claro
+1F9CF-1F3FC	persona sorda tono de piel claro medio
+1F9CF-1F3FC-200D-2640	mujer sorda tono de piel claro medio
+1F9CF-1F3FC-200D-2642	hombre sordo tono de piel claro medio
+1F9CF-1F3FD	persona sorda tono de piel medio
+1F9CF-1F3FD-200D-2640	mujer sorda tono de piel medio
+1F9CF-1F3FD-200D-2642	hombre sordo tono de piel medio
+1F9CF-1F3FE	persona sorda tono de piel oscuro medio
+1F9CF-1F3FE-200D-2640	mujer sorda tono de piel oscuro medio
+1F9CF-1F3FE-200D-2642	hombre sordo tono de piel oscuro medio
+1F9CF-1F3FF	persona sorda tono de piel oscuro
+1F9CF-1F3FF-200D-2640	mujer sorda tono de piel oscuro
+1F9CF-1F3FF-200D-2642	hombre sordo tono de piel oscuro
+1F9D0	cara con monculo
+1F9D1	persona adulta
+1F9D1-200D-2695	profesional sanitario
+1F9D1-200D-2696	fiscal
+1F9D1-200D-2708	piloto
+1F9D1-200D-1F33E	profesional de la agricultura
+1F9D1-200D-1F373	chef
+1F9D1-200D-1F37C	persona alimentando a beb
+1F9D1-200D-1F384	Noel
+1F9D1-200D-1F393	estudiante
+1F9D1-200D-1F3A4	cantante
+1F9D1-200D-1F3A8	artista
+1F9D1-200D-1F3EB	docente
+1F9D1-200D-1F3ED	profesional industrial
+1F9D1-200D-1F4BB	profesional de la tecnologa
+1F9D1-200D-1F4BC	oficinista
+1F9D1-200D-1F527	profesional de la mecnica
+1F9D1-200D-1F52C	profesional de la ciencia
+1F9D1-200D-1F680	astronauta
+1F9D1-200D-1F692	bombero
+1F9D1-200D-1F91D-200D-1F9D1	dos personas de la mano
+1F9D1-200D-1F9AF	persona con bastn
+1F9D1-200D-1F9B0	persona adulta pelo pelirrojo
+1F9D1-200D-1F9B1	persona adulta pelo rizado
+1F9D1-200D-1F9B2	persona adulta sin pelo
+1F9D1-200D-1F9B3	persona adulta pelo blanco
+1F9D1-200D-1F9BC	persona en silla de ruedas elctrica
+1F9D1-200D-1F9BD	persona en silla de ruedas manual
+1F9D1-1F3FB	persona adulta tono de piel claro
+1F9D1-1F3FB-200D-2695	profesional sanitario tono de piel claro
+1F9D1-1F3FB-200D-2696	fiscal tono de piel claro
+1F9D1-1F3FB-200D-2708	piloto tono de piel claro
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beso persona adulta persona adulta tono de piel claro tono de piel claro medio
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beso persona adulta persona adulta tono de piel claro tono de piel medio
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beso persona adulta persona adulta tono de piel claro tono de piel oscuro medio
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beso persona adulta persona adulta tono de piel claro tono de piel oscuro
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	pareja enamorada persona adulta persona adulta tono de piel claro tono de piel claro medio
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	pareja enamorada persona adulta persona adulta tono de piel claro tono de piel medio
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	pareja enamorada persona adulta persona adulta tono de piel claro tono de piel oscuro medio
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	pareja enamorada persona adulta persona adulta tono de piel claro tono de piel oscuro
+1F9D1-1F3FB-200D-1F33E	profesional de la agricultura tono de piel claro
+1F9D1-1F3FB-200D-1F373	chef tono de piel claro
+1F9D1-1F3FB-200D-1F37C	persona alimentando a beb tono de piel claro
+1F9D1-1F3FB-200D-1F384	Noel tono de piel claro
+1F9D1-1F3FB-200D-1F393	estudiante tono de piel claro
+1F9D1-1F3FB-200D-1F3A4	cantante tono de piel claro
+1F9D1-1F3FB-200D-1F3A8	artista tono de piel claro
+1F9D1-1F3FB-200D-1F3EB	docente tono de piel claro
+1F9D1-1F3FB-200D-1F3ED	profesional industrial tono de piel claro
+1F9D1-1F3FB-200D-1F4BB	profesional de la tecnologa tono de piel claro
+1F9D1-1F3FB-200D-1F4BC	oficinista tono de piel claro
+1F9D1-1F3FB-200D-1F527	profesional de la mecnica tono de piel claro
+1F9D1-1F3FB-200D-1F52C	profesional de la ciencia tono de piel claro
+1F9D1-1F3FB-200D-1F680	astronauta tono de piel claro
+1F9D1-1F3FB-200D-1F692	bombero tono de piel claro
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	dos personas de la mano tono de piel claro
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	dos personas de la mano tono de piel claro y tono de piel claro medio
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	dos personas de la mano tono de piel claro y tono de piel medio
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	dos personas de la mano tono de piel claro y tono de piel oscuro medio
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	dos personas de la mano tono de piel claro y tono de piel oscuro
+1F9D1-1F3FB-200D-1F9AF	persona con bastn tono de piel claro
+1F9D1-1F3FB-200D-1F9B0	persona adulta tono de piel claro y pelo pelirrojo
+1F9D1-1F3FB-200D-1F9B1	persona adulta tono de piel claro y pelo rizado
+1F9D1-1F3FB-200D-1F9B2	persona adulta tono de piel claro y sin pelo
+1F9D1-1F3FB-200D-1F9B3	persona adulta tono de piel claro y pelo blanco
+1F9D1-1F3FB-200D-1F9BC	persona en silla de ruedas elctrica tono de piel claro
+1F9D1-1F3FB-200D-1F9BD	persona en silla de ruedas manual tono de piel claro
+1F9D1-1F3FC	persona adulta tono de piel claro medio
+1F9D1-1F3FC-200D-2695	profesional sanitario tono de piel claro medio
+1F9D1-1F3FC-200D-2696	fiscal tono de piel claro medio
+1F9D1-1F3FC-200D-2708	piloto tono de piel claro medio
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beso persona adulta persona adulta tono de piel claro medio tono de piel claro
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beso persona adulta persona adulta tono de piel claro medio tono de piel medio
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beso persona adulta persona adulta tono de piel claro medio tono de piel oscuro medio
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beso persona adulta persona adulta tono de piel claro medio tono de piel oscuro
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	pareja enamorada persona adulta persona adulta tono de piel claro medio tono de piel claro
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	pareja enamorada persona adulta persona adulta tono de piel claro medio tono de piel medio
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	pareja enamorada persona adulta persona adulta tono de piel claro medio tono de piel oscuro medio
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	pareja enamorada persona adulta persona adulta tono de piel claro medio tono de piel oscuro
+1F9D1-1F3FC-200D-1F33E	profesional de la agricultura tono de piel claro medio
+1F9D1-1F3FC-200D-1F373	chef tono de piel claro medio
+1F9D1-1F3FC-200D-1F37C	persona alimentando a beb tono de piel claro medio
+1F9D1-1F3FC-200D-1F384	Noel tono de piel claro medio
+1F9D1-1F3FC-200D-1F393	estudiante tono de piel claro medio
+1F9D1-1F3FC-200D-1F3A4	cantante tono de piel claro medio
+1F9D1-1F3FC-200D-1F3A8	artista tono de piel claro medio
+1F9D1-1F3FC-200D-1F3EB	docente tono de piel claro medio
+1F9D1-1F3FC-200D-1F3ED	profesional industrial tono de piel claro medio
+1F9D1-1F3FC-200D-1F4BB	profesional de la tecnologa tono de piel claro medio
+1F9D1-1F3FC-200D-1F4BC	oficinista tono de piel claro medio
+1F9D1-1F3FC-200D-1F527	profesional de la mecnica tono de piel claro medio
+1F9D1-1F3FC-200D-1F52C	profesional de la ciencia tono de piel claro medio
+1F9D1-1F3FC-200D-1F680	astronauta tono de piel claro medio
+1F9D1-1F3FC-200D-1F692	bombero tono de piel claro medio
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	dos personas de la mano tono de piel claro medio y tono de piel claro
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	dos personas de la mano tono de piel claro medio
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	dos personas de la mano tono de piel claro medio y tono de piel medio
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	dos personas de la mano tono de piel claro medio y tono de piel oscuro medio
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	dos personas de la mano tono de piel claro medio y tono de piel oscuro
+1F9D1-1F3FC-200D-1F9AF	persona con bastn tono de piel claro medio
+1F9D1-1F3FC-200D-1F9B0	persona adulta tono de piel claro medio y pelo pelirrojo
+1F9D1-1F3FC-200D-1F9B1	persona adulta tono de piel claro medio y pelo rizado
+1F9D1-1F3FC-200D-1F9B2	persona adulta tono de piel claro medio y sin pelo
+1F9D1-1F3FC-200D-1F9B3	persona adulta tono de piel claro medio y pelo blanco
+1F9D1-1F3FC-200D-1F9BC	persona en silla de ruedas elctrica tono de piel claro medio
+1F9D1-1F3FC-200D-1F9BD	persona en silla de ruedas manual tono de piel claro medio
+1F9D1-1F3FD	persona adulta tono de piel medio
+1F9D1-1F3FD-200D-2695	profesional sanitario tono de piel medio
+1F9D1-1F3FD-200D-2696	fiscal tono de piel medio
+1F9D1-1F3FD-200D-2708	piloto tono de piel medio
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beso persona adulta persona adulta tono de piel medio tono de piel claro
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beso persona adulta persona adulta tono de piel medio tono de piel claro medio
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beso persona adulta persona adulta tono de piel medio tono de piel oscuro medio
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beso persona adulta persona adulta tono de piel medio tono de piel oscuro
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	pareja enamorada persona adulta persona adulta tono de piel medio tono de piel claro
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	pareja enamorada persona adulta persona adulta tono de piel medio tono de piel claro medio
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	pareja enamorada persona adulta persona adulta tono de piel medio tono de piel oscuro medio
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	pareja enamorada persona adulta persona adulta tono de piel medio tono de piel oscuro
+1F9D1-1F3FD-200D-1F33E	profesional de la agricultura tono de piel medio
+1F9D1-1F3FD-200D-1F373	chef tono de piel medio
+1F9D1-1F3FD-200D-1F37C	persona alimentando a beb tono de piel medio
+1F9D1-1F3FD-200D-1F384	Noel tono de piel medio
+1F9D1-1F3FD-200D-1F393	estudiante tono de piel medio
+1F9D1-1F3FD-200D-1F3A4	cantante tono de piel medio
+1F9D1-1F3FD-200D-1F3A8	artista tono de piel medio
+1F9D1-1F3FD-200D-1F3EB	docente tono de piel medio
+1F9D1-1F3FD-200D-1F3ED	profesional industrial tono de piel medio
+1F9D1-1F3FD-200D-1F4BB	profesional de la tecnologa tono de piel medio
+1F9D1-1F3FD-200D-1F4BC	oficinista tono de piel medio
+1F9D1-1F3FD-200D-1F527	profesional de la mecnica tono de piel medio
+1F9D1-1F3FD-200D-1F52C	profesional de la ciencia tono de piel medio
+1F9D1-1F3FD-200D-1F680	astronauta tono de piel medio
+1F9D1-1F3FD-200D-1F692	bombero tono de piel medio
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	dos personas de la mano tono de piel medio y tono de piel claro
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	dos personas de la mano tono de piel medio y tono de piel claro medio
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	dos personas de la mano tono de piel medio
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	dos personas de la mano tono de piel medio y tono de piel oscuro medio
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	dos personas de la mano tono de piel medio y tono de piel oscuro
+1F9D1-1F3FD-200D-1F9AF	persona con bastn tono de piel medio
+1F9D1-1F3FD-200D-1F9B0	persona adulta tono de piel medio y pelo pelirrojo
+1F9D1-1F3FD-200D-1F9B1	persona adulta tono de piel medio y pelo rizado
+1F9D1-1F3FD-200D-1F9B2	persona adulta tono de piel medio y sin pelo
+1F9D1-1F3FD-200D-1F9B3	persona adulta tono de piel medio y pelo blanco
+1F9D1-1F3FD-200D-1F9BC	persona en silla de ruedas elctrica tono de piel medio
+1F9D1-1F3FD-200D-1F9BD	persona en silla de ruedas manual tono de piel medio
+1F9D1-1F3FE	persona adulta tono de piel oscuro medio
+1F9D1-1F3FE-200D-2695	profesional sanitario tono de piel oscuro medio
+1F9D1-1F3FE-200D-2696	fiscal tono de piel oscuro medio
+1F9D1-1F3FE-200D-2708	piloto tono de piel oscuro medio
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beso persona adulta persona adulta tono de piel oscuro medio tono de piel claro
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beso persona adulta persona adulta tono de piel oscuro medio tono de piel claro medio
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beso persona adulta persona adulta tono de piel oscuro medio tono de piel medio
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beso persona adulta persona adulta tono de piel oscuro medio tono de piel oscuro
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	pareja enamorada persona adulta persona adulta tono de piel oscuro medio tono de piel claro
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	pareja enamorada persona adulta persona adulta tono de piel oscuro medio tono de piel claro medio
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	pareja enamorada persona adulta persona adulta tono de piel oscuro medio tono de piel medio
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	pareja enamorada persona adulta persona adulta tono de piel oscuro medio tono de piel oscuro
+1F9D1-1F3FE-200D-1F33E	profesional de la agricultura tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F373	chef tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F37C	persona alimentando a beb tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F384	Noel tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F393	estudiante tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F3A4	cantante tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F3A8	artista tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F3EB	docente tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F3ED	profesional industrial tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F4BB	profesional de la tecnologa tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F4BC	oficinista tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F527	profesional de la mecnica tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F52C	profesional de la ciencia tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F680	astronauta tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F692	bombero tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	dos personas de la mano tono de piel oscuro medio y tono de piel claro
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	dos personas de la mano tono de piel oscuro medio y tono de piel claro medio
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	dos personas de la mano tono de piel oscuro medio y tono de piel medio
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	dos personas de la mano tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	dos personas de la mano tono de piel oscuro medio y tono de piel oscuro
+1F9D1-1F3FE-200D-1F9AF	persona con bastn tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F9B0	persona adulta tono de piel oscuro medio y pelo pelirrojo
+1F9D1-1F3FE-200D-1F9B1	persona adulta tono de piel oscuro medio y pelo rizado
+1F9D1-1F3FE-200D-1F9B2	persona adulta tono de piel oscuro medio y sin pelo
+1F9D1-1F3FE-200D-1F9B3	persona adulta tono de piel oscuro medio y pelo blanco
+1F9D1-1F3FE-200D-1F9BC	persona en silla de ruedas elctrica tono de piel oscuro medio
+1F9D1-1F3FE-200D-1F9BD	persona en silla de ruedas manual tono de piel oscuro medio
+1F9D1-1F3FF	persona adulta tono de piel oscuro
+1F9D1-1F3FF-200D-2695	profesional sanitario tono de piel oscuro
+1F9D1-1F3FF-200D-2696	fiscal tono de piel oscuro
+1F9D1-1F3FF-200D-2708	piloto tono de piel oscuro
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beso persona adulta persona adulta tono de piel oscuro tono de piel claro
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beso persona adulta persona adulta tono de piel oscuro tono de piel claro medio
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beso persona adulta persona adulta tono de piel oscuro tono de piel medio
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beso persona adulta persona adulta tono de piel oscuro tono de piel oscuro medio
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	pareja enamorada persona adulta persona adulta tono de piel oscuro tono de piel claro
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	pareja enamorada persona adulta persona adulta tono de piel oscuro tono de piel claro medio
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	pareja enamorada persona adulta persona adulta tono de piel oscuro tono de piel medio
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	pareja enamorada persona adulta persona adulta tono de piel oscuro tono de piel oscuro medio
+1F9D1-1F3FF-200D-1F33E	profesional de la agricultura tono de piel oscuro
+1F9D1-1F3FF-200D-1F373	chef tono de piel oscuro
+1F9D1-1F3FF-200D-1F37C	persona alimentando a beb tono de piel oscuro
+1F9D1-1F3FF-200D-1F384	Noel tono de piel oscuro
+1F9D1-1F3FF-200D-1F393	estudiante tono de piel oscuro
+1F9D1-1F3FF-200D-1F3A4	cantante tono de piel oscuro
+1F9D1-1F3FF-200D-1F3A8	artista tono de piel oscuro
+1F9D1-1F3FF-200D-1F3EB	docente tono de piel oscuro
+1F9D1-1F3FF-200D-1F3ED	profesional industrial tono de piel oscuro
+1F9D1-1F3FF-200D-1F4BB	profesional de la tecnologa tono de piel oscuro
+1F9D1-1F3FF-200D-1F4BC	oficinista tono de piel oscuro
+1F9D1-1F3FF-200D-1F527	profesional de la mecnica tono de piel oscuro
+1F9D1-1F3FF-200D-1F52C	profesional de la ciencia tono de piel oscuro
+1F9D1-1F3FF-200D-1F680	astronauta tono de piel oscuro
+1F9D1-1F3FF-200D-1F692	bombero tono de piel oscuro
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	dos personas de la mano tono de piel oscuro y tono de piel claro
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	dos personas de la mano tono de piel oscuro y tono de piel claro medio
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	dos personas de la mano tono de piel oscuro y tono de piel medio
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	dos personas de la mano tono de piel oscuro y tono de piel oscuro medio
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	dos personas de la mano tono de piel oscuro
+1F9D1-1F3FF-200D-1F9AF	persona con bastn tono de piel oscuro
+1F9D1-1F3FF-200D-1F9B0	persona adulta tono de piel oscuro y pelo pelirrojo
+1F9D1-1F3FF-200D-1F9B1	persona adulta tono de piel oscuro y pelo rizado
+1F9D1-1F3FF-200D-1F9B2	persona adulta tono de piel oscuro y sin pelo
+1F9D1-1F3FF-200D-1F9B3	persona adulta tono de piel oscuro y pelo blanco
+1F9D1-1F3FF-200D-1F9BC	persona en silla de ruedas elctrica tono de piel oscuro
+1F9D1-1F3FF-200D-1F9BD	persona en silla de ruedas manual tono de piel oscuro
+1F9D2	infante
+1F9D2-1F3FB	infante tono de piel claro
+1F9D2-1F3FC	infante tono de piel claro medio
+1F9D2-1F3FD	infante tono de piel medio
+1F9D2-1F3FE	infante tono de piel oscuro medio
+1F9D2-1F3FF	infante tono de piel oscuro
+1F9D3	persona mayor
+1F9D3-1F3FB	persona mayor tono de piel claro
+1F9D3-1F3FC	persona mayor tono de piel claro medio
+1F9D3-1F3FD	persona mayor tono de piel medio
+1F9D3-1F3FE	persona mayor tono de piel oscuro medio
+1F9D3-1F3FF	persona mayor tono de piel oscuro
+1F9D4	hombre con barba
+1F9D4-200D-2640	mujer barba
+1F9D4-200D-2642	hombre barba
+1F9D4-1F3FB	hombre con barba tono de piel claro
+1F9D4-1F3FB-200D-2640	mujer tono de piel claro y barba
+1F9D4-1F3FB-200D-2642	hombre tono de piel claro y barba
+1F9D4-1F3FC	hombre con barba tono de piel claro medio
+1F9D4-1F3FC-200D-2640	mujer tono de piel claro medio y barba
+1F9D4-1F3FC-200D-2642	hombre tono de piel claro medio y barba
+1F9D4-1F3FD	hombre con barba tono de piel medio
+1F9D4-1F3FD-200D-2640	mujer tono de piel medio y barba
+1F9D4-1F3FD-200D-2642	hombre tono de piel medio y barba
+1F9D4-1F3FE	hombre con barba tono de piel oscuro medio
+1F9D4-1F3FE-200D-2640	mujer tono de piel oscuro medio y barba
+1F9D4-1F3FE-200D-2642	hombre tono de piel oscuro medio y barba
+1F9D4-1F3FF	hombre con barba tono de piel oscuro
+1F9D4-1F3FF-200D-2640	mujer tono de piel oscuro y barba
+1F9D4-1F3FF-200D-2642	hombre tono de piel oscuro y barba
+1F9D5	mujer con hiyab
+1F9D5-1F3FB	mujer con hiyab tono de piel claro
+1F9D5-1F3FC	mujer con hiyab tono de piel claro medio
+1F9D5-1F3FD	mujer con hiyab tono de piel medio
+1F9D5-1F3FE	mujer con hiyab tono de piel oscuro medio
+1F9D5-1F3FF	mujer con hiyab tono de piel oscuro
+1F9D6	persona en una sauna
+1F9D6-200D-2640	mujer en una sauna
+1F9D6-200D-2642	hombre en una sauna
+1F9D6-1F3FB	persona en una sauna tono de piel claro
+1F9D6-1F3FB-200D-2640	mujer en una sauna tono de piel claro
+1F9D6-1F3FB-200D-2642	hombre en una sauna tono de piel claro
+1F9D6-1F3FC	persona en una sauna tono de piel claro medio
+1F9D6-1F3FC-200D-2640	mujer en una sauna tono de piel claro medio
+1F9D6-1F3FC-200D-2642	hombre en una sauna tono de piel claro medio
+1F9D6-1F3FD	persona en una sauna tono de piel medio
+1F9D6-1F3FD-200D-2640	mujer en una sauna tono de piel medio
+1F9D6-1F3FD-200D-2642	hombre en una sauna tono de piel medio
+1F9D6-1F3FE	persona en una sauna tono de piel oscuro medio
+1F9D6-1F3FE-200D-2640	mujer en una sauna tono de piel oscuro medio
+1F9D6-1F3FE-200D-2642	hombre en una sauna tono de piel oscuro medio
+1F9D6-1F3FF	persona en una sauna tono de piel oscuro
+1F9D6-1F3FF-200D-2640	mujer en una sauna tono de piel oscuro
+1F9D6-1F3FF-200D-2642	hombre en una sauna tono de piel oscuro
+1F9D7	persona escalando
+1F9D7-200D-2640	mujer escalando
+1F9D7-200D-2642	hombre escalando
+1F9D7-1F3FB	persona escalando tono de piel claro
+1F9D7-1F3FB-200D-2640	mujer escalando tono de piel claro
+1F9D7-1F3FB-200D-2642	hombre escalando tono de piel claro
+1F9D7-1F3FC	persona escalando tono de piel claro medio
+1F9D7-1F3FC-200D-2640	mujer escalando tono de piel claro medio
+1F9D7-1F3FC-200D-2642	hombre escalando tono de piel claro medio
+1F9D7-1F3FD	persona escalando tono de piel medio
+1F9D7-1F3FD-200D-2640	mujer escalando tono de piel medio
+1F9D7-1F3FD-200D-2642	hombre escalando tono de piel medio
+1F9D7-1F3FE	persona escalando tono de piel oscuro medio
+1F9D7-1F3FE-200D-2640	mujer escalando tono de piel oscuro medio
+1F9D7-1F3FE-200D-2642	hombre escalando tono de piel oscuro medio
+1F9D7-1F3FF	persona escalando tono de piel oscuro
+1F9D7-1F3FF-200D-2640	mujer escalando tono de piel oscuro
+1F9D7-1F3FF-200D-2642	hombre escalando tono de piel oscuro
+1F9D8	persona en posicin de loto
+1F9D8-200D-2640	mujer en posicin de loto
+1F9D8-200D-2642	hombre en posicin de loto
+1F9D8-1F3FB	persona en posicin de loto tono de piel claro
+1F9D8-1F3FB-200D-2640	mujer en posicin de loto tono de piel claro
+1F9D8-1F3FB-200D-2642	hombre en posicin de loto tono de piel claro
+1F9D8-1F3FC	persona en posicin de loto tono de piel claro medio
+1F9D8-1F3FC-200D-2640	mujer en posicin de loto tono de piel claro medio
+1F9D8-1F3FC-200D-2642	hombre en posicin de loto tono de piel claro medio
+1F9D8-1F3FD	persona en posicin de loto tono de piel medio
+1F9D8-1F3FD-200D-2640	mujer en posicin de loto tono de piel medio
+1F9D8-1F3FD-200D-2642	hombre en posicin de loto tono de piel medio
+1F9D8-1F3FE	persona en posicin de loto tono de piel oscuro medio
+1F9D8-1F3FE-200D-2640	mujer en posicin de loto tono de piel oscuro medio
+1F9D8-1F3FE-200D-2642	hombre en posicin de loto tono de piel oscuro medio
+1F9D8-1F3FF	persona en posicin de loto tono de piel oscuro
+1F9D8-1F3FF-200D-2640	mujer en posicin de loto tono de piel oscuro
+1F9D8-1F3FF-200D-2642	hombre en posicin de loto tono de piel oscuro
+1F9D9	persona maga
+1F9D9-200D-2640	maga
+1F9D9-200D-2642	mago
+1F9D9-1F3FB	persona maga tono de piel claro
+1F9D9-1F3FB-200D-2640	maga tono de piel claro
+1F9D9-1F3FB-200D-2642	mago tono de piel claro
+1F9D9-1F3FC	persona maga tono de piel claro medio
+1F9D9-1F3FC-200D-2640	maga tono de piel claro medio
+1F9D9-1F3FC-200D-2642	mago tono de piel claro medio
+1F9D9-1F3FD	persona maga tono de piel medio
+1F9D9-1F3FD-200D-2640	maga tono de piel medio
+1F9D9-1F3FD-200D-2642	mago tono de piel medio
+1F9D9-1F3FE	persona maga tono de piel oscuro medio
+1F9D9-1F3FE-200D-2640	maga tono de piel oscuro medio
+1F9D9-1F3FE-200D-2642	mago tono de piel oscuro medio
+1F9D9-1F3FF	persona maga tono de piel oscuro
+1F9D9-1F3FF-200D-2640	maga tono de piel oscuro
+1F9D9-1F3FF-200D-2642	mago tono de piel oscuro
+1F9DA	hada
+1F9DA-200D-2640	hada mujer
+1F9DA-200D-2642	hada hombre
+1F9DA-1F3FB	hada tono de piel claro
+1F9DA-1F3FB-200D-2640	hada mujer tono de piel claro
+1F9DA-1F3FB-200D-2642	hada hombre tono de piel claro
+1F9DA-1F3FC	hada tono de piel claro medio
+1F9DA-1F3FC-200D-2640	hada mujer tono de piel claro medio
+1F9DA-1F3FC-200D-2642	hada hombre tono de piel claro medio
+1F9DA-1F3FD	hada tono de piel medio
+1F9DA-1F3FD-200D-2640	hada mujer tono de piel medio
+1F9DA-1F3FD-200D-2642	hada hombre tono de piel medio
+1F9DA-1F3FE	hada tono de piel oscuro medio
+1F9DA-1F3FE-200D-2640	hada mujer tono de piel oscuro medio
+1F9DA-1F3FE-200D-2642	hada hombre tono de piel oscuro medio
+1F9DA-1F3FF	hada tono de piel oscuro
+1F9DA-1F3FF-200D-2640	hada mujer tono de piel oscuro
+1F9DA-1F3FF-200D-2642	hada hombre tono de piel oscuro
+1F9DB	vampiro
+1F9DB-200D-2640	vampiresa
+1F9DB-200D-2642	vampiro hombre
+1F9DB-1F3FB	vampiro tono de piel claro
+1F9DB-1F3FB-200D-2640	vampiresa tono de piel claro
+1F9DB-1F3FB-200D-2642	vampiro hombre tono de piel claro
+1F9DB-1F3FC	vampiro tono de piel claro medio
+1F9DB-1F3FC-200D-2640	vampiresa tono de piel claro medio
+1F9DB-1F3FC-200D-2642	vampiro hombre tono de piel claro medio
+1F9DB-1F3FD	vampiro tono de piel medio
+1F9DB-1F3FD-200D-2640	vampiresa tono de piel medio
+1F9DB-1F3FD-200D-2642	vampiro hombre tono de piel medio
+1F9DB-1F3FE	vampiro tono de piel oscuro medio
+1F9DB-1F3FE-200D-2640	vampiresa tono de piel oscuro medio
+1F9DB-1F3FE-200D-2642	vampiro hombre tono de piel oscuro medio
+1F9DB-1F3FF	vampiro tono de piel oscuro
+1F9DB-1F3FF-200D-2640	vampiresa tono de piel oscuro
+1F9DB-1F3FF-200D-2642	vampiro hombre tono de piel oscuro
+1F9DC	persona sirena
+1F9DC-200D-2640	sirena
+1F9DC-200D-2642	sirena hombre
+1F9DC-1F3FB	persona sirena tono de piel claro
+1F9DC-1F3FB-200D-2640	sirena tono de piel claro
+1F9DC-1F3FB-200D-2642	sirena hombre tono de piel claro
+1F9DC-1F3FC	persona sirena tono de piel claro medio
+1F9DC-1F3FC-200D-2640	sirena tono de piel claro medio
+1F9DC-1F3FC-200D-2642	sirena hombre tono de piel claro medio
+1F9DC-1F3FD	persona sirena tono de piel medio
+1F9DC-1F3FD-200D-2640	sirena tono de piel medio
+1F9DC-1F3FD-200D-2642	sirena hombre tono de piel medio
+1F9DC-1F3FE	persona sirena tono de piel oscuro medio
+1F9DC-1F3FE-200D-2640	sirena tono de piel oscuro medio
+1F9DC-1F3FE-200D-2642	sirena hombre tono de piel oscuro medio
+1F9DC-1F3FF	persona sirena tono de piel oscuro
+1F9DC-1F3FF-200D-2640	sirena tono de piel oscuro
+1F9DC-1F3FF-200D-2642	sirena hombre tono de piel oscuro
+1F9DD	elfo
+1F9DD-200D-2640	elfa
+1F9DD-200D-2642	elfo hombre
+1F9DD-1F3FB	elfo tono de piel claro
+1F9DD-1F3FB-200D-2640	elfa tono de piel claro
+1F9DD-1F3FB-200D-2642	elfo hombre tono de piel claro
+1F9DD-1F3FC	elfo tono de piel claro medio
+1F9DD-1F3FC-200D-2640	elfa tono de piel claro medio
+1F9DD-1F3FC-200D-2642	elfo hombre tono de piel claro medio
+1F9DD-1F3FD	elfo tono de piel medio
+1F9DD-1F3FD-200D-2640	elfa tono de piel medio
+1F9DD-1F3FD-200D-2642	elfo hombre tono de piel medio
+1F9DD-1F3FE	elfo tono de piel oscuro medio
+1F9DD-1F3FE-200D-2640	elfa tono de piel oscuro medio
+1F9DD-1F3FE-200D-2642	elfo hombre tono de piel oscuro medio
+1F9DD-1F3FF	elfo tono de piel oscuro
+1F9DD-1F3FF-200D-2640	elfa tono de piel oscuro
+1F9DD-1F3FF-200D-2642	elfo hombre tono de piel oscuro
+1F9DE	genio
+1F9DE-200D-2640	genio mujer
+1F9DE-200D-2642	genio hombre
+1F9DF	zombi
+1F9DF-200D-2640	zombi mujer
+1F9DF-200D-2642	zombi hombre
+1F9E0	cerebro
+1F9E1	corazn naranja
+1F9E2	gorra con visera
+1F9E3	bufanda
+1F9E4	guantes
+1F9E5	abrigo
+1F9E6	calcetines
+1F9E7	sobre rojo
+1F9E8	petardo
+1F9E9	pieza de puzle
+1F9EA	tubo de ensayo
+1F9EB	placa de petri
+1F9EC	adn
+1F9ED	brjula
+1F9EE	baco
+1F9EF	extintor
+1F9F0	caja de herramientas
+1F9F1	ladrillo
+1F9F2	imn
+1F9F3	equipaje
+1F9F4	bote de crema
+1F9F5	hilo
+1F9F6	ovillo
+1F9F7	imperdible
+1F9F8	osito de peluche
+1F9F9	escoba
+1F9FA	cesta
+1F9FB	rollo de papel
+1F9FC	jabn
+1F9FD	esponja
+1F9FE	recibo
+1F9FF	ojo turco
+1FA70	zapatillas de ballet
+1FA71	traje de bao de una pieza
+1FA72	ropa interior
+1FA73	pantalones cortos
+1FA74	chancla
+1FA78	gota de sangre
+1FA79	tirita
+1FA7A	estetoscopio
+1FA80	yoy
+1FA81	cometa
+1FA82	paracadas
+1FA83	bumern
+1FA84	varita mgica
+1FA85	piata
+1FA86	mueca rusa
+1FA90	planeta con anillos
+1FA91	silla
+1FA92	cuchilla de afeitar
+1FA93	hacha
+1FA94	lmpara de aceite
+1FA95	banjo
+1FA96	casco militar
+1FA97	acorden
+1FA98	tamboril
+1FA99	moneda
+1FA9A	sierra de carpintera
+1FA9B	destornillador
+1FA9C	escalera
+1FA9D	gancho
+1FA9E	espejo
+1FA9F	ventana
+1FAA0	desatascador
+1FAA1	aguja de coser
+1FAA2	nudo
+1FAA3	cubo
+1FAA4	trampa de ratones
+1FAA5	cepillo de dientes
+1FAA6	lpida
+1FAA7	letrero
+1FAA8	piedra
+1FAB0	mosca
+1FAB1	gusano
+1FAB2	escarabajo
+1FAB3	cucaracha
+1FAB4	planta de maceta
+1FAB5	madera
+1FAB6	pluma
+1FAC0	corazn humano
+1FAC1	pulmones
+1FAC2	personas abrazndose
+1FAD0	arndanos
+1FAD1	pimiento
+1FAD2	aceituna
+1FAD3	pan sin levadura
+1FAD4	tamal
+1FAD5	fondue
+1FAD6	tetera

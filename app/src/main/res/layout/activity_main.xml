@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Engine status"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="Engine status"
+            android:text="Starting…" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:labelFor="@id/inputText"
+            android:text="Text to speak"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/inputText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Type something to speak"
+            android:minLines="3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:labelFor="@id/voiceSpinner"
+            android:text="Voice"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/voiceSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="Voice" />
+
+        <TextView
+            android:id="@+id/rateLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="Rate: 100%"
+            android:textStyle="bold" />
+
+        <SeekBar
+            android:id="@+id/rateBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="Speech rate"
+            android:max="375"
+            android:progress="75" />
+
+        <TextView
+            android:id="@+id/pitchLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Pitch: 100%"
+            android:textStyle="bold" />
+
+        <SeekBar
+            android:id="@+id/pitchBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="Speech pitch"
+            android:max="375"
+            android:progress="75" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/speakButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Speak" />
+
+            <Button
+                android:id="@+id/stopButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Stop" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Google fallback"
+            android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/fallbackCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Use Google TTS when BestDroid is silent" />
+
+        <CheckBox
+            android:id="@+id/overrideVoiceCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Settings voice wins over every request" />
+
+        <CheckBox
+            android:id="@+id/shortenPausesCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Shorten pauses" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:labelFor="@id/fallbackPackage"
+            android:text="Fallback engine package" />
+
+        <EditText
+            android:id="@+id/fallbackPackage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="com.google.android.tts"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/resultText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:contentDescription="Last result"
+            android:text="" />
+    </LinearLayout>
+</ScrollView>

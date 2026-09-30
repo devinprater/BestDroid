@@ -1,0 +1,3690 @@
+23-20E3	touches #
+2A-20E3	touches *
+30-20E3	touches 0
+31-20E3	touches 1
+32-20E3	touches 2
+33-20E3	touches 3
+34-20E3	touches 4
+35-20E3	touches 5
+36-20E3	touches 6
+37-20E3	touches 7
+38-20E3	touches 8
+39-20E3	touches 9
+A1	point dexclamation invers
+A2	cent
+A3	livre
+A4	devise inconnue ou non valide
+A5	yen
+A7	section
+A8	dirse
+A9	symbole copyright
+AB	guillemet gauche
+AC	ngation
+AE	marque dpose
+B0	degr
+B1	plus-moins
+B2	exposant deux
+B3	exposant trois
+B4	accent aigu
+B5	symbole micro
+B6	marque de paragraphe
+B7	point mdian
+B9	exposant un
+BB	guillemet droit
+BF	point dinterrogation invers
+D7	signe de multiplication
+F7	signe de division
+58F	dram armnien
+60B	afghani afghan
+60C	virgule arabe
+61B	point-virgule arabe
+61F	point dinterrogation arabe
+9F3	taka bangladeshi
+E3F	baht thalandais
+17DB	riel cambodgien
+2010	trait dunion
+2013	tiret demi-cadratin
+2014	tiret cadratin
+2015	barre horizontale
+2018	apostrophe gauche
+2019	apostrophe droite
+201A	apostrophe droite basse
+201C	guillemet droit gauche
+201D	guillemet droit droit
+201E	guillemet droit bas
+2020	oble
+2021	double oble
+2022	puce
+2026	points de suspension
+2027	point de coupure de mot
+2030	pour mille
+2032	prime
+2033	double prime
+2034	triple prime
+203B	marque de rfrence
+203C	double point dexclamation
+2049	points dexclamation et dinterrogation
+207B	exposant moins
+20A1	coln costaricain
+20A2	cruzeiro
+20A3	franc franais
+20A4	lire
+20A5	mill
+20A6	naira nigrian
+20A7	peseta espagnole
+20A8	roupie
+20A9	won
+20AA	nouveau shekel isralien
+20AB	dng vietnamien
+20AC	euro
+20AD	kip loatien
+20AE	tugrik mongol
+20B0	penny allemand
+20B1	peso
+20B2	guaran paraguayen
+20B3	austral
+20B4	hryvnia ukrainienne
+20B5	cdi ghanen
+20B6	livre tournois
+20B7	spesmilo
+20B8	tenge kazakh
+20B9	roupie indienne
+20BA	livre turque
+20BC	manat azri
+20BD	rouble
+20BE	lari gorgien
+20BF	bitcoin
+2117	copyright phonographique
+2122	marque commerciale dpose
+2139	source dinformations
+2190	flche vers la gauche
+2191	flche vers le haut
+2192	flche vers la droite
+2193	flche vers le bas
+2194	flche gauche droite
+2195	flche haut bas
+2196	flche haut gauche
+2197	flche haut droite
+2198	flche bas droite
+2199	flche bas gauche
+21A9	flche courbe gauche
+21AA	flche courbe droite
+21C5	flches vers le haut et vers le bas
+21C6	flche gauche au-dessus de flche droite
+21D0	flche double vers la gauche
+21D1	flche double vers le haut
+21D2	flche double vers la droite
+21D3	flche double vers le bas
+21D4	flche double vers la gauche et la droite
+21D6	flche double vers le nord-ouest
+21D7	flche double vers le nord-est
+21D8	flche double vers le sud-est
+21D9	flche double vers le sud-ouest
+21DA	flche triple vers la gauche
+21DB	flche triple vers la droite
+21DC	flche vers la gauche en tire-bouchon
+21DD	flche vers la droite en tire-bouchon
+21E6	flche creuse vers la gauche
+21E7	flche creuse vers le haut
+21E8	flche creuse vers la droite
+21E9	flche creuse vers le bas
+2206	incrment
+2207	nabla
+2208	lment de
+2212	signe moins
+221A	racine carre
+221E	symbole de linfini
+2229	intersection
+222A	union
+2245	approximativement gal
+2248	presque gal
+2260	non gal
+2261	identique
+2263	strictement quivalent
+2264	infrieur ou gal
+2265	suprieur ou gal
+2266	infrieur sur gal
+2267	suprieur sur gal
+226A	trs infrieur
+226B	trs suprieur
+226C	entre
+227A	prcde
+227B	suit
+2281	ne suit pas
+2282	sous-ensemble de
+2283	sur-ensemble de
+2286	sous-ensemble gal
+2287	sur-ensemble gal
+2295	plus cercl
+2296	moins cercl
+2297	fois cercl
+231A	montre
+231B	sablier
+2328	clavier
+23CF	bouton jecter
+23E9	bouton avance rapide
+23EA	bouton retour rapide
+23EB	double flche vers le haut
+23EC	double flche vers le bas
+23ED	bouton piste suivante
+23EE	bouton piste prcdente
+23EF	bouton lecture/pause
+23F0	rveil
+23F1	chronomtre
+23F2	horloge
+23F3	sablier avec sable qui coule
+23F8	bouton pause
+23F9	bouton stop
+23FA	bouton enregistrer
+24C2	m encercl
+25AA	petit carr noir
+25AB	petit carr blanc
+25B2	triangle plein vers le haut
+25B6	bouton lecture
+25BC	triangle plein vers le bas
+25C0	bouton retour
+25CA	losange
+25CB	cercle vide
+25CF	cercle plein
+25E0	demi-cercle suprieur
+25E1	demi-cercle infrieur
+25E2	triangle rectangle infrieur droit plein
+25E3	triangle rectangle infrieur gauche plein
+25E4	triangle rectangle suprieur gauche plein
+25E5	triangle rectangle suprieur droit plein
+25E6	puce creuse
+25EF	grand cercle vide
+25F3	carr creux avec quadrant suprieur droit
+25F7	cercle creux avec quadrant suprieur droit
+25FB	carr moyen blanc
+25FC	carr moyen noir
+25FD	carr petit moyen blanc
+25FE	carr petit moyen noir
+25FF	triangle rectangle infrieur droit
+2600	soleil
+2601	nuage
+2602	parapluie ouvert
+2603	bonhomme de neige
+2604	comte
+260E	tlphone
+2611	case coche
+2614	parapluie avec gouttes de pluie
+2615	boisson chaude
+2618	trfle
+261D	index pointant vers le haut
+261D-1F3FB	index pointant vers le haut peau claire
+261D-1F3FC	index pointant vers le haut peau moyennement claire
+261D-1F3FD	index pointant vers le haut peau lgrement mate
+261D-1F3FE	index pointant vers le haut peau mate
+261D-1F3FF	index pointant vers le haut peau fonce
+2620	tte de mort
+2622	radioactif
+2623	danger biologique
+2626	croix orthodoxe
+262A	lune et toile
+262E	symbole de paix
+262F	yin yang
+2638	roue du Dharma
+2639	visage mcontent
+263A	visage souriant
+2640	symbole de la femme
+2642	symbole de lhomme
+2648	blier zodiaque
+2649	taureau
+264A	gmeaux
+264B	cancer
+264C	lion
+264D	vierge
+264E	balance
+264F	scorpion zodiaque
+2650	sagittaire
+2651	capricorne
+2652	verseau
+2653	poissons
+265F	pion dchec
+2660	pique
+2663	trfle cartes
+2665	cur cartes
+2666	carreau
+2668	sources chaudes
+266A	croche
+266D	bmol
+266F	dise
+267B	symbole Recyclage
+267E	infini
+267F	symbole Accs handicaps
+2692	marteau et pioche
+2693	ancre
+2694	pes croises
+2695	caduce
+2696	balance poids
+2697	alambic
+2699	roue dente
+269B	symbole de latome
+269C	fleur de lys
+26A0	symbole davertissement
+26A1	haute tension
+26A7	symbole de la communaut transgenre
+26AA	disque blanc
+26AB	disque noir
+26B0	cercueil
+26B1	urne funraire
+26BD	ballon de football
+26BE	baseball
+26C4	bonhomme de neige sans neige
+26C5	soleil derrire les nuages
+26C8	nuage avec clair et pluie
+26CE	serpentaire
+26CF	pioche
+26D1	casque de secouriste
+26D3	chanes
+26D4	sens interdit
+26E9	sanctuaire shinto
+26EA	glise
+26F0	montagne
+26F1	parasol sur le sol
+26F2	fontaine
+26F3	drapeau de golf
+26F4	ferry
+26F5	voilier
+26F7	skieur
+26F8	patin glace
+26F9	personne avec ballon
+26F9-200D-2640	femme avec ballon
+26F9-200D-2642	homme avec ballon
+26F9-1F3FB	personne avec ballon peau claire
+26F9-1F3FB-200D-2640	femme avec ballon peau claire
+26F9-1F3FB-200D-2642	homme avec ballon peau claire
+26F9-1F3FC	personne avec ballon peau moyennement claire
+26F9-1F3FC-200D-2640	femme avec ballon peau moyennement claire
+26F9-1F3FC-200D-2642	homme avec ballon peau moyennement claire
+26F9-1F3FD	personne avec ballon peau lgrement mate
+26F9-1F3FD-200D-2640	femme avec ballon peau lgrement mate
+26F9-1F3FD-200D-2642	homme avec ballon peau lgrement mate
+26F9-1F3FE	personne avec ballon peau mate
+26F9-1F3FE-200D-2640	femme avec ballon peau mate
+26F9-1F3FE-200D-2642	homme avec ballon peau mate
+26F9-1F3FF	personne avec ballon peau fonce
+26F9-1F3FF-200D-2640	femme avec ballon peau fonce
+26F9-1F3FF-200D-2642	homme avec ballon peau fonce
+26FA	tente
+26FD	pompe essence
+2702	ciseaux
+2705	bouton coch
+2708	avion
+2709	enveloppe
+270A	poing lev
+270A-1F3FB	poing lev peau claire
+270A-1F3FC	poing lev peau moyennement claire
+270A-1F3FD	poing lev peau lgrement mate
+270A-1F3FE	poing lev peau mate
+270A-1F3FF	poing lev peau fonce
+270B	main leve
+270B-1F3FB	main leve peau claire
+270B-1F3FC	main leve peau moyennement claire
+270B-1F3FD	main leve peau lgrement mate
+270B-1F3FE	main leve peau mate
+270B-1F3FF	main leve peau fonce
+270C	V de la victoire
+270C-1F3FB	V de la victoire peau claire
+270C-1F3FC	V de la victoire peau moyennement claire
+270C-1F3FD	V de la victoire peau lgrement mate
+270C-1F3FE	V de la victoire peau mate
+270C-1F3FF	V de la victoire peau fonce
+270D	main qui crit
+270D-1F3FB	main qui crit peau claire
+270D-1F3FC	main qui crit peau moyennement claire
+270D-1F3FD	main qui crit peau lgrement mate
+270D-1F3FE	main qui crit peau mate
+270D-1F3FF	main qui crit peau fonce
+270F	crayon
+2712	stylo plume noir
+2714	coche
+2716	signe multiplier
+271D	croix latine
+2721	toile de David
+2728	tincelles
+2733	astrisque huit branches
+2734	toile huit branches
+2744	flocon
+2747	clat
+274C	croix
+274E	bouton croix
+2753	point dinterrogation rouge
+2754	point dinterrogation blanc
+2755	point dexclamation blanc
+2757	point dexclamation rouge
+2763	cur point dexclamation
+2764	cur rouge
+2764-200D-1F525	cur enflamm
+2764-200D-1FA79	cur avec bandages
+2795	plus
+2796	moins
+2797	signe diviser
+27A1	flche droite
+27B0	boucle
+27BF	double boucle
+2934	flche courbe haut
+2935	flche courbe bas
+2A27	signe plus avec indice deux
+2A2F	produit vectoriel
+2A3C	produit intrieur
+2A63	ou logique deux barres souscrites
+2A7D	infrieur ou gal inclin
+2A8D	infrieur sur similaire ou gal
+2A9A	gal en deux lignes ou suprieur
+2ABA	suit sur non presque gal
+2B05	flche gauche
+2B06	flche haut
+2B07	flche bas
+2B1B	grand carr noir
+2B1C	grand carr blanc
+2B50	toile
+2B55	cercle rouge
+3001	virgule idographique
+3002	point idographique
+3008	chevron angulaire ouvrant
+3009	chevron angulaire fermant
+300A	chevron angulaire ouvrant double
+300B	chevron angulaire fermant double
+300C	crochet de partie entire ouvrant
+300D	crochet de partie entire fermant
+300E	crochet de partie entire ouvrant creux
+300F	crochet de partie entire fermant creux
+3010	crochet lenticulaire ouvrant noir
+3011	crochet lenticulaire fermant noir
+3014	crochet en caille ouvrant
+3015	crochet en caille fermant
+3016	crochet lenticulaire ouvrant creux
+3017	crochet lenticulaire fermant creux
+3030	ligne ondule
+303D	alternance
+30FB	point mdian katakana
+3297	bouton flicitations en japonais
+3299	bouton secret en japonais
+FDFC	rial
+1F004	dragon rouge mahjong
+1F0CF	carte Joker
+1F170	groupe sanguin A
+1F171	groupe sanguin B
+1F17E	groupe sanguin O
+1F17F	bouton P
+1F18E	groupe sanguin AB
+1F191	bouton Effacer
+1F192	bouton Cool
+1F193	bouton Gratuit
+1F194	bouton Identifiant
+1F195	bouton Nouveau
+1F196	bouton Pas bien
+1F197	bouton OK
+1F198	bouton SOS
+1F199	bouton Vers le haut
+1F19A	bouton VS
+1F1E6-1F1E8	drapeau le de lAscension
+1F1E6-1F1E9	drapeau Andorre
+1F1E6-1F1EA	drapeau mirats arabes unis
+1F1E6-1F1EB	drapeau Afghanistan
+1F1E6-1F1EC	drapeau Antigua-et-Barbuda
+1F1E6-1F1EE	drapeau Anguilla
+1F1E6-1F1F1	drapeau Albanie
+1F1E6-1F1F2	drapeau Armnie
+1F1E6-1F1F4	drapeau Angola
+1F1E6-1F1F6	drapeau Antarctique
+1F1E6-1F1F7	drapeau Argentine
+1F1E6-1F1F8	drapeau Samoa amricaines
+1F1E6-1F1F9	drapeau Autriche
+1F1E6-1F1FA	drapeau Australie
+1F1E6-1F1FC	drapeau Aruba
+1F1E6-1F1FD	drapeau les land
+1F1E6-1F1FF	drapeau Azerbadjan
+1F1E7-1F1E6	drapeau Bosnie-Herzgovine
+1F1E7-1F1E7	drapeau Barbade
+1F1E7-1F1E9	drapeau Bangladesh
+1F1E7-1F1EA	drapeau Belgique
+1F1E7-1F1EB	drapeau Burkina Faso
+1F1E7-1F1EC	drapeau Bulgarie
+1F1E7-1F1ED	drapeau Bahren
+1F1E7-1F1EE	drapeau Burundi
+1F1E7-1F1EF	drapeau Bnin
+1F1E7-1F1F1	drapeau Saint-Barthlemy
+1F1E7-1F1F2	drapeau Bermudes
+1F1E7-1F1F3	drapeau Brunei
+1F1E7-1F1F4	drapeau Bolivie
+1F1E7-1F1F6	drapeau Pays-Bas caribens
+1F1E7-1F1F7	drapeau Brsil
+1F1E7-1F1F8	drapeau Bahamas
+1F1E7-1F1F9	drapeau Bhoutan
+1F1E7-1F1FB	drapeau le Bouvet
+1F1E7-1F1FC	drapeau Botswana
+1F1E7-1F1FE	drapeau Bilorussie
+1F1E7-1F1FF	drapeau Belize
+1F1E8-1F1E6	drapeau Canada
+1F1E8-1F1E8	drapeau les Cocos
+1F1E8-1F1E9	drapeau Congo-Kinshasa
+1F1E8-1F1EB	drapeau Rpublique centrafricaine
+1F1E8-1F1EC	drapeau Congo-Brazzaville
+1F1E8-1F1ED	drapeau Suisse
+1F1E8-1F1EE	drapeau Cte dIvoire
+1F1E8-1F1F0	drapeau les Cook
+1F1E8-1F1F1	drapeau Chili
+1F1E8-1F1F2	drapeau Cameroun
+1F1E8-1F1F3	drapeau Chine
+1F1E8-1F1F4	drapeau Colombie
+1F1E8-1F1F5	drapeau le Clipperton
+1F1E8-1F1F7	drapeau Costa Rica
+1F1E8-1F1FA	drapeau Cuba
+1F1E8-1F1FB	drapeau Cap-Vert
+1F1E8-1F1FC	drapeau Curaao
+1F1E8-1F1FD	drapeau le Christmas
+1F1E8-1F1FE	drapeau Chypre
+1F1E8-1F1FF	drapeau Tchquie
+1F1E9-1F1EA	drapeau Allemagne
+1F1E9-1F1EC	drapeau Diego Garcia
+1F1E9-1F1EF	drapeau Djibouti
+1F1E9-1F1F0	drapeau Danemark
+1F1E9-1F1F2	drapeau Dominique
+1F1E9-1F1F4	drapeau Rpublique dominicaine
+1F1E9-1F1FF	drapeau Algrie
+1F1EA-1F1E6	drapeau Ceuta et Melilla
+1F1EA-1F1E8	drapeau quateur
+1F1EA-1F1EA	drapeau Estonie
+1F1EA-1F1EC	drapeau gypte
+1F1EA-1F1ED	drapeau Sahara occidental
+1F1EA-1F1F7	drapeau rythre
+1F1EA-1F1F8	drapeau Espagne
+1F1EA-1F1F9	drapeau thiopie
+1F1EA-1F1FA	drapeau Union europenne
+1F1EB-1F1EE	drapeau Finlande
+1F1EB-1F1EF	drapeau Fidji
+1F1EB-1F1F0	drapeau les Malouines
+1F1EB-1F1F2	drapeau Micronsie
+1F1EB-1F1F4	drapeau les Fro
+1F1EB-1F1F7	drapeau France
+1F1EC-1F1E6	drapeau Gabon
+1F1EC-1F1E7	drapeau Royaume-Uni
+1F1EC-1F1E9	drapeau Grenade
+1F1EC-1F1EA	drapeau Gorgie
+1F1EC-1F1EB	drapeau Guyane franaise
+1F1EC-1F1EC	drapeau Guernesey
+1F1EC-1F1ED	drapeau Ghana
+1F1EC-1F1EE	drapeau Gibraltar
+1F1EC-1F1F1	drapeau Groenland
+1F1EC-1F1F2	drapeau Gambie
+1F1EC-1F1F3	drapeau Guine
+1F1EC-1F1F5	drapeau Guadeloupe
+1F1EC-1F1F6	drapeau Guine quatoriale
+1F1EC-1F1F7	drapeau Grce
+1F1EC-1F1F8	drapeau Gorgie du Sud-et-les les Sandwich du Sud
+1F1EC-1F1F9	drapeau Guatemala
+1F1EC-1F1FA	drapeau Guam
+1F1EC-1F1FC	drapeau Guine-Bissau
+1F1EC-1F1FE	drapeau Guyana
+1F1ED-1F1F0	drapeau R.A.S. chinoise de Hong Kong
+1F1ED-1F1F2	drapeau les Heard-et-MacDonald
+1F1ED-1F1F3	drapeau Honduras
+1F1ED-1F1F7	drapeau Croatie
+1F1ED-1F1F9	drapeau Hati
+1F1ED-1F1FA	drapeau Hongrie
+1F1EE-1F1E8	drapeau les Canaries
+1F1EE-1F1E9	drapeau Indonsie
+1F1EE-1F1EA	drapeau Irlande
+1F1EE-1F1F1	drapeau Isral
+1F1EE-1F1F2	drapeau le de Man
+1F1EE-1F1F3	drapeau Inde
+1F1EE-1F1F4	drapeau Territoire britannique de locan Indien
+1F1EE-1F1F6	drapeau Irak
+1F1EE-1F1F7	drapeau Iran
+1F1EE-1F1F8	drapeau Islande
+1F1EE-1F1F9	drapeau Italie
+1F1EF-1F1EA	drapeau Jersey
+1F1EF-1F1F2	drapeau Jamaque
+1F1EF-1F1F4	drapeau Jordanie
+1F1EF-1F1F5	drapeau Japon
+1F1F0-1F1EA	drapeau Kenya
+1F1F0-1F1EC	drapeau Kirghizstan
+1F1F0-1F1ED	drapeau Cambodge
+1F1F0-1F1EE	drapeau Kiribati
+1F1F0-1F1F2	drapeau Comores
+1F1F0-1F1F3	drapeau Saint-Christophe-et-Nivs
+1F1F0-1F1F5	drapeau Core du Nord
+1F1F0-1F1F7	drapeau Core du Sud
+1F1F0-1F1FC	drapeau Kowet
+1F1F0-1F1FE	drapeau les Camans
+1F1F0-1F1FF	drapeau Kazakhstan
+1F1F1-1F1E6	drapeau Laos
+1F1F1-1F1E7	drapeau Liban
+1F1F1-1F1E8	drapeau Sainte-Lucie
+1F1F1-1F1EE	drapeau Liechtenstein
+1F1F1-1F1F0	drapeau Sri Lanka
+1F1F1-1F1F7	drapeau Liberia
+1F1F1-1F1F8	drapeau Lesotho
+1F1F1-1F1F9	drapeau Lituanie
+1F1F1-1F1FA	drapeau Luxembourg
+1F1F1-1F1FB	drapeau Lettonie
+1F1F1-1F1FE	drapeau Libye
+1F1F2-1F1E6	drapeau Maroc
+1F1F2-1F1E8	drapeau Monaco
+1F1F2-1F1E9	drapeau Moldavie
+1F1F2-1F1EA	drapeau Montngro
+1F1F2-1F1EB	drapeau Saint-Martin
+1F1F2-1F1EC	drapeau Madagascar
+1F1F2-1F1ED	drapeau les Marshall
+1F1F2-1F1F0	drapeau Macdoine du Nord
+1F1F2-1F1F1	drapeau Mali
+1F1F2-1F1F2	drapeau Myanmar Birmanie
+1F1F2-1F1F3	drapeau Mongolie
+1F1F2-1F1F4	drapeau R.A.S. chinoise de Macao
+1F1F2-1F1F5	drapeau les Mariannes du Nord
+1F1F2-1F1F6	drapeau Martinique
+1F1F2-1F1F7	drapeau Mauritanie
+1F1F2-1F1F8	drapeau Montserrat
+1F1F2-1F1F9	drapeau Malte
+1F1F2-1F1FA	drapeau Maurice
+1F1F2-1F1FB	drapeau Maldives
+1F1F2-1F1FC	drapeau Malawi
+1F1F2-1F1FD	drapeau Mexique
+1F1F2-1F1FE	drapeau Malaisie
+1F1F2-1F1FF	drapeau Mozambique
+1F1F3-1F1E6	drapeau Namibie
+1F1F3-1F1E8	drapeau Nouvelle-Caldonie
+1F1F3-1F1EA	drapeau Niger
+1F1F3-1F1EB	drapeau le Norfolk
+1F1F3-1F1EC	drapeau Nigeria
+1F1F3-1F1EE	drapeau Nicaragua
+1F1F3-1F1F1	drapeau Pays-Bas
+1F1F3-1F1F4	drapeau Norvge
+1F1F3-1F1F5	drapeau Npal
+1F1F3-1F1F7	drapeau Nauru
+1F1F3-1F1FA	drapeau Niue
+1F1F3-1F1FF	drapeau Nouvelle-Zlande
+1F1F4-1F1F2	drapeau Oman
+1F1F5-1F1E6	drapeau Panama
+1F1F5-1F1EA	drapeau Prou
+1F1F5-1F1EB	drapeau Polynsie franaise
+1F1F5-1F1EC	drapeau Papouasie-Nouvelle-Guine
+1F1F5-1F1ED	drapeau Philippines
+1F1F5-1F1F0	drapeau Pakistan
+1F1F5-1F1F1	drapeau Pologne
+1F1F5-1F1F2	drapeau Saint-Pierre-et-Miquelon
+1F1F5-1F1F3	drapeau les Pitcairn
+1F1F5-1F1F7	drapeau Porto Rico
+1F1F5-1F1F8	drapeau Territoires palestiniens
+1F1F5-1F1F9	drapeau Portugal
+1F1F5-1F1FC	drapeau Palaos
+1F1F5-1F1FE	drapeau Paraguay
+1F1F6-1F1E6	drapeau Qatar
+1F1F7-1F1EA	drapeau La Runion
+1F1F7-1F1F4	drapeau Roumanie
+1F1F7-1F1F8	drapeau Serbie
+1F1F7-1F1FA	drapeau Russie
+1F1F7-1F1FC	drapeau Rwanda
+1F1F8-1F1E6	drapeau Arabie saoudite
+1F1F8-1F1E7	drapeau les Salomon
+1F1F8-1F1E8	drapeau Seychelles
+1F1F8-1F1E9	drapeau Soudan
+1F1F8-1F1EA	drapeau Sude
+1F1F8-1F1EC	drapeau Singapour
+1F1F8-1F1ED	drapeau Sainte-Hlne
+1F1F8-1F1EE	drapeau Slovnie
+1F1F8-1F1EF	drapeau Svalbard et Jan Mayen
+1F1F8-1F1F0	drapeau Slovaquie
+1F1F8-1F1F1	drapeau Sierra Leone
+1F1F8-1F1F2	drapeau Saint-Marin
+1F1F8-1F1F3	drapeau Sngal
+1F1F8-1F1F4	drapeau Somalie
+1F1F8-1F1F7	drapeau Suriname
+1F1F8-1F1F8	drapeau Soudan du Sud
+1F1F8-1F1F9	drapeau Sao Tom-et-Principe
+1F1F8-1F1FB	drapeau Salvador
+1F1F8-1F1FD	drapeau Saint-Martin partie nerlandaise
+1F1F8-1F1FE	drapeau Syrie
+1F1F8-1F1FF	drapeau Eswatini
+1F1F9-1F1E6	drapeau Tristan da Cunha
+1F1F9-1F1E8	drapeau les Turques-et-Caques
+1F1F9-1F1E9	drapeau Tchad
+1F1F9-1F1EB	drapeau Terres australes franaises
+1F1F9-1F1EC	drapeau Togo
+1F1F9-1F1ED	drapeau Thalande
+1F1F9-1F1EF	drapeau Tadjikistan
+1F1F9-1F1F0	drapeau Tokelau
+1F1F9-1F1F1	drapeau Timor oriental
+1F1F9-1F1F2	drapeau Turkmnistan
+1F1F9-1F1F3	drapeau Tunisie
+1F1F9-1F1F4	drapeau Tonga
+1F1F9-1F1F7	drapeau Turquie
+1F1F9-1F1F9	drapeau Trinit-et-Tobago
+1F1F9-1F1FB	drapeau Tuvalu
+1F1F9-1F1FC	drapeau Tawan
+1F1F9-1F1FF	drapeau Tanzanie
+1F1FA-1F1E6	drapeau Ukraine
+1F1FA-1F1EC	drapeau Ouganda
+1F1FA-1F1F2	drapeau les mineures loignes des tats-Unis
+1F1FA-1F1F3	drapeau Nations Unies
+1F1FA-1F1F8	drapeau tats-Unis
+1F1FA-1F1FE	drapeau Uruguay
+1F1FA-1F1FF	drapeau Ouzbkistan
+1F1FB-1F1E6	drapeau tat de la Cit du Vatican
+1F1FB-1F1E8	drapeau Saint-Vincent-et-les Grenadines
+1F1FB-1F1EA	drapeau Venezuela
+1F1FB-1F1EC	drapeau les Vierges britanniques
+1F1FB-1F1EE	drapeau les Vierges des tats-Unis
+1F1FB-1F1F3	drapeau Vit Nam
+1F1FB-1F1FA	drapeau Vanuatu
+1F1FC-1F1EB	drapeau Wallis-et-Futuna
+1F1FC-1F1F8	drapeau Samoa
+1F1FD-1F1F0	drapeau Kosovo
+1F1FE-1F1EA	drapeau Ymen
+1F1FE-1F1F9	drapeau Mayotte
+1F1FF-1F1E6	drapeau Afrique du Sud
+1F1FF-1F1F2	drapeau Zambie
+1F1FF-1F1FC	drapeau Zimbabwe
+1F201	bouton ici en japonais
+1F202	bouton frais de service en japonais
+1F21A	bouton gratuit en japonais
+1F22F	bouton rserv en japonais
+1F232	bouton interdit en japonais
+1F233	bouton chambres disponibles en japonais
+1F234	bouton note pour russir en japonais
+1F235	bouton complet en japonais
+1F236	bouton pas gratuit en japonais
+1F237	bouton montant mensuel en japonais
+1F238	bouton application en japonais
+1F239	bouton rduction en japonais
+1F23A	bouton ouvert pour affaires en japonais
+1F250	bouton bonne affaire en japonais
+1F251	bouton accepter en japonais
+1F300	cyclone
+1F301	brume
+1F302	parapluie ferm
+1F303	nuit toile
+1F304	soleil levant derrire les montagnes
+1F305	soleil levant
+1F306	ville au crpuscule
+1F307	coucher de soleil
+1F308	arc-en-ciel
+1F309	pont de nuit
+1F30A	vague
+1F30B	volcan
+1F30C	voie lacte
+1F30D	globe tourn sur lAfrique et lEurope
+1F30E	globe tourn sur les Amriques
+1F30F	globe tourn sur lAsie et lAustralie
+1F310	globe avec mridiens
+1F311	nouvelle lune
+1F312	lune croissante
+1F313	premier quartier de lune
+1F314	lune gibbeuse croissante
+1F315	pleine lune
+1F316	lune gibbeuse dcroissante
+1F317	dernier quartier
+1F318	lune dcroissante
+1F319	croissant de lune
+1F31A	nouvelle lune avec visage
+1F31B	premier quartier de lune avec visage
+1F31C	dernier quartier de lune avec visage
+1F31D	pleine lune avec visage
+1F31E	soleil avec visage
+1F31F	toile brillante
+1F320	toile filante
+1F321	thermomtre
+1F324	soleil derrire un petit nuage
+1F325	soleil derrire un gros nuage
+1F326	soleil derrire un nuage de pluie
+1F327	nuage avec pluie
+1F328	nuage avec neige
+1F329	nuage avec clair
+1F32A	tornade
+1F32B	brouillard
+1F32C	vent avec visage
+1F32D	hot dog
+1F32E	taco
+1F32F	burrito
+1F330	chtaigne
+1F331	jeune pousse
+1F332	conifre
+1F333	arbre feuilles caduques
+1F334	palmier
+1F335	cactus
+1F336	piment rouge
+1F337	tulipe
+1F338	fleur de cerisier
+1F339	rose
+1F33A	hibiscus
+1F33B	tournesol
+1F33C	bourgeon
+1F33D	pi de mas
+1F33E	plant de riz
+1F33F	feuille
+1F340	trfle quatre feuilles
+1F341	feuille drable
+1F342	feuille morte
+1F343	feuille virevoltante
+1F344	champignon
+1F345	tomate
+1F346	aubergine
+1F347	raisin
+1F348	melon
+1F349	pastque
+1F34A	mandarine
+1F34B	citron
+1F34C	banane
+1F34D	ananas
+1F34E	pomme rouge
+1F34F	pomme verte
+1F350	poire
+1F351	pche
+1F352	cerises
+1F353	fraise
+1F354	hamburger
+1F355	pizza
+1F356	viande sur un os
+1F357	cuisse de poulet
+1F358	galette de riz
+1F359	boulette de riz
+1F35A	bol de riz
+1F35B	riz au curry
+1F35C	bol fumant
+1F35D	spaghetti
+1F35E	pain
+1F35F	frites
+1F360	patate douce
+1F361	brochette de bonbons
+1F362	brochette de poisson
+1F363	sushi
+1F364	beignet de crevette
+1F365	croquette de poisson
+1F366	glace italienne
+1F367	granit
+1F368	glace
+1F369	doughnut
+1F36A	cookie
+1F36B	barre chocolate
+1F36C	bonbon
+1F36D	sucette
+1F36E	crme renverse
+1F36F	pot de miel
+1F370	gteau sabl
+1F371	bote djeuner
+1F372	marmite
+1F373	uf au plat
+1F374	fourchette et couteau
+1F375	tasse
+1F376	sak
+1F377	verre de vin
+1F378	cocktail
+1F379	cocktail tropical
+1F37A	chope
+1F37B	chopes de bire
+1F37C	biberon
+1F37D	fourchette et couteau avec assiette
+1F37E	bouteille de champagne
+1F37F	pop-corn
+1F380	ruban
+1F381	cadeau
+1F382	gteau danniversaire
+1F383	citrouille
+1F384	sapin de Nol
+1F385	pre Nol
+1F385-1F3FB	pre Nol peau claire
+1F385-1F3FC	pre Nol peau moyennement claire
+1F385-1F3FD	pre Nol peau lgrement mate
+1F385-1F3FE	pre Nol peau mate
+1F385-1F3FF	pre Nol peau fonce
+1F386	feu dartifice
+1F387	cierge magique
+1F388	ballon gonflable
+1F389	cotillons
+1F38A	confettis
+1F38B	arbre vux
+1F38C	drapeaux croiss
+1F38D	bambou dcoratif
+1F38E	poupes japonaises
+1F38F	koinobori
+1F390	carillon olien
+1F391	crmonie de la lune
+1F392	cartable
+1F393	toque universitaire
+1F396	mdaille militaire
+1F397	ruban de mmoire
+1F399	micro de studio
+1F39A	curseur de niveau
+1F39B	boutons de rglage
+1F39E	pellicule
+1F39F	billet dentre
+1F3A0	cheval de mange
+1F3A1	grande roue
+1F3A2	montagnes russes
+1F3A3	pche la ligne
+1F3A4	micro
+1F3A5	camra
+1F3A6	cinma
+1F3A7	casque
+1F3A8	palette de peinture
+1F3A9	haut de forme
+1F3AA	chapiteau
+1F3AB	billet
+1F3AC	clap
+1F3AD	spectacle vivant
+1F3AE	jeu vido
+1F3AF	dans le mille
+1F3B0	machine sous
+1F3B1	boule de billard
+1F3B2	ds
+1F3B3	bowling
+1F3B4	jeu des fleurs
+1F3B5	note de musique
+1F3B6	notes de musique
+1F3B7	saxophone
+1F3B8	guitare
+1F3B9	piano
+1F3BA	trompette
+1F3BB	violon
+1F3BC	partition
+1F3BD	maillot de course
+1F3BE	tennis
+1F3BF	ski
+1F3C0	basket
+1F3C1	drapeau damier
+1F3C2	snowboardeur
+1F3C2-1F3FB	snowboardeur peau claire
+1F3C2-1F3FC	snowboardeur peau moyennement claire
+1F3C2-1F3FD	snowboardeur peau lgrement mate
+1F3C2-1F3FE	snowboardeur peau mate
+1F3C2-1F3FF	snowboardeur peau fonce
+1F3C3	personne qui court
+1F3C3-200D-2640	femme qui court
+1F3C3-200D-2642	homme qui court
+1F3C3-1F3FB	personne qui court peau claire
+1F3C3-1F3FB-200D-2640	femme qui court peau claire
+1F3C3-1F3FB-200D-2642	homme qui court peau claire
+1F3C3-1F3FC	personne qui court peau moyennement claire
+1F3C3-1F3FC-200D-2640	femme qui court peau moyennement claire
+1F3C3-1F3FC-200D-2642	homme qui court peau moyennement claire
+1F3C3-1F3FD	personne qui court peau lgrement mate
+1F3C3-1F3FD-200D-2640	femme qui court peau lgrement mate
+1F3C3-1F3FD-200D-2642	homme qui court peau lgrement mate
+1F3C3-1F3FE	personne qui court peau mate
+1F3C3-1F3FE-200D-2640	femme qui court peau mate
+1F3C3-1F3FE-200D-2642	homme qui court peau mate
+1F3C3-1F3FF	personne qui court peau fonce
+1F3C3-1F3FF-200D-2640	femme qui court peau fonce
+1F3C3-1F3FF-200D-2642	homme qui court peau fonce
+1F3C4	personne faisant du surf
+1F3C4-200D-2640	surfeuse
+1F3C4-200D-2642	surfeur
+1F3C4-1F3FB	personne faisant du surf peau claire
+1F3C4-1F3FB-200D-2640	surfeuse peau claire
+1F3C4-1F3FB-200D-2642	surfeur peau claire
+1F3C4-1F3FC	personne faisant du surf peau moyennement claire
+1F3C4-1F3FC-200D-2640	surfeuse peau moyennement claire
+1F3C4-1F3FC-200D-2642	surfeur peau moyennement claire
+1F3C4-1F3FD	personne faisant du surf peau lgrement mate
+1F3C4-1F3FD-200D-2640	surfeuse peau lgrement mate
+1F3C4-1F3FD-200D-2642	surfeur peau lgrement mate
+1F3C4-1F3FE	personne faisant du surf peau mate
+1F3C4-1F3FE-200D-2640	surfeuse peau mate
+1F3C4-1F3FE-200D-2642	surfeur peau mate
+1F3C4-1F3FF	personne faisant du surf peau fonce
+1F3C4-1F3FF-200D-2640	surfeuse peau fonce
+1F3C4-1F3FF-200D-2642	surfeur peau fonce
+1F3C5	mdaille sportive
+1F3C6	trophe
+1F3C7	course hippique
+1F3C7-1F3FB	course hippique peau claire
+1F3C7-1F3FC	course hippique peau moyennement claire
+1F3C7-1F3FD	course hippique peau lgrement mate
+1F3C7-1F3FE	course hippique peau mate
+1F3C7-1F3FF	course hippique peau fonce
+1F3C8	football amricain
+1F3C9	rugby
+1F3CA	personne nageant
+1F3CA-200D-2640	nageuse
+1F3CA-200D-2642	nageur
+1F3CA-1F3FB	personne nageant peau claire
+1F3CA-1F3FB-200D-2640	nageuse peau claire
+1F3CA-1F3FB-200D-2642	nageur peau claire
+1F3CA-1F3FC	personne nageant peau moyennement claire
+1F3CA-1F3FC-200D-2640	nageuse peau moyennement claire
+1F3CA-1F3FC-200D-2642	nageur peau moyennement claire
+1F3CA-1F3FD	personne nageant peau lgrement mate
+1F3CA-1F3FD-200D-2640	nageuse peau lgrement mate
+1F3CA-1F3FD-200D-2642	nageur peau lgrement mate
+1F3CA-1F3FE	personne nageant peau mate
+1F3CA-1F3FE-200D-2640	nageuse peau mate
+1F3CA-1F3FE-200D-2642	nageur peau mate
+1F3CA-1F3FF	personne nageant peau fonce
+1F3CA-1F3FF-200D-2640	nageuse peau fonce
+1F3CA-1F3FF-200D-2642	nageur peau fonce
+1F3CB	haltrophile
+1F3CB-200D-2640	femme haltrophile
+1F3CB-200D-2642	homme haltrophile
+1F3CB-1F3FB	haltrophile peau claire
+1F3CB-1F3FB-200D-2640	femme haltrophile peau claire
+1F3CB-1F3FB-200D-2642	homme haltrophile peau claire
+1F3CB-1F3FC	haltrophile peau moyennement claire
+1F3CB-1F3FC-200D-2640	femme haltrophile peau moyennement claire
+1F3CB-1F3FC-200D-2642	homme haltrophile peau moyennement claire
+1F3CB-1F3FD	haltrophile peau lgrement mate
+1F3CB-1F3FD-200D-2640	femme haltrophile peau lgrement mate
+1F3CB-1F3FD-200D-2642	homme haltrophile peau lgrement mate
+1F3CB-1F3FE	haltrophile peau mate
+1F3CB-1F3FE-200D-2640	femme haltrophile peau mate
+1F3CB-1F3FE-200D-2642	homme haltrophile peau mate
+1F3CB-1F3FF	haltrophile peau fonce
+1F3CB-1F3FF-200D-2640	femme haltrophile peau fonce
+1F3CB-1F3FF-200D-2642	homme haltrophile peau fonce
+1F3CC	joueur de golf
+1F3CC-200D-2640	golfeuse
+1F3CC-200D-2642	golfeur
+1F3CC-1F3FB	joueur de golf peau claire
+1F3CC-1F3FB-200D-2640	golfeuse peau claire
+1F3CC-1F3FB-200D-2642	golfeur peau claire
+1F3CC-1F3FC	joueur de golf peau moyennement claire
+1F3CC-1F3FC-200D-2640	golfeuse peau moyennement claire
+1F3CC-1F3FC-200D-2642	golfeur peau moyennement claire
+1F3CC-1F3FD	joueur de golf peau lgrement mate
+1F3CC-1F3FD-200D-2640	golfeuse peau lgrement mate
+1F3CC-1F3FD-200D-2642	golfeur peau lgrement mate
+1F3CC-1F3FE	joueur de golf peau mate
+1F3CC-1F3FE-200D-2640	golfeuse peau mate
+1F3CC-1F3FE-200D-2642	golfeur peau mate
+1F3CC-1F3FF	joueur de golf peau fonce
+1F3CC-1F3FF-200D-2640	golfeuse peau fonce
+1F3CC-1F3FF-200D-2642	golfeur peau fonce
+1F3CD	moto
+1F3CE	voiture de course
+1F3CF	cricket
+1F3D0	volley-ball
+1F3D1	hockey sur gazon
+1F3D2	hockey sur glace
+1F3D3	ping-pong
+1F3D4	montagne enneige
+1F3D5	camping
+1F3D6	plage avec parasol
+1F3D7	construction dun btiment
+1F3D8	maisons
+1F3D9	ville
+1F3DA	maison abandonne
+1F3DB	monument classique
+1F3DC	dsert
+1F3DD	le dserte
+1F3DE	parc national
+1F3DF	stade
+1F3E0	maison
+1F3E1	maison avec jardin
+1F3E2	immeuble de bureaux
+1F3E3	bureau de poste japonais
+1F3E4	bureau de poste
+1F3E5	hpital
+1F3E6	banque
+1F3E7	distributeur de billets
+1F3E8	htel
+1F3E9	love hotel
+1F3EA	suprette
+1F3EB	cole
+1F3EC	grand magasin
+1F3ED	usine
+1F3EE	lampion rouge
+1F3EF	chteau japonais
+1F3F0	chteau
+1F3F3	drapeau blanc
+1F3F3-200D-26A7	drapeau transgenre
+1F3F3-200D-1F308	drapeau arc-en-ciel
+1F3F4	drapeau noir
+1F3F4-200D-2620	drapeau de pirate
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	drapeau Angleterre
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	drapeau cosse
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	drapeau Pays de Galles
+1F3F5	rosette
+1F3F7	tiquette
+1F3F8	badminton
+1F3F9	arc et flche
+1F3FA	amphore
+1F3FB	peau claire
+1F3FC	peau moyennement claire
+1F3FD	peau lgrement mate
+1F3FE	peau mate
+1F3FF	peau fonce
+1F400	rat
+1F401	souris
+1F402	buf
+1F403	buffle
+1F404	vache
+1F405	tigre
+1F406	lopard
+1F407	lapin
+1F408	chat
+1F408-200D-2B1B	chat noir
+1F409	dragon
+1F40A	crocodile
+1F40B	baleine
+1F40C	escargot
+1F40D	serpent
+1F40E	cheval
+1F40F	blier
+1F410	chvre
+1F411	mouton
+1F412	singe
+1F413	coq
+1F414	poule
+1F415	chien
+1F415-200D-1F9BA	chien dassistance
+1F416	cochon
+1F417	sanglier
+1F418	lphant
+1F419	pieuvre
+1F41A	coquille en spirale
+1F41B	chenille
+1F41C	fourmi
+1F41D	abeille
+1F41E	coccinelle
+1F41F	poisson
+1F420	poisson tropical
+1F421	poisson-lune
+1F422	tortue
+1F423	poussin qui clt
+1F424	poussin
+1F425	poussin de face
+1F426	oiseau
+1F427	pingouin
+1F428	koala
+1F429	caniche
+1F42A	dromadaire
+1F42B	chameau
+1F42C	dauphin
+1F42D	tte de souris
+1F42E	tte de vache
+1F42F	tte de tigre
+1F430	tte de lapin
+1F431	tte de chat
+1F432	tte de dragon
+1F433	baleine soufflant par son vent
+1F434	tte de cheval
+1F435	tte de singe
+1F436	tte de chien
+1F437	tte de cochon
+1F438	grenouille
+1F439	hamster
+1F43A	loup
+1F43B	ours
+1F43B-200D-2744	ours polaire
+1F43C	panda
+1F43D	groin
+1F43E	empreintes danimaux
+1F43F	cureuil
+1F440	yeux
+1F441	il
+1F441-200D-1F5E8	il dans une bulle de BD
+1F442	oreille
+1F442-1F3FB	oreille peau claire
+1F442-1F3FC	oreille peau moyennement claire
+1F442-1F3FD	oreille peau lgrement mate
+1F442-1F3FE	oreille peau mate
+1F442-1F3FF	oreille peau fonce
+1F443	nez
+1F443-1F3FB	nez peau claire
+1F443-1F3FC	nez peau moyennement claire
+1F443-1F3FD	nez peau lgrement mate
+1F443-1F3FE	nez peau mate
+1F443-1F3FF	nez peau fonce
+1F444	bouche
+1F445	langue
+1F446	main avec index pointant vers le haut
+1F446-1F3FB	main avec index pointant vers le haut peau claire
+1F446-1F3FC	main avec index pointant vers le haut peau moyennement claire
+1F446-1F3FD	main avec index pointant vers le haut peau lgrement mate
+1F446-1F3FE	main avec index pointant vers le haut peau mate
+1F446-1F3FF	main avec index pointant vers le haut peau fonce
+1F447	main avec index pointant vers le bas
+1F447-1F3FB	main avec index pointant vers le bas peau claire
+1F447-1F3FC	main avec index pointant vers le bas peau moyennement claire
+1F447-1F3FD	main avec index pointant vers le bas peau lgrement mate
+1F447-1F3FE	main avec index pointant vers le bas peau mate
+1F447-1F3FF	main avec index pointant vers le bas peau fonce
+1F448	main avec index pointant gauche
+1F448-1F3FB	main avec index pointant gauche peau claire
+1F448-1F3FC	main avec index pointant gauche peau moyennement claire
+1F448-1F3FD	main avec index pointant gauche peau lgrement mate
+1F448-1F3FE	main avec index pointant gauche peau mate
+1F448-1F3FF	main avec index pointant gauche peau fonce
+1F449	main avec index pointant droite
+1F449-1F3FB	main avec index pointant droite peau claire
+1F449-1F3FC	main avec index pointant droite peau moyennement claire
+1F449-1F3FD	main avec index pointant droite peau lgrement mate
+1F449-1F3FE	main avec index pointant droite peau mate
+1F449-1F3FF	main avec index pointant droite peau fonce
+1F44A	poing de face
+1F44A-1F3FB	poing de face peau claire
+1F44A-1F3FC	poing de face peau moyennement claire
+1F44A-1F3FD	poing de face peau lgrement mate
+1F44A-1F3FE	poing de face peau mate
+1F44A-1F3FF	poing de face peau fonce
+1F44B	signe de la main
+1F44B-1F3FB	signe de la main peau claire
+1F44B-1F3FC	signe de la main peau moyennement claire
+1F44B-1F3FD	signe de la main peau lgrement mate
+1F44B-1F3FE	signe de la main peau mate
+1F44B-1F3FF	signe de la main peau fonce
+1F44C	ok
+1F44C-1F3FB	ok peau claire
+1F44C-1F3FC	ok peau moyennement claire
+1F44C-1F3FD	ok peau lgrement mate
+1F44C-1F3FE	ok peau mate
+1F44C-1F3FF	ok peau fonce
+1F44D	pouce vers le haut
+1F44D-1F3FB	pouce vers le haut peau claire
+1F44D-1F3FC	pouce vers le haut peau moyennement claire
+1F44D-1F3FD	pouce vers le haut peau lgrement mate
+1F44D-1F3FE	pouce vers le haut peau mate
+1F44D-1F3FF	pouce vers le haut peau fonce
+1F44E	pouce vers le bas
+1F44E-1F3FB	pouce vers le bas peau claire
+1F44E-1F3FC	pouce vers le bas peau moyennement claire
+1F44E-1F3FD	pouce vers le bas peau lgrement mate
+1F44E-1F3FE	pouce vers le bas peau mate
+1F44E-1F3FF	pouce vers le bas peau fonce
+1F44F	applaudissements
+1F44F-1F3FB	applaudissements peau claire
+1F44F-1F3FC	applaudissements peau moyennement claire
+1F44F-1F3FD	applaudissements peau lgrement mate
+1F44F-1F3FE	applaudissements peau mate
+1F44F-1F3FF	applaudissements peau fonce
+1F450	mains ouvertes
+1F450-1F3FB	mains ouvertes peau claire
+1F450-1F3FC	mains ouvertes peau moyennement claire
+1F450-1F3FD	mains ouvertes peau lgrement mate
+1F450-1F3FE	mains ouvertes peau mate
+1F450-1F3FF	mains ouvertes peau fonce
+1F451	couronne
+1F452	chapeau de femme
+1F453	lunettes de vue
+1F454	cravate
+1F455	T-shirt
+1F456	jean
+1F457	robe
+1F458	kimono
+1F459	bikini
+1F45A	vtements de femme
+1F45B	porte-monnaie
+1F45C	sac main
+1F45D	pochette
+1F45E	chaussure dhomme
+1F45F	chaussure de sport
+1F460	chaussure talon haut
+1F461	sandale de femme
+1F462	botte de femme
+1F463	traces de pas
+1F464	silhouette de buste
+1F465	silhouettes de bustes
+1F466	garon
+1F466-1F3FB	garon peau claire
+1F466-1F3FC	garon peau moyennement claire
+1F466-1F3FD	garon peau lgrement mate
+1F466-1F3FE	garon peau mate
+1F466-1F3FF	garon peau fonce
+1F467	fille
+1F467-1F3FB	fille peau claire
+1F467-1F3FC	fille peau moyennement claire
+1F467-1F3FD	fille peau lgrement mate
+1F467-1F3FE	fille peau mate
+1F467-1F3FF	fille peau fonce
+1F468	homme
+1F468-200D-2695	professionnel de la sant
+1F468-200D-2696	juge homme
+1F468-200D-2708	pilote homme
+1F468-200D-2764-200D-1F468	couple avec cur homme et homme
+1F468-200D-2764-200D-1F48B-200D-1F468	bisou homme et homme
+1F468-200D-1F33E	fermier
+1F468-200D-1F373	cuisinier
+1F468-200D-1F37C	homme allaitant un bb
+1F468-200D-1F393	tudiant
+1F468-200D-1F3A4	chanteur
+1F468-200D-1F3A8	artiste homme
+1F468-200D-1F3EB	enseignant
+1F468-200D-1F3ED	ouvrier
+1F468-200D-1F466	famille homme et garon
+1F468-200D-1F466-200D-1F466	famille homme garon et garon
+1F468-200D-1F467	famille homme et fille
+1F468-200D-1F467-200D-1F466	famille homme fille et garon
+1F468-200D-1F467-200D-1F467	famille homme fille et fille
+1F468-200D-1F468-200D-1F466	famille homme homme et garon
+1F468-200D-1F468-200D-1F466-200D-1F466	famille homme homme garon et garon
+1F468-200D-1F468-200D-1F467	famille homme homme et fille
+1F468-200D-1F468-200D-1F467-200D-1F466	famille homme homme fille et garon
+1F468-200D-1F468-200D-1F467-200D-1F467	famille homme homme fille et fille
+1F468-200D-1F469-200D-1F466	famille homme femme et garon
+1F468-200D-1F469-200D-1F466-200D-1F466	famille homme femme garon et garon
+1F468-200D-1F469-200D-1F467	famille homme femme et fille
+1F468-200D-1F469-200D-1F467-200D-1F466	famille homme femme fille et garon
+1F468-200D-1F469-200D-1F467-200D-1F467	famille homme femme fille et fille
+1F468-200D-1F4BB	informaticien
+1F468-200D-1F4BC	employ de bureau
+1F468-200D-1F527	mcanicien
+1F468-200D-1F52C	scientifique homme
+1F468-200D-1F680	astronaute homme
+1F468-200D-1F692	pompier homme
+1F468-200D-1F9AF	homme avec canne blanche
+1F468-200D-1F9B0	homme cheveux roux
+1F468-200D-1F9B1	homme cheveux boucls
+1F468-200D-1F9B2	homme chauve
+1F468-200D-1F9B3	homme cheveux blancs
+1F468-200D-1F9BC	homme en fauteuil motoris
+1F468-200D-1F9BD	homme en fauteuil roulant manuel
+1F468-1F3FB	homme peau claire
+1F468-1F3FB-200D-2695	professionnel de la sant peau claire
+1F468-1F3FB-200D-2696	juge homme peau claire
+1F468-1F3FB-200D-2708	pilote homme peau claire
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	couple avec cur homme homme et peau claire
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	couple avec cur homme homme peau claire et peau moyennement claire
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	couple avec cur homme homme peau claire et peau lgrement mate
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	couple avec cur homme homme peau claire et peau mate
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	couple avec cur homme homme peau claire et peau fonce
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou homme homme et peau claire
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou homme homme peau claire et peau moyennement claire
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou homme homme peau claire et peau lgrement mate
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou homme homme peau claire et peau mate
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou homme homme peau claire et peau fonce
+1F468-1F3FB-200D-1F33E	fermier peau claire
+1F468-1F3FB-200D-1F373	cuisinier peau claire
+1F468-1F3FB-200D-1F37C	homme allaitant un bb peau claire
+1F468-1F3FB-200D-1F393	tudiant peau claire
+1F468-1F3FB-200D-1F3A4	chanteur peau claire
+1F468-1F3FB-200D-1F3A8	artiste homme peau claire
+1F468-1F3FB-200D-1F3EB	enseignant peau claire
+1F468-1F3FB-200D-1F3ED	ouvrier peau claire
+1F468-1F3FB-200D-1F4BB	informaticien peau claire
+1F468-1F3FB-200D-1F4BC	employ de bureau peau claire
+1F468-1F3FB-200D-1F527	mcanicien peau claire
+1F468-1F3FB-200D-1F52C	scientifique homme peau claire
+1F468-1F3FB-200D-1F680	astronaute homme peau claire
+1F468-1F3FB-200D-1F692	pompier homme peau claire
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	deux hommes se tenant la main peau claire et peau moyennement claire
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	deux hommes se tenant la main peau claire et peau lgrement mate
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	deux hommes se tenant la main peau claire et peau mate
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	deux hommes se tenant la main peau claire et peau fonce
+1F468-1F3FB-200D-1F9AF	homme avec canne blanche peau claire
+1F468-1F3FB-200D-1F9B0	homme peau claire et cheveux roux
+1F468-1F3FB-200D-1F9B1	homme peau claire et cheveux boucls
+1F468-1F3FB-200D-1F9B2	homme peau claire et chauve
+1F468-1F3FB-200D-1F9B3	homme peau claire et cheveux blancs
+1F468-1F3FB-200D-1F9BC	homme en fauteuil motoris peau claire
+1F468-1F3FB-200D-1F9BD	homme en fauteuil roulant manuel peau claire
+1F468-1F3FC	homme peau moyennement claire
+1F468-1F3FC-200D-2695	professionnel de la sant peau moyennement claire
+1F468-1F3FC-200D-2696	juge homme peau moyennement claire
+1F468-1F3FC-200D-2708	pilote homme peau moyennement claire
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	couple avec cur homme homme peau moyennement claire et peau claire
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	couple avec cur homme homme et peau moyennement claire
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	couple avec cur homme homme peau moyennement claire et peau lgrement mate
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	couple avec cur homme homme peau moyennement claire et peau mate
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	couple avec cur homme homme peau moyennement claire et peau fonce
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou homme homme peau moyennement claire et peau claire
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou homme homme et peau moyennement claire
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou homme homme peau moyennement claire et peau lgrement mate
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou homme homme peau moyennement claire et peau mate
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou homme homme peau moyennement claire et peau fonce
+1F468-1F3FC-200D-1F33E	fermier peau moyennement claire
+1F468-1F3FC-200D-1F373	cuisinier peau moyennement claire
+1F468-1F3FC-200D-1F37C	homme allaitant un bb peau moyennement claire
+1F468-1F3FC-200D-1F393	tudiant peau moyennement claire
+1F468-1F3FC-200D-1F3A4	chanteur peau moyennement claire
+1F468-1F3FC-200D-1F3A8	artiste homme peau moyennement claire
+1F468-1F3FC-200D-1F3EB	enseignant peau moyennement claire
+1F468-1F3FC-200D-1F3ED	ouvrier peau moyennement claire
+1F468-1F3FC-200D-1F4BB	informaticien peau moyennement claire
+1F468-1F3FC-200D-1F4BC	employ de bureau peau moyennement claire
+1F468-1F3FC-200D-1F527	mcanicien peau moyennement claire
+1F468-1F3FC-200D-1F52C	scientifique homme peau moyennement claire
+1F468-1F3FC-200D-1F680	astronaute homme peau moyennement claire
+1F468-1F3FC-200D-1F692	pompier homme peau moyennement claire
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	deux hommes se tenant la main peau moyennement claire et peau claire
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	deux hommes se tenant la main peau moyennement claire et peau lgrement mate
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	deux hommes se tenant la main peau moyennement claire et peau mate
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	deux hommes se tenant la main peau moyennement claire et peau fonce
+1F468-1F3FC-200D-1F9AF	homme avec canne blanche peau moyennement claire
+1F468-1F3FC-200D-1F9B0	homme peau moyennement claire et cheveux roux
+1F468-1F3FC-200D-1F9B1	homme peau moyennement claire et cheveux boucls
+1F468-1F3FC-200D-1F9B2	homme peau moyennement claire et chauve
+1F468-1F3FC-200D-1F9B3	homme peau moyennement claire et cheveux blancs
+1F468-1F3FC-200D-1F9BC	homme en fauteuil motoris peau moyennement claire
+1F468-1F3FC-200D-1F9BD	homme en fauteuil roulant manuel peau moyennement claire
+1F468-1F3FD	homme peau lgrement mate
+1F468-1F3FD-200D-2695	professionnel de la sant peau lgrement mate
+1F468-1F3FD-200D-2696	juge homme peau lgrement mate
+1F468-1F3FD-200D-2708	pilote homme peau lgrement mate
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	couple avec cur homme homme peau lgrement mate et peau claire
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	couple avec cur homme homme peau lgrement mate et peau moyennement claire
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	couple avec cur homme homme et peau lgrement mate
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	couple avec cur homme homme peau lgrement mate et peau mate
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	couple avec cur homme homme peau lgrement mate et peau fonce
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou homme homme peau lgrement mate et peau claire
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou homme homme peau lgrement mate et peau moyennement claire
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou homme homme et peau lgrement mate
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou homme homme peau lgrement mate et peau mate
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou homme homme peau lgrement mate et peau fonce
+1F468-1F3FD-200D-1F33E	fermier peau lgrement mate
+1F468-1F3FD-200D-1F373	cuisinier peau lgrement mate
+1F468-1F3FD-200D-1F37C	homme allaitant un bb peau lgrement mate
+1F468-1F3FD-200D-1F393	tudiant peau lgrement mate
+1F468-1F3FD-200D-1F3A4	chanteur peau lgrement mate
+1F468-1F3FD-200D-1F3A8	artiste homme peau lgrement mate
+1F468-1F3FD-200D-1F3EB	enseignant peau lgrement mate
+1F468-1F3FD-200D-1F3ED	ouvrier peau lgrement mate
+1F468-1F3FD-200D-1F4BB	informaticien peau lgrement mate
+1F468-1F3FD-200D-1F4BC	employ de bureau peau lgrement mate
+1F468-1F3FD-200D-1F527	mcanicien peau lgrement mate
+1F468-1F3FD-200D-1F52C	scientifique homme peau lgrement mate
+1F468-1F3FD-200D-1F680	astronaute homme peau lgrement mate
+1F468-1F3FD-200D-1F692	pompier homme peau lgrement mate
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	deux hommes se tenant la main peau lgrement mate et peau claire
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	deux hommes se tenant la main peau lgrement mate et peau moyennement claire
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	deux hommes se tenant la main peau lgrement mate et peau mate
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	deux hommes se tenant la main peau lgrement mate et peau fonce
+1F468-1F3FD-200D-1F9AF	homme avec canne blanche peau lgrement mate
+1F468-1F3FD-200D-1F9B0	homme peau lgrement mate et cheveux roux
+1F468-1F3FD-200D-1F9B1	homme peau lgrement mate et cheveux boucls
+1F468-1F3FD-200D-1F9B2	homme peau lgrement mate et chauve
+1F468-1F3FD-200D-1F9B3	homme peau lgrement mate et cheveux blancs
+1F468-1F3FD-200D-1F9BC	homme en fauteuil motoris peau lgrement mate
+1F468-1F3FD-200D-1F9BD	homme en fauteuil roulant manuel peau lgrement mate
+1F468-1F3FE	homme peau mate
+1F468-1F3FE-200D-2695	professionnel de la sant peau mate
+1F468-1F3FE-200D-2696	juge homme peau mate
+1F468-1F3FE-200D-2708	pilote homme peau mate
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	couple avec cur homme homme peau mate et peau claire
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	couple avec cur homme homme peau mate et peau moyennement claire
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	couple avec cur homme homme peau mate et peau lgrement mate
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	couple avec cur homme homme et peau mate
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	couple avec cur homme homme peau mate et peau fonce
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou homme homme peau mate et peau claire
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou homme homme peau mate et peau moyennement claire
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou homme homme peau mate et peau lgrement mate
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou homme homme et peau mate
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou homme homme peau mate et peau fonce
+1F468-1F3FE-200D-1F33E	fermier peau mate
+1F468-1F3FE-200D-1F373	cuisinier peau mate
+1F468-1F3FE-200D-1F37C	homme allaitant un bb peau mate
+1F468-1F3FE-200D-1F393	tudiant peau mate
+1F468-1F3FE-200D-1F3A4	chanteur peau mate
+1F468-1F3FE-200D-1F3A8	artiste homme peau mate
+1F468-1F3FE-200D-1F3EB	enseignant peau mate
+1F468-1F3FE-200D-1F3ED	ouvrier peau mate
+1F468-1F3FE-200D-1F4BB	informaticien peau mate
+1F468-1F3FE-200D-1F4BC	employ de bureau peau mate
+1F468-1F3FE-200D-1F527	mcanicien peau mate
+1F468-1F3FE-200D-1F52C	scientifique homme peau mate
+1F468-1F3FE-200D-1F680	astronaute homme peau mate
+1F468-1F3FE-200D-1F692	pompier homme peau mate
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	deux hommes se tenant la main peau mate et peau claire
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	deux hommes se tenant la main peau mate et peau moyennement claire
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	deux hommes se tenant la main peau mate et peau lgrement mate
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	deux hommes se tenant la main peau mate et peau fonce
+1F468-1F3FE-200D-1F9AF	homme avec canne blanche peau mate
+1F468-1F3FE-200D-1F9B0	homme peau mate et cheveux roux
+1F468-1F3FE-200D-1F9B1	homme peau mate et cheveux boucls
+1F468-1F3FE-200D-1F9B2	homme peau mate et chauve
+1F468-1F3FE-200D-1F9B3	homme peau mate et cheveux blancs
+1F468-1F3FE-200D-1F9BC	homme en fauteuil motoris peau mate
+1F468-1F3FE-200D-1F9BD	homme en fauteuil roulant manuel peau mate
+1F468-1F3FF	homme peau fonce
+1F468-1F3FF-200D-2695	professionnel de la sant peau fonce
+1F468-1F3FF-200D-2696	juge homme peau fonce
+1F468-1F3FF-200D-2708	pilote homme peau fonce
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	couple avec cur homme homme peau fonce et peau claire
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	couple avec cur homme homme peau fonce et peau moyennement claire
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	couple avec cur homme homme peau fonce et peau lgrement mate
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	couple avec cur homme homme peau fonce et peau mate
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	couple avec cur homme homme et peau fonce
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou homme homme peau fonce et peau claire
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou homme homme peau fonce et peau moyennement claire
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou homme homme peau fonce et peau lgrement mate
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou homme homme peau fonce et peau mate
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou homme homme et peau fonce
+1F468-1F3FF-200D-1F33E	fermier peau fonce
+1F468-1F3FF-200D-1F373	cuisinier peau fonce
+1F468-1F3FF-200D-1F37C	homme allaitant un bb peau fonce
+1F468-1F3FF-200D-1F393	tudiant peau fonce
+1F468-1F3FF-200D-1F3A4	chanteur peau fonce
+1F468-1F3FF-200D-1F3A8	artiste homme peau fonce
+1F468-1F3FF-200D-1F3EB	enseignant peau fonce
+1F468-1F3FF-200D-1F3ED	ouvrier peau fonce
+1F468-1F3FF-200D-1F4BB	informaticien peau fonce
+1F468-1F3FF-200D-1F4BC	employ de bureau peau fonce
+1F468-1F3FF-200D-1F527	mcanicien peau fonce
+1F468-1F3FF-200D-1F52C	scientifique homme peau fonce
+1F468-1F3FF-200D-1F680	astronaute homme peau fonce
+1F468-1F3FF-200D-1F692	pompier homme peau fonce
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	deux hommes se tenant la main peau fonce et peau claire
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	deux hommes se tenant la main peau fonce et peau moyennement claire
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	deux hommes se tenant la main peau fonce et peau lgrement mate
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	deux hommes se tenant la main peau fonce et peau mate
+1F468-1F3FF-200D-1F9AF	homme avec canne blanche peau fonce
+1F468-1F3FF-200D-1F9B0	homme peau fonce et cheveux roux
+1F468-1F3FF-200D-1F9B1	homme peau fonce et cheveux boucls
+1F468-1F3FF-200D-1F9B2	homme peau fonce et chauve
+1F468-1F3FF-200D-1F9B3	homme peau fonce et cheveux blancs
+1F468-1F3FF-200D-1F9BC	homme en fauteuil motoris peau fonce
+1F468-1F3FF-200D-1F9BD	homme en fauteuil roulant manuel peau fonce
+1F469	femme
+1F469-200D-2695	professionnelle de la sant
+1F469-200D-2696	juge femme
+1F469-200D-2708	pilote femme
+1F469-200D-2764-200D-1F468	couple avec cur femme et homme
+1F469-200D-2764-200D-1F469	couple avec cur femme et femme
+1F469-200D-2764-200D-1F48B-200D-1F468	bisou femme et homme
+1F469-200D-2764-200D-1F48B-200D-1F469	bisou femme et femme
+1F469-200D-1F33E	fermire
+1F469-200D-1F373	cuisinire
+1F469-200D-1F37C	femme allaitant un bb
+1F469-200D-1F393	tudiante
+1F469-200D-1F3A4	chanteuse
+1F469-200D-1F3A8	artiste femme
+1F469-200D-1F3EB	enseignante
+1F469-200D-1F3ED	ouvrire
+1F469-200D-1F466	famille femme et garon
+1F469-200D-1F466-200D-1F466	famille femme garon et garon
+1F469-200D-1F467	famille femme et fille
+1F469-200D-1F467-200D-1F466	famille femme fille et garon
+1F469-200D-1F467-200D-1F467	famille femme fille et fille
+1F469-200D-1F469-200D-1F466	famille femme femme et garon
+1F469-200D-1F469-200D-1F466-200D-1F466	famille femme femme garon et garon
+1F469-200D-1F469-200D-1F467	famille femme femme et fille
+1F469-200D-1F469-200D-1F467-200D-1F466	famille femme femme fille et garon
+1F469-200D-1F469-200D-1F467-200D-1F467	famille femme femme fille et fille
+1F469-200D-1F4BB	informaticienne
+1F469-200D-1F4BC	employe de bureau
+1F469-200D-1F527	mcanicienne
+1F469-200D-1F52C	scientifique femme
+1F469-200D-1F680	astronaute femme
+1F469-200D-1F692	pompier femme
+1F469-200D-1F9AF	femme avec canne blanche
+1F469-200D-1F9B0	femme cheveux roux
+1F469-200D-1F9B1	femme cheveux boucls
+1F469-200D-1F9B2	femme chauve
+1F469-200D-1F9B3	femme cheveux blancs
+1F469-200D-1F9BC	femme en fauteuil motoris
+1F469-200D-1F9BD	femme en fauteuil roulant manuel
+1F469-1F3FB	femme peau claire
+1F469-1F3FB-200D-2695	professionnelle de la sant peau claire
+1F469-1F3FB-200D-2696	juge femme peau claire
+1F469-1F3FB-200D-2708	pilote femme peau claire
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	couple avec cur femme homme et peau claire
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	couple avec cur femme homme peau claire et peau moyennement claire
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	couple avec cur femme homme peau claire et peau lgrement mate
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	couple avec cur femme homme peau claire et peau mate
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	couple avec cur femme homme peau claire et peau fonce
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	couple avec cur femme femme et peau claire
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	couple avec cur femme femme peau claire et peau moyennement claire
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	couple avec cur femme femme peau claire et peau lgrement mate
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	couple avec cur femme femme peau claire et peau mate
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	couple avec cur femme femme peau claire et peau fonce
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou femme homme et peau claire
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou femme homme peau claire et peau moyennement claire
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou femme homme peau claire et peau lgrement mate
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou femme homme peau claire et peau mate
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou femme homme peau claire et peau fonce
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	bisou femme femme et peau claire
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	bisou femme femme peau claire et peau moyennement claire
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	bisou femme femme peau claire et peau lgrement mate
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	bisou femme femme peau claire et peau mate
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	bisou femme femme peau claire et peau fonce
+1F469-1F3FB-200D-1F33E	fermire peau claire
+1F469-1F3FB-200D-1F373	cuisinire peau claire
+1F469-1F3FB-200D-1F37C	femme allaitant un bb peau claire
+1F469-1F3FB-200D-1F393	tudiante peau claire
+1F469-1F3FB-200D-1F3A4	chanteuse peau claire
+1F469-1F3FB-200D-1F3A8	artiste femme peau claire
+1F469-1F3FB-200D-1F3EB	enseignante peau claire
+1F469-1F3FB-200D-1F3ED	ouvrire peau claire
+1F469-1F3FB-200D-1F4BB	informaticienne peau claire
+1F469-1F3FB-200D-1F4BC	employe de bureau peau claire
+1F469-1F3FB-200D-1F527	mcanicienne peau claire
+1F469-1F3FB-200D-1F52C	scientifique femme peau claire
+1F469-1F3FB-200D-1F680	astronaute femme peau claire
+1F469-1F3FB-200D-1F692	pompier femme peau claire
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	femme et homme se tenant la main peau claire et peau moyennement claire
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	femme et homme se tenant la main peau claire et peau lgrement mate
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	femme et homme se tenant la main peau claire et peau mate
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	femme et homme se tenant la main peau claire et peau fonce
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	deux femmes se tenant la main peau claire et peau moyennement claire
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	deux femmes se tenant la main peau claire et peau lgrement mate
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	deux femmes se tenant la main peau claire et peau mate
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	deux femmes se tenant la main peau claire et peau fonce
+1F469-1F3FB-200D-1F9AF	femme avec canne blanche peau claire
+1F469-1F3FB-200D-1F9B0	femme peau claire et cheveux roux
+1F469-1F3FB-200D-1F9B1	femme peau claire et cheveux boucls
+1F469-1F3FB-200D-1F9B2	femme peau claire et chauve
+1F469-1F3FB-200D-1F9B3	femme peau claire et cheveux blancs
+1F469-1F3FB-200D-1F9BC	femme en fauteuil motoris peau claire
+1F469-1F3FB-200D-1F9BD	femme en fauteuil roulant manuel peau claire
+1F469-1F3FC	femme peau moyennement claire
+1F469-1F3FC-200D-2695	professionnelle de la sant peau moyennement claire
+1F469-1F3FC-200D-2696	juge femme peau moyennement claire
+1F469-1F3FC-200D-2708	pilote femme peau moyennement claire
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	couple avec cur femme homme peau moyennement claire et peau claire
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	couple avec cur femme homme et peau moyennement claire
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	couple avec cur femme homme peau moyennement claire et peau lgrement mate
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	couple avec cur femme homme peau moyennement claire et peau mate
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	couple avec cur femme homme peau moyennement claire et peau fonce
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	couple avec cur femme femme peau moyennement claire et peau claire
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	couple avec cur femme femme et peau moyennement claire
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	couple avec cur femme femme peau moyennement claire et peau lgrement mate
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	couple avec cur femme femme peau moyennement claire et peau mate
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	couple avec cur femme femme peau moyennement claire et peau fonce
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou femme homme peau moyennement claire et peau claire
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou femme homme et peau moyennement claire
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou femme homme peau moyennement claire et peau lgrement mate
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou femme homme peau moyennement claire et peau mate
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou femme homme peau moyennement claire et peau fonce
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	bisou femme femme peau moyennement claire et peau claire
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	bisou femme femme et peau moyennement claire
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	bisou femme femme peau moyennement claire et peau lgrement mate
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	bisou femme femme peau moyennement claire et peau mate
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	bisou femme femme peau moyennement claire et peau fonce
+1F469-1F3FC-200D-1F33E	fermire peau moyennement claire
+1F469-1F3FC-200D-1F373	cuisinire peau moyennement claire
+1F469-1F3FC-200D-1F37C	femme allaitant un bb peau moyennement claire
+1F469-1F3FC-200D-1F393	tudiante peau moyennement claire
+1F469-1F3FC-200D-1F3A4	chanteuse peau moyennement claire
+1F469-1F3FC-200D-1F3A8	artiste femme peau moyennement claire
+1F469-1F3FC-200D-1F3EB	enseignante peau moyennement claire
+1F469-1F3FC-200D-1F3ED	ouvrire peau moyennement claire
+1F469-1F3FC-200D-1F4BB	informaticienne peau moyennement claire
+1F469-1F3FC-200D-1F4BC	employe de bureau peau moyennement claire
+1F469-1F3FC-200D-1F527	mcanicienne peau moyennement claire
+1F469-1F3FC-200D-1F52C	scientifique femme peau moyennement claire
+1F469-1F3FC-200D-1F680	astronaute femme peau moyennement claire
+1F469-1F3FC-200D-1F692	pompier femme peau moyennement claire
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	femme et homme se tenant la main peau moyennement claire et peau claire
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	femme et homme se tenant la main peau moyennement claire et peau lgrement mate
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	femme et homme se tenant la main peau moyennement claire et peau mate
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	femme et homme se tenant la main peau moyennement claire et peau fonce
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	deux femmes se tenant la main peau moyennement claire et peau claire
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	deux femmes se tenant la main peau moyennement claire et peau lgrement mate
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	deux femmes se tenant la main peau moyennement claire et peau mate
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	deux femmes se tenant la main peau moyennement claire et peau fonce
+1F469-1F3FC-200D-1F9AF	femme avec canne blanche peau moyennement claire
+1F469-1F3FC-200D-1F9B0	femme peau moyennement claire et cheveux roux
+1F469-1F3FC-200D-1F9B1	femme peau moyennement claire et cheveux boucls
+1F469-1F3FC-200D-1F9B2	femme peau moyennement claire et chauve
+1F469-1F3FC-200D-1F9B3	femme peau moyennement claire et cheveux blancs
+1F469-1F3FC-200D-1F9BC	femme en fauteuil motoris peau moyennement claire
+1F469-1F3FC-200D-1F9BD	femme en fauteuil roulant manuel peau moyennement claire
+1F469-1F3FD	femme peau lgrement mate
+1F469-1F3FD-200D-2695	professionnelle de la sant peau lgrement mate
+1F469-1F3FD-200D-2696	juge femme peau lgrement mate
+1F469-1F3FD-200D-2708	pilote femme peau lgrement mate
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	couple avec cur femme homme peau lgrement mate et peau claire
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	couple avec cur femme homme peau lgrement mate et peau moyennement claire
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	couple avec cur femme homme et peau lgrement mate
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	couple avec cur femme homme peau lgrement mate et peau mate
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	couple avec cur femme homme peau lgrement mate et peau fonce
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	couple avec cur femme femme peau lgrement mate et peau claire
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	couple avec cur femme femme peau lgrement mate et peau moyennement claire
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	couple avec cur femme femme et peau lgrement mate
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	couple avec cur femme femme peau lgrement mate et peau mate
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	couple avec cur femme femme peau lgrement mate et peau fonce
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou femme homme peau lgrement mate et peau claire
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou femme homme peau lgrement mate et peau moyennement claire
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou femme homme et peau lgrement mate
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou femme homme peau lgrement mate et peau mate
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou femme homme peau lgrement mate et peau fonce
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	bisou femme femme peau lgrement mate et peau claire
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	bisou femme femme peau lgrement mate et peau moyennement claire
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	bisou femme femme et peau lgrement mate
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	bisou femme femme peau lgrement mate et peau mate
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	bisou femme femme peau lgrement mate et peau fonce
+1F469-1F3FD-200D-1F33E	fermire peau lgrement mate
+1F469-1F3FD-200D-1F373	cuisinire peau lgrement mate
+1F469-1F3FD-200D-1F37C	femme allaitant un bb peau lgrement mate
+1F469-1F3FD-200D-1F393	tudiante peau lgrement mate
+1F469-1F3FD-200D-1F3A4	chanteuse peau lgrement mate
+1F469-1F3FD-200D-1F3A8	artiste femme peau lgrement mate
+1F469-1F3FD-200D-1F3EB	enseignante peau lgrement mate
+1F469-1F3FD-200D-1F3ED	ouvrire peau lgrement mate
+1F469-1F3FD-200D-1F4BB	informaticienne peau lgrement mate
+1F469-1F3FD-200D-1F4BC	employe de bureau peau lgrement mate
+1F469-1F3FD-200D-1F527	mcanicienne peau lgrement mate
+1F469-1F3FD-200D-1F52C	scientifique femme peau lgrement mate
+1F469-1F3FD-200D-1F680	astronaute femme peau lgrement mate
+1F469-1F3FD-200D-1F692	pompier femme peau lgrement mate
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	femme et homme se tenant la main peau lgrement mate et peau claire
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	femme et homme se tenant la main peau lgrement mate et peau moyennement claire
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	femme et homme se tenant la main peau lgrement mate et peau mate
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	femme et homme se tenant la main peau lgrement mate et peau fonce
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	deux femmes se tenant la main peau lgrement mate et peau claire
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	deux femmes se tenant la main peau lgrement mate et peau moyennement claire
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	deux femmes se tenant la main peau lgrement mate et peau mate
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	deux femmes se tenant la main peau lgrement mate et peau fonce
+1F469-1F3FD-200D-1F9AF	femme avec canne blanche peau lgrement mate
+1F469-1F3FD-200D-1F9B0	femme peau lgrement mate et cheveux roux
+1F469-1F3FD-200D-1F9B1	femme peau lgrement mate et cheveux boucls
+1F469-1F3FD-200D-1F9B2	femme peau lgrement mate et chauve
+1F469-1F3FD-200D-1F9B3	femme peau lgrement mate et cheveux blancs
+1F469-1F3FD-200D-1F9BC	femme en fauteuil motoris peau lgrement mate
+1F469-1F3FD-200D-1F9BD	femme en fauteuil roulant manuel peau lgrement mate
+1F469-1F3FE	femme peau mate
+1F469-1F3FE-200D-2695	professionnelle de la sant peau mate
+1F469-1F3FE-200D-2696	juge femme peau mate
+1F469-1F3FE-200D-2708	pilote femme peau mate
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	couple avec cur femme homme peau mate et peau claire
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	couple avec cur femme homme peau mate et peau moyennement claire
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	couple avec cur femme homme peau mate et peau lgrement mate
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	couple avec cur femme homme et peau mate
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	couple avec cur femme homme peau mate et peau fonce
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	couple avec cur femme femme peau mate et peau claire
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	couple avec cur femme femme peau mate et peau moyennement claire
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	couple avec cur femme femme peau mate et peau lgrement mate
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	couple avec cur femme femme et peau mate
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	couple avec cur femme femme peau mate et peau fonce
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou femme homme peau mate et peau claire
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou femme homme peau mate et peau moyennement claire
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou femme homme peau mate et peau lgrement mate
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou femme homme et peau mate
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou femme homme peau mate et peau fonce
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	bisou femme femme peau mate et peau claire
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	bisou femme femme peau mate et peau moyennement claire
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	bisou femme femme peau mate et peau lgrement mate
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	bisou femme femme et peau mate
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	bisou femme femme peau mate et peau fonce
+1F469-1F3FE-200D-1F33E	fermire peau mate
+1F469-1F3FE-200D-1F373	cuisinire peau mate
+1F469-1F3FE-200D-1F37C	femme allaitant un bb peau mate
+1F469-1F3FE-200D-1F393	tudiante peau mate
+1F469-1F3FE-200D-1F3A4	chanteuse peau mate
+1F469-1F3FE-200D-1F3A8	artiste femme peau mate
+1F469-1F3FE-200D-1F3EB	enseignante peau mate
+1F469-1F3FE-200D-1F3ED	ouvrire peau mate
+1F469-1F3FE-200D-1F4BB	informaticienne peau mate
+1F469-1F3FE-200D-1F4BC	employe de bureau peau mate
+1F469-1F3FE-200D-1F527	mcanicienne peau mate
+1F469-1F3FE-200D-1F52C	scientifique femme peau mate
+1F469-1F3FE-200D-1F680	astronaute femme peau mate
+1F469-1F3FE-200D-1F692	pompier femme peau mate
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	femme et homme se tenant la main peau mate et peau claire
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	femme et homme se tenant la main peau mate et peau moyennement claire
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	femme et homme se tenant la main peau mate et peau lgrement mate
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	femme et homme se tenant la main peau mate et peau fonce
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	deux femmes se tenant la main peau mate et peau claire
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	deux femmes se tenant la main peau mate et peau moyennement claire
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	deux femmes se tenant la main peau mate et peau lgrement mate
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	deux femmes se tenant la main peau mate et peau fonce
+1F469-1F3FE-200D-1F9AF	femme avec canne blanche peau mate
+1F469-1F3FE-200D-1F9B0	femme peau mate et cheveux roux
+1F469-1F3FE-200D-1F9B1	femme peau mate et cheveux boucls
+1F469-1F3FE-200D-1F9B2	femme peau mate et chauve
+1F469-1F3FE-200D-1F9B3	femme peau mate et cheveux blancs
+1F469-1F3FE-200D-1F9BC	femme en fauteuil motoris peau mate
+1F469-1F3FE-200D-1F9BD	femme en fauteuil roulant manuel peau mate
+1F469-1F3FF	femme peau fonce
+1F469-1F3FF-200D-2695	professionnelle de la sant peau fonce
+1F469-1F3FF-200D-2696	juge femme peau fonce
+1F469-1F3FF-200D-2708	pilote femme peau fonce
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	couple avec cur femme homme peau fonce et peau claire
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	couple avec cur femme homme peau fonce et peau moyennement claire
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	couple avec cur femme homme peau fonce et peau lgrement mate
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	couple avec cur femme homme peau fonce et peau mate
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	couple avec cur femme homme et peau fonce
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	couple avec cur femme femme peau fonce et peau claire
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	couple avec cur femme femme peau fonce et peau moyennement claire
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	couple avec cur femme femme peau fonce et peau lgrement mate
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	couple avec cur femme femme peau fonce et peau mate
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	couple avec cur femme femme et peau fonce
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	bisou femme homme peau fonce et peau claire
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	bisou femme homme peau fonce et peau moyennement claire
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	bisou femme homme peau fonce et peau lgrement mate
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	bisou femme homme peau fonce et peau mate
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	bisou femme homme et peau fonce
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	bisou femme femme peau fonce et peau claire
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	bisou femme femme peau fonce et peau moyennement claire
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	bisou femme femme peau fonce et peau lgrement mate
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	bisou femme femme peau fonce et peau mate
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	bisou femme femme et peau fonce
+1F469-1F3FF-200D-1F33E	fermire peau fonce
+1F469-1F3FF-200D-1F373	cuisinire peau fonce
+1F469-1F3FF-200D-1F37C	femme allaitant un bb peau fonce
+1F469-1F3FF-200D-1F393	tudiante peau fonce
+1F469-1F3FF-200D-1F3A4	chanteuse peau fonce
+1F469-1F3FF-200D-1F3A8	artiste femme peau fonce
+1F469-1F3FF-200D-1F3EB	enseignante peau fonce
+1F469-1F3FF-200D-1F3ED	ouvrire peau fonce
+1F469-1F3FF-200D-1F4BB	informaticienne peau fonce
+1F469-1F3FF-200D-1F4BC	employe de bureau peau fonce
+1F469-1F3FF-200D-1F527	mcanicienne peau fonce
+1F469-1F3FF-200D-1F52C	scientifique femme peau fonce
+1F469-1F3FF-200D-1F680	astronaute femme peau fonce
+1F469-1F3FF-200D-1F692	pompier femme peau fonce
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	femme et homme se tenant la main peau fonce et peau claire
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	femme et homme se tenant la main peau fonce et peau moyennement claire
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	femme et homme se tenant la main peau fonce et peau lgrement mate
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	femme et homme se tenant la main peau fonce et peau mate
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	deux femmes se tenant la main peau fonce et peau claire
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	deux femmes se tenant la main peau fonce et peau moyennement claire
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	deux femmes se tenant la main peau fonce et peau lgrement mate
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	deux femmes se tenant la main peau fonce et peau mate
+1F469-1F3FF-200D-1F9AF	femme avec canne blanche peau fonce
+1F469-1F3FF-200D-1F9B0	femme peau fonce et cheveux roux
+1F469-1F3FF-200D-1F9B1	femme peau fonce et cheveux boucls
+1F469-1F3FF-200D-1F9B2	femme peau fonce et chauve
+1F469-1F3FF-200D-1F9B3	femme peau fonce et cheveux blancs
+1F469-1F3FF-200D-1F9BC	femme en fauteuil motoris peau fonce
+1F469-1F3FF-200D-1F9BD	femme en fauteuil roulant manuel peau fonce
+1F46A	famille
+1F46B	femme et homme se tenant la main
+1F46B-1F3FB	femme et homme se tenant la main peau claire
+1F46B-1F3FC	femme et homme se tenant la main peau moyennement claire
+1F46B-1F3FD	femme et homme se tenant la main peau lgrement mate
+1F46B-1F3FE	femme et homme se tenant la main peau mate
+1F46B-1F3FF	femme et homme se tenant la main peau fonce
+1F46C	deux hommes se tenant la main
+1F46C-1F3FB	deux hommes se tenant la main peau claire
+1F46C-1F3FC	deux hommes se tenant la main peau moyennement claire
+1F46C-1F3FD	deux hommes se tenant la main peau lgrement mate
+1F46C-1F3FE	deux hommes se tenant la main peau mate
+1F46C-1F3FF	deux hommes se tenant la main peau fonce
+1F46D	deux femmes se tenant la main
+1F46D-1F3FB	deux femmes se tenant la main peau claire
+1F46D-1F3FC	deux femmes se tenant la main peau moyennement claire
+1F46D-1F3FD	deux femmes se tenant la main peau lgrement mate
+1F46D-1F3FE	deux femmes se tenant la main peau mate
+1F46D-1F3FF	deux femmes se tenant la main peau fonce
+1F46E	officier de police
+1F46E-200D-2640	policire
+1F46E-200D-2642	policier
+1F46E-1F3FB	officier de police peau claire
+1F46E-1F3FB-200D-2640	policire peau claire
+1F46E-1F3FB-200D-2642	policier peau claire
+1F46E-1F3FC	officier de police peau moyennement claire
+1F46E-1F3FC-200D-2640	policire peau moyennement claire
+1F46E-1F3FC-200D-2642	policier peau moyennement claire
+1F46E-1F3FD	officier de police peau lgrement mate
+1F46E-1F3FD-200D-2640	policire peau lgrement mate
+1F46E-1F3FD-200D-2642	policier peau lgrement mate
+1F46E-1F3FE	officier de police peau mate
+1F46E-1F3FE-200D-2640	policire peau mate
+1F46E-1F3FE-200D-2642	policier peau mate
+1F46E-1F3FF	officier de police peau fonce
+1F46E-1F3FF-200D-2640	policire peau fonce
+1F46E-1F3FF-200D-2642	policier peau fonce
+1F46F	personnes avec des oreilles de lapin
+1F46F-200D-2640	femmes avec des oreilles de lapin
+1F46F-200D-2642	hommes avec des oreilles de lapin
+1F470	personne marie avec voile
+1F470-200D-2640	femme avec voile
+1F470-200D-2642	homme avec voile
+1F470-1F3FB	personne marie avec voile peau claire
+1F470-1F3FB-200D-2640	femme avec voile peau claire
+1F470-1F3FB-200D-2642	homme avec voile peau claire
+1F470-1F3FC	personne marie avec voile peau moyennement claire
+1F470-1F3FC-200D-2640	femme avec voile peau moyennement claire
+1F470-1F3FC-200D-2642	homme avec voile peau moyennement claire
+1F470-1F3FD	personne marie avec voile peau lgrement mate
+1F470-1F3FD-200D-2640	femme avec voile peau lgrement mate
+1F470-1F3FD-200D-2642	homme avec voile peau lgrement mate
+1F470-1F3FE	personne marie avec voile peau mate
+1F470-1F3FE-200D-2640	femme avec voile peau mate
+1F470-1F3FE-200D-2642	homme avec voile peau mate
+1F470-1F3FF	personne marie avec voile peau fonce
+1F470-1F3FF-200D-2640	femme avec voile peau fonce
+1F470-1F3FF-200D-2642	homme avec voile peau fonce
+1F471	personne blonde
+1F471-200D-2640	femme blonde
+1F471-200D-2642	homme blond
+1F471-1F3FB	personne blonde peau claire
+1F471-1F3FB-200D-2640	femme blonde peau claire
+1F471-1F3FB-200D-2642	homme blond peau claire
+1F471-1F3FC	personne blonde peau moyennement claire
+1F471-1F3FC-200D-2640	femme blonde peau moyennement claire
+1F471-1F3FC-200D-2642	homme blond peau moyennement claire
+1F471-1F3FD	personne blonde peau lgrement mate
+1F471-1F3FD-200D-2640	femme blonde peau lgrement mate
+1F471-1F3FD-200D-2642	homme blond peau lgrement mate
+1F471-1F3FE	personne blonde peau mate
+1F471-1F3FE-200D-2640	femme blonde peau mate
+1F471-1F3FE-200D-2642	homme blond peau mate
+1F471-1F3FF	personne blonde peau fonce
+1F471-1F3FF-200D-2640	femme blonde peau fonce
+1F471-1F3FF-200D-2642	homme blond peau fonce
+1F472	homme avec casquette chinoise
+1F472-1F3FB	homme avec casquette chinoise peau claire
+1F472-1F3FC	homme avec casquette chinoise peau moyennement claire
+1F472-1F3FD	homme avec casquette chinoise peau lgrement mate
+1F472-1F3FE	homme avec casquette chinoise peau mate
+1F472-1F3FF	homme avec casquette chinoise peau fonce
+1F473	personne en turban
+1F473-200D-2640	femme en turban
+1F473-200D-2642	homme en turban
+1F473-1F3FB	personne en turban peau claire
+1F473-1F3FB-200D-2640	femme en turban peau claire
+1F473-1F3FB-200D-2642	homme en turban peau claire
+1F473-1F3FC	personne en turban peau moyennement claire
+1F473-1F3FC-200D-2640	femme en turban peau moyennement claire
+1F473-1F3FC-200D-2642	homme en turban peau moyennement claire
+1F473-1F3FD	personne en turban peau lgrement mate
+1F473-1F3FD-200D-2640	femme en turban peau lgrement mate
+1F473-1F3FD-200D-2642	homme en turban peau lgrement mate
+1F473-1F3FE	personne en turban peau mate
+1F473-1F3FE-200D-2640	femme en turban peau mate
+1F473-1F3FE-200D-2642	homme en turban peau mate
+1F473-1F3FF	personne en turban peau fonce
+1F473-1F3FF-200D-2640	femme en turban peau fonce
+1F473-1F3FF-200D-2642	homme en turban peau fonce
+1F474	homme g
+1F474-1F3FB	homme g peau claire
+1F474-1F3FC	homme g peau moyennement claire
+1F474-1F3FD	homme g peau lgrement mate
+1F474-1F3FE	homme g peau mate
+1F474-1F3FF	homme g peau fonce
+1F475	femme ge
+1F475-1F3FB	femme ge peau claire
+1F475-1F3FC	femme ge peau moyennement claire
+1F475-1F3FD	femme ge peau lgrement mate
+1F475-1F3FE	femme ge peau mate
+1F475-1F3FF	femme ge peau fonce
+1F476	bb
+1F476-1F3FB	bb peau claire
+1F476-1F3FC	bb peau moyennement claire
+1F476-1F3FD	bb peau lgrement mate
+1F476-1F3FE	bb peau mate
+1F476-1F3FF	bb peau fonce
+1F477	personnel du btiment
+1F477-200D-2640	ouvrire du btiment
+1F477-200D-2642	ouvrier du btiment
+1F477-1F3FB	personnel du btiment peau claire
+1F477-1F3FB-200D-2640	ouvrire du btiment peau claire
+1F477-1F3FB-200D-2642	ouvrier du btiment peau claire
+1F477-1F3FC	personnel du btiment peau moyennement claire
+1F477-1F3FC-200D-2640	ouvrire du btiment peau moyennement claire
+1F477-1F3FC-200D-2642	ouvrier du btiment peau moyennement claire
+1F477-1F3FD	personnel du btiment peau lgrement mate
+1F477-1F3FD-200D-2640	ouvrire du btiment peau lgrement mate
+1F477-1F3FD-200D-2642	ouvrier du btiment peau lgrement mate
+1F477-1F3FE	personnel du btiment peau mate
+1F477-1F3FE-200D-2640	ouvrire du btiment peau mate
+1F477-1F3FE-200D-2642	ouvrier du btiment peau mate
+1F477-1F3FF	personnel du btiment peau fonce
+1F477-1F3FF-200D-2640	ouvrire du btiment peau fonce
+1F477-1F3FF-200D-2642	ouvrier du btiment peau fonce
+1F478	princesse
+1F478-1F3FB	princesse peau claire
+1F478-1F3FC	princesse peau moyennement claire
+1F478-1F3FD	princesse peau lgrement mate
+1F478-1F3FE	princesse peau mate
+1F478-1F3FF	princesse peau fonce
+1F479	ogre
+1F47A	monstre japonais
+1F47B	fantme
+1F47C	bb ange
+1F47C-1F3FB	bb ange peau claire
+1F47C-1F3FC	bb ange peau moyennement claire
+1F47C-1F3FD	bb ange peau lgrement mate
+1F47C-1F3FE	bb ange peau mate
+1F47C-1F3FF	bb ange peau fonce
+1F47D	alien
+1F47E	monstre de lespace
+1F47F	visage en colre avec des cornes
+1F480	crne
+1F481	personne paume vers le haut
+1F481-200D-2640	femme paume vers le haut
+1F481-200D-2642	homme paume vers le haut
+1F481-1F3FB	personne paume vers le haut peau claire
+1F481-1F3FB-200D-2640	femme paume vers le haut peau claire
+1F481-1F3FB-200D-2642	homme paume vers le haut peau claire
+1F481-1F3FC	personne paume vers le haut peau moyennement claire
+1F481-1F3FC-200D-2640	femme paume vers le haut peau moyennement claire
+1F481-1F3FC-200D-2642	homme paume vers le haut peau moyennement claire
+1F481-1F3FD	personne paume vers le haut peau lgrement mate
+1F481-1F3FD-200D-2640	femme paume vers le haut peau lgrement mate
+1F481-1F3FD-200D-2642	homme paume vers le haut peau lgrement mate
+1F481-1F3FE	personne paume vers le haut peau mate
+1F481-1F3FE-200D-2640	femme paume vers le haut peau mate
+1F481-1F3FE-200D-2642	homme paume vers le haut peau mate
+1F481-1F3FF	personne paume vers le haut peau fonce
+1F481-1F3FF-200D-2640	femme paume vers le haut peau fonce
+1F481-1F3FF-200D-2642	homme paume vers le haut peau fonce
+1F482	garde
+1F482-200D-2640	garde femme
+1F482-200D-2642	garde homme
+1F482-1F3FB	garde peau claire
+1F482-1F3FB-200D-2640	garde femme peau claire
+1F482-1F3FB-200D-2642	garde homme peau claire
+1F482-1F3FC	garde peau moyennement claire
+1F482-1F3FC-200D-2640	garde femme peau moyennement claire
+1F482-1F3FC-200D-2642	garde homme peau moyennement claire
+1F482-1F3FD	garde peau lgrement mate
+1F482-1F3FD-200D-2640	garde femme peau lgrement mate
+1F482-1F3FD-200D-2642	garde homme peau lgrement mate
+1F482-1F3FE	garde peau mate
+1F482-1F3FE-200D-2640	garde femme peau mate
+1F482-1F3FE-200D-2642	garde homme peau mate
+1F482-1F3FF	garde peau fonce
+1F482-1F3FF-200D-2640	garde femme peau fonce
+1F482-1F3FF-200D-2642	garde homme peau fonce
+1F483	danseuse
+1F483-1F3FB	danseuse peau claire
+1F483-1F3FC	danseuse peau moyennement claire
+1F483-1F3FD	danseuse peau lgrement mate
+1F483-1F3FE	danseuse peau mate
+1F483-1F3FF	danseuse peau fonce
+1F484	rouge lvres
+1F485	vernis ongles
+1F485-1F3FB	vernis ongles peau claire
+1F485-1F3FC	vernis ongles peau moyennement claire
+1F485-1F3FD	vernis ongles peau lgrement mate
+1F485-1F3FE	vernis ongles peau mate
+1F485-1F3FF	vernis ongles peau fonce
+1F486	personne qui se fait masser
+1F486-200D-2640	femme qui se fait masser
+1F486-200D-2642	homme qui se fait masser
+1F486-1F3FB	personne qui se fait masser peau claire
+1F486-1F3FB-200D-2640	femme qui se fait masser peau claire
+1F486-1F3FB-200D-2642	homme qui se fait masser peau claire
+1F486-1F3FC	personne qui se fait masser peau moyennement claire
+1F486-1F3FC-200D-2640	femme qui se fait masser peau moyennement claire
+1F486-1F3FC-200D-2642	homme qui se fait masser peau moyennement claire
+1F486-1F3FD	personne qui se fait masser peau lgrement mate
+1F486-1F3FD-200D-2640	femme qui se fait masser peau lgrement mate
+1F486-1F3FD-200D-2642	homme qui se fait masser peau lgrement mate
+1F486-1F3FE	personne qui se fait masser peau mate
+1F486-1F3FE-200D-2640	femme qui se fait masser peau mate
+1F486-1F3FE-200D-2642	homme qui se fait masser peau mate
+1F486-1F3FF	personne qui se fait masser peau fonce
+1F486-1F3FF-200D-2640	femme qui se fait masser peau fonce
+1F486-1F3FF-200D-2642	homme qui se fait masser peau fonce
+1F487	personne qui se fait couper les cheveux
+1F487-200D-2640	femme qui se fait couper les cheveux
+1F487-200D-2642	homme qui se fait couper les cheveux
+1F487-1F3FB	personne qui se fait couper les cheveux peau claire
+1F487-1F3FB-200D-2640	femme qui se fait couper les cheveux peau claire
+1F487-1F3FB-200D-2642	homme qui se fait couper les cheveux peau claire
+1F487-1F3FC	personne qui se fait couper les cheveux peau moyennement claire
+1F487-1F3FC-200D-2640	femme qui se fait couper les cheveux peau moyennement claire
+1F487-1F3FC-200D-2642	homme qui se fait couper les cheveux peau moyennement claire
+1F487-1F3FD	personne qui se fait couper les cheveux peau lgrement mate
+1F487-1F3FD-200D-2640	femme qui se fait couper les cheveux peau lgrement mate
+1F487-1F3FD-200D-2642	homme qui se fait couper les cheveux peau lgrement mate
+1F487-1F3FE	personne qui se fait couper les cheveux peau mate
+1F487-1F3FE-200D-2640	femme qui se fait couper les cheveux peau mate
+1F487-1F3FE-200D-2642	homme qui se fait couper les cheveux peau mate
+1F487-1F3FF	personne qui se fait couper les cheveux peau fonce
+1F487-1F3FF-200D-2640	femme qui se fait couper les cheveux peau fonce
+1F487-1F3FF-200D-2642	homme qui se fait couper les cheveux peau fonce
+1F488	enseigne de barbier
+1F489	seringue
+1F48A	pilule
+1F48B	trace de rouge lvres
+1F48C	lettre damour
+1F48D	bague
+1F48E	pierre prcieuse
+1F48F	bisou
+1F490	bouquet
+1F491	couple avec cur
+1F492	mariage
+1F493	cur battant
+1F494	cur bris
+1F495	deux curs
+1F496	cur tincelant
+1F497	cur grandissant
+1F498	cur et flche
+1F499	cur bleu
+1F49A	cur vert
+1F49B	cur jaune
+1F49C	cur violet
+1F49D	cur avec ruban
+1F49E	curs qui tournent
+1F49F	dcoration avec cur
+1F4A0	diamant avec un point
+1F4A1	ampoule
+1F4A2	symbole de colre
+1F4A3	bombe
+1F4A4	endormi
+1F4A5	explosion
+1F4A6	gouttes de sueur
+1F4A7	goutte deau
+1F4A8	dcamper
+1F4A9	tas de crotte
+1F4AA	biceps contract
+1F4AA-1F3FB	biceps contract peau claire
+1F4AA-1F3FC	biceps contract peau moyennement claire
+1F4AA-1F3FD	biceps contract peau lgrement mate
+1F4AA-1F3FE	biceps contract peau mate
+1F4AA-1F3FF	biceps contract peau fonce
+1F4AB	tourdissement
+1F4AC	bulle de parole
+1F4AD	bulle de pense
+1F4AE	fleur blanche
+1F4AF	cent points
+1F4B0	sac plein dargent
+1F4B1	conversion de devise
+1F4B2	symbole dollar
+1F4B3	carte bancaire
+1F4B4	billet en yens
+1F4B5	billet en dollars
+1F4B6	billet en euros
+1F4B7	billet en livres
+1F4B8	billet avec des ailes
+1F4B9	courbe avec yen en hausse
+1F4BA	sige
+1F4BB	ordinateur portable
+1F4BC	porte-documents
+1F4BD	disque dordinateur
+1F4BE	disquette
+1F4BF	CD
+1F4C0	DVD
+1F4C1	dossier
+1F4C2	dossier ouvert
+1F4C3	page enroule
+1F4C4	page
+1F4C5	calendrier
+1F4C6	phmride
+1F4C7	carnet dadresses
+1F4C8	graphique en hausse
+1F4C9	graphique en baisse
+1F4CA	graphiques barres
+1F4CB	porte-bloc
+1F4CC	punaise
+1F4CD	pingle
+1F4CE	trombone
+1F4CF	rgle
+1F4D0	querre
+1F4D1	signets
+1F4D2	carnet de compte
+1F4D3	carnet
+1F4D4	carnet avec couverture
+1F4D5	livre ferm
+1F4D6	livre ouvert
+1F4D7	livre vert
+1F4D8	livre bleu
+1F4D9	livre orange
+1F4DA	livres
+1F4DB	badge nominatif
+1F4DC	parchemin
+1F4DD	mmo
+1F4DE	combin tlphonique
+1F4DF	bipeur
+1F4E0	fax
+1F4E1	antenne satellite
+1F4E2	haut-parleur
+1F4E3	porte-voix
+1F4E4	bote denvoi
+1F4E5	bote de rception
+1F4E6	colis
+1F4E7	e-mail
+1F4E8	message reu
+1F4E9	enveloppe avec flche
+1F4EA	bote aux lettres ferme drapeau baiss
+1F4EB	bote aux lettres ferme drapeau lev
+1F4EC	bote aux lettres ouverte drapeau lev
+1F4ED	bote aux lettres ouverte drapeau baiss
+1F4EE	bote aux lettres
+1F4EF	cor postal
+1F4F0	journal
+1F4F1	tlphone portable
+1F4F2	appel entrant
+1F4F3	mode vibreur
+1F4F4	tlphone teint
+1F4F5	tlphones portables interdits
+1F4F6	barres de rseau
+1F4F7	appareil photo
+1F4F8	appareil photo avec flash
+1F4F9	camscope
+1F4FA	tlviseur
+1F4FB	radio
+1F4FC	cassette vido
+1F4FD	projecteur cinmatographique
+1F4FF	chapelet
+1F500	bouton lecture alatoire
+1F501	bouton rptition
+1F502	bouton rptition de la piste
+1F503	flches dans le sens horaire
+1F504	flches dans le sens antihoraire
+1F505	luminosit faible
+1F506	luminosit leve
+1F507	muet
+1F508	volume des enceintes faible
+1F509	volume des enceintes moyen
+1F50A	volume des enceintes lev
+1F50B	pile
+1F50C	cble avec fiche lectrique
+1F50D	loupe oriente gauche
+1F50E	loupe oriente droite
+1F50F	cadenas ferm avec stylo
+1F510	cadenas ferm avec cl
+1F511	cl
+1F512	cadenas ferm
+1F513	cadenas ouvert
+1F514	cloche
+1F515	alarme dsactive
+1F516	marque-page
+1F517	chanons
+1F518	bouton radio
+1F519	flche Retour
+1F51A	flche Fin
+1F51B	flche Activ
+1F51C	flche Bientt
+1F51D	flche En haut
+1F51E	18 ans et plus
+1F51F	touches 10
+1F520	majuscules
+1F521	minuscules
+1F522	saisie de chiffres
+1F523	saisie de symboles
+1F524	alphabet latin
+1F525	feu
+1F526	torche
+1F527	cl molette
+1F528	marteau
+1F529	vis et crou
+1F52A	couteau de cuisine
+1F52B	pistolet eau
+1F52C	microscope
+1F52D	tlescope
+1F52E	boule de cristal
+1F52F	toile 6 branches
+1F530	symbole japonais de dbutant
+1F531	trident
+1F532	carr noir
+1F533	carr blanc
+1F534	disque rouge
+1F535	disque bleu
+1F536	grand losange orange
+1F537	grand losange bleu
+1F538	petit losange orange
+1F539	petit losange bleu
+1F53A	triangle rouge pointant vers le haut
+1F53B	triangle rouge pointant vers le bas
+1F53C	petit triangle haut
+1F53D	petit triangle bas
+1F549	om
+1F54A	colombe
+1F54B	kaaba
+1F54C	mosque
+1F54D	synagogue
+1F54E	chandelier sept branches
+1F550	une heure
+1F551	deux heures
+1F552	trois heures
+1F553	quatre heures
+1F554	cinq heures
+1F555	six heures
+1F556	sept heures
+1F557	huit heures
+1F558	neuf heures
+1F559	dix heures
+1F55A	onze heures
+1F55B	midi/minuit
+1F55C	une heure et demie
+1F55D	deux heures et demie
+1F55E	trois heures et demie
+1F55F	quatre heures et demie
+1F560	cinq heures et demie
+1F561	six heures et demie
+1F562	sept heures et demie
+1F563	huit heures et demie
+1F564	neuf heures et demie
+1F565	dix heures et demie
+1F566	onze heures et demie
+1F567	midi/minuit et demie
+1F56F	bougie
+1F570	pendule
+1F573	trou
+1F574	homme daffaires en lvitation
+1F574-1F3FB	homme daffaires en lvitation peau claire
+1F574-1F3FC	homme daffaires en lvitation peau moyennement claire
+1F574-1F3FD	homme daffaires en lvitation peau lgrement mate
+1F574-1F3FE	homme daffaires en lvitation peau mate
+1F574-1F3FF	homme daffaires en lvitation peau fonce
+1F575	dtective
+1F575-200D-2640	dtective femme
+1F575-200D-2642	dtective homme
+1F575-1F3FB	dtective peau claire
+1F575-1F3FB-200D-2640	dtective femme peau claire
+1F575-1F3FB-200D-2642	dtective homme peau claire
+1F575-1F3FC	dtective peau moyennement claire
+1F575-1F3FC-200D-2640	dtective femme peau moyennement claire
+1F575-1F3FC-200D-2642	dtective homme peau moyennement claire
+1F575-1F3FD	dtective peau lgrement mate
+1F575-1F3FD-200D-2640	dtective femme peau lgrement mate
+1F575-1F3FD-200D-2642	dtective homme peau lgrement mate
+1F575-1F3FE	dtective peau mate
+1F575-1F3FE-200D-2640	dtective femme peau mate
+1F575-1F3FE-200D-2642	dtective homme peau mate
+1F575-1F3FF	dtective peau fonce
+1F575-1F3FF-200D-2640	dtective femme peau fonce
+1F575-1F3FF-200D-2642	dtective homme peau fonce
+1F576	lunettes de soleil
+1F577	araigne
+1F578	toile daraigne
+1F579	manette de jeu
+1F57A	danseur
+1F57A-1F3FB	danseur peau claire
+1F57A-1F3FC	danseur peau moyennement claire
+1F57A-1F3FD	danseur peau lgrement mate
+1F57A-1F3FE	danseur peau mate
+1F57A-1F3FF	danseur peau fonce
+1F587	trombones
+1F58A	stylo
+1F58B	stylo plume
+1F58C	pinceau
+1F58D	crayon pastel
+1F590	main leve doigts carts
+1F590-1F3FB	main leve doigts carts peau claire
+1F590-1F3FC	main leve doigts carts peau moyennement claire
+1F590-1F3FD	main leve doigts carts peau lgrement mate
+1F590-1F3FE	main leve doigts carts peau mate
+1F590-1F3FF	main leve doigts carts peau fonce
+1F595	doigt dhonneur
+1F595-1F3FB	doigt dhonneur peau claire
+1F595-1F3FC	doigt dhonneur peau moyennement claire
+1F595-1F3FD	doigt dhonneur peau lgrement mate
+1F595-1F3FE	doigt dhonneur peau mate
+1F595-1F3FF	doigt dhonneur peau fonce
+1F596	salut vulcain
+1F596-1F3FB	salut vulcain peau claire
+1F596-1F3FC	salut vulcain peau moyennement claire
+1F596-1F3FD	salut vulcain peau lgrement mate
+1F596-1F3FE	salut vulcain peau mate
+1F596-1F3FF	salut vulcain peau fonce
+1F5A4	cur noir
+1F5A5	ordinateur de bureau
+1F5A8	imprimante
+1F5B1	souris dordinateur
+1F5B2	boule de commande
+1F5BC	cadre avec image
+1F5C2	intercalaires
+1F5C3	bote dossiers
+1F5C4	meuble dossiers
+1F5D1	corbeille papiers
+1F5D2	bloc-notes spirale
+1F5D3	calendrier spirale
+1F5DC	serre-joint
+1F5DD	cl ancienne
+1F5DE	journal roul
+1F5E1	dague
+1F5E3	tte qui parle
+1F5E8	bulle de parole gauche
+1F5EF	bulle colre droite
+1F5F3	urne lectorale
+1F5FA	carte du monde
+1F5FB	mont Fuji
+1F5FC	tour de Tokyo
+1F5FD	statue de la Libert
+1F5FE	carte du Japon
+1F5FF	moai
+1F600	visage rieur
+1F601	visage souriant aux yeux rieurs
+1F602	visage riant aux larmes
+1F603	visage souriant avec de grands yeux
+1F604	visage trs souriant aux yeux rieurs
+1F605	visage souriant avec une goutte de sueur
+1F606	visage souriant avec yeux plisss
+1F607	visage souriant avec aurole
+1F608	visage souriant avec des cornes
+1F609	visage faisant un clin dil
+1F60A	visage souriant avec yeux rieurs
+1F60B	miam
+1F60C	visage soulag
+1F60D	visage souriant avec yeux en forme de cur
+1F60E	visage avec lunettes de soleil
+1F60F	visage avec un sourire malin
+1F610	visage neutre
+1F611	visage sans expression
+1F612	visage blas
+1F613	visage dmoralis avec goutte de sueur
+1F614	visage pensif
+1F615	visage confus
+1F616	visage dconcert
+1F617	visage faisant un bisou
+1F618	visage envoyant un bisou
+1F619	visage aux yeux rieurs faisant un bisou
+1F61A	visage faisant un bisou avec les yeux ferms
+1F61B	visage qui tire la langue
+1F61C	visage qui tire la langue et fait un clin dil
+1F61D	visage qui tire la langue les yeux plisss
+1F61E	visage du
+1F61F	visage inquiet
+1F620	visage en colre
+1F621	visage boudeur
+1F622	visage qui pleure
+1F623	visage persvrant
+1F624	visage avec fume sortant des narines
+1F625	visage triste mais soulag
+1F626	visage mcontent avec bouche ouverte
+1F627	visage angoiss
+1F628	visage effray
+1F629	visage puis
+1F62A	visage endormi
+1F62B	visage fatigu
+1F62C	visage grimaant
+1F62D	visage qui pleure chaudes larmes
+1F62E	visage avec bouche ouverte
+1F62E-200D-1F4A8	visage expirant
+1F62F	visage bahi
+1F630	visage anxieux avec goutte de sueur
+1F631	visage qui hurle de peur
+1F632	visage stupfait
+1F633	visage qui rougit
+1F634	visage somnolent
+1F635	visage tourdi
+1F635-200D-1F4AB	visage aux yeux en spirales
+1F636	visage sans bouche
+1F636-200D-1F32B	visage dans les nuages
+1F637	visage avec masque
+1F638	chat qui sourit avec des yeux rieurs
+1F639	chat qui pleure de joie
+1F63A	chat qui sourit
+1F63B	chat souriant aux yeux en curs
+1F63C	chat avec sourire en coin
+1F63D	chat qui fait un bisou
+1F63E	chat qui boude
+1F63F	chat qui pleure
+1F640	chat fatigu
+1F641	visage lgrement mcontent
+1F642	visage avec un lger sourire
+1F643	tte lenvers
+1F644	visage roulant des yeux
+1F645	personne faisant un geste dinterdiction
+1F645-200D-2640	femme faisant un geste dinterdiction
+1F645-200D-2642	homme faisant un geste dinterdiction
+1F645-1F3FB	personne faisant un geste dinterdiction peau claire
+1F645-1F3FB-200D-2640	femme faisant un geste dinterdiction peau claire
+1F645-1F3FB-200D-2642	homme faisant un geste dinterdiction peau claire
+1F645-1F3FC	personne faisant un geste dinterdiction peau moyennement claire
+1F645-1F3FC-200D-2640	femme faisant un geste dinterdiction peau moyennement claire
+1F645-1F3FC-200D-2642	homme faisant un geste dinterdiction peau moyennement claire
+1F645-1F3FD	personne faisant un geste dinterdiction peau lgrement mate
+1F645-1F3FD-200D-2640	femme faisant un geste dinterdiction peau lgrement mate
+1F645-1F3FD-200D-2642	homme faisant un geste dinterdiction peau lgrement mate
+1F645-1F3FE	personne faisant un geste dinterdiction peau mate
+1F645-1F3FE-200D-2640	femme faisant un geste dinterdiction peau mate
+1F645-1F3FE-200D-2642	homme faisant un geste dinterdiction peau mate
+1F645-1F3FF	personne faisant un geste dinterdiction peau fonce
+1F645-1F3FF-200D-2640	femme faisant un geste dinterdiction peau fonce
+1F645-1F3FF-200D-2642	homme faisant un geste dinterdiction peau fonce
+1F646	personne faisant un geste dacceptation
+1F646-200D-2640	femme faisant un geste dacceptation
+1F646-200D-2642	homme faisant un geste dacceptation
+1F646-1F3FB	personne faisant un geste dacceptation peau claire
+1F646-1F3FB-200D-2640	femme faisant un geste dacceptation peau claire
+1F646-1F3FB-200D-2642	homme faisant un geste dacceptation peau claire
+1F646-1F3FC	personne faisant un geste dacceptation peau moyennement claire
+1F646-1F3FC-200D-2640	femme faisant un geste dacceptation peau moyennement claire
+1F646-1F3FC-200D-2642	homme faisant un geste dacceptation peau moyennement claire
+1F646-1F3FD	personne faisant un geste dacceptation peau lgrement mate
+1F646-1F3FD-200D-2640	femme faisant un geste dacceptation peau lgrement mate
+1F646-1F3FD-200D-2642	homme faisant un geste dacceptation peau lgrement mate
+1F646-1F3FE	personne faisant un geste dacceptation peau mate
+1F646-1F3FE-200D-2640	femme faisant un geste dacceptation peau mate
+1F646-1F3FE-200D-2642	homme faisant un geste dacceptation peau mate
+1F646-1F3FF	personne faisant un geste dacceptation peau fonce
+1F646-1F3FF-200D-2640	femme faisant un geste dacceptation peau fonce
+1F646-1F3FF-200D-2642	homme faisant un geste dacceptation peau fonce
+1F647	personne qui sincline
+1F647-200D-2640	femme qui sincline
+1F647-200D-2642	homme qui sincline
+1F647-1F3FB	personne qui sincline peau claire
+1F647-1F3FB-200D-2640	femme qui sincline peau claire
+1F647-1F3FB-200D-2642	homme qui sincline peau claire
+1F647-1F3FC	personne qui sincline peau moyennement claire
+1F647-1F3FC-200D-2640	femme qui sincline peau moyennement claire
+1F647-1F3FC-200D-2642	homme qui sincline peau moyennement claire
+1F647-1F3FD	personne qui sincline peau lgrement mate
+1F647-1F3FD-200D-2640	femme qui sincline peau lgrement mate
+1F647-1F3FD-200D-2642	homme qui sincline peau lgrement mate
+1F647-1F3FE	personne qui sincline peau mate
+1F647-1F3FE-200D-2640	femme qui sincline peau mate
+1F647-1F3FE-200D-2642	homme qui sincline peau mate
+1F647-1F3FF	personne qui sincline peau fonce
+1F647-1F3FF-200D-2640	femme qui sincline peau fonce
+1F647-1F3FF-200D-2642	homme qui sincline peau fonce
+1F648	singe ne rien voir
+1F649	singe ne rien entendre
+1F64A	singe ne rien dire
+1F64B	personne qui lve la main
+1F64B-200D-2640	femme qui lve la main
+1F64B-200D-2642	homme qui lve la main
+1F64B-1F3FB	personne qui lve la main peau claire
+1F64B-1F3FB-200D-2640	femme qui lve la main peau claire
+1F64B-1F3FB-200D-2642	homme qui lve la main peau claire
+1F64B-1F3FC	personne qui lve la main peau moyennement claire
+1F64B-1F3FC-200D-2640	femme qui lve la main peau moyennement claire
+1F64B-1F3FC-200D-2642	homme qui lve la main peau moyennement claire
+1F64B-1F3FD	personne qui lve la main peau lgrement mate
+1F64B-1F3FD-200D-2640	femme qui lve la main peau lgrement mate
+1F64B-1F3FD-200D-2642	homme qui lve la main peau lgrement mate
+1F64B-1F3FE	personne qui lve la main peau mate
+1F64B-1F3FE-200D-2640	femme qui lve la main peau mate
+1F64B-1F3FE-200D-2642	homme qui lve la main peau mate
+1F64B-1F3FF	personne qui lve la main peau fonce
+1F64B-1F3FF-200D-2640	femme qui lve la main peau fonce
+1F64B-1F3FF-200D-2642	homme qui lve la main peau fonce
+1F64C	mains leves
+1F64C-1F3FB	mains leves peau claire
+1F64C-1F3FC	mains leves peau moyennement claire
+1F64C-1F3FD	mains leves peau lgrement mate
+1F64C-1F3FE	mains leves peau mate
+1F64C-1F3FF	mains leves peau fonce
+1F64D	personne fronant les sourcils
+1F64D-200D-2640	femme fronant les sourcils
+1F64D-200D-2642	homme fronant les sourcils
+1F64D-1F3FB	personne fronant les sourcils peau claire
+1F64D-1F3FB-200D-2640	femme fronant les sourcils peau claire
+1F64D-1F3FB-200D-2642	homme fronant les sourcils peau claire
+1F64D-1F3FC	personne fronant les sourcils peau moyennement claire
+1F64D-1F3FC-200D-2640	femme fronant les sourcils peau moyennement claire
+1F64D-1F3FC-200D-2642	homme fronant les sourcils peau moyennement claire
+1F64D-1F3FD	personne fronant les sourcils peau lgrement mate
+1F64D-1F3FD-200D-2640	femme fronant les sourcils peau lgrement mate
+1F64D-1F3FD-200D-2642	homme fronant les sourcils peau lgrement mate
+1F64D-1F3FE	personne fronant les sourcils peau mate
+1F64D-1F3FE-200D-2640	femme fronant les sourcils peau mate
+1F64D-1F3FE-200D-2642	homme fronant les sourcils peau mate
+1F64D-1F3FF	personne fronant les sourcils peau fonce
+1F64D-1F3FF-200D-2640	femme fronant les sourcils peau fonce
+1F64D-1F3FF-200D-2642	homme fronant les sourcils peau fonce
+1F64E	personne qui boude
+1F64E-200D-2640	femme qui boude
+1F64E-200D-2642	homme qui boude
+1F64E-1F3FB	personne qui boude peau claire
+1F64E-1F3FB-200D-2640	femme qui boude peau claire
+1F64E-1F3FB-200D-2642	homme qui boude peau claire
+1F64E-1F3FC	personne qui boude peau moyennement claire
+1F64E-1F3FC-200D-2640	femme qui boude peau moyennement claire
+1F64E-1F3FC-200D-2642	homme qui boude peau moyennement claire
+1F64E-1F3FD	personne qui boude peau lgrement mate
+1F64E-1F3FD-200D-2640	femme qui boude peau lgrement mate
+1F64E-1F3FD-200D-2642	homme qui boude peau lgrement mate
+1F64E-1F3FE	personne qui boude peau mate
+1F64E-1F3FE-200D-2640	femme qui boude peau mate
+1F64E-1F3FE-200D-2642	homme qui boude peau mate
+1F64E-1F3FF	personne qui boude peau fonce
+1F64E-1F3FF-200D-2640	femme qui boude peau fonce
+1F64E-1F3FF-200D-2642	homme qui boude peau fonce
+1F64F	mains en prire
+1F64F-1F3FB	mains en prire peau claire
+1F64F-1F3FC	mains en prire peau moyennement claire
+1F64F-1F3FD	mains en prire peau lgrement mate
+1F64F-1F3FE	mains en prire peau mate
+1F64F-1F3FF	mains en prire peau fonce
+1F680	fuse
+1F681	hlicoptre
+1F682	locomotive
+1F683	wagon
+1F684	TGV
+1F685	train grande vitesse
+1F686	train
+1F687	mtro
+1F688	mtro lger
+1F689	gare
+1F68A	tramway
+1F68B	wagon de tramway
+1F68C	bus
+1F68D	bus de face
+1F68E	trolleybus
+1F68F	arrt de bus
+1F690	minibus
+1F691	ambulance
+1F692	camion de pompier
+1F693	voiture de police
+1F694	voiture de police de face
+1F695	taxi
+1F696	taxi de face
+1F697	voiture
+1F698	voiture de face
+1F699	vhicule utilitaire sport
+1F69A	camion de livraison
+1F69B	semi-remorque
+1F69C	tracteur
+1F69D	monorail
+1F69E	train de montagne
+1F69F	train suspendu
+1F6A0	tlphrique
+1F6A1	tramway arien
+1F6A2	navire
+1F6A3	personne ramant dans une barque
+1F6A3-200D-2640	rameuse dans une barque
+1F6A3-200D-2642	rameur dans une barque
+1F6A3-1F3FB	personne ramant dans une barque peau claire
+1F6A3-1F3FB-200D-2640	rameuse dans une barque peau claire
+1F6A3-1F3FB-200D-2642	rameur dans une barque peau claire
+1F6A3-1F3FC	personne ramant dans une barque peau moyennement claire
+1F6A3-1F3FC-200D-2640	rameuse dans une barque peau moyennement claire
+1F6A3-1F3FC-200D-2642	rameur dans une barque peau moyennement claire
+1F6A3-1F3FD	personne ramant dans une barque peau lgrement mate
+1F6A3-1F3FD-200D-2640	rameuse dans une barque peau lgrement mate
+1F6A3-1F3FD-200D-2642	rameur dans une barque peau lgrement mate
+1F6A3-1F3FE	personne ramant dans une barque peau mate
+1F6A3-1F3FE-200D-2640	rameuse dans une barque peau mate
+1F6A3-1F3FE-200D-2642	rameur dans une barque peau mate
+1F6A3-1F3FF	personne ramant dans une barque peau fonce
+1F6A3-1F3FF-200D-2640	rameuse dans une barque peau fonce
+1F6A3-1F3FF-200D-2642	rameur dans une barque peau fonce
+1F6A4	hors-bord
+1F6A5	feu tricolore horizontal
+1F6A6	feu tricolore vertical
+1F6A7	travaux
+1F6A8	gyrophare
+1F6A9	drapeau triangulaire
+1F6AA	porte
+1F6AB	symbole dinterdiction
+1F6AC	cigarette
+1F6AD	interdiction de fumer
+1F6AE	icne Poubelle
+1F6AF	dpt dordures interdit
+1F6B0	eau potable
+1F6B1	eau non potable
+1F6B2	vlo
+1F6B3	vlos interdits
+1F6B4	cycliste
+1F6B4-200D-2640	cycliste femme
+1F6B4-200D-2642	cycliste homme
+1F6B4-1F3FB	cycliste peau claire
+1F6B4-1F3FB-200D-2640	cycliste femme peau claire
+1F6B4-1F3FB-200D-2642	cycliste homme peau claire
+1F6B4-1F3FC	cycliste peau moyennement claire
+1F6B4-1F3FC-200D-2640	cycliste femme peau moyennement claire
+1F6B4-1F3FC-200D-2642	cycliste homme peau moyennement claire
+1F6B4-1F3FD	cycliste peau lgrement mate
+1F6B4-1F3FD-200D-2640	cycliste femme peau lgrement mate
+1F6B4-1F3FD-200D-2642	cycliste homme peau lgrement mate
+1F6B4-1F3FE	cycliste peau mate
+1F6B4-1F3FE-200D-2640	cycliste femme peau mate
+1F6B4-1F3FE-200D-2642	cycliste homme peau mate
+1F6B4-1F3FF	cycliste peau fonce
+1F6B4-1F3FF-200D-2640	cycliste femme peau fonce
+1F6B4-1F3FF-200D-2642	cycliste homme peau fonce
+1F6B5	personne en VTT
+1F6B5-200D-2640	femme en VTT
+1F6B5-200D-2642	homme en VTT
+1F6B5-1F3FB	personne en VTT peau claire
+1F6B5-1F3FB-200D-2640	femme en VTT peau claire
+1F6B5-1F3FB-200D-2642	homme en VTT peau claire
+1F6B5-1F3FC	personne en VTT peau moyennement claire
+1F6B5-1F3FC-200D-2640	femme en VTT peau moyennement claire
+1F6B5-1F3FC-200D-2642	homme en VTT peau moyennement claire
+1F6B5-1F3FD	personne en VTT peau lgrement mate
+1F6B5-1F3FD-200D-2640	femme en VTT peau lgrement mate
+1F6B5-1F3FD-200D-2642	homme en VTT peau lgrement mate
+1F6B5-1F3FE	personne en VTT peau mate
+1F6B5-1F3FE-200D-2640	femme en VTT peau mate
+1F6B5-1F3FE-200D-2642	homme en VTT peau mate
+1F6B5-1F3FF	personne en VTT peau fonce
+1F6B5-1F3FF-200D-2640	femme en VTT peau fonce
+1F6B5-1F3FF-200D-2642	homme en VTT peau fonce
+1F6B6	personne qui marche
+1F6B6-200D-2640	femme qui marche
+1F6B6-200D-2642	homme qui marche
+1F6B6-1F3FB	personne qui marche peau claire
+1F6B6-1F3FB-200D-2640	femme qui marche peau claire
+1F6B6-1F3FB-200D-2642	homme qui marche peau claire
+1F6B6-1F3FC	personne qui marche peau moyennement claire
+1F6B6-1F3FC-200D-2640	femme qui marche peau moyennement claire
+1F6B6-1F3FC-200D-2642	homme qui marche peau moyennement claire
+1F6B6-1F3FD	personne qui marche peau lgrement mate
+1F6B6-1F3FD-200D-2640	femme qui marche peau lgrement mate
+1F6B6-1F3FD-200D-2642	homme qui marche peau lgrement mate
+1F6B6-1F3FE	personne qui marche peau mate
+1F6B6-1F3FE-200D-2640	femme qui marche peau mate
+1F6B6-1F3FE-200D-2642	homme qui marche peau mate
+1F6B6-1F3FF	personne qui marche peau fonce
+1F6B6-1F3FF-200D-2640	femme qui marche peau fonce
+1F6B6-1F3FF-200D-2642	homme qui marche peau fonce
+1F6B7	interdit aux pitons
+1F6B8	traverse denfants
+1F6B9	symbole Toilettes hommes
+1F6BA	symbole Toilettes femmes
+1F6BB	panneau Toilettes
+1F6BC	symbole Bb
+1F6BD	toilettes
+1F6BE	WC
+1F6BF	douche
+1F6C0	personne prenant un bain
+1F6C0-1F3FB	personne prenant un bain peau claire
+1F6C0-1F3FC	personne prenant un bain peau moyennement claire
+1F6C0-1F3FD	personne prenant un bain peau lgrement mate
+1F6C0-1F3FE	personne prenant un bain peau mate
+1F6C0-1F3FF	personne prenant un bain peau fonce
+1F6C1	baignoire
+1F6C2	contrle des passeports
+1F6C3	douane
+1F6C4	retrait des bagages
+1F6C5	consigne
+1F6CB	canap et lampe
+1F6CC	personne au lit
+1F6CC-1F3FB	personne au lit peau claire
+1F6CC-1F3FC	personne au lit peau moyennement claire
+1F6CC-1F3FD	personne au lit peau lgrement mate
+1F6CC-1F3FE	personne au lit peau mate
+1F6CC-1F3FF	personne au lit peau fonce
+1F6CD	sacs de shopping
+1F6CE	cloche de comptoir
+1F6CF	lit
+1F6D0	lieu de culte
+1F6D1	stop
+1F6D2	chariot
+1F6D5	temple hindou
+1F6D6	hutte
+1F6D7	ascenseur
+1F6E0	marteau et cl molette
+1F6E1	bouclier
+1F6E2	baril de ptrole
+1F6E3	autoroute
+1F6E4	voie ferre
+1F6E5	bateau moteur
+1F6E9	petit avion
+1F6EB	avion au dcollage
+1F6EC	avion latterrissage
+1F6F0	satellite
+1F6F3	paquebot
+1F6F4	trottinette
+1F6F5	scooter
+1F6F6	cano
+1F6F7	luge
+1F6F8	soucoupe volante
+1F6F9	planche roulettes
+1F6FA	tuk tuk
+1F6FB	pick-up
+1F6FC	patin roulettes
+1F7E0	disque orange
+1F7E1	disque jaune
+1F7E2	disque vert
+1F7E3	disque violet
+1F7E4	disque marron
+1F7E5	carr rouge
+1F7E6	carr bleu
+1F7E7	carr orange
+1F7E8	carr jaune
+1F7E9	carr vert
+1F7EA	carr violet
+1F7EB	carr marron
+1F90C	bout des doigts joints
+1F90C-1F3FB	bout des doigts joints peau claire
+1F90C-1F3FC	bout des doigts joints peau moyennement claire
+1F90C-1F3FD	bout des doigts joints peau lgrement mate
+1F90C-1F3FE	bout des doigts joints peau mate
+1F90C-1F3FF	bout des doigts joints peau fonce
+1F90D	cur blanc
+1F90E	cur marron
+1F90F	pouce et index rapprochs
+1F90F-1F3FB	pouce et index rapprochs peau claire
+1F90F-1F3FC	pouce et index rapprochs peau moyennement claire
+1F90F-1F3FD	pouce et index rapprochs peau lgrement mate
+1F90F-1F3FE	pouce et index rapprochs peau mate
+1F90F-1F3FF	pouce et index rapprochs peau fonce
+1F910	visage avec bouche fermeture clair
+1F911	argent dans les yeux et la bouche
+1F912	visage avec thermomtre
+1F913	visage de geek
+1F914	visage en pleine rflexion
+1F915	visage avec bandage autour de la tte
+1F916	robot
+1F917	visage qui fait un clin
+1F918	cornes avec les doigts
+1F918-1F3FB	cornes avec les doigts peau claire
+1F918-1F3FC	cornes avec les doigts peau moyennement claire
+1F918-1F3FD	cornes avec les doigts peau lgrement mate
+1F918-1F3FE	cornes avec les doigts peau mate
+1F918-1F3FF	cornes avec les doigts peau fonce
+1F919	signe appel tlphonique avec les doigts
+1F919-1F3FB	signe appel tlphonique avec les doigts peau claire
+1F919-1F3FC	signe appel tlphonique avec les doigts peau moyennement claire
+1F919-1F3FD	signe appel tlphonique avec les doigts peau lgrement mate
+1F919-1F3FE	signe appel tlphonique avec les doigts peau mate
+1F919-1F3FF	signe appel tlphonique avec les doigts peau fonce
+1F91A	dos de main leve
+1F91A-1F3FB	dos de main leve peau claire
+1F91A-1F3FC	dos de main leve peau moyennement claire
+1F91A-1F3FD	dos de main leve peau lgrement mate
+1F91A-1F3FE	dos de main leve peau mate
+1F91A-1F3FF	dos de main leve peau fonce
+1F91B	poing gauche
+1F91B-1F3FB	poing gauche peau claire
+1F91B-1F3FC	poing gauche peau moyennement claire
+1F91B-1F3FD	poing gauche peau lgrement mate
+1F91B-1F3FE	poing gauche peau mate
+1F91B-1F3FF	poing gauche peau fonce
+1F91C	poing droite
+1F91C-1F3FB	poing droite peau claire
+1F91C-1F3FC	poing droite peau moyennement claire
+1F91C-1F3FD	poing droite peau lgrement mate
+1F91C-1F3FE	poing droite peau mate
+1F91C-1F3FF	poing droite peau fonce
+1F91D	poigne de main
+1F91E	doigts croiss
+1F91E-1F3FB	doigts croiss peau claire
+1F91E-1F3FC	doigts croiss peau moyennement claire
+1F91E-1F3FD	doigts croiss peau lgrement mate
+1F91E-1F3FE	doigts croiss peau mate
+1F91E-1F3FF	doigts croiss peau fonce
+1F91F	signe je taime
+1F91F-1F3FB	signe je taime peau claire
+1F91F-1F3FC	signe je taime peau moyennement claire
+1F91F-1F3FD	signe je taime peau lgrement mate
+1F91F-1F3FE	signe je taime peau mate
+1F91F-1F3FF	signe je taime peau fonce
+1F920	visage avec chapeau de cowboy
+1F921	visage de clown
+1F922	visage nauseux
+1F923	se rouler par terre de rire
+1F924	visage qui bave
+1F925	visage de menteur
+1F926	personne avec la paume sur le visage
+1F926-200D-2640	femme avec la paume sur le visage
+1F926-200D-2642	homme avec la paume sur le visage
+1F926-1F3FB	personne avec la paume sur le visage peau claire
+1F926-1F3FB-200D-2640	femme avec la paume sur le visage peau claire
+1F926-1F3FB-200D-2642	homme avec la paume sur le visage peau claire
+1F926-1F3FC	personne avec la paume sur le visage peau moyennement claire
+1F926-1F3FC-200D-2640	femme avec la paume sur le visage peau moyennement claire
+1F926-1F3FC-200D-2642	homme avec la paume sur le visage peau moyennement claire
+1F926-1F3FD	personne avec la paume sur le visage peau lgrement mate
+1F926-1F3FD-200D-2640	femme avec la paume sur le visage peau lgrement mate
+1F926-1F3FD-200D-2642	homme avec la paume sur le visage peau lgrement mate
+1F926-1F3FE	personne avec la paume sur le visage peau mate
+1F926-1F3FE-200D-2640	femme avec la paume sur le visage peau mate
+1F926-1F3FE-200D-2642	homme avec la paume sur le visage peau mate
+1F926-1F3FF	personne avec la paume sur le visage peau fonce
+1F926-1F3FF-200D-2640	femme avec la paume sur le visage peau fonce
+1F926-1F3FF-200D-2642	homme avec la paume sur le visage peau fonce
+1F927	visage qui ternue
+1F928	visage avec les sourcils relevs
+1F929	visage avec des toiles la place des yeux
+1F92A	tte de fou
+1F92B	visage avec un doigt sur la bouche
+1F92C	visage avec des symboles dans la bouche
+1F92D	visage avec une main sur la bouche
+1F92E	visage qui vomit
+1F92F	tte qui explose
+1F930	femme enceinte
+1F930-1F3FB	femme enceinte peau claire
+1F930-1F3FC	femme enceinte peau moyennement claire
+1F930-1F3FD	femme enceinte peau lgrement mate
+1F930-1F3FE	femme enceinte peau mate
+1F930-1F3FF	femme enceinte peau fonce
+1F931	allaitement
+1F931-1F3FB	allaitement peau claire
+1F931-1F3FC	allaitement peau moyennement claire
+1F931-1F3FD	allaitement peau lgrement mate
+1F931-1F3FE	allaitement peau mate
+1F931-1F3FF	allaitement peau fonce
+1F932	paume contre paume doigts vers le haut
+1F932-1F3FB	paume contre paume doigts vers le haut peau claire
+1F932-1F3FC	paume contre paume doigts vers le haut peau moyennement claire
+1F932-1F3FD	paume contre paume doigts vers le haut peau lgrement mate
+1F932-1F3FE	paume contre paume doigts vers le haut peau mate
+1F932-1F3FF	paume contre paume doigts vers le haut peau fonce
+1F933	selfie
+1F933-1F3FB	selfie peau claire
+1F933-1F3FC	selfie peau moyennement claire
+1F933-1F3FD	selfie peau lgrement mate
+1F933-1F3FE	selfie peau mate
+1F933-1F3FF	selfie peau fonce
+1F934	prince
+1F934-1F3FB	prince peau claire
+1F934-1F3FC	prince peau moyennement claire
+1F934-1F3FD	prince peau lgrement mate
+1F934-1F3FE	prince peau mate
+1F934-1F3FF	prince peau fonce
+1F935	personne en smoking
+1F935-200D-2640	femme en smoking
+1F935-200D-2642	homme en smoking
+1F935-1F3FB	personne en smoking peau claire
+1F935-1F3FB-200D-2640	femme en smoking peau claire
+1F935-1F3FB-200D-2642	homme en smoking peau claire
+1F935-1F3FC	personne en smoking peau moyennement claire
+1F935-1F3FC-200D-2640	femme en smoking peau moyennement claire
+1F935-1F3FC-200D-2642	homme en smoking peau moyennement claire
+1F935-1F3FD	personne en smoking peau lgrement mate
+1F935-1F3FD-200D-2640	femme en smoking peau lgrement mate
+1F935-1F3FD-200D-2642	homme en smoking peau lgrement mate
+1F935-1F3FE	personne en smoking peau mate
+1F935-1F3FE-200D-2640	femme en smoking peau mate
+1F935-1F3FE-200D-2642	homme en smoking peau mate
+1F935-1F3FF	personne en smoking peau fonce
+1F935-1F3FF-200D-2640	femme en smoking peau fonce
+1F935-1F3FF-200D-2642	homme en smoking peau fonce
+1F936	mre Nol
+1F936-1F3FB	mre Nol peau claire
+1F936-1F3FC	mre Nol peau moyennement claire
+1F936-1F3FD	mre Nol peau lgrement mate
+1F936-1F3FE	mre Nol peau mate
+1F936-1F3FF	mre Nol peau fonce
+1F937	personne qui hausse les paules
+1F937-200D-2640	femme qui hausse les paules
+1F937-200D-2642	homme qui hausse les paules
+1F937-1F3FB	personne qui hausse les paules peau claire
+1F937-1F3FB-200D-2640	femme qui hausse les paules peau claire
+1F937-1F3FB-200D-2642	homme qui hausse les paules peau claire
+1F937-1F3FC	personne qui hausse les paules peau moyennement claire
+1F937-1F3FC-200D-2640	femme qui hausse les paules peau moyennement claire
+1F937-1F3FC-200D-2642	homme qui hausse les paules peau moyennement claire
+1F937-1F3FD	personne qui hausse les paules peau lgrement mate
+1F937-1F3FD-200D-2640	femme qui hausse les paules peau lgrement mate
+1F937-1F3FD-200D-2642	homme qui hausse les paules peau lgrement mate
+1F937-1F3FE	personne qui hausse les paules peau mate
+1F937-1F3FE-200D-2640	femme qui hausse les paules peau mate
+1F937-1F3FE-200D-2642	homme qui hausse les paules peau mate
+1F937-1F3FF	personne qui hausse les paules peau fonce
+1F937-1F3FF-200D-2640	femme qui hausse les paules peau fonce
+1F937-1F3FF-200D-2642	homme qui hausse les paules peau fonce
+1F938	personne faisant la roue
+1F938-200D-2640	femme faisant la roue
+1F938-200D-2642	homme faisant la roue
+1F938-1F3FB	personne faisant la roue peau claire
+1F938-1F3FB-200D-2640	femme faisant la roue peau claire
+1F938-1F3FB-200D-2642	homme faisant la roue peau claire
+1F938-1F3FC	personne faisant la roue peau moyennement claire
+1F938-1F3FC-200D-2640	femme faisant la roue peau moyennement claire
+1F938-1F3FC-200D-2642	homme faisant la roue peau moyennement claire
+1F938-1F3FD	personne faisant la roue peau lgrement mate
+1F938-1F3FD-200D-2640	femme faisant la roue peau lgrement mate
+1F938-1F3FD-200D-2642	homme faisant la roue peau lgrement mate
+1F938-1F3FE	personne faisant la roue peau mate
+1F938-1F3FE-200D-2640	femme faisant la roue peau mate
+1F938-1F3FE-200D-2642	homme faisant la roue peau mate
+1F938-1F3FF	personne faisant la roue peau fonce
+1F938-1F3FF-200D-2640	femme faisant la roue peau fonce
+1F938-1F3FF-200D-2642	homme faisant la roue peau fonce
+1F939	personne qui jongle
+1F939-200D-2640	jongleuse
+1F939-200D-2642	jongleur
+1F939-1F3FB	personne qui jongle peau claire
+1F939-1F3FB-200D-2640	jongleuse peau claire
+1F939-1F3FB-200D-2642	jongleur peau claire
+1F939-1F3FC	personne qui jongle peau moyennement claire
+1F939-1F3FC-200D-2640	jongleuse peau moyennement claire
+1F939-1F3FC-200D-2642	jongleur peau moyennement claire
+1F939-1F3FD	personne qui jongle peau lgrement mate
+1F939-1F3FD-200D-2640	jongleuse peau lgrement mate
+1F939-1F3FD-200D-2642	jongleur peau lgrement mate
+1F939-1F3FE	personne qui jongle peau mate
+1F939-1F3FE-200D-2640	jongleuse peau mate
+1F939-1F3FE-200D-2642	jongleur peau mate
+1F939-1F3FF	personne qui jongle peau fonce
+1F939-1F3FF-200D-2640	jongleuse peau fonce
+1F939-1F3FF-200D-2642	jongleur peau fonce
+1F93A	escrimeur
+1F93C	personnes faisant de la lutte
+1F93C-200D-2640	lutteuses
+1F93C-200D-2642	lutteurs
+1F93D	personne jouant au water-polo
+1F93D-200D-2640	joueuse de water-polo
+1F93D-200D-2642	joueur de water-polo
+1F93D-1F3FB	personne jouant au water-polo peau claire
+1F93D-1F3FB-200D-2640	joueuse de water-polo peau claire
+1F93D-1F3FB-200D-2642	joueur de water-polo peau claire
+1F93D-1F3FC	personne jouant au water-polo peau moyennement claire
+1F93D-1F3FC-200D-2640	joueuse de water-polo peau moyennement claire
+1F93D-1F3FC-200D-2642	joueur de water-polo peau moyennement claire
+1F93D-1F3FD	personne jouant au water-polo peau lgrement mate
+1F93D-1F3FD-200D-2640	joueuse de water-polo peau lgrement mate
+1F93D-1F3FD-200D-2642	joueur de water-polo peau lgrement mate
+1F93D-1F3FE	personne jouant au water-polo peau mate
+1F93D-1F3FE-200D-2640	joueuse de water-polo peau mate
+1F93D-1F3FE-200D-2642	joueur de water-polo peau mate
+1F93D-1F3FF	personne jouant au water-polo peau fonce
+1F93D-1F3FF-200D-2640	joueuse de water-polo peau fonce
+1F93D-1F3FF-200D-2642	joueur de water-polo peau fonce
+1F93E	personne jouant au handball
+1F93E-200D-2640	handballeuse
+1F93E-200D-2642	handballeur
+1F93E-1F3FB	personne jouant au handball peau claire
+1F93E-1F3FB-200D-2640	handballeuse peau claire
+1F93E-1F3FB-200D-2642	handballeur peau claire
+1F93E-1F3FC	personne jouant au handball peau moyennement claire
+1F93E-1F3FC-200D-2640	handballeuse peau moyennement claire
+1F93E-1F3FC-200D-2642	handballeur peau moyennement claire
+1F93E-1F3FD	personne jouant au handball peau lgrement mate
+1F93E-1F3FD-200D-2640	handballeuse peau lgrement mate
+1F93E-1F3FD-200D-2642	handballeur peau lgrement mate
+1F93E-1F3FE	personne jouant au handball peau mate
+1F93E-1F3FE-200D-2640	handballeuse peau mate
+1F93E-1F3FE-200D-2642	handballeur peau mate
+1F93E-1F3FF	personne jouant au handball peau fonce
+1F93E-1F3FF-200D-2640	handballeuse peau fonce
+1F93E-1F3FF-200D-2642	handballeur peau fonce
+1F93F	masque de plonge
+1F940	fleur fane
+1F941	batterie
+1F942	trinquer
+1F943	verre tumbler
+1F944	cuillre
+1F945	cage
+1F947	mdaille dor
+1F948	mdaille dargent
+1F949	mdaille de bronze
+1F94A	gant de boxe
+1F94B	tenue darts martiaux
+1F94C	pierre de curling
+1F94D	crosse
+1F94E	softball
+1F94F	disque volant
+1F950	croissant
+1F951	avocat
+1F952	concombre
+1F953	lard
+1F954	pomme de terre
+1F955	carotte
+1F956	baguette
+1F957	salade verte
+1F958	plat mitonn
+1F959	kebab
+1F95A	uf
+1F95B	verre de lait
+1F95C	cacahutes
+1F95D	kiwi
+1F95E	pancakes
+1F95F	boulette de pte
+1F960	biscuit chinois
+1F961	bote emporter
+1F962	baguettes
+1F963	bol avec cuillre
+1F964	gobelet avec paille
+1F965	noix de coco
+1F966	brocoli
+1F967	tarte
+1F968	bretzel
+1F969	morceau de viande
+1F96A	sandwich
+1F96B	aliments en conserve
+1F96C	lgume feuilles vertes
+1F96D	mangue
+1F96E	gteau de lune
+1F96F	bagel
+1F970	visage souriant avec curs
+1F971	visage billant
+1F972	visage souriant avec une larme
+1F973	visage festif
+1F974	visage mch
+1F975	visage rouge et chaud
+1F976	visage bleu et froid
+1F977	ninja
+1F977-1F3FB	ninja peau claire
+1F977-1F3FC	ninja peau moyennement claire
+1F977-1F3FD	ninja peau lgrement mate
+1F977-1F3FE	ninja peau mate
+1F977-1F3FF	ninja peau fonce
+1F978	visage dguis
+1F97A	visage implorant
+1F97B	sari
+1F97C	blouse blanche
+1F97D	lunettes
+1F97E	chaussure de randonne
+1F97F	chaussure plate
+1F980	crabe
+1F981	tte de lion
+1F982	scorpion
+1F983	dindon
+1F984	licorne
+1F985	aigle
+1F986	canard
+1F987	chauve-souris
+1F988	requin
+1F989	chouette
+1F98A	renard
+1F98B	papillon
+1F98C	cerf
+1F98D	gorille
+1F98E	lzard
+1F98F	rhinocros
+1F990	crevette
+1F991	calamar
+1F992	girafe
+1F993	zbre
+1F994	hrisson
+1F995	sauropode
+1F996	T-Rex
+1F997	criquet
+1F998	kangourou
+1F999	lama
+1F99A	paon
+1F99B	hippopotame
+1F99C	perroquet
+1F99D	raton laveur
+1F99E	homard
+1F99F	moustique
+1F9A0	microbe
+1F9A1	blaireau
+1F9A2	cygne
+1F9A3	mammouth
+1F9A4	dodo
+1F9A5	paresseux
+1F9A6	loutre
+1F9A7	orang-outan
+1F9A8	mouffette
+1F9A9	flamant
+1F9AA	hutre
+1F9AB	castor
+1F9AC	bison
+1F9AD	phoque
+1F9AE	chien guide
+1F9AF	canne blanche
+1F9B0	cheveux roux
+1F9B1	cheveux boucls
+1F9B2	chauve
+1F9B3	cheveux blancs
+1F9B4	os
+1F9B5	jambe
+1F9B5-1F3FB	jambe peau claire
+1F9B5-1F3FC	jambe peau moyennement claire
+1F9B5-1F3FD	jambe peau lgrement mate
+1F9B5-1F3FE	jambe peau mate
+1F9B5-1F3FF	jambe peau fonce
+1F9B6	pied
+1F9B6-1F3FB	pied peau claire
+1F9B6-1F3FC	pied peau moyennement claire
+1F9B6-1F3FD	pied peau lgrement mate
+1F9B6-1F3FE	pied peau mate
+1F9B6-1F3FF	pied peau fonce
+1F9B7	dent
+1F9B8	super-hros
+1F9B8-200D-2640	super-hrone
+1F9B8-200D-2642	super-hros homme
+1F9B8-1F3FB	super-hros peau claire
+1F9B8-1F3FB-200D-2640	super-hrone peau claire
+1F9B8-1F3FB-200D-2642	super-hros homme peau claire
+1F9B8-1F3FC	super-hros peau moyennement claire
+1F9B8-1F3FC-200D-2640	super-hrone peau moyennement claire
+1F9B8-1F3FC-200D-2642	super-hros homme peau moyennement claire
+1F9B8-1F3FD	super-hros peau lgrement mate
+1F9B8-1F3FD-200D-2640	super-hrone peau lgrement mate
+1F9B8-1F3FD-200D-2642	super-hros homme peau lgrement mate
+1F9B8-1F3FE	super-hros peau mate
+1F9B8-1F3FE-200D-2640	super-hrone peau mate
+1F9B8-1F3FE-200D-2642	super-hros homme peau mate
+1F9B8-1F3FF	super-hros peau fonce
+1F9B8-1F3FF-200D-2640	super-hrone peau fonce
+1F9B8-1F3FF-200D-2642	super-hros homme peau fonce
+1F9B9	super-vilain
+1F9B9-200D-2640	super-vilain femme
+1F9B9-200D-2642	super-vilain homme
+1F9B9-1F3FB	super-vilain peau claire
+1F9B9-1F3FB-200D-2640	super-vilain femme peau claire
+1F9B9-1F3FB-200D-2642	super-vilain homme peau claire
+1F9B9-1F3FC	super-vilain peau moyennement claire
+1F9B9-1F3FC-200D-2640	super-vilain femme peau moyennement claire
+1F9B9-1F3FC-200D-2642	super-vilain homme peau moyennement claire
+1F9B9-1F3FD	super-vilain peau lgrement mate
+1F9B9-1F3FD-200D-2640	super-vilain femme peau lgrement mate
+1F9B9-1F3FD-200D-2642	super-vilain homme peau lgrement mate
+1F9B9-1F3FE	super-vilain peau mate
+1F9B9-1F3FE-200D-2640	super-vilain femme peau mate
+1F9B9-1F3FE-200D-2642	super-vilain homme peau mate
+1F9B9-1F3FF	super-vilain peau fonce
+1F9B9-1F3FF-200D-2640	super-vilain femme peau fonce
+1F9B9-1F3FF-200D-2642	super-vilain homme peau fonce
+1F9BA	gilet de scurit
+1F9BB	oreille appareille
+1F9BB-1F3FB	oreille appareille peau claire
+1F9BB-1F3FC	oreille appareille peau moyennement claire
+1F9BB-1F3FD	oreille appareille peau lgrement mate
+1F9BB-1F3FE	oreille appareille peau mate
+1F9BB-1F3FF	oreille appareille peau fonce
+1F9BC	fauteuil motoris
+1F9BD	fauteuil roulant manuel
+1F9BE	bras mcanique
+1F9BF	jambe mcanique
+1F9C0	part de fromage
+1F9C1	cupcake
+1F9C2	sel
+1F9C3	briquette de jus
+1F9C4	ail
+1F9C5	oignon
+1F9C6	falafels
+1F9C7	gaufre
+1F9C8	beurre
+1F9C9	mat
+1F9CA	glaon
+1F9CB	th aux perles
+1F9CD	personne debout
+1F9CD-200D-2640	femme debout
+1F9CD-200D-2642	homme debout
+1F9CD-1F3FB	personne debout peau claire
+1F9CD-1F3FB-200D-2640	femme debout peau claire
+1F9CD-1F3FB-200D-2642	homme debout peau claire
+1F9CD-1F3FC	personne debout peau moyennement claire
+1F9CD-1F3FC-200D-2640	femme debout peau moyennement claire
+1F9CD-1F3FC-200D-2642	homme debout peau moyennement claire
+1F9CD-1F3FD	personne debout peau lgrement mate
+1F9CD-1F3FD-200D-2640	femme debout peau lgrement mate
+1F9CD-1F3FD-200D-2642	homme debout peau lgrement mate
+1F9CD-1F3FE	personne debout peau mate
+1F9CD-1F3FE-200D-2640	femme debout peau mate
+1F9CD-1F3FE-200D-2642	homme debout peau mate
+1F9CD-1F3FF	personne debout peau fonce
+1F9CD-1F3FF-200D-2640	femme debout peau fonce
+1F9CD-1F3FF-200D-2642	homme debout peau fonce
+1F9CE	personne genoux
+1F9CE-200D-2640	femme genoux
+1F9CE-200D-2642	homme genoux
+1F9CE-1F3FB	personne genoux peau claire
+1F9CE-1F3FB-200D-2640	femme genoux peau claire
+1F9CE-1F3FB-200D-2642	homme genoux peau claire
+1F9CE-1F3FC	personne genoux peau moyennement claire
+1F9CE-1F3FC-200D-2640	femme genoux peau moyennement claire
+1F9CE-1F3FC-200D-2642	homme genoux peau moyennement claire
+1F9CE-1F3FD	personne genoux peau lgrement mate
+1F9CE-1F3FD-200D-2640	femme genoux peau lgrement mate
+1F9CE-1F3FD-200D-2642	homme genoux peau lgrement mate
+1F9CE-1F3FE	personne genoux peau mate
+1F9CE-1F3FE-200D-2640	femme genoux peau mate
+1F9CE-1F3FE-200D-2642	homme genoux peau mate
+1F9CE-1F3FF	personne genoux peau fonce
+1F9CE-1F3FF-200D-2640	femme genoux peau fonce
+1F9CE-1F3FF-200D-2642	homme genoux peau fonce
+1F9CF	personne sourde
+1F9CF-200D-2640	femme sourde
+1F9CF-200D-2642	homme sourd
+1F9CF-1F3FB	personne sourde peau claire
+1F9CF-1F3FB-200D-2640	femme sourde peau claire
+1F9CF-1F3FB-200D-2642	homme sourd peau claire
+1F9CF-1F3FC	personne sourde peau moyennement claire
+1F9CF-1F3FC-200D-2640	femme sourde peau moyennement claire
+1F9CF-1F3FC-200D-2642	homme sourd peau moyennement claire
+1F9CF-1F3FD	personne sourde peau lgrement mate
+1F9CF-1F3FD-200D-2640	femme sourde peau lgrement mate
+1F9CF-1F3FD-200D-2642	homme sourd peau lgrement mate
+1F9CF-1F3FE	personne sourde peau mate
+1F9CF-1F3FE-200D-2640	femme sourde peau mate
+1F9CF-1F3FE-200D-2642	homme sourd peau mate
+1F9CF-1F3FF	personne sourde peau fonce
+1F9CF-1F3FF-200D-2640	femme sourde peau fonce
+1F9CF-1F3FF-200D-2642	homme sourd peau fonce
+1F9D0	visage avec un monocle
+1F9D1	adulte
+1F9D1-200D-2695	professionnel de la sant tous genres
+1F9D1-200D-2696	juge
+1F9D1-200D-2708	pilote
+1F9D1-200D-1F33E	fermier tous genres
+1F9D1-200D-1F373	cuisinier tous genres
+1F9D1-200D-1F37C	personne allaitant un bb
+1F9D1-200D-1F384	santa
+1F9D1-200D-1F393	tudiant tous genres
+1F9D1-200D-1F3A4	chanteur tous genres
+1F9D1-200D-1F3A8	artiste
+1F9D1-200D-1F3EB	personnel enseignant
+1F9D1-200D-1F3ED	ouvrier tous genres
+1F9D1-200D-1F4BB	informaticien tous genres
+1F9D1-200D-1F4BC	employ de bureau tous genres
+1F9D1-200D-1F527	mcanicien tous genres
+1F9D1-200D-1F52C	scientifique
+1F9D1-200D-1F680	astronaute
+1F9D1-200D-1F692	pompier
+1F9D1-200D-1F91D-200D-1F9D1	deux personnes se tenant la main
+1F9D1-200D-1F9AF	personne avec une canne blanche
+1F9D1-200D-1F9B0	adulte cheveux roux
+1F9D1-200D-1F9B1	adulte cheveux boucls
+1F9D1-200D-1F9B2	adulte chauve
+1F9D1-200D-1F9B3	adulte cheveux blancs
+1F9D1-200D-1F9BC	personne en fauteuil motoris
+1F9D1-200D-1F9BD	personne en fauteuil roulant manuel
+1F9D1-1F3FB	adulte peau claire
+1F9D1-1F3FB-200D-2695	professionnel de la sant tous genres peau claire
+1F9D1-1F3FB-200D-2696	juge peau claire
+1F9D1-1F3FB-200D-2708	pilote peau claire
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bisou adulte adulte peau claire et peau moyennement claire
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bisou adulte adulte peau claire et peau lgrement mate
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bisou adulte adulte peau claire et peau mate
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bisou adulte adulte peau claire et peau fonce
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	couple avec cur adulte adulte peau claire et peau moyennement claire
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	couple avec cur adulte adulte peau claire et peau lgrement mate
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	couple avec cur adulte adulte peau claire et peau mate
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	couple avec cur adulte adulte peau claire et peau fonce
+1F9D1-1F3FB-200D-1F33E	fermier tous genres peau claire
+1F9D1-1F3FB-200D-1F373	cuisinier tous genres peau claire
+1F9D1-1F3FB-200D-1F37C	personne allaitant un bb peau claire
+1F9D1-1F3FB-200D-1F384	santa peau claire
+1F9D1-1F3FB-200D-1F393	tudiant tous genres peau claire
+1F9D1-1F3FB-200D-1F3A4	chanteur tous genres peau claire
+1F9D1-1F3FB-200D-1F3A8	artiste peau claire
+1F9D1-1F3FB-200D-1F3EB	personnel enseignant peau claire
+1F9D1-1F3FB-200D-1F3ED	ouvrier tous genres peau claire
+1F9D1-1F3FB-200D-1F4BB	informaticien tous genres peau claire
+1F9D1-1F3FB-200D-1F4BC	employ de bureau tous genres peau claire
+1F9D1-1F3FB-200D-1F527	mcanicien tous genres peau claire
+1F9D1-1F3FB-200D-1F52C	scientifique peau claire
+1F9D1-1F3FB-200D-1F680	astronaute peau claire
+1F9D1-1F3FB-200D-1F692	pompier peau claire
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	deux personnes se tenant la main peau claire
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	deux personnes se tenant la main peau claire et peau moyennement claire
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	deux personnes se tenant la main peau claire et peau lgrement mate
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	deux personnes se tenant la main peau claire et peau mate
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	deux personnes se tenant la main peau claire et peau fonce
+1F9D1-1F3FB-200D-1F9AF	personne avec une canne blanche peau claire
+1F9D1-1F3FB-200D-1F9B0	adulte peau claire et cheveux roux
+1F9D1-1F3FB-200D-1F9B1	adulte peau claire et cheveux boucls
+1F9D1-1F3FB-200D-1F9B2	adulte peau claire et chauve
+1F9D1-1F3FB-200D-1F9B3	adulte peau claire et cheveux blancs
+1F9D1-1F3FB-200D-1F9BC	personne en fauteuil motoris peau claire
+1F9D1-1F3FB-200D-1F9BD	personne en fauteuil roulant manuel peau claire
+1F9D1-1F3FC	adulte peau moyennement claire
+1F9D1-1F3FC-200D-2695	professionnel de la sant tous genres peau moyennement claire
+1F9D1-1F3FC-200D-2696	juge peau moyennement claire
+1F9D1-1F3FC-200D-2708	pilote peau moyennement claire
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bisou adulte adulte peau moyennement claire et peau claire
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bisou adulte adulte peau moyennement claire et peau lgrement mate
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bisou adulte adulte peau moyennement claire et peau mate
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bisou adulte adulte peau moyennement claire et peau fonce
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	couple avec cur adulte adulte peau moyennement claire et peau claire
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	couple avec cur adulte adulte peau moyennement claire et peau lgrement mate
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	couple avec cur adulte adulte peau moyennement claire et peau mate
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	couple avec cur adulte adulte peau moyennement claire et peau fonce
+1F9D1-1F3FC-200D-1F33E	fermier tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F373	cuisinier tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F37C	personne allaitant un bb peau moyennement claire
+1F9D1-1F3FC-200D-1F384	santa peau moyennement claire
+1F9D1-1F3FC-200D-1F393	tudiant tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F3A4	chanteur tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F3A8	artiste peau moyennement claire
+1F9D1-1F3FC-200D-1F3EB	personnel enseignant peau moyennement claire
+1F9D1-1F3FC-200D-1F3ED	ouvrier tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F4BB	informaticien tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F4BC	employ de bureau tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F527	mcanicien tous genres peau moyennement claire
+1F9D1-1F3FC-200D-1F52C	scientifique peau moyennement claire
+1F9D1-1F3FC-200D-1F680	astronaute peau moyennement claire
+1F9D1-1F3FC-200D-1F692	pompier peau moyennement claire
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	deux personnes se tenant la main peau moyennement claire et peau claire
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	deux personnes se tenant la main peau moyennement claire
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	deux personnes se tenant la main peau moyennement claire et peau lgrement mate
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	deux personnes se tenant la main peau moyennement claire et peau mate
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	deux personnes se tenant la main peau moyennement claire et peau fonce
+1F9D1-1F3FC-200D-1F9AF	personne avec une canne blanche peau moyennement claire
+1F9D1-1F3FC-200D-1F9B0	adulte peau moyennement claire et cheveux roux
+1F9D1-1F3FC-200D-1F9B1	adulte peau moyennement claire et cheveux boucls
+1F9D1-1F3FC-200D-1F9B2	adulte peau moyennement claire et chauve
+1F9D1-1F3FC-200D-1F9B3	adulte peau moyennement claire et cheveux blancs
+1F9D1-1F3FC-200D-1F9BC	personne en fauteuil motoris peau moyennement claire
+1F9D1-1F3FC-200D-1F9BD	personne en fauteuil roulant manuel peau moyennement claire
+1F9D1-1F3FD	adulte peau lgrement mate
+1F9D1-1F3FD-200D-2695	professionnel de la sant tous genres peau lgrement mate
+1F9D1-1F3FD-200D-2696	juge peau lgrement mate
+1F9D1-1F3FD-200D-2708	pilote peau lgrement mate
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bisou adulte adulte peau lgrement mate et peau claire
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bisou adulte adulte peau lgrement mate et peau moyennement claire
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bisou adulte adulte peau lgrement mate et peau mate
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bisou adulte adulte peau lgrement mate et peau fonce
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	couple avec cur adulte adulte peau lgrement mate et peau claire
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	couple avec cur adulte adulte peau lgrement mate et peau moyennement claire
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	couple avec cur adulte adulte peau lgrement mate et peau mate
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	couple avec cur adulte adulte peau lgrement mate et peau fonce
+1F9D1-1F3FD-200D-1F33E	fermier tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F373	cuisinier tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F37C	personne allaitant un bb peau lgrement mate
+1F9D1-1F3FD-200D-1F384	santa peau lgrement mate
+1F9D1-1F3FD-200D-1F393	tudiant tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F3A4	chanteur tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F3A8	artiste peau lgrement mate
+1F9D1-1F3FD-200D-1F3EB	personnel enseignant peau lgrement mate
+1F9D1-1F3FD-200D-1F3ED	ouvrier tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F4BB	informaticien tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F4BC	employ de bureau tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F527	mcanicien tous genres peau lgrement mate
+1F9D1-1F3FD-200D-1F52C	scientifique peau lgrement mate
+1F9D1-1F3FD-200D-1F680	astronaute peau lgrement mate
+1F9D1-1F3FD-200D-1F692	pompier peau lgrement mate
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	deux personnes se tenant la main peau lgrement mate et peau claire
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	deux personnes se tenant la main peau lgrement mate et peau moyennement claire
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	deux personnes se tenant la main peau lgrement mate
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	deux personnes se tenant la main peau lgrement mate et peau mate
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	deux personnes se tenant la main peau lgrement mate et peau fonce
+1F9D1-1F3FD-200D-1F9AF	personne avec une canne blanche peau lgrement mate
+1F9D1-1F3FD-200D-1F9B0	adulte peau lgrement mate et cheveux roux
+1F9D1-1F3FD-200D-1F9B1	adulte peau lgrement mate et cheveux boucls
+1F9D1-1F3FD-200D-1F9B2	adulte peau lgrement mate et chauve
+1F9D1-1F3FD-200D-1F9B3	adulte peau lgrement mate et cheveux blancs
+1F9D1-1F3FD-200D-1F9BC	personne en fauteuil motoris peau lgrement mate
+1F9D1-1F3FD-200D-1F9BD	personne en fauteuil roulant manuel peau lgrement mate
+1F9D1-1F3FE	adulte peau mate
+1F9D1-1F3FE-200D-2695	professionnel de la sant tous genres peau mate
+1F9D1-1F3FE-200D-2696	juge peau mate
+1F9D1-1F3FE-200D-2708	pilote peau mate
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bisou adulte adulte peau mate et peau claire
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bisou adulte adulte peau mate et peau moyennement claire
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bisou adulte adulte peau mate et peau lgrement mate
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bisou adulte adulte peau mate et peau fonce
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	couple avec cur adulte adulte peau mate et peau claire
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	couple avec cur adulte adulte peau mate et peau moyennement claire
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	couple avec cur adulte adulte peau mate et peau lgrement mate
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	couple avec cur adulte adulte peau mate et peau fonce
+1F9D1-1F3FE-200D-1F33E	fermier tous genres peau mate
+1F9D1-1F3FE-200D-1F373	cuisinier tous genres peau mate
+1F9D1-1F3FE-200D-1F37C	personne allaitant un bb peau mate
+1F9D1-1F3FE-200D-1F384	santa peau mate
+1F9D1-1F3FE-200D-1F393	tudiant tous genres peau mate
+1F9D1-1F3FE-200D-1F3A4	chanteur tous genres peau mate
+1F9D1-1F3FE-200D-1F3A8	artiste peau mate
+1F9D1-1F3FE-200D-1F3EB	personnel enseignant peau mate
+1F9D1-1F3FE-200D-1F3ED	ouvrier tous genres peau mate
+1F9D1-1F3FE-200D-1F4BB	informaticien tous genres peau mate
+1F9D1-1F3FE-200D-1F4BC	employ de bureau tous genres peau mate
+1F9D1-1F3FE-200D-1F527	mcanicien tous genres peau mate
+1F9D1-1F3FE-200D-1F52C	scientifique peau mate
+1F9D1-1F3FE-200D-1F680	astronaute peau mate
+1F9D1-1F3FE-200D-1F692	pompier peau mate
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	deux personnes se tenant la main peau mate et peau claire
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	deux personnes se tenant la main peau mate et peau moyennement claire
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	deux personnes se tenant la main peau mate et peau lgrement mate
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	deux personnes se tenant la main peau mate
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	deux personnes se tenant la main peau mate et peau fonce
+1F9D1-1F3FE-200D-1F9AF	personne avec une canne blanche peau mate
+1F9D1-1F3FE-200D-1F9B0	adulte peau mate et cheveux roux
+1F9D1-1F3FE-200D-1F9B1	adulte peau mate et cheveux boucls
+1F9D1-1F3FE-200D-1F9B2	adulte peau mate et chauve
+1F9D1-1F3FE-200D-1F9B3	adulte peau mate et cheveux blancs
+1F9D1-1F3FE-200D-1F9BC	personne en fauteuil motoris peau mate
+1F9D1-1F3FE-200D-1F9BD	personne en fauteuil roulant manuel peau mate
+1F9D1-1F3FF	adulte peau fonce
+1F9D1-1F3FF-200D-2695	professionnel de la sant tous genres peau fonce
+1F9D1-1F3FF-200D-2696	juge peau fonce
+1F9D1-1F3FF-200D-2708	pilote peau fonce
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bisou adulte adulte peau fonce et peau claire
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bisou adulte adulte peau fonce et peau moyennement claire
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bisou adulte adulte peau fonce et peau lgrement mate
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bisou adulte adulte peau fonce et peau mate
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	couple avec cur adulte adulte peau fonce et peau claire
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	couple avec cur adulte adulte peau fonce et peau moyennement claire
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	couple avec cur adulte adulte peau fonce et peau lgrement mate
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	couple avec cur adulte adulte peau fonce et peau mate
+1F9D1-1F3FF-200D-1F33E	fermier tous genres peau fonce
+1F9D1-1F3FF-200D-1F373	cuisinier tous genres peau fonce
+1F9D1-1F3FF-200D-1F37C	personne allaitant un bb peau fonce
+1F9D1-1F3FF-200D-1F384	santa peau fonce
+1F9D1-1F3FF-200D-1F393	tudiant tous genres peau fonce
+1F9D1-1F3FF-200D-1F3A4	chanteur tous genres peau fonce
+1F9D1-1F3FF-200D-1F3A8	artiste peau fonce
+1F9D1-1F3FF-200D-1F3EB	personnel enseignant peau fonce
+1F9D1-1F3FF-200D-1F3ED	ouvrier tous genres peau fonce
+1F9D1-1F3FF-200D-1F4BB	informaticien tous genres peau fonce
+1F9D1-1F3FF-200D-1F4BC	employ de bureau tous genres peau fonce
+1F9D1-1F3FF-200D-1F527	mcanicien tous genres peau fonce
+1F9D1-1F3FF-200D-1F52C	scientifique peau fonce
+1F9D1-1F3FF-200D-1F680	astronaute peau fonce
+1F9D1-1F3FF-200D-1F692	pompier peau fonce
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	deux personnes se tenant la main peau fonce et peau claire
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	deux personnes se tenant la main peau fonce et peau moyennement claire
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	deux personnes se tenant la main peau fonce et peau lgrement mate
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	deux personnes se tenant la main peau fonce et peau mate
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	deux personnes se tenant la main peau fonce
+1F9D1-1F3FF-200D-1F9AF	personne avec une canne blanche peau fonce
+1F9D1-1F3FF-200D-1F9B0	adulte peau fonce et cheveux roux
+1F9D1-1F3FF-200D-1F9B1	adulte peau fonce et cheveux boucls
+1F9D1-1F3FF-200D-1F9B2	adulte peau fonce et chauve
+1F9D1-1F3FF-200D-1F9B3	adulte peau fonce et cheveux blancs
+1F9D1-1F3FF-200D-1F9BC	personne en fauteuil motoris peau fonce
+1F9D1-1F3FF-200D-1F9BD	personne en fauteuil roulant manuel peau fonce
+1F9D2	enfant
+1F9D2-1F3FB	enfant peau claire
+1F9D2-1F3FC	enfant peau moyennement claire
+1F9D2-1F3FD	enfant peau lgrement mate
+1F9D2-1F3FE	enfant peau mate
+1F9D2-1F3FF	enfant peau fonce
+1F9D3	personne ge
+1F9D3-1F3FB	personne ge peau claire
+1F9D3-1F3FC	personne ge peau moyennement claire
+1F9D3-1F3FD	personne ge peau lgrement mate
+1F9D3-1F3FE	personne ge peau mate
+1F9D3-1F3FF	personne ge peau fonce
+1F9D4	personne barbue
+1F9D4-200D-2640	femme barbue
+1F9D4-200D-2642	homme barbu
+1F9D4-1F3FB	personne barbue peau claire
+1F9D4-1F3FB-200D-2640	femme barbue peau claire
+1F9D4-1F3FB-200D-2642	homme barbu peau claire
+1F9D4-1F3FC	personne barbue peau moyennement claire
+1F9D4-1F3FC-200D-2640	femme barbue peau moyennement claire
+1F9D4-1F3FC-200D-2642	homme barbu peau moyennement claire
+1F9D4-1F3FD	personne barbue peau lgrement mate
+1F9D4-1F3FD-200D-2640	femme barbue peau lgrement mate
+1F9D4-1F3FD-200D-2642	homme barbu peau lgrement mate
+1F9D4-1F3FE	personne barbue peau mate
+1F9D4-1F3FE-200D-2640	femme barbue peau mate
+1F9D4-1F3FE-200D-2642	homme barbu peau mate
+1F9D4-1F3FF	personne barbue peau fonce
+1F9D4-1F3FF-200D-2640	femme barbue peau fonce
+1F9D4-1F3FF-200D-2642	homme barbu peau fonce
+1F9D5	femme avec foulard
+1F9D5-1F3FB	femme avec foulard peau claire
+1F9D5-1F3FC	femme avec foulard peau moyennement claire
+1F9D5-1F3FD	femme avec foulard peau lgrement mate
+1F9D5-1F3FE	femme avec foulard peau mate
+1F9D5-1F3FF	femme avec foulard peau fonce
+1F9D6	personne au hammam
+1F9D6-200D-2640	femme au hammam
+1F9D6-200D-2642	homme au hammam
+1F9D6-1F3FB	personne au hammam peau claire
+1F9D6-1F3FB-200D-2640	femme au hammam peau claire
+1F9D6-1F3FB-200D-2642	homme au hammam peau claire
+1F9D6-1F3FC	personne au hammam peau moyennement claire
+1F9D6-1F3FC-200D-2640	femme au hammam peau moyennement claire
+1F9D6-1F3FC-200D-2642	homme au hammam peau moyennement claire
+1F9D6-1F3FD	personne au hammam peau lgrement mate
+1F9D6-1F3FD-200D-2640	femme au hammam peau lgrement mate
+1F9D6-1F3FD-200D-2642	homme au hammam peau lgrement mate
+1F9D6-1F3FE	personne au hammam peau mate
+1F9D6-1F3FE-200D-2640	femme au hammam peau mate
+1F9D6-1F3FE-200D-2642	homme au hammam peau mate
+1F9D6-1F3FF	personne au hammam peau fonce
+1F9D6-1F3FF-200D-2640	femme au hammam peau fonce
+1F9D6-1F3FF-200D-2642	homme au hammam peau fonce
+1F9D7	personne qui grimpe
+1F9D7-200D-2640	femme qui grimpe
+1F9D7-200D-2642	homme qui grimpe
+1F9D7-1F3FB	personne qui grimpe peau claire
+1F9D7-1F3FB-200D-2640	femme qui grimpe peau claire
+1F9D7-1F3FB-200D-2642	homme qui grimpe peau claire
+1F9D7-1F3FC	personne qui grimpe peau moyennement claire
+1F9D7-1F3FC-200D-2640	femme qui grimpe peau moyennement claire
+1F9D7-1F3FC-200D-2642	homme qui grimpe peau moyennement claire
+1F9D7-1F3FD	personne qui grimpe peau lgrement mate
+1F9D7-1F3FD-200D-2640	femme qui grimpe peau lgrement mate
+1F9D7-1F3FD-200D-2642	homme qui grimpe peau lgrement mate
+1F9D7-1F3FE	personne qui grimpe peau mate
+1F9D7-1F3FE-200D-2640	femme qui grimpe peau mate
+1F9D7-1F3FE-200D-2642	homme qui grimpe peau mate
+1F9D7-1F3FF	personne qui grimpe peau fonce
+1F9D7-1F3FF-200D-2640	femme qui grimpe peau fonce
+1F9D7-1F3FF-200D-2642	homme qui grimpe peau fonce
+1F9D8	personne dans la posture du lotus
+1F9D8-200D-2640	femme dans la posture du lotus
+1F9D8-200D-2642	homme dans la posture du lotus
+1F9D8-1F3FB	personne dans la posture du lotus peau claire
+1F9D8-1F3FB-200D-2640	femme dans la posture du lotus peau claire
+1F9D8-1F3FB-200D-2642	homme dans la posture du lotus peau claire
+1F9D8-1F3FC	personne dans la posture du lotus peau moyennement claire
+1F9D8-1F3FC-200D-2640	femme dans la posture du lotus peau moyennement claire
+1F9D8-1F3FC-200D-2642	homme dans la posture du lotus peau moyennement claire
+1F9D8-1F3FD	personne dans la posture du lotus peau lgrement mate
+1F9D8-1F3FD-200D-2640	femme dans la posture du lotus peau lgrement mate
+1F9D8-1F3FD-200D-2642	homme dans la posture du lotus peau lgrement mate
+1F9D8-1F3FE	personne dans la posture du lotus peau mate
+1F9D8-1F3FE-200D-2640	femme dans la posture du lotus peau mate
+1F9D8-1F3FE-200D-2642	homme dans la posture du lotus peau mate
+1F9D8-1F3FF	personne dans la posture du lotus peau fonce
+1F9D8-1F3FF-200D-2640	femme dans la posture du lotus peau fonce
+1F9D8-1F3FF-200D-2642	homme dans la posture du lotus peau fonce
+1F9D9	mage
+1F9D9-200D-2640	mage femme
+1F9D9-200D-2642	mage homme
+1F9D9-1F3FB	mage peau claire
+1F9D9-1F3FB-200D-2640	mage femme peau claire
+1F9D9-1F3FB-200D-2642	mage homme peau claire
+1F9D9-1F3FC	mage peau moyennement claire
+1F9D9-1F3FC-200D-2640	mage femme peau moyennement claire
+1F9D9-1F3FC-200D-2642	mage homme peau moyennement claire
+1F9D9-1F3FD	mage peau lgrement mate
+1F9D9-1F3FD-200D-2640	mage femme peau lgrement mate
+1F9D9-1F3FD-200D-2642	mage homme peau lgrement mate
+1F9D9-1F3FE	mage peau mate
+1F9D9-1F3FE-200D-2640	mage femme peau mate
+1F9D9-1F3FE-200D-2642	mage homme peau mate
+1F9D9-1F3FF	mage peau fonce
+1F9D9-1F3FF-200D-2640	mage femme peau fonce
+1F9D9-1F3FF-200D-2642	mage homme peau fonce
+1F9DA	personnage frique
+1F9DA-200D-2640	fe
+1F9DA-200D-2642	fetaud
+1F9DA-1F3FB	personnage frique peau claire
+1F9DA-1F3FB-200D-2640	fe peau claire
+1F9DA-1F3FB-200D-2642	fetaud peau claire
+1F9DA-1F3FC	personnage frique peau moyennement claire
+1F9DA-1F3FC-200D-2640	fe peau moyennement claire
+1F9DA-1F3FC-200D-2642	fetaud peau moyennement claire
+1F9DA-1F3FD	personnage frique peau lgrement mate
+1F9DA-1F3FD-200D-2640	fe peau lgrement mate
+1F9DA-1F3FD-200D-2642	fetaud peau lgrement mate
+1F9DA-1F3FE	personnage frique peau mate
+1F9DA-1F3FE-200D-2640	fe peau mate
+1F9DA-1F3FE-200D-2642	fetaud peau mate
+1F9DA-1F3FF	personnage frique peau fonce
+1F9DA-1F3FF-200D-2640	fe peau fonce
+1F9DA-1F3FF-200D-2642	fetaud peau fonce
+1F9DB	vampire
+1F9DB-200D-2640	vampire femme
+1F9DB-200D-2642	vampire homme
+1F9DB-1F3FB	vampire peau claire
+1F9DB-1F3FB-200D-2640	vampire femme peau claire
+1F9DB-1F3FB-200D-2642	vampire homme peau claire
+1F9DB-1F3FC	vampire peau moyennement claire
+1F9DB-1F3FC-200D-2640	vampire femme peau moyennement claire
+1F9DB-1F3FC-200D-2642	vampire homme peau moyennement claire
+1F9DB-1F3FD	vampire peau lgrement mate
+1F9DB-1F3FD-200D-2640	vampire femme peau lgrement mate
+1F9DB-1F3FD-200D-2642	vampire homme peau lgrement mate
+1F9DB-1F3FE	vampire peau mate
+1F9DB-1F3FE-200D-2640	vampire femme peau mate
+1F9DB-1F3FE-200D-2642	vampire homme peau mate
+1F9DB-1F3FF	vampire peau fonce
+1F9DB-1F3FF-200D-2640	vampire femme peau fonce
+1F9DB-1F3FF-200D-2642	vampire homme peau fonce
+1F9DC	crature aquatique
+1F9DC-200D-2640	sirne
+1F9DC-200D-2642	triton
+1F9DC-1F3FB	crature aquatique peau claire
+1F9DC-1F3FB-200D-2640	sirne peau claire
+1F9DC-1F3FB-200D-2642	triton peau claire
+1F9DC-1F3FC	crature aquatique peau moyennement claire
+1F9DC-1F3FC-200D-2640	sirne peau moyennement claire
+1F9DC-1F3FC-200D-2642	triton peau moyennement claire
+1F9DC-1F3FD	crature aquatique peau lgrement mate
+1F9DC-1F3FD-200D-2640	sirne peau lgrement mate
+1F9DC-1F3FD-200D-2642	triton peau lgrement mate
+1F9DC-1F3FE	crature aquatique peau mate
+1F9DC-1F3FE-200D-2640	sirne peau mate
+1F9DC-1F3FE-200D-2642	triton peau mate
+1F9DC-1F3FF	crature aquatique peau fonce
+1F9DC-1F3FF-200D-2640	sirne peau fonce
+1F9DC-1F3FF-200D-2642	triton peau fonce
+1F9DD	elfe
+1F9DD-200D-2640	elfe femme
+1F9DD-200D-2642	elfe homme
+1F9DD-1F3FB	elfe peau claire
+1F9DD-1F3FB-200D-2640	elfe femme peau claire
+1F9DD-1F3FB-200D-2642	elfe homme peau claire
+1F9DD-1F3FC	elfe peau moyennement claire
+1F9DD-1F3FC-200D-2640	elfe femme peau moyennement claire
+1F9DD-1F3FC-200D-2642	elfe homme peau moyennement claire
+1F9DD-1F3FD	elfe peau lgrement mate
+1F9DD-1F3FD-200D-2640	elfe femme peau lgrement mate
+1F9DD-1F3FD-200D-2642	elfe homme peau lgrement mate
+1F9DD-1F3FE	elfe peau mate
+1F9DD-1F3FE-200D-2640	elfe femme peau mate
+1F9DD-1F3FE-200D-2642	elfe homme peau mate
+1F9DD-1F3FF	elfe peau fonce
+1F9DD-1F3FF-200D-2640	elfe femme peau fonce
+1F9DD-1F3FF-200D-2642	elfe homme peau fonce
+1F9DE	gnie
+1F9DE-200D-2640	gnie femme
+1F9DE-200D-2642	gnie homme
+1F9DF	zombie
+1F9DF-200D-2640	zombie femme
+1F9DF-200D-2642	zombie homme
+1F9E0	cerveau
+1F9E1	cur orange
+1F9E2	casquette amricaine
+1F9E3	foulard
+1F9E4	gants
+1F9E5	manteau
+1F9E6	chaussettes
+1F9E7	enveloppe rouge
+1F9E8	ptard
+1F9E9	pice de puzzle
+1F9EA	tube essai
+1F9EB	bote de ptri
+1F9EC	adn
+1F9ED	boussole
+1F9EE	abaque
+1F9EF	extincteur
+1F9F0	bote outils
+1F9F1	brique
+1F9F2	aimant
+1F9F3	bagage
+1F9F4	bouteille de lotion
+1F9F5	bobine de fil
+1F9F6	fil
+1F9F7	pingle de sret
+1F9F8	ours en peluche
+1F9F9	balai
+1F9FA	panier
+1F9FB	rouleau de papier
+1F9FC	savon
+1F9FD	ponge
+1F9FE	reu
+1F9FF	mauvais il
+1FA70	chaussons de danse
+1FA71	maillot de bain une pice
+1FA72	slip
+1FA73	short
+1FA74	tong
+1FA78	goutte de sang
+1FA79	sparadrap
+1FA7A	stthoscope
+1FA80	yoyo
+1FA81	cerf-volant
+1FA82	parachute
+1FA83	boomerang
+1FA84	baguette magique
+1FA85	piata
+1FA86	poupes russes
+1FA90	plante anneaux
+1FA91	chaise
+1FA92	rasoir
+1FA93	hache
+1FA94	diya
+1FA95	banjo
+1FA96	casque militaire
+1FA97	accordon
+1FA98	djemb
+1FA99	pice
+1FA9A	scie
+1FA9B	tournevis
+1FA9C	chelle
+1FA9D	crochet
+1FA9E	miroir
+1FA9F	fentre
+1FAA0	ventouse
+1FAA1	aiguille coudre
+1FAA2	nud
+1FAA3	seau
+1FAA4	tapette souris
+1FAA5	brosse dents
+1FAA6	pierre tombale
+1FAA7	pancarte
+1FAA8	rocher
+1FAB0	mouche
+1FAB1	lombric
+1FAB2	scarabe
+1FAB3	cafard
+1FAB4	plante en pot
+1FAB5	bois
+1FAB6	plume
+1FAC0	cur
+1FAC1	poumons
+1FAC2	treinte
+1FAD0	myrtilles
+1FAD1	poivron
+1FAD2	olive
+1FAD3	galette
+1FAD4	tamal
+1FAD5	fondue
+1FAD6	thire

@@ -1,0 +1,3647 @@
+23-20E3	tecla #
+2A-20E3	tecla *
+30-20E3	tecla 0
+31-20E3	tecla 1
+32-20E3	tecla 2
+33-20E3	tecla 3
+34-20E3	tecla 4
+35-20E3	tecla 5
+36-20E3	tecla 6
+37-20E3	tecla 7
+38-20E3	tecla 8
+39-20E3	tecla 9
+A1	ponto de exclamao invertido
+A2	centavo
+A3	libra
+A4	Moeda desconhecida
+A5	iene
+A7	seo
+A8	trema
+A9	smbolo de copyright
+AB	aspas em linha para a esquerda
+AC	negao
+AE	smbolo de registrado
+B0	grau
+B1	mais ou menos
+B2	nmero dois sobrescrito
+B3	nmero trs sobrescrito
+B4	acento agudo
+B5	sinal micro
+B6	p de mosca
+B7	ponto mediano
+B9	nmero um sobrescrito
+BB	aspas em linha para a direita
+BF	ponto de interrogao invertido
+D7	smbolo de multiplicao
+F7	sinal de diviso
+58F	Dram armnio
+60B	Afegane afego
+60C	vrgula rabe
+61B	ponto e vrgula rabe
+61F	ponto de interrogao rabe
+9F3	Taka bengali
+E3F	Baht tailands
+17DB	Riel cambojano
+2010	hfen
+2013	meia-risca
+2014	travesso
+2015	barra horizontal
+2018	apstrofo esquerdo
+2019	apstrofo direito
+201A	apstrofo inferior direito
+201C	aspas esquerdas
+201D	aspas direitas
+201E	aspas inferiores direitas
+2020	obelisco
+2021	obelisco duplo
+2022	ponto lista
+2026	reticncias
+2027	ponto de hifenizao
+2030	por mil
+2032	plica
+2033	plica dupla
+2034	plica tripla
+203B	marca de referncia
+203C	dupla exclamao
+203E	linha superior
+2042	asterismo
+2049	exclamao com interrogao
+207B	menos sobrescrito
+20A1	Coln costarriquenho
+20A5	mill
+20A6	Naira nigeriana
+20A7	Peseta espanhola
+20A9	won
+20AA	Novo shekel israelense
+20AB	Dong vietnamita
+20AC	euro
+20AD	Kip laosiano
+20AE	Tugrik mongol
+20B1	peso
+20B2	Guarani paraguaio
+20B4	Hryvnia ucraniano
+20B5	Cedi gans
+20B8	Tenge cazaque
+20B9	rupia indiana
+20BA	Lira turca
+20BC	Manat azeri
+20BD	rublo
+20BE	Lari georgiano
+20BF	bitcoin
+2117	smbolo de direitos autorais de fonograma
+2122	smbolo de marca registrada
+2139	informaes
+2190	seta apontando para a esquerda
+2191	seta apontando para cima
+2192	seta apontando para a direita
+2193	seta apontando para baixo
+2194	seta para esquerda e direita
+2195	seta para cima e para baixo
+2196	seta para cima e para a esquerda
+2197	seta para cima e para a direita
+2198	seta para baixo e para a direita
+2199	seta para baixo e para a esquerda
+219A	traado de seta para a esquerda
+219B	traado de seta para a direita
+219C	seta ondulada para a esquerda
+219D	seta ondulada para a direita
+219E	seta de duas pontas para a esquerda
+219F	seta de duas pontas para cima
+21A0	seta de duas pontas para a direita
+21A1	seta de duas pontas para baixo
+21A2	flecha com cauda para a esquerda
+21A3	flecha com cauda para a direita
+21A4	flecha com barra para a esquerda
+21A5	flecha com barra para cima
+21A6	flecha com barra para a direita
+21A7	flecha com barra para baixo
+21A9	seta curva da direita para a esquerda
+21AA	seta curva da esquerda para a direita
+21AE	traado da seta para direita e esquerda
+21C5	setas apontando para cima e para baixo
+21C6	setas apontando para a esquerda e para a direita
+2206	delta
+2207	nabla
+2208	elemento de
+2212	sinal de menos
+221A	raiz quadrada
+221E	sinal de infinito
+2229	interseo
+222A	unio
+2248	quase igual
+2260	desigual
+2261	igual a
+2264	menor que ou igual a
+2265	maior que ou igual
+2282	subconjunto de
+231A	relgio de pulso
+231B	ampulheta
+2328	teclado
+23CF	boto ejetar
+23E9	boto avanar
+23EA	boto de retroceder
+23EB	boto de avano para cima
+23EC	boto de avano para baixo
+23ED	boto de prxima faixa
+23EE	boto de faixa anterior
+23EF	boto de reproduzir ou pausar
+23F0	despertador
+23F1	cronmetro
+23F2	relgio temporizador
+23F3	ampulheta contando o tempo
+23F8	boto pausar
+23F9	boto parar
+23FA	boto gravar
+24C2	crculo com a letra M
+25AA	quadrado preto pequeno
+25AB	quadrado branco pequeno
+25B2	tringulo preenchido apontando para cima
+25B6	boto reproduzir
+25BC	tringulo preenchido apontando para baixo
+25C0	boto de voltar
+25CA	losango
+25CB	crculo vazio
+25CF	crculo preenchido
+25EF	crculo vazio grande
+25FB	quadrado branco mdio
+25FC	quadrado preto mdio
+25FD	quadrado branco mdio menor
+25FE	quadrado preto mdio menor
+2600	sol
+2601	nuvem
+2602	guarda-chuva
+2603	boneco de neve
+2604	cometa
+260E	telefone no gancho
+2611	caixa de seleo marcada com tique
+2614	sombrinha na chuva
+2615	caf
+2618	trevo
+261D	indicador apontando para cima
+261D-1F3FB	indicador apontando para cima pele clara
+261D-1F3FC	indicador apontando para cima pele morena clara
+261D-1F3FD	indicador apontando para cima pele morena
+261D-1F3FE	indicador apontando para cima pele morena escura
+261D-1F3FF	indicador apontando para cima pele escura
+2620	caveira e ossos cruzados
+2622	radioativo
+2623	risco biolgico
+2626	cruz ortodoxa
+262A	estrela e lua crescente
+262E	smbolo da paz
+262F	yin yang
+2638	roda do Dharma
+2639	rosto descontente
+263A	rosto sorridente
+2640	smbolo de feminino
+2642	smbolo de masculino
+2648	signo de ries
+2649	signo de Touro
+264A	signo de Gmeos
+264B	signo de Cncer
+264C	signo de Leo
+264D	signo de Virgem
+264E	signo de Libra
+264F	signo de Escorpio
+2650	signo de Sagitrio
+2651	signo de Capricrnio
+2652	signo de Aqurio
+2653	signo de Peixes
+265F	peo de xadrez
+2660	naipe de espadas
+2663	naipe de paus
+2665	naipe de copas
+2666	naipe de ouros
+2668	chamas
+266A	colcheia
+266D	bemol
+266F	sustenido
+267B	smbolo de reciclagem
+267E	infinito
+267F	smbolo de cadeira de rodas
+2692	martelo e picareta
+2693	ncora
+2694	espadas cruzadas
+2695	smbolo da medicina
+2696	balana
+2697	alambique
+2699	engrenagem
+269B	smbolo de tomo
+269C	flor-de-lis
+26A0	aviso
+26A1	alta tenso
+26A7	smbolo transgnero
+26AA	crculo branco
+26AB	crculo preto
+26B0	caixo
+26B1	urna funerria
+26BD	bola de futebol
+26BE	bola de beisebol
+26C4	boneco de neve sem neve
+26C5	sol por trs das nuvens
+26C8	chuva com trovo
+26CE	signo de Ofico
+26CF	picareta
+26D1	capacacete de socorrista
+26D3	correntes
+26D4	entrada proibida
+26E9	santurio japons
+26EA	igreja
+26F0	montanha
+26F1	guarda-sol
+26F2	fonte
+26F3	bandeira no buraco
+26F4	balsa
+26F5	barco a vela
+26F7	esquiador
+26F8	patins de gelo
+26F9	pessoa jogando basquete
+26F9-200D-2640	mulher jogando basquete
+26F9-200D-2642	homem jogando basquete
+26F9-1F3FB	pessoa jogando basquete pele clara
+26F9-1F3FB-200D-2640	mulher jogando basquete pele clara
+26F9-1F3FB-200D-2642	homem jogando basquete pele clara
+26F9-1F3FC	pessoa jogando basquete pele morena clara
+26F9-1F3FC-200D-2640	mulher jogando basquete pele morena clara
+26F9-1F3FC-200D-2642	homem jogando basquete pele morena clara
+26F9-1F3FD	pessoa jogando basquete pele morena
+26F9-1F3FD-200D-2640	mulher jogando basquete pele morena
+26F9-1F3FD-200D-2642	homem jogando basquete pele morena
+26F9-1F3FE	pessoa jogando basquete pele morena escura
+26F9-1F3FE-200D-2640	mulher jogando basquete pele morena escura
+26F9-1F3FE-200D-2642	homem jogando basquete pele morena escura
+26F9-1F3FF	pessoa jogando basquete pele escura
+26F9-1F3FF-200D-2640	mulher jogando basquete pele escura
+26F9-1F3FF-200D-2642	homem jogando basquete pele escura
+26FA	barraca
+26FD	posto de gasolina
+2702	tesoura
+2705	marca de seleo branca
+2708	avio
+2709	envelope
+270A	punho levantado
+270A-1F3FB	punho levantado pele clara
+270A-1F3FC	punho levantado pele morena clara
+270A-1F3FD	punho levantado pele morena
+270A-1F3FE	punho levantado pele morena escura
+270A-1F3FF	punho levantado pele escura
+270B	mo levantada
+270B-1F3FB	mo levantada pele clara
+270B-1F3FC	mo levantada pele morena clara
+270B-1F3FD	mo levantada pele morena
+270B-1F3FE	mo levantada pele morena escura
+270B-1F3FF	mo levantada pele escura
+270C	mo em V de vitria
+270C-1F3FB	mo em V de vitria pele clara
+270C-1F3FC	mo em V de vitria pele morena clara
+270C-1F3FD	mo em V de vitria pele morena
+270C-1F3FE	mo em V de vitria pele morena escura
+270C-1F3FF	mo em V de vitria pele escura
+270D	escrevendo mo
+270D-1F3FB	escrevendo mo pele clara
+270D-1F3FC	escrevendo mo pele morena clara
+270D-1F3FD	escrevendo mo pele morena
+270D-1F3FE	escrevendo mo pele morena escura
+270D-1F3FF	escrevendo mo pele escura
+270F	lpis
+2712	ponta de caneta tinteiro
+2714	marca de seleo
+2716	sinal de multiplicao
+271D	cruz latina
+2721	estrela de Davi
+2728	brilhos
+2733	asterisco de oito pontas
+2734	estrela de oito pontas
+2744	floco de neve
+2747	fasca
+274C	xis
+274E	boto de xis
+2753	ponto de interrogao vermelho
+2754	ponto de interrogao branco
+2755	ponto de exclamao branco
+2757	ponto de exclamao vermelho
+2763	exclamao de corao
+2764	corao vermelho
+2764-200D-1F525	corao em chamas
+2764-200D-1FA79	corao remendado
+2795	smbolo de adio
+2796	smbolo de subtrao
+2797	smbolo de diviso
+27A1	seta para a direita
+27B0	lao encaracolado
+27BF	loop encaracolado duas vezes
+2934	seta para a direita curvada para cima
+2935	seta para a direita curvada para baixo
+2B05	seta para a esquerda
+2B06	seta para cima
+2B07	seta para baixo
+2B1B	quadrado preto grande
+2B1C	quadrado branco grande
+2B50	estrela branca mdia
+2B55	crculo grande oco
+3001	vrgula ideogrfica
+3002	ponto ideogrfico
+3008	colchete angular de abertura
+3009	colchete angular de fechamento
+300A	colchete angular duplo de abertura
+300B	colchete angular duplo de fechamento
+300C	parntese japons kagikakko de abertura
+300D	parntese japons kagikakko de fechamento
+300E	parntese kagikakko duplo de abertura
+300F	parntese kagikakko duplo de fechamento
+3010	colchete lenticular preto de abertura
+3011	colchete lenticular preto de fechamento
+3014	colchete casco de tartaruga de abertura
+3015	colchete casco de tartaruga de fechamento
+3016	colchete lenticular branco de abertura
+3017	colchete lenticular branco de fechamento
+3030	travesso ondulado
+303D	sinal japons indicando incio de msica
+30FB	ponto mediano katakana
+3297	boto japons de parabns
+3299	boto japons de segredo
+1F004	drago vermelho de mahjong
+1F0CF	curinga
+1F170	boto A tipo sanguneo
+1F171	boto B tipo sanguneo
+1F17E	boto O tipo sanguneo
+1F17F	boto P
+1F18E	boto AB tipo sanguneo
+1F191	boto CL
+1F192	boto COOL
+1F193	boto FREE
+1F194	boto ID
+1F195	boto NEW
+1F196	boto NG
+1F197	boto OK
+1F198	boto SOS
+1F199	boto UP
+1F19A	boto VS
+1F1E6-1F1E8	bandeira Ilha de Ascenso
+1F1E6-1F1E9	bandeira Andorra
+1F1E6-1F1EA	bandeira Emirados rabes Unidos
+1F1E6-1F1EB	bandeira Afeganisto
+1F1E6-1F1EC	bandeira Antgua e Barbuda
+1F1E6-1F1EE	bandeira Anguila
+1F1E6-1F1F1	bandeira Albnia
+1F1E6-1F1F2	bandeira Armnia
+1F1E6-1F1F4	bandeira Angola
+1F1E6-1F1F6	bandeira Antrtida
+1F1E6-1F1F7	bandeira Argentina
+1F1E6-1F1F8	bandeira Samoa Americana
+1F1E6-1F1F9	bandeira ustria
+1F1E6-1F1FA	bandeira Austrlia
+1F1E6-1F1FC	bandeira Aruba
+1F1E6-1F1FD	bandeira Ilhas Aland
+1F1E6-1F1FF	bandeira Azerbaijo
+1F1E7-1F1E6	bandeira Bsnia e Herzegovina
+1F1E7-1F1E7	bandeira Barbados
+1F1E7-1F1E9	bandeira Bangladesh
+1F1E7-1F1EA	bandeira Blgica
+1F1E7-1F1EB	bandeira Burquina Faso
+1F1E7-1F1EC	bandeira Bulgria
+1F1E7-1F1ED	bandeira Barein
+1F1E7-1F1EE	bandeira Burundi
+1F1E7-1F1EF	bandeira Benin
+1F1E7-1F1F1	bandeira So Bartolomeu
+1F1E7-1F1F2	bandeira Bermudas
+1F1E7-1F1F3	bandeira Brunei
+1F1E7-1F1F4	bandeira Bolvia
+1F1E7-1F1F6	bandeira Pases Baixos Caribenhos
+1F1E7-1F1F7	bandeira Brasil
+1F1E7-1F1F8	bandeira Bahamas
+1F1E7-1F1F9	bandeira Buto
+1F1E7-1F1FB	bandeira Ilha Bouvet
+1F1E7-1F1FC	bandeira Botsuana
+1F1E7-1F1FE	bandeira Bielorrssia
+1F1E7-1F1FF	bandeira Belize
+1F1E8-1F1E6	bandeira Canad
+1F1E8-1F1E8	bandeira Ilhas Cocos Keeling
+1F1E8-1F1E9	bandeira Congo - Kinshasa
+1F1E8-1F1EB	bandeira Repblica Centro-Africana
+1F1E8-1F1EC	bandeira Repblica do Congo
+1F1E8-1F1ED	bandeira Sua
+1F1E8-1F1EE	bandeira Costa do Marfim
+1F1E8-1F1F0	bandeira Ilhas Cook
+1F1E8-1F1F1	bandeira Chile
+1F1E8-1F1F2	bandeira Camares
+1F1E8-1F1F3	bandeira China
+1F1E8-1F1F4	bandeira Colmbia
+1F1E8-1F1F5	bandeira Ilha de Clipperton
+1F1E8-1F1F7	bandeira Costa Rica
+1F1E8-1F1FA	bandeira Cuba
+1F1E8-1F1FB	bandeira Cabo Verde
+1F1E8-1F1FC	bandeira Curaao
+1F1E8-1F1FD	bandeira Ilha Christmas
+1F1E8-1F1FE	bandeira Chipre
+1F1E8-1F1FF	bandeira Tchquia
+1F1E9-1F1EA	bandeira Alemanha
+1F1E9-1F1EC	bandeira Diego Garcia
+1F1E9-1F1EF	bandeira Djibuti
+1F1E9-1F1F0	bandeira Dinamarca
+1F1E9-1F1F2	bandeira Dominica
+1F1E9-1F1F4	bandeira Repblica Dominicana
+1F1E9-1F1FF	bandeira Arglia
+1F1EA-1F1E6	bandeira Ceuta e Melilla
+1F1EA-1F1E8	bandeira Equador
+1F1EA-1F1EA	bandeira Estnia
+1F1EA-1F1EC	bandeira Egito
+1F1EA-1F1ED	bandeira Saara Ocidental
+1F1EA-1F1F7	bandeira Eritreia
+1F1EA-1F1F8	bandeira Espanha
+1F1EA-1F1F9	bandeira Etipia
+1F1EA-1F1FA	bandeira Unio Europeia
+1F1EB-1F1EE	bandeira Finlndia
+1F1EB-1F1EF	bandeira Fiji
+1F1EB-1F1F0	bandeira Ilhas Malvinas
+1F1EB-1F1F2	bandeira Micronsia
+1F1EB-1F1F4	bandeira Ilhas Faro
+1F1EB-1F1F7	bandeira Frana
+1F1EC-1F1E6	bandeira Gabo
+1F1EC-1F1E7	bandeira Reino Unido
+1F1EC-1F1E9	bandeira Granada
+1F1EC-1F1EA	bandeira Gergia
+1F1EC-1F1EB	bandeira Guiana Francesa
+1F1EC-1F1EC	bandeira Guernsey
+1F1EC-1F1ED	bandeira Gana
+1F1EC-1F1EE	bandeira Gibraltar
+1F1EC-1F1F1	bandeira Groenlndia
+1F1EC-1F1F2	bandeira Gmbia
+1F1EC-1F1F3	bandeira Guin
+1F1EC-1F1F5	bandeira Guadalupe
+1F1EC-1F1F6	bandeira Guin Equatorial
+1F1EC-1F1F7	bandeira Grcia
+1F1EC-1F1F8	bandeira Ilhas Gergia do Sul e Sandwich do Sul
+1F1EC-1F1F9	bandeira Guatemala
+1F1EC-1F1FA	bandeira Guam
+1F1EC-1F1FC	bandeira Guin-Bissau
+1F1EC-1F1FE	bandeira Guiana
+1F1ED-1F1F0	bandeira Hong Kong RAE da China
+1F1ED-1F1F2	bandeira Ilhas Heard e McDonald
+1F1ED-1F1F3	bandeira Honduras
+1F1ED-1F1F7	bandeira Crocia
+1F1ED-1F1F9	bandeira Haiti
+1F1ED-1F1FA	bandeira Hungria
+1F1EE-1F1E8	bandeira Ilhas Canrias
+1F1EE-1F1E9	bandeira Indonsia
+1F1EE-1F1EA	bandeira Irlanda
+1F1EE-1F1F1	bandeira Israel
+1F1EE-1F1F2	bandeira Ilha de Man
+1F1EE-1F1F3	bandeira ndia
+1F1EE-1F1F4	bandeira Territrio Britnico do Oceano ndico
+1F1EE-1F1F6	bandeira Iraque
+1F1EE-1F1F7	bandeira Ir
+1F1EE-1F1F8	bandeira Islndia
+1F1EE-1F1F9	bandeira Itlia
+1F1EF-1F1EA	bandeira Jersey
+1F1EF-1F1F2	bandeira Jamaica
+1F1EF-1F1F4	bandeira Jordnia
+1F1EF-1F1F5	bandeira Japo
+1F1F0-1F1EA	bandeira Qunia
+1F1F0-1F1EC	bandeira Quirguisto
+1F1F0-1F1ED	bandeira Camboja
+1F1F0-1F1EE	bandeira Quiribati
+1F1F0-1F1F2	bandeira Comores
+1F1F0-1F1F3	bandeira So Cristvo e Nvis
+1F1F0-1F1F5	bandeira Coreia do Norte
+1F1F0-1F1F7	bandeira Coreia do Sul
+1F1F0-1F1FC	bandeira Kuwait
+1F1F0-1F1FE	bandeira Ilhas Cayman
+1F1F0-1F1FF	bandeira Cazaquisto
+1F1F1-1F1E6	bandeira Laos
+1F1F1-1F1E7	bandeira Lbano
+1F1F1-1F1E8	bandeira Santa Lcia
+1F1F1-1F1EE	bandeira Liechtenstein
+1F1F1-1F1F0	bandeira Sri Lanka
+1F1F1-1F1F7	bandeira Libria
+1F1F1-1F1F8	bandeira Lesoto
+1F1F1-1F1F9	bandeira Litunia
+1F1F1-1F1FA	bandeira Luxemburgo
+1F1F1-1F1FB	bandeira Letnia
+1F1F1-1F1FE	bandeira Lbia
+1F1F2-1F1E6	bandeira Marrocos
+1F1F2-1F1E8	bandeira Mnaco
+1F1F2-1F1E9	bandeira Moldvia
+1F1F2-1F1EA	bandeira Montenegro
+1F1F2-1F1EB	bandeira So Martinho
+1F1F2-1F1EC	bandeira Madagascar
+1F1F2-1F1ED	bandeira Ilhas Marshall
+1F1F2-1F1F0	bandeira Macednia do Norte
+1F1F2-1F1F1	bandeira Mali
+1F1F2-1F1F2	bandeira Mianmar Birmnia
+1F1F2-1F1F3	bandeira Monglia
+1F1F2-1F1F4	bandeira Macau RAE da China
+1F1F2-1F1F5	bandeira Ilhas Marianas do Norte
+1F1F2-1F1F6	bandeira Martinica
+1F1F2-1F1F7	bandeira Mauritnia
+1F1F2-1F1F8	bandeira Montserrat
+1F1F2-1F1F9	bandeira Malta
+1F1F2-1F1FA	bandeira Maurcio
+1F1F2-1F1FB	bandeira Maldivas
+1F1F2-1F1FC	bandeira Malaui
+1F1F2-1F1FD	bandeira Mxico
+1F1F2-1F1FE	bandeira Malsia
+1F1F2-1F1FF	bandeira Moambique
+1F1F3-1F1E6	bandeira Nambia
+1F1F3-1F1E8	bandeira Nova Calednia
+1F1F3-1F1EA	bandeira Nger
+1F1F3-1F1EB	bandeira Ilha Norfolk
+1F1F3-1F1EC	bandeira Nigria
+1F1F3-1F1EE	bandeira Nicargua
+1F1F3-1F1F1	bandeira Pases Baixos
+1F1F3-1F1F4	bandeira Noruega
+1F1F3-1F1F5	bandeira Nepal
+1F1F3-1F1F7	bandeira Nauru
+1F1F3-1F1FA	bandeira Niue
+1F1F3-1F1FF	bandeira Nova Zelndia
+1F1F4-1F1F2	bandeira Om
+1F1F5-1F1E6	bandeira Panam
+1F1F5-1F1EA	bandeira Peru
+1F1F5-1F1EB	bandeira Polinsia Francesa
+1F1F5-1F1EC	bandeira Papua-Nova Guin
+1F1F5-1F1ED	bandeira Filipinas
+1F1F5-1F1F0	bandeira Paquisto
+1F1F5-1F1F1	bandeira Polnia
+1F1F5-1F1F2	bandeira So Pedro e Miquelo
+1F1F5-1F1F3	bandeira Ilhas Pitcairn
+1F1F5-1F1F7	bandeira Porto Rico
+1F1F5-1F1F8	bandeira Territrios palestinos
+1F1F5-1F1F9	bandeira Portugal
+1F1F5-1F1FC	bandeira Palau
+1F1F5-1F1FE	bandeira Paraguai
+1F1F6-1F1E6	bandeira Catar
+1F1F7-1F1EA	bandeira Reunio
+1F1F7-1F1F4	bandeira Romnia
+1F1F7-1F1F8	bandeira Srvia
+1F1F7-1F1FA	bandeira Rssia
+1F1F7-1F1FC	bandeira Ruanda
+1F1F8-1F1E6	bandeira Arbia Saudita
+1F1F8-1F1E7	bandeira Ilhas Salomo
+1F1F8-1F1E8	bandeira Seicheles
+1F1F8-1F1E9	bandeira Sudo
+1F1F8-1F1EA	bandeira Sucia
+1F1F8-1F1EC	bandeira Singapura
+1F1F8-1F1ED	bandeira Santa Helena
+1F1F8-1F1EE	bandeira Eslovnia
+1F1F8-1F1EF	bandeira Svalbard e Jan Mayen
+1F1F8-1F1F0	bandeira Eslovquia
+1F1F8-1F1F1	bandeira Serra Leoa
+1F1F8-1F1F2	bandeira San Marino
+1F1F8-1F1F3	bandeira Senegal
+1F1F8-1F1F4	bandeira Somlia
+1F1F8-1F1F7	bandeira Suriname
+1F1F8-1F1F8	bandeira Sudo do Sul
+1F1F8-1F1F9	bandeira So Tom e Prncipe
+1F1F8-1F1FB	bandeira El Salvador
+1F1F8-1F1FD	bandeira Sint Maarten
+1F1F8-1F1FE	bandeira Sria
+1F1F8-1F1FF	bandeira Essuatni
+1F1F9-1F1E6	bandeira Tristo da Cunha
+1F1F9-1F1E8	bandeira Ilhas Turcas e Caicos
+1F1F9-1F1E9	bandeira Chade
+1F1F9-1F1EB	bandeira Territrios Franceses do Sul
+1F1F9-1F1EC	bandeira Togo
+1F1F9-1F1ED	bandeira Tailndia
+1F1F9-1F1EF	bandeira Tadjiquisto
+1F1F9-1F1F0	bandeira Tokelau
+1F1F9-1F1F1	bandeira Timor-Leste
+1F1F9-1F1F2	bandeira Turcomenisto
+1F1F9-1F1F3	bandeira Tunsia
+1F1F9-1F1F4	bandeira Tonga
+1F1F9-1F1F7	bandeira Turquia
+1F1F9-1F1F9	bandeira Trinidad e Tobago
+1F1F9-1F1FB	bandeira Tuvalu
+1F1F9-1F1FC	bandeira Taiwan
+1F1F9-1F1FF	bandeira Tanznia
+1F1FA-1F1E6	bandeira Ucrnia
+1F1FA-1F1EC	bandeira Uganda
+1F1FA-1F1F2	bandeira Ilhas Menores Distantes dos EUA
+1F1FA-1F1F3	bandeira Naes Unidas
+1F1FA-1F1F8	bandeira Estados Unidos
+1F1FA-1F1FE	bandeira Uruguai
+1F1FA-1F1FF	bandeira Uzbequisto
+1F1FB-1F1E6	bandeira Cidade do Vaticano
+1F1FB-1F1E8	bandeira So Vicente e Granadinas
+1F1FB-1F1EA	bandeira Venezuela
+1F1FB-1F1EC	bandeira Ilhas Virgens Britnicas
+1F1FB-1F1EE	bandeira Ilhas Virgens Americanas
+1F1FB-1F1F3	bandeira Vietn
+1F1FB-1F1FA	bandeira Vanuatu
+1F1FC-1F1EB	bandeira Wallis e Futuna
+1F1FC-1F1F8	bandeira Samoa
+1F1FD-1F1F0	bandeira Kosovo
+1F1FE-1F1EA	bandeira Imen
+1F1FE-1F1F9	bandeira Mayotte
+1F1FF-1F1E6	bandeira frica do Sul
+1F1FF-1F1F2	bandeira Zmbia
+1F1FF-1F1FC	bandeira Zimbbue
+1F201	boto japons de aqui
+1F202	boto japons de taxa de servio
+1F21A	boto japons de gratuito
+1F22F	boto japons de reservado
+1F232	boto japons de proibido
+1F233	boto japons de vago
+1F234	boto japons de nota mnima
+1F235	boto japons de sem vagas
+1F236	boto japons de no gratuito
+1F237	boto japons de quantidade mensal
+1F238	boto japons de aplicao
+1F239	boto japons de desconto
+1F23A	boto japons de aberto para negcios
+1F250	boto japons de barganha
+1F251	boto japons de aceitvel
+1F300	ciclone
+1F301	enevoado
+1F302	guarda-chuva fechado
+1F303	noite estrelada
+1F304	aurora sobre montanhas
+1F305	aurora sobre gua
+1F306	cidade ao anoitecer
+1F307	pr do sol
+1F308	arco-ris
+1F309	ponte noite
+1F30A	onda
+1F30B	vulco
+1F30C	via lctea
+1F30D	globo mostrando Europa e frica
+1F30E	globo mostrando as Amricas
+1F30F	globo mostrando sia e Oceania
+1F310	globo com meridianos
+1F311	lua nova
+1F312	lua crescente cncava
+1F313	quarto crescente
+1F314	lua crescente convexa
+1F315	lua cheia
+1F316	lua minguante convexa
+1F317	quarto minguante
+1F318	lua minguante cncava
+1F319	lua crescente
+1F31A	rosto da lua nova
+1F31B	rosto da lua de quarto crescente
+1F31C	rosto da lua de quarto minguante
+1F31D	rosto da lua cheia
+1F31E	rosto do sol
+1F31F	estrela brilhante
+1F320	estrela cadente
+1F321	termmetro
+1F324	sol com nuvens
+1F325	nublado
+1F326	sol com chuva
+1F327	nuvem com chuva
+1F328	nuvem com neve
+1F329	nuvem com trovo
+1F32A	tornado
+1F32B	nevoeiro
+1F32C	rosto de vento
+1F32D	cachorro-quente
+1F32E	taco
+1F32F	burrito
+1F330	castanha
+1F331	muda de planta
+1F332	confera
+1F333	rvore caidia
+1F334	palmeira
+1F335	cacto
+1F336	pimenta
+1F337	tulipa
+1F338	flor de cerejeira
+1F339	rosa
+1F33A	hibisco
+1F33B	girassol
+1F33C	flor
+1F33D	milho
+1F33E	planta de arroz
+1F33F	erva
+1F340	trevo de quatro folhas
+1F341	folha de bordo
+1F342	folhas cadas
+1F343	folha ao vento
+1F344	cogumelo
+1F345	tomate
+1F346	berinjela
+1F347	uvas
+1F348	melo
+1F349	melancia
+1F34A	tangerina
+1F34B	limo
+1F34C	banana
+1F34D	abacaxi
+1F34E	ma vermelha
+1F34F	ma verde
+1F350	pera
+1F351	pssego
+1F352	cereja
+1F353	morango
+1F354	hambrguer
+1F355	pizza
+1F356	carne
+1F357	coxa de frango
+1F358	biscoito de arroz
+1F359	arroz japons
+1F35A	arroz cozido
+1F35B	arroz com curry
+1F35C	lmen
+1F35D	espaguete
+1F35E	po
+1F35F	batata frita
+1F360	batata assada
+1F361	dango
+1F362	oden
+1F363	sushi
+1F364	camaro frito
+1F365	bolinho de peixe
+1F366	sorvete italiano
+1F367	raspadinha de gelo
+1F368	sorvete
+1F369	donut
+1F36A	biscoito
+1F36B	chocolate
+1F36C	bala
+1F36D	pirulito
+1F36E	pudim
+1F36F	pote de mel
+1F370	po de l de morango
+1F371	bent
+1F372	panela
+1F373	ovo frito
+1F374	garfo e faca
+1F375	xcara de ch sem ala
+1F376	saqu
+1F377	vinho
+1F378	coquetel
+1F379	bebida tropical
+1F37A	cerveja
+1F37B	canecas de cerveja
+1F37C	mamadeira
+1F37D	prato com talheres
+1F37E	garrafa de champanhe
+1F37F	pipoca
+1F380	lao de fita
+1F381	presente
+1F382	bolo de aniversrio
+1F383	abbora de halloween
+1F384	rvore de natal
+1F385	Papai Noel
+1F385-1F3FB	Papai Noel pele clara
+1F385-1F3FC	Papai Noel pele morena clara
+1F385-1F3FD	Papai Noel pele morena
+1F385-1F3FE	Papai Noel pele morena escura
+1F385-1F3FF	Papai Noel pele escura
+1F386	fogos de artifcio
+1F387	vela estrela
+1F388	balo
+1F389	cone de festa
+1F38A	confete
+1F38B	rvore de tanabata
+1F38C	bandeiras cruzadas
+1F38D	decorao de pinhos
+1F38E	bonecas japonesas
+1F38F	bandeira de carpas
+1F390	carrilho de vento
+1F391	contemplao da lua
+1F392	mochila
+1F393	chapu de formatura
+1F396	medalha militar
+1F397	fita de lembrete
+1F399	microfone de estdio
+1F39A	controle de volume
+1F39B	botes giratrios
+1F39E	rolo de filmes
+1F39F	ingresso de cinema
+1F3A0	carrossel
+1F3A1	roda gigante
+1F3A2	montanha russa
+1F3A3	pesca
+1F3A4	microfone
+1F3A5	cmera de cinema
+1F3A6	cinema
+1F3A7	fones de ouvido
+1F3A8	paleta de tintas
+1F3A9	cartola
+1F3AA	circo
+1F3AB	ingresso
+1F3AC	claquete
+1F3AD	mscara
+1F3AE	videogame
+1F3AF	no alvo
+1F3B0	caa-nquel
+1F3B1	bilhar
+1F3B2	jogo de dado
+1F3B3	boliche
+1F3B4	carta de flores
+1F3B5	nota musical
+1F3B6	notas musicais
+1F3B7	saxofone
+1F3B8	guitarra
+1F3B9	teclado musical
+1F3BA	trompete
+1F3BB	violino
+1F3BC	partitura musical
+1F3BD	camiseta de corrida
+1F3BE	tnis
+1F3BF	esqui
+1F3C0	bola de basquete
+1F3C1	bandeira quadriculada
+1F3C2	praticante de snowboard
+1F3C2-1F3FB	praticante de snowboard pele clara
+1F3C2-1F3FC	praticante de snowboard pele morena clara
+1F3C2-1F3FD	praticante de snowboard pele morena
+1F3C2-1F3FE	praticante de snowboard pele morena escura
+1F3C2-1F3FF	praticante de snowboard pele escura
+1F3C3	pessoa correndo
+1F3C3-200D-2640	mulher correndo
+1F3C3-200D-2642	homem correndo
+1F3C3-1F3FB	pessoa correndo pele clara
+1F3C3-1F3FB-200D-2640	mulher correndo pele clara
+1F3C3-1F3FB-200D-2642	homem correndo pele clara
+1F3C3-1F3FC	pessoa correndo pele morena clara
+1F3C3-1F3FC-200D-2640	mulher correndo pele morena clara
+1F3C3-1F3FC-200D-2642	homem correndo pele morena clara
+1F3C3-1F3FD	pessoa correndo pele morena
+1F3C3-1F3FD-200D-2640	mulher correndo pele morena
+1F3C3-1F3FD-200D-2642	homem correndo pele morena
+1F3C3-1F3FE	pessoa correndo pele morena escura
+1F3C3-1F3FE-200D-2640	mulher correndo pele morena escura
+1F3C3-1F3FE-200D-2642	homem correndo pele morena escura
+1F3C3-1F3FF	pessoa correndo pele escura
+1F3C3-1F3FF-200D-2640	mulher correndo pele escura
+1F3C3-1F3FF-200D-2642	homem correndo pele escura
+1F3C4	surfista
+1F3C4-200D-2640	mulher surfista
+1F3C4-200D-2642	homem surfista
+1F3C4-1F3FB	surfista pele clara
+1F3C4-1F3FB-200D-2640	mulher surfista pele clara
+1F3C4-1F3FB-200D-2642	homem surfista pele clara
+1F3C4-1F3FC	surfista pele morena clara
+1F3C4-1F3FC-200D-2640	mulher surfista pele morena clara
+1F3C4-1F3FC-200D-2642	homem surfista pele morena clara
+1F3C4-1F3FD	surfista pele morena
+1F3C4-1F3FD-200D-2640	mulher surfista pele morena
+1F3C4-1F3FD-200D-2642	homem surfista pele morena
+1F3C4-1F3FE	surfista pele morena escura
+1F3C4-1F3FE-200D-2640	mulher surfista pele morena escura
+1F3C4-1F3FE-200D-2642	homem surfista pele morena escura
+1F3C4-1F3FF	surfista pele escura
+1F3C4-1F3FF-200D-2640	mulher surfista pele escura
+1F3C4-1F3FF-200D-2642	homem surfista pele escura
+1F3C5	medalha esportiva
+1F3C6	trofu
+1F3C7	corrida de cavalos
+1F3C7-1F3FB	corrida de cavalos pele clara
+1F3C7-1F3FC	corrida de cavalos pele morena clara
+1F3C7-1F3FD	corrida de cavalos pele morena
+1F3C7-1F3FE	corrida de cavalos pele morena escura
+1F3C7-1F3FF	corrida de cavalos pele escura
+1F3C8	bola de futebol americano
+1F3C9	bola de rugby
+1F3CA	pessoa nadando
+1F3CA-200D-2640	mulher nadando
+1F3CA-200D-2642	homem nadando
+1F3CA-1F3FB	pessoa nadando pele clara
+1F3CA-1F3FB-200D-2640	mulher nadando pele clara
+1F3CA-1F3FB-200D-2642	homem nadando pele clara
+1F3CA-1F3FC	pessoa nadando pele morena clara
+1F3CA-1F3FC-200D-2640	mulher nadando pele morena clara
+1F3CA-1F3FC-200D-2642	homem nadando pele morena clara
+1F3CA-1F3FD	pessoa nadando pele morena
+1F3CA-1F3FD-200D-2640	mulher nadando pele morena
+1F3CA-1F3FD-200D-2642	homem nadando pele morena
+1F3CA-1F3FE	pessoa nadando pele morena escura
+1F3CA-1F3FE-200D-2640	mulher nadando pele morena escura
+1F3CA-1F3FE-200D-2642	homem nadando pele morena escura
+1F3CA-1F3FF	pessoa nadando pele escura
+1F3CA-1F3FF-200D-2640	mulher nadando pele escura
+1F3CA-1F3FF-200D-2642	homem nadando pele escura
+1F3CB	pessoa levantando peso
+1F3CB-200D-2640	mulher levantando peso
+1F3CB-200D-2642	homem levantando peso
+1F3CB-1F3FB	pessoa levantando peso pele clara
+1F3CB-1F3FB-200D-2640	mulher levantando peso pele clara
+1F3CB-1F3FB-200D-2642	homem levantando peso pele clara
+1F3CB-1F3FC	pessoa levantando peso pele morena clara
+1F3CB-1F3FC-200D-2640	mulher levantando peso pele morena clara
+1F3CB-1F3FC-200D-2642	homem levantando peso pele morena clara
+1F3CB-1F3FD	pessoa levantando peso pele morena
+1F3CB-1F3FD-200D-2640	mulher levantando peso pele morena
+1F3CB-1F3FD-200D-2642	homem levantando peso pele morena
+1F3CB-1F3FE	pessoa levantando peso pele morena escura
+1F3CB-1F3FE-200D-2640	mulher levantando peso pele morena escura
+1F3CB-1F3FE-200D-2642	homem levantando peso pele morena escura
+1F3CB-1F3FF	pessoa levantando peso pele escura
+1F3CB-1F3FF-200D-2640	mulher levantando peso pele escura
+1F3CB-1F3FF-200D-2642	homem levantando peso pele escura
+1F3CC	golfista
+1F3CC-200D-2640	mulher golfista
+1F3CC-200D-2642	homem golfista
+1F3CC-1F3FB	golfista pele clara
+1F3CC-1F3FB-200D-2640	mulher golfista pele clara
+1F3CC-1F3FB-200D-2642	homem golfista pele clara
+1F3CC-1F3FC	golfista pele morena clara
+1F3CC-1F3FC-200D-2640	mulher golfista pele morena clara
+1F3CC-1F3FC-200D-2642	homem golfista pele morena clara
+1F3CC-1F3FD	golfista pele morena
+1F3CC-1F3FD-200D-2640	mulher golfista pele morena
+1F3CC-1F3FD-200D-2642	homem golfista pele morena
+1F3CC-1F3FE	golfista pele morena escura
+1F3CC-1F3FE-200D-2640	mulher golfista pele morena escura
+1F3CC-1F3FE-200D-2642	homem golfista pele morena escura
+1F3CC-1F3FF	golfista pele escura
+1F3CC-1F3FF-200D-2640	mulher golfista pele escura
+1F3CC-1F3FF-200D-2642	homem golfista pele escura
+1F3CD	motocicleta
+1F3CE	carro de corrida
+1F3CF	crquete
+1F3D0	bola de vlei
+1F3D1	hquei de campo
+1F3D2	hquei no gelo
+1F3D3	pingue-pongue
+1F3D4	montanha com neve
+1F3D5	acampamento
+1F3D6	praia e guarda-sol
+1F3D7	construo
+1F3D8	casas
+1F3D9	cidade
+1F3DA	casa abandonada
+1F3DB	prdio grego
+1F3DC	deserto
+1F3DD	ilha deserta
+1F3DE	parque nacional
+1F3DF	estdio
+1F3E0	casa
+1F3E1	casa com jardim
+1F3E2	edifcio comercial
+1F3E3	correio japons
+1F3E4	correio
+1F3E5	hospital
+1F3E6	banco
+1F3E7	smbolo de caixa automtico
+1F3E8	hotel
+1F3E9	motel
+1F3EA	loja de convenincia
+1F3EB	escola
+1F3EC	loja de departamentos
+1F3ED	fbrica
+1F3EE	lanterna vermelha de papel
+1F3EF	castelo japons
+1F3F0	castelo
+1F3F3	bandeira branca
+1F3F3-200D-26A7	bandeira transgnero
+1F3F3-200D-1F308	bandeira do arco-ris
+1F3F4	bandeira preta
+1F3F4-200D-2620	bandeira de pirata
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	bandeira Inglaterra
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	bandeira Esccia
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	bandeira Pas de Gales
+1F3F5	roseta
+1F3F7	etiqueta
+1F3F8	badminton
+1F3F9	arco e flecha
+1F3FA	nfora
+1F3FB	pele clara
+1F3FC	pele morena clara
+1F3FD	pele morena
+1F3FE	pele morena escura
+1F3FF	pele escura
+1F400	rato
+1F401	camundongo
+1F402	boi
+1F403	bfalo-asitico
+1F404	vaca
+1F405	tigre
+1F406	leopardo
+1F407	coelho
+1F408	gato
+1F408-200D-2B1B	gato preto
+1F409	drago
+1F40A	crocodilo
+1F40B	baleia
+1F40C	caracol
+1F40D	cobra
+1F40E	cavalo
+1F40F	carneiro
+1F410	cabra
+1F411	ovelha
+1F412	macaco
+1F413	galo
+1F414	galinha
+1F415	cachorro
+1F415-200D-1F9BA	co de servio
+1F416	porco
+1F417	javali
+1F418	elefante
+1F419	polvo
+1F41A	caramujo
+1F41B	inseto
+1F41C	formiga
+1F41D	abelha
+1F41E	joaninha
+1F41F	peixe
+1F420	peixe tropical
+1F421	baiacu
+1F422	tartaruga
+1F423	pintinho chocando
+1F424	pintinho de perfil
+1F425	pintinho de frente
+1F426	pssaro
+1F427	pinguim
+1F428	coala
+1F429	poodle
+1F42A	camelo
+1F42B	camelo com duas corcovas
+1F42C	golfinho
+1F42D	rosto de camundongo
+1F42E	rosto de vaca
+1F42F	rosto de tigre
+1F430	rosto de coelho
+1F431	rosto de gato
+1F432	rosto de drago
+1F433	baleia esguichando gua
+1F434	rosto de cavalo
+1F435	rosto de macaco
+1F436	rosto de cachorro
+1F437	rosto de porco
+1F438	sapo
+1F439	rosto de hamster
+1F43A	rosto de lobo
+1F43B	rosto de urso
+1F43B-200D-2744	urso polar
+1F43C	rosto de panda
+1F43D	nariz de porco
+1F43E	patas
+1F43F	esquilo
+1F440	olhos
+1F441	olho
+1F441-200D-1F5E8	olho no balo de dilogo
+1F442	orelha
+1F442-1F3FB	orelha pele clara
+1F442-1F3FC	orelha pele morena clara
+1F442-1F3FD	orelha pele morena
+1F442-1F3FE	orelha pele morena escura
+1F442-1F3FF	orelha pele escura
+1F443	nariz
+1F443-1F3FB	nariz pele clara
+1F443-1F3FC	nariz pele morena clara
+1F443-1F3FD	nariz pele morena
+1F443-1F3FE	nariz pele morena escura
+1F443-1F3FF	nariz pele escura
+1F444	boca
+1F445	lngua
+1F446	dorso da mo com dedo indicador apontando para cima
+1F446-1F3FB	dorso da mo com dedo indicador apontando para cima pele clara
+1F446-1F3FC	dorso da mo com dedo indicador apontando para cima pele morena clara
+1F446-1F3FD	dorso da mo com dedo indicador apontando para cima pele morena
+1F446-1F3FE	dorso da mo com dedo indicador apontando para cima pele morena escura
+1F446-1F3FF	dorso da mo com dedo indicador apontando para cima pele escura
+1F447	dorso da mo com dedo indicador apontando para baixo
+1F447-1F3FB	dorso da mo com dedo indicador apontando para baixo pele clara
+1F447-1F3FC	dorso da mo com dedo indicador apontando para baixo pele morena clara
+1F447-1F3FD	dorso da mo com dedo indicador apontando para baixo pele morena
+1F447-1F3FE	dorso da mo com dedo indicador apontando para baixo pele morena escura
+1F447-1F3FF	dorso da mo com dedo indicador apontando para baixo pele escura
+1F448	dorso da mo com dedo indicador apontando para a esquerda
+1F448-1F3FB	dorso da mo com dedo indicador apontando para a esquerda pele clara
+1F448-1F3FC	dorso da mo com dedo indicador apontando para a esquerda pele morena clara
+1F448-1F3FD	dorso da mo com dedo indicador apontando para a esquerda pele morena
+1F448-1F3FE	dorso da mo com dedo indicador apontando para a esquerda pele morena escura
+1F448-1F3FF	dorso da mo com dedo indicador apontando para a esquerda pele escura
+1F449	dorso da mo com dedo indicador apontando para a direita
+1F449-1F3FB	dorso da mo com dedo indicador apontando para a direita pele clara
+1F449-1F3FC	dorso da mo com dedo indicador apontando para a direita pele morena clara
+1F449-1F3FD	dorso da mo com dedo indicador apontando para a direita pele morena
+1F449-1F3FE	dorso da mo com dedo indicador apontando para a direita pele morena escura
+1F449-1F3FF	dorso da mo com dedo indicador apontando para a direita pele escura
+1F44A	soco
+1F44A-1F3FB	soco pele clara
+1F44A-1F3FC	soco pele morena clara
+1F44A-1F3FD	soco pele morena
+1F44A-1F3FE	soco pele morena escura
+1F44A-1F3FF	soco pele escura
+1F44B	mo acenando
+1F44B-1F3FB	mo acenando pele clara
+1F44B-1F3FC	mo acenando pele morena clara
+1F44B-1F3FD	mo acenando pele morena
+1F44B-1F3FE	mo acenando pele morena escura
+1F44B-1F3FF	mo acenando pele escura
+1F44C	sinal de ok
+1F44C-1F3FB	sinal de ok pele clara
+1F44C-1F3FC	sinal de ok pele morena clara
+1F44C-1F3FD	sinal de ok pele morena
+1F44C-1F3FE	sinal de ok pele morena escura
+1F44C-1F3FF	sinal de ok pele escura
+1F44D	polegar para cima
+1F44D-1F3FB	polegar para cima pele clara
+1F44D-1F3FC	polegar para cima pele morena clara
+1F44D-1F3FD	polegar para cima pele morena
+1F44D-1F3FE	polegar para cima pele morena escura
+1F44D-1F3FF	polegar para cima pele escura
+1F44E	polegar para baixo
+1F44E-1F3FB	polegar para baixo pele clara
+1F44E-1F3FC	polegar para baixo pele morena clara
+1F44E-1F3FD	polegar para baixo pele morena
+1F44E-1F3FE	polegar para baixo pele morena escura
+1F44E-1F3FF	polegar para baixo pele escura
+1F44F	mos aplaudindo
+1F44F-1F3FB	mos aplaudindo pele clara
+1F44F-1F3FC	mos aplaudindo pele morena clara
+1F44F-1F3FD	mos aplaudindo pele morena
+1F44F-1F3FE	mos aplaudindo pele morena escura
+1F44F-1F3FF	mos aplaudindo pele escura
+1F450	mos abertas
+1F450-1F3FB	mos abertas pele clara
+1F450-1F3FC	mos abertas pele morena clara
+1F450-1F3FD	mos abertas pele morena
+1F450-1F3FE	mos abertas pele morena escura
+1F450-1F3FF	mos abertas pele escura
+1F451	coroa
+1F452	chapu feminino
+1F453	culos
+1F454	gravata
+1F455	camiseta
+1F456	jeans
+1F457	vestido
+1F458	quimono
+1F459	biquni
+1F45A	roupas femininas
+1F45B	bolsinha
+1F45C	bolsa de mo
+1F45D	bolsa pequena
+1F45E	sapato masculino
+1F45F	tnis de corrida
+1F460	sapato de salto alto
+1F461	sandlia feminina
+1F462	bota feminina
+1F463	pegadas
+1F464	silhueta de busto
+1F465	silhueta de bustos
+1F466	menino
+1F466-1F3FB	menino pele clara
+1F466-1F3FC	menino pele morena clara
+1F466-1F3FD	menino pele morena
+1F466-1F3FE	menino pele morena escura
+1F466-1F3FF	menino pele escura
+1F467	menina
+1F467-1F3FB	menina pele clara
+1F467-1F3FC	menina pele morena clara
+1F467-1F3FD	menina pele morena
+1F467-1F3FE	menina pele morena escura
+1F467-1F3FF	menina pele escura
+1F468	homem
+1F468-200D-2695	homem profissional da sade
+1F468-200D-2696	juiz
+1F468-200D-2708	piloto de avio homem
+1F468-200D-2764-200D-1F468	casal apaixonado homem e homem
+1F468-200D-2764-200D-1F48B-200D-1F468	beijo homem e homem
+1F468-200D-1F33E	fazendeiro
+1F468-200D-1F373	cozinheiro
+1F468-200D-1F37C	homem alimentando beb
+1F468-200D-1F393	estudante
+1F468-200D-1F3A4	cantor homem
+1F468-200D-1F3A8	artista plstico
+1F468-200D-1F3EB	professor
+1F468-200D-1F3ED	operrio
+1F468-200D-1F466	famlia homem e menino
+1F468-200D-1F466-200D-1F466	famlia homem menino e menino
+1F468-200D-1F467	famlia homem e menina
+1F468-200D-1F467-200D-1F466	famlia homem menina e menino
+1F468-200D-1F467-200D-1F467	famlia homem menina e menina
+1F468-200D-1F468-200D-1F466	famlia homem homem e menino
+1F468-200D-1F468-200D-1F466-200D-1F466	famlia homem homem menino e menino
+1F468-200D-1F468-200D-1F467	famlia homem homem e menina
+1F468-200D-1F468-200D-1F467-200D-1F466	famlia homem homem menina e menino
+1F468-200D-1F468-200D-1F467-200D-1F467	famlia homem homem menina e menina
+1F468-200D-1F469-200D-1F466	famlia homem mulher e menino
+1F468-200D-1F469-200D-1F466-200D-1F466	famlia homem mulher menino e menino
+1F468-200D-1F469-200D-1F467	famlia homem mulher e menina
+1F468-200D-1F469-200D-1F467-200D-1F466	famlia homem mulher menina e menino
+1F468-200D-1F469-200D-1F467-200D-1F467	famlia homem mulher menina e menina
+1F468-200D-1F4BB	tecnlogo
+1F468-200D-1F4BC	funcionrio de escritrio
+1F468-200D-1F527	mecnico
+1F468-200D-1F52C	cientista homem
+1F468-200D-1F680	astronauta homem
+1F468-200D-1F692	bombeiro homem
+1F468-200D-1F9AF	homem com bengala para cego
+1F468-200D-1F9B0	homem cabelo vermelho
+1F468-200D-1F9B1	homem cabelo cacheado
+1F468-200D-1F9B2	homem careca
+1F468-200D-1F9B3	homem cabelo branco
+1F468-200D-1F9BC	homem em cadeira de rodas motorizada
+1F468-200D-1F9BD	homem em cadeira de rodas manual
+1F468-1F3FB	homem pele clara
+1F468-1F3FB-200D-2695	homem profissional da sade pele clara
+1F468-1F3FB-200D-2696	juiz pele clara
+1F468-1F3FB-200D-2708	piloto de avio homem pele clara
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	casal apaixonado homem homem e pele clara
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	casal apaixonado homem homem pele clara e pele morena clara
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	casal apaixonado homem homem pele clara e pele morena
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	casal apaixonado homem homem pele clara e pele morena escura
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	casal apaixonado homem homem pele clara e pele escura
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo homem homem e pele clara
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo homem homem pele clara e pele morena clara
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo homem homem pele clara e pele morena
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo homem homem pele clara e pele morena escura
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo homem homem pele clara e pele escura
+1F468-1F3FB-200D-1F33E	fazendeiro pele clara
+1F468-1F3FB-200D-1F373	cozinheiro pele clara
+1F468-1F3FB-200D-1F37C	homem alimentando beb pele clara
+1F468-1F3FB-200D-1F393	estudante pele clara
+1F468-1F3FB-200D-1F3A4	cantor homem pele clara
+1F468-1F3FB-200D-1F3A8	artista plstico pele clara
+1F468-1F3FB-200D-1F3EB	professor pele clara
+1F468-1F3FB-200D-1F3ED	operrio pele clara
+1F468-1F3FB-200D-1F4BB	tecnlogo pele clara
+1F468-1F3FB-200D-1F4BC	funcionrio de escritrio pele clara
+1F468-1F3FB-200D-1F527	mecnico pele clara
+1F468-1F3FB-200D-1F52C	cientista homem pele clara
+1F468-1F3FB-200D-1F680	astronauta homem pele clara
+1F468-1F3FB-200D-1F692	bombeiro homem pele clara
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	dois homens de mos dadas pele clara e pele morena clara
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	dois homens de mos dadas pele clara e pele morena
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	dois homens de mos dadas pele clara e pele morena escura
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	dois homens de mos dadas pele clara e pele escura
+1F468-1F3FB-200D-1F9AF	homem com bengala para cego pele clara
+1F468-1F3FB-200D-1F9B0	homem pele clara e cabelo vermelho
+1F468-1F3FB-200D-1F9B1	homem pele clara e cabelo cacheado
+1F468-1F3FB-200D-1F9B2	homem pele clara e careca
+1F468-1F3FB-200D-1F9B3	homem pele clara e cabelo branco
+1F468-1F3FB-200D-1F9BC	homem em cadeira de rodas motorizada pele clara
+1F468-1F3FB-200D-1F9BD	homem em cadeira de rodas manual pele clara
+1F468-1F3FC	homem pele morena clara
+1F468-1F3FC-200D-2695	homem profissional da sade pele morena clara
+1F468-1F3FC-200D-2696	juiz pele morena clara
+1F468-1F3FC-200D-2708	piloto de avio homem pele morena clara
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	casal apaixonado homem homem pele morena clara e pele clara
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	casal apaixonado homem homem e pele morena clara
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	casal apaixonado homem homem pele morena clara e pele morena
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	casal apaixonado homem homem pele morena clara e pele morena escura
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	casal apaixonado homem homem pele morena clara e pele escura
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo homem homem pele morena clara e pele clara
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo homem homem e pele morena clara
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo homem homem pele morena clara e pele morena
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo homem homem pele morena clara e pele morena escura
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo homem homem pele morena clara e pele escura
+1F468-1F3FC-200D-1F33E	fazendeiro pele morena clara
+1F468-1F3FC-200D-1F373	cozinheiro pele morena clara
+1F468-1F3FC-200D-1F37C	homem alimentando beb pele morena clara
+1F468-1F3FC-200D-1F393	estudante pele morena clara
+1F468-1F3FC-200D-1F3A4	cantor homem pele morena clara
+1F468-1F3FC-200D-1F3A8	artista plstico pele morena clara
+1F468-1F3FC-200D-1F3EB	professor pele morena clara
+1F468-1F3FC-200D-1F3ED	operrio pele morena clara
+1F468-1F3FC-200D-1F4BB	tecnlogo pele morena clara
+1F468-1F3FC-200D-1F4BC	funcionrio de escritrio pele morena clara
+1F468-1F3FC-200D-1F527	mecnico pele morena clara
+1F468-1F3FC-200D-1F52C	cientista homem pele morena clara
+1F468-1F3FC-200D-1F680	astronauta homem pele morena clara
+1F468-1F3FC-200D-1F692	bombeiro homem pele morena clara
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	dois homens de mos dadas pele morena clara e pele clara
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	dois homens de mos dadas pele morena clara e pele morena
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	dois homens de mos dadas pele morena clara e pele morena escura
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	dois homens de mos dadas pele morena clara e pele escura
+1F468-1F3FC-200D-1F9AF	homem com bengala para cego pele morena clara
+1F468-1F3FC-200D-1F9B0	homem pele morena clara e cabelo vermelho
+1F468-1F3FC-200D-1F9B1	homem pele morena clara e cabelo cacheado
+1F468-1F3FC-200D-1F9B2	homem pele morena clara e careca
+1F468-1F3FC-200D-1F9B3	homem pele morena clara e cabelo branco
+1F468-1F3FC-200D-1F9BC	homem em cadeira de rodas motorizada pele morena clara
+1F468-1F3FC-200D-1F9BD	homem em cadeira de rodas manual pele morena clara
+1F468-1F3FD	homem pele morena
+1F468-1F3FD-200D-2695	homem profissional da sade pele morena
+1F468-1F3FD-200D-2696	juiz pele morena
+1F468-1F3FD-200D-2708	piloto de avio homem pele morena
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	casal apaixonado homem homem pele morena e pele clara
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	casal apaixonado homem homem pele morena e pele morena clara
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	casal apaixonado homem homem e pele morena
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	casal apaixonado homem homem pele morena e pele morena escura
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	casal apaixonado homem homem pele morena e pele escura
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo homem homem pele morena e pele clara
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo homem homem pele morena e pele morena clara
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo homem homem e pele morena
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo homem homem pele morena e pele morena escura
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo homem homem pele morena e pele escura
+1F468-1F3FD-200D-1F33E	fazendeiro pele morena
+1F468-1F3FD-200D-1F373	cozinheiro pele morena
+1F468-1F3FD-200D-1F37C	homem alimentando beb pele morena
+1F468-1F3FD-200D-1F393	estudante pele morena
+1F468-1F3FD-200D-1F3A4	cantor homem pele morena
+1F468-1F3FD-200D-1F3A8	artista plstico pele morena
+1F468-1F3FD-200D-1F3EB	professor pele morena
+1F468-1F3FD-200D-1F3ED	operrio pele morena
+1F468-1F3FD-200D-1F4BB	tecnlogo pele morena
+1F468-1F3FD-200D-1F4BC	funcionrio de escritrio pele morena
+1F468-1F3FD-200D-1F527	mecnico pele morena
+1F468-1F3FD-200D-1F52C	cientista homem pele morena
+1F468-1F3FD-200D-1F680	astronauta homem pele morena
+1F468-1F3FD-200D-1F692	bombeiro homem pele morena
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	dois homens de mos dadas pele morena e pele clara
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	dois homens de mos dadas pele morena e pele morena clara
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	dois homens de mos dadas pele morena e pele morena escura
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	dois homens de mos dadas pele morena e pele escura
+1F468-1F3FD-200D-1F9AF	homem com bengala para cego pele morena
+1F468-1F3FD-200D-1F9B0	homem pele morena e cabelo vermelho
+1F468-1F3FD-200D-1F9B1	homem pele morena e cabelo cacheado
+1F468-1F3FD-200D-1F9B2	homem pele morena e careca
+1F468-1F3FD-200D-1F9B3	homem pele morena e cabelo branco
+1F468-1F3FD-200D-1F9BC	homem em cadeira de rodas motorizada pele morena
+1F468-1F3FD-200D-1F9BD	homem em cadeira de rodas manual pele morena
+1F468-1F3FE	homem pele morena escura
+1F468-1F3FE-200D-2695	homem profissional da sade pele morena escura
+1F468-1F3FE-200D-2696	juiz pele morena escura
+1F468-1F3FE-200D-2708	piloto de avio homem pele morena escura
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	casal apaixonado homem homem pele morena escura e pele clara
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	casal apaixonado homem homem pele morena escura e pele morena clara
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	casal apaixonado homem homem pele morena escura e pele morena
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	casal apaixonado homem homem e pele morena escura
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	casal apaixonado homem homem pele morena escura e pele escura
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo homem homem pele morena escura e pele clara
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo homem homem pele morena escura e pele morena clara
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo homem homem pele morena escura e pele morena
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo homem homem e pele morena escura
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo homem homem pele morena escura e pele escura
+1F468-1F3FE-200D-1F33E	fazendeiro pele morena escura
+1F468-1F3FE-200D-1F373	cozinheiro pele morena escura
+1F468-1F3FE-200D-1F37C	homem alimentando beb pele morena escura
+1F468-1F3FE-200D-1F393	estudante pele morena escura
+1F468-1F3FE-200D-1F3A4	cantor homem pele morena escura
+1F468-1F3FE-200D-1F3A8	artista plstico pele morena escura
+1F468-1F3FE-200D-1F3EB	professor pele morena escura
+1F468-1F3FE-200D-1F3ED	operrio pele morena escura
+1F468-1F3FE-200D-1F4BB	tecnlogo pele morena escura
+1F468-1F3FE-200D-1F4BC	funcionrio de escritrio pele morena escura
+1F468-1F3FE-200D-1F527	mecnico pele morena escura
+1F468-1F3FE-200D-1F52C	cientista homem pele morena escura
+1F468-1F3FE-200D-1F680	astronauta homem pele morena escura
+1F468-1F3FE-200D-1F692	bombeiro homem pele morena escura
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	dois homens de mos dadas pele morena escura e pele clara
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	dois homens de mos dadas pele morena escura e pele morena clara
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	dois homens de mos dadas pele morena escura e pele morena
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	dois homens de mos dadas pele morena escura e pele escura
+1F468-1F3FE-200D-1F9AF	homem com bengala para cego pele morena escura
+1F468-1F3FE-200D-1F9B0	homem pele morena escura e cabelo vermelho
+1F468-1F3FE-200D-1F9B1	homem pele morena escura e cabelo cacheado
+1F468-1F3FE-200D-1F9B2	homem pele morena escura e careca
+1F468-1F3FE-200D-1F9B3	homem pele morena escura e cabelo branco
+1F468-1F3FE-200D-1F9BC	homem em cadeira de rodas motorizada pele morena escura
+1F468-1F3FE-200D-1F9BD	homem em cadeira de rodas manual pele morena escura
+1F468-1F3FF	homem pele escura
+1F468-1F3FF-200D-2695	homem profissional da sade pele escura
+1F468-1F3FF-200D-2696	juiz pele escura
+1F468-1F3FF-200D-2708	piloto de avio homem pele escura
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	casal apaixonado homem homem pele escura e pele clara
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	casal apaixonado homem homem pele escura e pele morena clara
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	casal apaixonado homem homem pele escura e pele morena
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	casal apaixonado homem homem pele escura e pele morena escura
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	casal apaixonado homem homem e pele escura
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo homem homem pele escura e pele clara
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo homem homem pele escura e pele morena clara
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo homem homem pele escura e pele morena
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo homem homem pele escura e pele morena escura
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo homem homem e pele escura
+1F468-1F3FF-200D-1F33E	fazendeiro pele escura
+1F468-1F3FF-200D-1F373	cozinheiro pele escura
+1F468-1F3FF-200D-1F37C	homem alimentando beb pele escura
+1F468-1F3FF-200D-1F393	estudante pele escura
+1F468-1F3FF-200D-1F3A4	cantor homem pele escura
+1F468-1F3FF-200D-1F3A8	artista plstico pele escura
+1F468-1F3FF-200D-1F3EB	professor pele escura
+1F468-1F3FF-200D-1F3ED	operrio pele escura
+1F468-1F3FF-200D-1F4BB	tecnlogo pele escura
+1F468-1F3FF-200D-1F4BC	funcionrio de escritrio pele escura
+1F468-1F3FF-200D-1F527	mecnico pele escura
+1F468-1F3FF-200D-1F52C	cientista homem pele escura
+1F468-1F3FF-200D-1F680	astronauta homem pele escura
+1F468-1F3FF-200D-1F692	bombeiro homem pele escura
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	dois homens de mos dadas pele escura e pele clara
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	dois homens de mos dadas pele escura e pele morena clara
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	dois homens de mos dadas pele escura e pele morena
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	dois homens de mos dadas pele escura e pele morena escura
+1F468-1F3FF-200D-1F9AF	homem com bengala para cego pele escura
+1F468-1F3FF-200D-1F9B0	homem pele escura e cabelo vermelho
+1F468-1F3FF-200D-1F9B1	homem pele escura e cabelo cacheado
+1F468-1F3FF-200D-1F9B2	homem pele escura e careca
+1F468-1F3FF-200D-1F9B3	homem pele escura e cabelo branco
+1F468-1F3FF-200D-1F9BC	homem em cadeira de rodas motorizada pele escura
+1F468-1F3FF-200D-1F9BD	homem em cadeira de rodas manual pele escura
+1F469	mulher
+1F469-200D-2695	mulher profissional da sade
+1F469-200D-2696	juza
+1F469-200D-2708	piloto de avio mulher
+1F469-200D-2764-200D-1F468	casal apaixonado mulher e homem
+1F469-200D-2764-200D-1F469	casal apaixonado mulher e mulher
+1F469-200D-2764-200D-1F48B-200D-1F468	beijo mulher e homem
+1F469-200D-2764-200D-1F48B-200D-1F469	beijo mulher e mulher
+1F469-200D-1F33E	fazendeira
+1F469-200D-1F373	cozinheira
+1F469-200D-1F37C	mulher alimentando beb
+1F469-200D-1F393	aluna
+1F469-200D-1F3A4	cantora
+1F469-200D-1F3A8	artista plstica
+1F469-200D-1F3EB	professora
+1F469-200D-1F3ED	operria
+1F469-200D-1F466	famlia mulher e menino
+1F469-200D-1F466-200D-1F466	famlia mulher menino e menino
+1F469-200D-1F467	famlia mulher e menina
+1F469-200D-1F467-200D-1F466	famlia mulher menina e menino
+1F469-200D-1F467-200D-1F467	famlia mulher menina e menina
+1F469-200D-1F469-200D-1F466	famlia mulher mulher e menino
+1F469-200D-1F469-200D-1F466-200D-1F466	famlia mulher mulher menino e menino
+1F469-200D-1F469-200D-1F467	famlia mulher mulher e menina
+1F469-200D-1F469-200D-1F467-200D-1F466	famlia mulher mulher menina e menino
+1F469-200D-1F469-200D-1F467-200D-1F467	famlia mulher mulher menina e menina
+1F469-200D-1F4BB	tecnloga
+1F469-200D-1F4BC	funcionria de escritrio
+1F469-200D-1F527	mecnica
+1F469-200D-1F52C	cientista mulher
+1F469-200D-1F680	astronauta mulher
+1F469-200D-1F692	bombeira
+1F469-200D-1F9AF	mulher com bengala para cego
+1F469-200D-1F9B0	mulher cabelo vermelho
+1F469-200D-1F9B1	mulher cabelo cacheado
+1F469-200D-1F9B2	mulher careca
+1F469-200D-1F9B3	mulher cabelo branco
+1F469-200D-1F9BC	mulher em cadeira de rodas motorizada
+1F469-200D-1F9BD	mulher em cadeira de rodas manual
+1F469-1F3FB	mulher pele clara
+1F469-1F3FB-200D-2695	mulher profissional da sade pele clara
+1F469-1F3FB-200D-2696	juza pele clara
+1F469-1F3FB-200D-2708	piloto de avio mulher pele clara
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	casal apaixonado mulher homem e pele clara
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	casal apaixonado mulher homem pele clara e pele morena clara
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	casal apaixonado mulher homem pele clara e pele morena
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	casal apaixonado mulher homem pele clara e pele morena escura
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	casal apaixonado mulher homem pele clara e pele escura
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	casal apaixonado mulher mulher e pele clara
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	casal apaixonado mulher mulher pele clara e pele morena clara
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	casal apaixonado mulher mulher pele clara e pele morena
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	casal apaixonado mulher mulher pele clara e pele morena escura
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	casal apaixonado mulher mulher pele clara e pele escura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo mulher homem e pele clara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo mulher homem pele clara e pele morena clara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo mulher homem pele clara e pele morena
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo mulher homem pele clara e pele morena escura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo mulher homem pele clara e pele escura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	beijo mulher mulher e pele clara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	beijo mulher mulher pele clara e pele morena clara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	beijo mulher mulher pele clara e pele morena
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	beijo mulher mulher pele clara e pele morena escura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	beijo mulher mulher pele clara e pele escura
+1F469-1F3FB-200D-1F33E	fazendeira pele clara
+1F469-1F3FB-200D-1F373	cozinheira pele clara
+1F469-1F3FB-200D-1F37C	mulher alimentando beb pele clara
+1F469-1F3FB-200D-1F393	aluna pele clara
+1F469-1F3FB-200D-1F3A4	cantora pele clara
+1F469-1F3FB-200D-1F3A8	artista plstica pele clara
+1F469-1F3FB-200D-1F3EB	professora pele clara
+1F469-1F3FB-200D-1F3ED	operria pele clara
+1F469-1F3FB-200D-1F4BB	tecnloga pele clara
+1F469-1F3FB-200D-1F4BC	funcionria de escritrio pele clara
+1F469-1F3FB-200D-1F527	mecnica pele clara
+1F469-1F3FB-200D-1F52C	cientista mulher pele clara
+1F469-1F3FB-200D-1F680	astronauta mulher pele clara
+1F469-1F3FB-200D-1F692	bombeira pele clara
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	homem e mulher de mos dadas pele clara e pele morena clara
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	homem e mulher de mos dadas pele clara e pele morena
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	homem e mulher de mos dadas pele clara e pele morena escura
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	homem e mulher de mos dadas pele clara e pele escura
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	duas mulheres de mos dadas pele clara e pele morena clara
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	duas mulheres de mos dadas pele clara e pele morena
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	duas mulheres de mos dadas pele clara e pele morena escura
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	duas mulheres de mos dadas pele clara e pele escura
+1F469-1F3FB-200D-1F9AF	mulher com bengala para cego pele clara
+1F469-1F3FB-200D-1F9B0	mulher pele clara e cabelo vermelho
+1F469-1F3FB-200D-1F9B1	mulher pele clara e cabelo cacheado
+1F469-1F3FB-200D-1F9B2	mulher pele clara e careca
+1F469-1F3FB-200D-1F9B3	mulher pele clara e cabelo branco
+1F469-1F3FB-200D-1F9BC	mulher em cadeira de rodas motorizada pele clara
+1F469-1F3FB-200D-1F9BD	mulher em cadeira de rodas manual pele clara
+1F469-1F3FC	mulher pele morena clara
+1F469-1F3FC-200D-2695	mulher profissional da sade pele morena clara
+1F469-1F3FC-200D-2696	juza pele morena clara
+1F469-1F3FC-200D-2708	piloto de avio mulher pele morena clara
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	casal apaixonado mulher homem pele morena clara e pele clara
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	casal apaixonado mulher homem e pele morena clara
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	casal apaixonado mulher homem pele morena clara e pele morena
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	casal apaixonado mulher homem pele morena clara e pele morena escura
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	casal apaixonado mulher homem pele morena clara e pele escura
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	casal apaixonado mulher mulher pele morena clara e pele clara
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	casal apaixonado mulher mulher e pele morena clara
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	casal apaixonado mulher mulher pele morena clara e pele morena
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	casal apaixonado mulher mulher pele morena clara e pele morena escura
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	casal apaixonado mulher mulher pele morena clara e pele escura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo mulher homem pele morena clara e pele clara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo mulher homem e pele morena clara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo mulher homem pele morena clara e pele morena
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo mulher homem pele morena clara e pele morena escura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo mulher homem pele morena clara e pele escura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	beijo mulher mulher pele morena clara e pele clara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	beijo mulher mulher e pele morena clara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	beijo mulher mulher pele morena clara e pele morena
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	beijo mulher mulher pele morena clara e pele morena escura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	beijo mulher mulher pele morena clara e pele escura
+1F469-1F3FC-200D-1F33E	fazendeira pele morena clara
+1F469-1F3FC-200D-1F373	cozinheira pele morena clara
+1F469-1F3FC-200D-1F37C	mulher alimentando beb pele morena clara
+1F469-1F3FC-200D-1F393	aluna pele morena clara
+1F469-1F3FC-200D-1F3A4	cantora pele morena clara
+1F469-1F3FC-200D-1F3A8	artista plstica pele morena clara
+1F469-1F3FC-200D-1F3EB	professora pele morena clara
+1F469-1F3FC-200D-1F3ED	operria pele morena clara
+1F469-1F3FC-200D-1F4BB	tecnloga pele morena clara
+1F469-1F3FC-200D-1F4BC	funcionria de escritrio pele morena clara
+1F469-1F3FC-200D-1F527	mecnica pele morena clara
+1F469-1F3FC-200D-1F52C	cientista mulher pele morena clara
+1F469-1F3FC-200D-1F680	astronauta mulher pele morena clara
+1F469-1F3FC-200D-1F692	bombeira pele morena clara
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	homem e mulher de mos dadas pele morena clara e pele clara
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	homem e mulher de mos dadas pele morena clara e pele morena
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	homem e mulher de mos dadas pele morena clara e pele morena escura
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	homem e mulher de mos dadas pele morena clara e pele escura
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	duas mulheres de mos dadas pele morena clara e pele clara
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	duas mulheres de mos dadas pele morena clara e pele morena
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	duas mulheres de mos dadas pele morena clara e pele morena escura
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	duas mulheres de mos dadas pele morena clara e pele escura
+1F469-1F3FC-200D-1F9AF	mulher com bengala para cego pele morena clara
+1F469-1F3FC-200D-1F9B0	mulher pele morena clara e cabelo vermelho
+1F469-1F3FC-200D-1F9B1	mulher pele morena clara e cabelo cacheado
+1F469-1F3FC-200D-1F9B2	mulher pele morena clara e careca
+1F469-1F3FC-200D-1F9B3	mulher pele morena clara e cabelo branco
+1F469-1F3FC-200D-1F9BC	mulher em cadeira de rodas motorizada pele morena clara
+1F469-1F3FC-200D-1F9BD	mulher em cadeira de rodas manual pele morena clara
+1F469-1F3FD	mulher pele morena
+1F469-1F3FD-200D-2695	mulher profissional da sade pele morena
+1F469-1F3FD-200D-2696	juza pele morena
+1F469-1F3FD-200D-2708	piloto de avio mulher pele morena
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	casal apaixonado mulher homem pele morena e pele clara
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	casal apaixonado mulher homem pele morena e pele morena clara
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	casal apaixonado mulher homem e pele morena
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	casal apaixonado mulher homem pele morena e pele morena escura
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	casal apaixonado mulher homem pele morena e pele escura
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	casal apaixonado mulher mulher pele morena e pele clara
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	casal apaixonado mulher mulher pele morena e pele morena clara
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	casal apaixonado mulher mulher e pele morena
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	casal apaixonado mulher mulher pele morena e pele morena escura
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	casal apaixonado mulher mulher pele morena e pele escura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo mulher homem pele morena e pele clara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo mulher homem pele morena e pele morena clara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo mulher homem e pele morena
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo mulher homem pele morena e pele morena escura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo mulher homem pele morena e pele escura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	beijo mulher mulher pele morena e pele clara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	beijo mulher mulher pele morena e pele morena clara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	beijo mulher mulher e pele morena
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	beijo mulher mulher pele morena e pele morena escura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	beijo mulher mulher pele morena e pele escura
+1F469-1F3FD-200D-1F33E	fazendeira pele morena
+1F469-1F3FD-200D-1F373	cozinheira pele morena
+1F469-1F3FD-200D-1F37C	mulher alimentando beb pele morena
+1F469-1F3FD-200D-1F393	aluna pele morena
+1F469-1F3FD-200D-1F3A4	cantora pele morena
+1F469-1F3FD-200D-1F3A8	artista plstica pele morena
+1F469-1F3FD-200D-1F3EB	professora pele morena
+1F469-1F3FD-200D-1F3ED	operria pele morena
+1F469-1F3FD-200D-1F4BB	tecnloga pele morena
+1F469-1F3FD-200D-1F4BC	funcionria de escritrio pele morena
+1F469-1F3FD-200D-1F527	mecnica pele morena
+1F469-1F3FD-200D-1F52C	cientista mulher pele morena
+1F469-1F3FD-200D-1F680	astronauta mulher pele morena
+1F469-1F3FD-200D-1F692	bombeira pele morena
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	homem e mulher de mos dadas pele morena e pele clara
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	homem e mulher de mos dadas pele morena e pele morena clara
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	homem e mulher de mos dadas pele morena e pele morena escura
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	homem e mulher de mos dadas pele morena e pele escura
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	duas mulheres de mos dadas pele morena e pele clara
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	duas mulheres de mos dadas pele morena e pele morena clara
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	duas mulheres de mos dadas pele morena e pele morena escura
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	duas mulheres de mos dadas pele morena e pele escura
+1F469-1F3FD-200D-1F9AF	mulher com bengala para cego pele morena
+1F469-1F3FD-200D-1F9B0	mulher pele morena e cabelo vermelho
+1F469-1F3FD-200D-1F9B1	mulher pele morena e cabelo cacheado
+1F469-1F3FD-200D-1F9B2	mulher pele morena e careca
+1F469-1F3FD-200D-1F9B3	mulher pele morena e cabelo branco
+1F469-1F3FD-200D-1F9BC	mulher em cadeira de rodas motorizada pele morena
+1F469-1F3FD-200D-1F9BD	mulher em cadeira de rodas manual pele morena
+1F469-1F3FE	mulher pele morena escura
+1F469-1F3FE-200D-2695	mulher profissional da sade pele morena escura
+1F469-1F3FE-200D-2696	juza pele morena escura
+1F469-1F3FE-200D-2708	piloto de avio mulher pele morena escura
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	casal apaixonado mulher homem pele morena escura e pele clara
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	casal apaixonado mulher homem pele morena escura e pele morena clara
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	casal apaixonado mulher homem pele morena escura e pele morena
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	casal apaixonado mulher homem e pele morena escura
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	casal apaixonado mulher homem pele morena escura e pele escura
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	casal apaixonado mulher mulher pele morena escura e pele clara
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	casal apaixonado mulher mulher pele morena escura e pele morena clara
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	casal apaixonado mulher mulher pele morena escura e pele morena
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	casal apaixonado mulher mulher e pele morena escura
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	casal apaixonado mulher mulher pele morena escura e pele escura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo mulher homem pele morena escura e pele clara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo mulher homem pele morena escura e pele morena clara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo mulher homem pele morena escura e pele morena
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo mulher homem e pele morena escura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo mulher homem pele morena escura e pele escura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	beijo mulher mulher pele morena escura e pele clara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	beijo mulher mulher pele morena escura e pele morena clara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	beijo mulher mulher pele morena escura e pele morena
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	beijo mulher mulher e pele morena escura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	beijo mulher mulher pele morena escura e pele escura
+1F469-1F3FE-200D-1F33E	fazendeira pele morena escura
+1F469-1F3FE-200D-1F373	cozinheira pele morena escura
+1F469-1F3FE-200D-1F37C	mulher alimentando beb pele morena escura
+1F469-1F3FE-200D-1F393	aluna pele morena escura
+1F469-1F3FE-200D-1F3A4	cantora pele morena escura
+1F469-1F3FE-200D-1F3A8	artista plstica pele morena escura
+1F469-1F3FE-200D-1F3EB	professora pele morena escura
+1F469-1F3FE-200D-1F3ED	operria pele morena escura
+1F469-1F3FE-200D-1F4BB	tecnloga pele morena escura
+1F469-1F3FE-200D-1F4BC	funcionria de escritrio pele morena escura
+1F469-1F3FE-200D-1F527	mecnica pele morena escura
+1F469-1F3FE-200D-1F52C	cientista mulher pele morena escura
+1F469-1F3FE-200D-1F680	astronauta mulher pele morena escura
+1F469-1F3FE-200D-1F692	bombeira pele morena escura
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	homem e mulher de mos dadas pele morena escura e pele clara
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	homem e mulher de mos dadas pele morena escura e pele morena clara
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	homem e mulher de mos dadas pele morena escura e pele morena
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	homem e mulher de mos dadas pele morena escura e pele escura
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	duas mulheres de mos dadas pele morena escura e pele clara
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	duas mulheres de mos dadas pele morena escura e pele morena clara
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	duas mulheres de mos dadas pele morena escura e pele morena
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	duas mulheres de mos dadas pele morena escura e pele escura
+1F469-1F3FE-200D-1F9AF	mulher com bengala para cego pele morena escura
+1F469-1F3FE-200D-1F9B0	mulher pele morena escura e cabelo vermelho
+1F469-1F3FE-200D-1F9B1	mulher pele morena escura e cabelo cacheado
+1F469-1F3FE-200D-1F9B2	mulher pele morena escura e careca
+1F469-1F3FE-200D-1F9B3	mulher pele morena escura e cabelo branco
+1F469-1F3FE-200D-1F9BC	mulher em cadeira de rodas motorizada pele morena escura
+1F469-1F3FE-200D-1F9BD	mulher em cadeira de rodas manual pele morena escura
+1F469-1F3FF	mulher pele escura
+1F469-1F3FF-200D-2695	mulher profissional da sade pele escura
+1F469-1F3FF-200D-2696	juza pele escura
+1F469-1F3FF-200D-2708	piloto de avio mulher pele escura
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	casal apaixonado mulher homem pele escura e pele clara
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	casal apaixonado mulher homem pele escura e pele morena clara
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	casal apaixonado mulher homem pele escura e pele morena
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	casal apaixonado mulher homem pele escura e pele morena escura
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	casal apaixonado mulher homem e pele escura
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	casal apaixonado mulher mulher pele escura e pele clara
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	casal apaixonado mulher mulher pele escura e pele morena clara
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	casal apaixonado mulher mulher pele escura e pele morena
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	casal apaixonado mulher mulher pele escura e pele morena escura
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	casal apaixonado mulher mulher e pele escura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	beijo mulher homem pele escura e pele clara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	beijo mulher homem pele escura e pele morena clara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	beijo mulher homem pele escura e pele morena
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	beijo mulher homem pele escura e pele morena escura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	beijo mulher homem e pele escura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	beijo mulher mulher pele escura e pele clara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	beijo mulher mulher pele escura e pele morena clara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	beijo mulher mulher pele escura e pele morena
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	beijo mulher mulher pele escura e pele morena escura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	beijo mulher mulher e pele escura
+1F469-1F3FF-200D-1F33E	fazendeira pele escura
+1F469-1F3FF-200D-1F373	cozinheira pele escura
+1F469-1F3FF-200D-1F37C	mulher alimentando beb pele escura
+1F469-1F3FF-200D-1F393	aluna pele escura
+1F469-1F3FF-200D-1F3A4	cantora pele escura
+1F469-1F3FF-200D-1F3A8	artista plstica pele escura
+1F469-1F3FF-200D-1F3EB	professora pele escura
+1F469-1F3FF-200D-1F3ED	operria pele escura
+1F469-1F3FF-200D-1F4BB	tecnloga pele escura
+1F469-1F3FF-200D-1F4BC	funcionria de escritrio pele escura
+1F469-1F3FF-200D-1F527	mecnica pele escura
+1F469-1F3FF-200D-1F52C	cientista mulher pele escura
+1F469-1F3FF-200D-1F680	astronauta mulher pele escura
+1F469-1F3FF-200D-1F692	bombeira pele escura
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	homem e mulher de mos dadas pele escura e pele clara
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	homem e mulher de mos dadas pele escura e pele morena clara
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	homem e mulher de mos dadas pele escura e pele morena
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	homem e mulher de mos dadas pele escura e pele morena escura
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	duas mulheres de mos dadas pele escura e pele clara
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	duas mulheres de mos dadas pele escura e pele morena clara
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	duas mulheres de mos dadas pele escura e pele morena
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	duas mulheres de mos dadas pele escura e pele morena escura
+1F469-1F3FF-200D-1F9AF	mulher com bengala para cego pele escura
+1F469-1F3FF-200D-1F9B0	mulher pele escura e cabelo vermelho
+1F469-1F3FF-200D-1F9B1	mulher pele escura e cabelo cacheado
+1F469-1F3FF-200D-1F9B2	mulher pele escura e careca
+1F469-1F3FF-200D-1F9B3	mulher pele escura e cabelo branco
+1F469-1F3FF-200D-1F9BC	mulher em cadeira de rodas motorizada pele escura
+1F469-1F3FF-200D-1F9BD	mulher em cadeira de rodas manual pele escura
+1F46A	famlia
+1F46B	homem e mulher de mos dadas
+1F46B-1F3FB	homem e mulher de mos dadas pele clara
+1F46B-1F3FC	homem e mulher de mos dadas pele morena clara
+1F46B-1F3FD	homem e mulher de mos dadas pele morena
+1F46B-1F3FE	homem e mulher de mos dadas pele morena escura
+1F46B-1F3FF	homem e mulher de mos dadas pele escura
+1F46C	dois homens de mos dadas
+1F46C-1F3FB	dois homens de mos dadas pele clara
+1F46C-1F3FC	dois homens de mos dadas pele morena clara
+1F46C-1F3FD	dois homens de mos dadas pele morena
+1F46C-1F3FE	dois homens de mos dadas pele morena escura
+1F46C-1F3FF	dois homens de mos dadas pele escura
+1F46D	duas mulheres de mos dadas
+1F46D-1F3FB	duas mulheres de mos dadas pele clara
+1F46D-1F3FC	duas mulheres de mos dadas pele morena clara
+1F46D-1F3FD	duas mulheres de mos dadas pele morena
+1F46D-1F3FE	duas mulheres de mos dadas pele morena escura
+1F46D-1F3FF	duas mulheres de mos dadas pele escura
+1F46E	policial
+1F46E-200D-2640	policial mulher
+1F46E-200D-2642	policial homem
+1F46E-1F3FB	policial pele clara
+1F46E-1F3FB-200D-2640	policial mulher pele clara
+1F46E-1F3FB-200D-2642	policial homem pele clara
+1F46E-1F3FC	policial pele morena clara
+1F46E-1F3FC-200D-2640	policial mulher pele morena clara
+1F46E-1F3FC-200D-2642	policial homem pele morena clara
+1F46E-1F3FD	policial pele morena
+1F46E-1F3FD-200D-2640	policial mulher pele morena
+1F46E-1F3FD-200D-2642	policial homem pele morena
+1F46E-1F3FE	policial pele morena escura
+1F46E-1F3FE-200D-2640	policial mulher pele morena escura
+1F46E-1F3FE-200D-2642	policial homem pele morena escura
+1F46E-1F3FF	policial pele escura
+1F46E-1F3FF-200D-2640	policial mulher pele escura
+1F46E-1F3FF-200D-2642	policial homem pele escura
+1F46F	pessoas com orelhas de coelho
+1F46F-200D-2640	mulheres com orelhas de coelho
+1F46F-200D-2642	homens com orelhas de coelho
+1F470	noiva
+1F470-200D-2640	noiva com vu
+1F470-200D-2642	noivo com vu
+1F470-1F3FB	noiva pele clara
+1F470-1F3FB-200D-2640	noiva com vu pele clara
+1F470-1F3FB-200D-2642	noivo com vu pele clara
+1F470-1F3FC	noiva pele morena clara
+1F470-1F3FC-200D-2640	noiva com vu pele morena clara
+1F470-1F3FC-200D-2642	noivo com vu pele morena clara
+1F470-1F3FD	noiva pele morena
+1F470-1F3FD-200D-2640	noiva com vu pele morena
+1F470-1F3FD-200D-2642	noivo com vu pele morena
+1F470-1F3FE	noiva pele morena escura
+1F470-1F3FE-200D-2640	noiva com vu pele morena escura
+1F470-1F3FE-200D-2642	noivo com vu pele morena escura
+1F470-1F3FF	noiva pele escura
+1F470-1F3FF-200D-2640	noiva com vu pele escura
+1F470-1F3FF-200D-2642	noivo com vu pele escura
+1F471	pessoa cabelo louro
+1F471-200D-2640	mulher cabelo loiro
+1F471-200D-2642	homem cabelo loiro
+1F471-1F3FB	pessoa pele clara e cabelo louro
+1F471-1F3FB-200D-2640	mulher pele clara e cabelo loiro
+1F471-1F3FB-200D-2642	homem pele clara e cabelo loiro
+1F471-1F3FC	pessoa pele morena clara e cabelo louro
+1F471-1F3FC-200D-2640	mulher pele morena clara e cabelo loiro
+1F471-1F3FC-200D-2642	homem pele morena clara e cabelo loiro
+1F471-1F3FD	pessoa pele morena e cabelo louro
+1F471-1F3FD-200D-2640	mulher pele morena e cabelo loiro
+1F471-1F3FD-200D-2642	homem pele morena e cabelo loiro
+1F471-1F3FE	pessoa pele morena escura e cabelo louro
+1F471-1F3FE-200D-2640	mulher pele morena escura e cabelo loiro
+1F471-1F3FE-200D-2642	homem pele morena escura e cabelo loiro
+1F471-1F3FF	pessoa pele escura e cabelo louro
+1F471-1F3FF-200D-2640	mulher pele escura e cabelo loiro
+1F471-1F3FF-200D-2642	homem pele escura e cabelo loiro
+1F472	homem de bon
+1F472-1F3FB	homem de bon pele clara
+1F472-1F3FC	homem de bon pele morena clara
+1F472-1F3FD	homem de bon pele morena
+1F472-1F3FE	homem de bon pele morena escura
+1F472-1F3FF	homem de bon pele escura
+1F473	pessoa com turbante
+1F473-200D-2640	mulher com turbante
+1F473-200D-2642	homem com turbante
+1F473-1F3FB	pessoa com turbante pele clara
+1F473-1F3FB-200D-2640	mulher com turbante pele clara
+1F473-1F3FB-200D-2642	homem com turbante pele clara
+1F473-1F3FC	pessoa com turbante pele morena clara
+1F473-1F3FC-200D-2640	mulher com turbante pele morena clara
+1F473-1F3FC-200D-2642	homem com turbante pele morena clara
+1F473-1F3FD	pessoa com turbante pele morena
+1F473-1F3FD-200D-2640	mulher com turbante pele morena
+1F473-1F3FD-200D-2642	homem com turbante pele morena
+1F473-1F3FE	pessoa com turbante pele morena escura
+1F473-1F3FE-200D-2640	mulher com turbante pele morena escura
+1F473-1F3FE-200D-2642	homem com turbante pele morena escura
+1F473-1F3FF	pessoa com turbante pele escura
+1F473-1F3FF-200D-2640	mulher com turbante pele escura
+1F473-1F3FF-200D-2642	homem com turbante pele escura
+1F474	homem idoso
+1F474-1F3FB	homem idoso pele clara
+1F474-1F3FC	homem idoso pele morena clara
+1F474-1F3FD	homem idoso pele morena
+1F474-1F3FE	homem idoso pele morena escura
+1F474-1F3FF	homem idoso pele escura
+1F475	idosa
+1F475-1F3FB	idosa pele clara
+1F475-1F3FC	idosa pele morena clara
+1F475-1F3FD	idosa pele morena
+1F475-1F3FE	idosa pele morena escura
+1F475-1F3FF	idosa pele escura
+1F476	beb
+1F476-1F3FB	beb pele clara
+1F476-1F3FC	beb pele morena clara
+1F476-1F3FD	beb pele morena
+1F476-1F3FE	beb pele morena escura
+1F476-1F3FF	beb pele escura
+1F477	trabalhador de construo civil
+1F477-200D-2640	pedreira
+1F477-200D-2642	pedreiro
+1F477-1F3FB	trabalhador de construo civil pele clara
+1F477-1F3FB-200D-2640	pedreira pele clara
+1F477-1F3FB-200D-2642	pedreiro pele clara
+1F477-1F3FC	trabalhador de construo civil pele morena clara
+1F477-1F3FC-200D-2640	pedreira pele morena clara
+1F477-1F3FC-200D-2642	pedreiro pele morena clara
+1F477-1F3FD	trabalhador de construo civil pele morena
+1F477-1F3FD-200D-2640	pedreira pele morena
+1F477-1F3FD-200D-2642	pedreiro pele morena
+1F477-1F3FE	trabalhador de construo civil pele morena escura
+1F477-1F3FE-200D-2640	pedreira pele morena escura
+1F477-1F3FE-200D-2642	pedreiro pele morena escura
+1F477-1F3FF	trabalhador de construo civil pele escura
+1F477-1F3FF-200D-2640	pedreira pele escura
+1F477-1F3FF-200D-2642	pedreiro pele escura
+1F478	princesa
+1F478-1F3FB	princesa pele clara
+1F478-1F3FC	princesa pele morena clara
+1F478-1F3FD	princesa pele morena
+1F478-1F3FE	princesa pele morena escura
+1F478-1F3FF	princesa pele escura
+1F479	ogro
+1F47A	duende japons
+1F47B	fantasma
+1F47C	beb anjo
+1F47C-1F3FB	beb anjo pele clara
+1F47C-1F3FC	beb anjo pele morena clara
+1F47C-1F3FD	beb anjo pele morena
+1F47C-1F3FE	beb anjo pele morena escura
+1F47C-1F3FF	beb anjo pele escura
+1F47D	aliengena
+1F47E	monstro aliengena
+1F47F	rosto zangado com chifres
+1F480	caveira
+1F481	pessoa com a palma virada para cima
+1F481-200D-2640	mulher com a palma virada para cima
+1F481-200D-2642	homem com a palma virada para cima
+1F481-1F3FB	pessoa com a palma virada para cima pele clara
+1F481-1F3FB-200D-2640	mulher com a palma virada para cima pele clara
+1F481-1F3FB-200D-2642	homem com a palma virada para cima pele clara
+1F481-1F3FC	pessoa com a palma virada para cima pele morena clara
+1F481-1F3FC-200D-2640	mulher com a palma virada para cima pele morena clara
+1F481-1F3FC-200D-2642	homem com a palma virada para cima pele morena clara
+1F481-1F3FD	pessoa com a palma virada para cima pele morena
+1F481-1F3FD-200D-2640	mulher com a palma virada para cima pele morena
+1F481-1F3FD-200D-2642	homem com a palma virada para cima pele morena
+1F481-1F3FE	pessoa com a palma virada para cima pele morena escura
+1F481-1F3FE-200D-2640	mulher com a palma virada para cima pele morena escura
+1F481-1F3FE-200D-2642	homem com a palma virada para cima pele morena escura
+1F481-1F3FF	pessoa com a palma virada para cima pele escura
+1F481-1F3FF-200D-2640	mulher com a palma virada para cima pele escura
+1F481-1F3FF-200D-2642	homem com a palma virada para cima pele escura
+1F482	guarda
+1F482-200D-2640	guarda mulher
+1F482-200D-2642	guarda homem
+1F482-1F3FB	guarda pele clara
+1F482-1F3FB-200D-2640	guarda mulher pele clara
+1F482-1F3FB-200D-2642	guarda homem pele clara
+1F482-1F3FC	guarda pele morena clara
+1F482-1F3FC-200D-2640	guarda mulher pele morena clara
+1F482-1F3FC-200D-2642	guarda homem pele morena clara
+1F482-1F3FD	guarda pele morena
+1F482-1F3FD-200D-2640	guarda mulher pele morena
+1F482-1F3FD-200D-2642	guarda homem pele morena
+1F482-1F3FE	guarda pele morena escura
+1F482-1F3FE-200D-2640	guarda mulher pele morena escura
+1F482-1F3FE-200D-2642	guarda homem pele morena escura
+1F482-1F3FF	guarda pele escura
+1F482-1F3FF-200D-2640	guarda mulher pele escura
+1F482-1F3FF-200D-2642	guarda homem pele escura
+1F483	mulher danando
+1F483-1F3FB	mulher danando pele clara
+1F483-1F3FC	mulher danando pele morena clara
+1F483-1F3FD	mulher danando pele morena
+1F483-1F3FE	mulher danando pele morena escura
+1F483-1F3FF	mulher danando pele escura
+1F484	batom
+1F485	esmalte de unha
+1F485-1F3FB	esmalte de unha pele clara
+1F485-1F3FC	esmalte de unha pele morena clara
+1F485-1F3FD	esmalte de unha pele morena
+1F485-1F3FE	esmalte de unha pele morena escura
+1F485-1F3FF	esmalte de unha pele escura
+1F486	pessoa recebendo massagem facial
+1F486-200D-2640	mulher recebendo massagem facial
+1F486-200D-2642	homem recebendo massagem facial
+1F486-1F3FB	pessoa recebendo massagem facial pele clara
+1F486-1F3FB-200D-2640	mulher recebendo massagem facial pele clara
+1F486-1F3FB-200D-2642	homem recebendo massagem facial pele clara
+1F486-1F3FC	pessoa recebendo massagem facial pele morena clara
+1F486-1F3FC-200D-2640	mulher recebendo massagem facial pele morena clara
+1F486-1F3FC-200D-2642	homem recebendo massagem facial pele morena clara
+1F486-1F3FD	pessoa recebendo massagem facial pele morena
+1F486-1F3FD-200D-2640	mulher recebendo massagem facial pele morena
+1F486-1F3FD-200D-2642	homem recebendo massagem facial pele morena
+1F486-1F3FE	pessoa recebendo massagem facial pele morena escura
+1F486-1F3FE-200D-2640	mulher recebendo massagem facial pele morena escura
+1F486-1F3FE-200D-2642	homem recebendo massagem facial pele morena escura
+1F486-1F3FF	pessoa recebendo massagem facial pele escura
+1F486-1F3FF-200D-2640	mulher recebendo massagem facial pele escura
+1F486-1F3FF-200D-2642	homem recebendo massagem facial pele escura
+1F487	pessoa cortando o cabelo
+1F487-200D-2640	mulher cortando o cabelo
+1F487-200D-2642	homem cortando o cabelo
+1F487-1F3FB	pessoa cortando o cabelo pele clara
+1F487-1F3FB-200D-2640	mulher cortando o cabelo pele clara
+1F487-1F3FB-200D-2642	homem cortando o cabelo pele clara
+1F487-1F3FC	pessoa cortando o cabelo pele morena clara
+1F487-1F3FC-200D-2640	mulher cortando o cabelo pele morena clara
+1F487-1F3FC-200D-2642	homem cortando o cabelo pele morena clara
+1F487-1F3FD	pessoa cortando o cabelo pele morena
+1F487-1F3FD-200D-2640	mulher cortando o cabelo pele morena
+1F487-1F3FD-200D-2642	homem cortando o cabelo pele morena
+1F487-1F3FE	pessoa cortando o cabelo pele morena escura
+1F487-1F3FE-200D-2640	mulher cortando o cabelo pele morena escura
+1F487-1F3FE-200D-2642	homem cortando o cabelo pele morena escura
+1F487-1F3FF	pessoa cortando o cabelo pele escura
+1F487-1F3FF-200D-2640	mulher cortando o cabelo pele escura
+1F487-1F3FF-200D-2642	homem cortando o cabelo pele escura
+1F488	barbearia
+1F489	seringa
+1F48A	comprimido
+1F48B	marca de beijo
+1F48C	carta de amor
+1F48D	anel
+1F48E	pedra preciosa
+1F48F	beijo
+1F490	buqu
+1F491	casal apaixonado
+1F492	capela de casamento
+1F493	corao pulsante
+1F494	corao partido
+1F495	dois coraes
+1F496	corao brilhante
+1F497	corao crescendo
+1F498	corao com flecha
+1F499	corao azul
+1F49A	corao verde
+1F49B	corao amarelo
+1F49C	corao roxo
+1F49D	corao com fita
+1F49E	coraes girando
+1F49F	corao decorativo
+1F4A0	diamante com um ponto
+1F4A1	lmpada
+1F4A2	smbolo de raiva
+1F4A3	bomba
+1F4A4	zzz
+1F4A5	coliso
+1F4A6	pingos de suor
+1F4A7	gota
+1F4A8	rapidez
+1F4A9	coc
+1F4AA	bceps
+1F4AA-1F3FB	bceps pele clara
+1F4AA-1F3FC	bceps pele morena clara
+1F4AA-1F3FD	bceps pele morena
+1F4AA-1F3FE	bceps pele morena escura
+1F4AA-1F3FF	bceps pele escura
+1F4AB	zonzo
+1F4AC	balo de dilogo
+1F4AD	balo de pensamento
+1F4AE	flor branca
+1F4AF	cem pontos
+1F4B0	saco de dinheiro
+1F4B1	cmbio de moeda
+1F4B2	cifro
+1F4B3	carto de crdito
+1F4B4	nota de iene
+1F4B5	nota de dlar
+1F4B6	nota de euro
+1F4B7	nota de libra
+1F4B8	dinheiro voando
+1F4B9	grfico subindo com iene
+1F4BA	assento
+1F4BB	laptop
+1F4BC	maleta
+1F4BD	minidisc
+1F4BE	disquete
+1F4BF	cd
+1F4C0	DVD
+1F4C1	pasta de arquivos
+1F4C2	pasta de arquivos aberta
+1F4C3	pgina dobrada
+1F4C4	pgina voltada para cima
+1F4C5	calendrio
+1F4C6	calendrio com folhas destacveis
+1F4C7	ndice de cartes
+1F4C8	grfico subindo
+1F4C9	grfico caindo
+1F4CA	grfico de barras
+1F4CB	prancheta
+1F4CC	tacha
+1F4CD	tacha redonda
+1F4CE	clipe de papel
+1F4CF	rgua reta
+1F4D0	rgua triangular
+1F4D1	marcadores de pgina
+1F4D2	livro contbil
+1F4D3	caderno
+1F4D4	caderno decorado
+1F4D5	livro fechado
+1F4D6	livro aberto
+1F4D7	livro verde
+1F4D8	livro azul
+1F4D9	livro laranja
+1F4DA	livros
+1F4DB	crach
+1F4DC	pergaminho
+1F4DD	memorando
+1F4DE	telefone
+1F4DF	pager
+1F4E0	fax
+1F4E1	antena parablica
+1F4E2	buzina
+1F4E3	megafone
+1F4E4	bandeja de sada
+1F4E5	bandeja de entrada
+1F4E6	pacote
+1F4E7	e-mail
+1F4E8	envelope chegando
+1F4E9	envelope com seta
+1F4EA	caixa de correio fechada com bandeira abaixada
+1F4EB	caixa de correio fechada com bandeira levantada
+1F4EC	caixa de correio aberta com bandeira levantada
+1F4ED	caixa de correio aberta com bandeira abaixada
+1F4EE	caixa de correio
+1F4EF	corneta postal
+1F4F0	jornal
+1F4F1	telefone celular
+1F4F2	telefone celular com seta
+1F4F3	modo vibratrio
+1F4F4	telefone celular desligado
+1F4F5	proibido o uso de telefone celular
+1F4F6	barras de sinal
+1F4F7	cmera
+1F4F8	cmera com flash
+1F4F9	cmera de vdeo
+1F4FA	televiso
+1F4FB	rdio
+1F4FC	videocassete
+1F4FD	projetor de filmes
+1F4FF	rosrio de orao
+1F500	boto de msicas aleatrias
+1F501	boto de repetir
+1F502	boto de repetir uma nica faixa
+1F503	setas verticais no sentido horrio
+1F504	boto de setas em sentido anti-horrio
+1F505	boto de diminuir brilho
+1F506	boto de aumentar brilho
+1F507	alto-falante silenciado
+1F508	alto-falante com volume baixo
+1F509	alto-falante com volume mdio
+1F50A	alto-falante com volume alto
+1F50B	pilha
+1F50C	tomada eltrica
+1F50D	lupa para a esquerda
+1F50E	lupa para a direita
+1F50F	cadeado com caneta
+1F510	cadeado fechado com chave
+1F511	chave
+1F512	cadeado
+1F513	cadeado aberto
+1F514	sino
+1F515	sino silenciado
+1F516	marcador de pgina
+1F517	link
+1F518	boto de opo
+1F519	seta BACK
+1F51A	seta END
+1F51B	seta ON
+1F51C	seta SOON
+1F51D	seta TOP
+1F51E	proibido para menores de 18 anos
+1F51F	tecla 10
+1F520	letras latinas maisculas
+1F521	letras latinas minsculas
+1F522	nmeros
+1F523	smbolos
+1F524	letras latinas
+1F525	fogo
+1F526	lanterna
+1F527	chave inglesa
+1F528	martelo
+1F529	porca e parafuso
+1F52A	faca de cozinha
+1F52B	pistola dgua
+1F52C	microscpio
+1F52D	telescpio
+1F52E	bola de cristal
+1F52F	estrela de seis pontas
+1F530	smbolo japons de principiante
+1F531	emblema de tridente
+1F532	boto quadrado preto
+1F533	boto quadrado branco
+1F534	crculo vermelho
+1F535	crculo azul
+1F536	losango laranja grande
+1F537	losango azul grande
+1F538	losango laranja pequeno
+1F539	losango azul pequeno
+1F53A	tringulo vermelho para cima
+1F53B	tringulo vermelho para baixo
+1F53C	boto apontando para cima
+1F53D	boto apontando para baixo
+1F549	om
+1F54A	pomba branca
+1F54B	caaba isl
+1F54C	mesquita
+1F54D	sinagoga
+1F54E	menor
+1F550	1 hora
+1F551	2 horas
+1F552	3 horas
+1F553	4 horas
+1F554	5 horas
+1F555	6 horas
+1F556	7 horas
+1F557	8 horas
+1F558	9 horas
+1F559	10 horas
+1F55A	11 horas
+1F55B	12 horas
+1F55C	uma e meia
+1F55D	duas e meia
+1F55E	trs e meia
+1F55F	quatro e meia
+1F560	cinco e meia
+1F561	seis e meia
+1F562	sete e meia
+1F563	oito e meia
+1F564	nove e meia
+1F565	dez e meia
+1F566	onze e meia
+1F567	doze e meia
+1F56F	vela
+1F570	relgio de mesa
+1F573	buraco
+1F574	homem de terno levitando
+1F574-1F3FB	homem de terno levitando pele clara
+1F574-1F3FC	homem de terno levitando pele morena clara
+1F574-1F3FD	homem de terno levitando pele morena
+1F574-1F3FE	homem de terno levitando pele morena escura
+1F574-1F3FF	homem de terno levitando pele escura
+1F575	detetive
+1F575-200D-2640	detetive mulher
+1F575-200D-2642	detetive homem
+1F575-1F3FB	detetive pele clara
+1F575-1F3FB-200D-2640	detetive mulher pele clara
+1F575-1F3FB-200D-2642	detetive homem pele clara
+1F575-1F3FC	detetive pele morena clara
+1F575-1F3FC-200D-2640	detetive mulher pele morena clara
+1F575-1F3FC-200D-2642	detetive homem pele morena clara
+1F575-1F3FD	detetive pele morena
+1F575-1F3FD-200D-2640	detetive mulher pele morena
+1F575-1F3FD-200D-2642	detetive homem pele morena
+1F575-1F3FE	detetive pele morena escura
+1F575-1F3FE-200D-2640	detetive mulher pele morena escura
+1F575-1F3FE-200D-2642	detetive homem pele morena escura
+1F575-1F3FF	detetive pele escura
+1F575-1F3FF-200D-2640	detetive mulher pele escura
+1F575-1F3FF-200D-2642	detetive homem pele escura
+1F576	culos escuros
+1F577	aranha
+1F578	teia de aranha
+1F579	joystick
+1F57A	homem danando
+1F57A-1F3FB	homem danando pele clara
+1F57A-1F3FC	homem danando pele morena clara
+1F57A-1F3FD	homem danando pele morena
+1F57A-1F3FE	homem danando pele morena escura
+1F57A-1F3FF	homem danando pele escura
+1F587	clipes de papel conectados
+1F58A	caneta
+1F58B	caneta tinteiro
+1F58C	pincel
+1F58D	giz de cera
+1F590	mo aberta com os dedos separados
+1F590-1F3FB	mo aberta com os dedos separados pele clara
+1F590-1F3FC	mo aberta com os dedos separados pele morena clara
+1F590-1F3FD	mo aberta com os dedos separados pele morena
+1F590-1F3FE	mo aberta com os dedos separados pele morena escura
+1F590-1F3FF	mo aberta com os dedos separados pele escura
+1F595	dedo do meio
+1F595-1F3FB	dedo do meio pele clara
+1F595-1F3FC	dedo do meio pele morena clara
+1F595-1F3FD	dedo do meio pele morena
+1F595-1F3FE	dedo do meio pele morena escura
+1F595-1F3FF	dedo do meio pele escura
+1F596	saudao vulcana
+1F596-1F3FB	saudao vulcana pele clara
+1F596-1F3FC	saudao vulcana pele morena clara
+1F596-1F3FD	saudao vulcana pele morena
+1F596-1F3FE	saudao vulcana pele morena escura
+1F596-1F3FF	saudao vulcana pele escura
+1F5A4	corao preto
+1F5A5	computador de mesa
+1F5A8	impressora
+1F5B1	mouse
+1F5B2	trackball
+1F5BC	quadro emoldurado
+1F5C2	divisores de pastas
+1F5C3	caixa de arquivos
+1F5C4	gavetas de escritrio
+1F5D1	lixeira
+1F5D2	bloco espiral
+1F5D3	calendrio espiral
+1F5DC	braadeira
+1F5DD	chave antiga
+1F5DE	jornal enrolado
+1F5E1	adaga
+1F5E3	silhueta falando
+1F5E8	balo de dilogo esquerda
+1F5EF	balo de raiva direita
+1F5F3	urna eleitoral com cdula
+1F5FA	mapa-mndi
+1F5FB	Monte Fuji
+1F5FC	Torre de Tquio
+1F5FD	Esttua da Liberdade
+1F5FE	mapa do Japo
+1F5FF	moai
+1F600	rosto risonho
+1F601	rosto contente com olhos sorridentes
+1F602	rosto chorando de rir
+1F603	rosto risonho com olhos bem abertos
+1F604	rosto risonho com olhos sorridentes
+1F605	rosto risonho com gota de suor
+1F606	rosto risonho com olhos semicerrados
+1F607	rosto sorridente com aurola
+1F608	rosto sorridente com chifres
+1F609	rosto com olho piscando
+1F60A	rosto sorridente com olhos sorridentes
+1F60B	rosto saboreando comida
+1F60C	rosto aliviado
+1F60D	rosto sorridente com olhos de corao
+1F60E	rosto sorridente com culos escuros
+1F60F	rosto com sorriso maroto
+1F610	rosto neutro
+1F611	rosto inexpressivo
+1F612	rosto aborrecido
+1F613	rosto cabisbaixo com gota de suor
+1F614	rosto deprimido
+1F615	rosto confuso
+1F616	rosto perplexo
+1F617	rosto beijando
+1F618	rosto mandando um beijo
+1F619	rosto beijando com olhos sorridentes
+1F61A	rosto beijando com olhos fechados
+1F61B	rosto mostrando a lngua
+1F61C	rosto piscando e com lngua para fora
+1F61D	rosto com olhos semicerrados e lngua para fora
+1F61E	rosto desapontado
+1F61F	rosto preocupado
+1F620	rosto zangado
+1F621	rosto furioso
+1F622	rosto chorando
+1F623	rosto perseverante
+1F624	rosto soltando vapor pelo nariz
+1F625	rosto triste mas aliviado
+1F626	rosto franzido com boca aberta
+1F627	rosto angustiado
+1F628	rosto amedrontado
+1F629	rosto desolado
+1F62A	rosto sonolento
+1F62B	rosto cansado
+1F62C	rosto expressando desagrado
+1F62D	rosto chorando aos berros
+1F62E	rosto com boca aberta
+1F62E-200D-1F4A8	rosto exalando
+1F62F	rosto surpreso
+1F630	rosto ansioso com gota de suor
+1F631	rosto gritando de medo
+1F632	rosto espantado
+1F633	rosto ruborizado
+1F634	rosto dormindo
+1F635	rosto atordoado
+1F635-200D-1F4AB	rosto com olhos em espiral
+1F636	rosto sem boca
+1F636-200D-1F32B	rosto nas nuvens
+1F637	rosto com mscara mdica
+1F638	rosto de gato sorrindo com olhos sorridentes
+1F639	rosto de gato com lgrimas de alegria
+1F63A	rosto de gato sorrindo
+1F63B	rosto de gato sorridente com olhos de corao
+1F63C	rosto de gato com sorriso irnico
+1F63D	rosto de gato mandando um beijo
+1F63E	rosto de gato mal-humorado
+1F63F	rosto de gato chorando
+1F640	rosto de gato desolado
+1F641	rosto meio triste
+1F642	rosto levemente sorridente
+1F643	rosto de cabea para baixo
+1F644	rosto com olhos revirados
+1F645	pessoa fazendo gesto de no
+1F645-200D-2640	mulher fazendo gesto de no
+1F645-200D-2642	homem fazendo gesto de no
+1F645-1F3FB	pessoa fazendo gesto de no pele clara
+1F645-1F3FB-200D-2640	mulher fazendo gesto de no pele clara
+1F645-1F3FB-200D-2642	homem fazendo gesto de no pele clara
+1F645-1F3FC	pessoa fazendo gesto de no pele morena clara
+1F645-1F3FC-200D-2640	mulher fazendo gesto de no pele morena clara
+1F645-1F3FC-200D-2642	homem fazendo gesto de no pele morena clara
+1F645-1F3FD	pessoa fazendo gesto de no pele morena
+1F645-1F3FD-200D-2640	mulher fazendo gesto de no pele morena
+1F645-1F3FD-200D-2642	homem fazendo gesto de no pele morena
+1F645-1F3FE	pessoa fazendo gesto de no pele morena escura
+1F645-1F3FE-200D-2640	mulher fazendo gesto de no pele morena escura
+1F645-1F3FE-200D-2642	homem fazendo gesto de no pele morena escura
+1F645-1F3FF	pessoa fazendo gesto de no pele escura
+1F645-1F3FF-200D-2640	mulher fazendo gesto de no pele escura
+1F645-1F3FF-200D-2642	homem fazendo gesto de no pele escura
+1F646	pessoa fazendo gesto de OK
+1F646-200D-2640	mulher fazendo gesto de OK
+1F646-200D-2642	homem fazendo gesto de OK
+1F646-1F3FB	pessoa fazendo gesto de OK pele clara
+1F646-1F3FB-200D-2640	mulher fazendo gesto de OK pele clara
+1F646-1F3FB-200D-2642	homem fazendo gesto de OK pele clara
+1F646-1F3FC	pessoa fazendo gesto de OK pele morena clara
+1F646-1F3FC-200D-2640	mulher fazendo gesto de OK pele morena clara
+1F646-1F3FC-200D-2642	homem fazendo gesto de OK pele morena clara
+1F646-1F3FD	pessoa fazendo gesto de OK pele morena
+1F646-1F3FD-200D-2640	mulher fazendo gesto de OK pele morena
+1F646-1F3FD-200D-2642	homem fazendo gesto de OK pele morena
+1F646-1F3FE	pessoa fazendo gesto de OK pele morena escura
+1F646-1F3FE-200D-2640	mulher fazendo gesto de OK pele morena escura
+1F646-1F3FE-200D-2642	homem fazendo gesto de OK pele morena escura
+1F646-1F3FF	pessoa fazendo gesto de OK pele escura
+1F646-1F3FF-200D-2640	mulher fazendo gesto de OK pele escura
+1F646-1F3FF-200D-2642	homem fazendo gesto de OK pele escura
+1F647	pessoa fazendo reverncia
+1F647-200D-2640	mulher fazendo reverncia
+1F647-200D-2642	homem fazendo reverncia
+1F647-1F3FB	pessoa fazendo reverncia pele clara
+1F647-1F3FB-200D-2640	mulher fazendo reverncia pele clara
+1F647-1F3FB-200D-2642	homem fazendo reverncia pele clara
+1F647-1F3FC	pessoa fazendo reverncia pele morena clara
+1F647-1F3FC-200D-2640	mulher fazendo reverncia pele morena clara
+1F647-1F3FC-200D-2642	homem fazendo reverncia pele morena clara
+1F647-1F3FD	pessoa fazendo reverncia pele morena
+1F647-1F3FD-200D-2640	mulher fazendo reverncia pele morena
+1F647-1F3FD-200D-2642	homem fazendo reverncia pele morena
+1F647-1F3FE	pessoa fazendo reverncia pele morena escura
+1F647-1F3FE-200D-2640	mulher fazendo reverncia pele morena escura
+1F647-1F3FE-200D-2642	homem fazendo reverncia pele morena escura
+1F647-1F3FF	pessoa fazendo reverncia pele escura
+1F647-1F3FF-200D-2640	mulher fazendo reverncia pele escura
+1F647-1F3FF-200D-2642	homem fazendo reverncia pele escura
+1F648	macaco que no v nada
+1F649	macaco que no ouve nada
+1F64A	macaco que no fala nada
+1F64B	pessoa levantando a mo
+1F64B-200D-2640	mulher levantando a mo
+1F64B-200D-2642	homem levantando a mo
+1F64B-1F3FB	pessoa levantando a mo pele clara
+1F64B-1F3FB-200D-2640	mulher levantando a mo pele clara
+1F64B-1F3FB-200D-2642	homem levantando a mo pele clara
+1F64B-1F3FC	pessoa levantando a mo pele morena clara
+1F64B-1F3FC-200D-2640	mulher levantando a mo pele morena clara
+1F64B-1F3FC-200D-2642	homem levantando a mo pele morena clara
+1F64B-1F3FD	pessoa levantando a mo pele morena
+1F64B-1F3FD-200D-2640	mulher levantando a mo pele morena
+1F64B-1F3FD-200D-2642	homem levantando a mo pele morena
+1F64B-1F3FE	pessoa levantando a mo pele morena escura
+1F64B-1F3FE-200D-2640	mulher levantando a mo pele morena escura
+1F64B-1F3FE-200D-2642	homem levantando a mo pele morena escura
+1F64B-1F3FF	pessoa levantando a mo pele escura
+1F64B-1F3FF-200D-2640	mulher levantando a mo pele escura
+1F64B-1F3FF-200D-2642	homem levantando a mo pele escura
+1F64C	mos para cima
+1F64C-1F3FB	mos para cima pele clara
+1F64C-1F3FC	mos para cima pele morena clara
+1F64C-1F3FD	mos para cima pele morena
+1F64C-1F3FE	mos para cima pele morena escura
+1F64C-1F3FF	mos para cima pele escura
+1F64D	franzindo a sobrancelha
+1F64D-200D-2640	mulher franzindo a sobrancelha
+1F64D-200D-2642	homem franzindo a sobrancelha
+1F64D-1F3FB	franzindo a sobrancelha pele clara
+1F64D-1F3FB-200D-2640	mulher franzindo a sobrancelha pele clara
+1F64D-1F3FB-200D-2642	homem franzindo a sobrancelha pele clara
+1F64D-1F3FC	franzindo a sobrancelha pele morena clara
+1F64D-1F3FC-200D-2640	mulher franzindo a sobrancelha pele morena clara
+1F64D-1F3FC-200D-2642	homem franzindo a sobrancelha pele morena clara
+1F64D-1F3FD	franzindo a sobrancelha pele morena
+1F64D-1F3FD-200D-2640	mulher franzindo a sobrancelha pele morena
+1F64D-1F3FD-200D-2642	homem franzindo a sobrancelha pele morena
+1F64D-1F3FE	franzindo a sobrancelha pele morena escura
+1F64D-1F3FE-200D-2640	mulher franzindo a sobrancelha pele morena escura
+1F64D-1F3FE-200D-2642	homem franzindo a sobrancelha pele morena escura
+1F64D-1F3FF	franzindo a sobrancelha pele escura
+1F64D-1F3FF-200D-2640	mulher franzindo a sobrancelha pele escura
+1F64D-1F3FF-200D-2642	homem franzindo a sobrancelha pele escura
+1F64E	pessoa fazendo bico
+1F64E-200D-2640	mulher fazendo bico
+1F64E-200D-2642	homem fazendo bico
+1F64E-1F3FB	pessoa fazendo bico pele clara
+1F64E-1F3FB-200D-2640	mulher fazendo bico pele clara
+1F64E-1F3FB-200D-2642	homem fazendo bico pele clara
+1F64E-1F3FC	pessoa fazendo bico pele morena clara
+1F64E-1F3FC-200D-2640	mulher fazendo bico pele morena clara
+1F64E-1F3FC-200D-2642	homem fazendo bico pele morena clara
+1F64E-1F3FD	pessoa fazendo bico pele morena
+1F64E-1F3FD-200D-2640	mulher fazendo bico pele morena
+1F64E-1F3FD-200D-2642	homem fazendo bico pele morena
+1F64E-1F3FE	pessoa fazendo bico pele morena escura
+1F64E-1F3FE-200D-2640	mulher fazendo bico pele morena escura
+1F64E-1F3FE-200D-2642	homem fazendo bico pele morena escura
+1F64E-1F3FF	pessoa fazendo bico pele escura
+1F64E-1F3FF-200D-2640	mulher fazendo bico pele escura
+1F64E-1F3FF-200D-2642	homem fazendo bico pele escura
+1F64F	mos juntas
+1F64F-1F3FB	mos juntas pele clara
+1F64F-1F3FC	mos juntas pele morena clara
+1F64F-1F3FD	mos juntas pele morena
+1F64F-1F3FE	mos juntas pele morena escura
+1F64F-1F3FF	mos juntas pele escura
+1F680	foguete
+1F681	helicptero
+1F682	locomotiva
+1F683	vago de trem
+1F684	trem de alta velocidade
+1F685	trem de alta velocidade japons
+1F686	trem
+1F687	metr
+1F688	trem urbano
+1F689	estao
+1F68A	bonde eltrico
+1F68B	bonde
+1F68C	nibus
+1F68D	nibus se aproximando
+1F68E	trlebus
+1F68F	ponto de nibus
+1F690	van
+1F691	ambulncia
+1F692	carro do corpo de bombeiros
+1F693	viatura policial
+1F694	viatura policial se aproximando
+1F695	txi
+1F696	txi se aproximando
+1F697	carro
+1F698	carro se aproximando
+1F699	SUV
+1F69A	caminho de entrega
+1F69B	caminho
+1F69C	trator
+1F69D	monotrilho
+1F69E	estrada de ferro na montanha
+1F69F	estrada de ferro suspensa
+1F6A0	cabo suspenso usado em telefricos nas montanhas
+1F6A1	telefrico
+1F6A2	navio
+1F6A3	pessoa remando
+1F6A3-200D-2640	mulher remando
+1F6A3-200D-2642	homem remando
+1F6A3-1F3FB	pessoa remando pele clara
+1F6A3-1F3FB-200D-2640	mulher remando pele clara
+1F6A3-1F3FB-200D-2642	homem remando pele clara
+1F6A3-1F3FC	pessoa remando pele morena clara
+1F6A3-1F3FC-200D-2640	mulher remando pele morena clara
+1F6A3-1F3FC-200D-2642	homem remando pele morena clara
+1F6A3-1F3FD	pessoa remando pele morena
+1F6A3-1F3FD-200D-2640	mulher remando pele morena
+1F6A3-1F3FD-200D-2642	homem remando pele morena
+1F6A3-1F3FE	pessoa remando pele morena escura
+1F6A3-1F3FE-200D-2640	mulher remando pele morena escura
+1F6A3-1F3FE-200D-2642	homem remando pele morena escura
+1F6A3-1F3FF	pessoa remando pele escura
+1F6A3-1F3FF-200D-2640	mulher remando pele escura
+1F6A3-1F3FF-200D-2642	homem remando pele escura
+1F6A4	lancha
+1F6A5	semforo horizontal
+1F6A6	semforo vertical
+1F6A7	em construo
+1F6A8	sirene
+1F6A9	bandeira triangular
+1F6AA	porta
+1F6AB	proibido
+1F6AC	cigarro
+1F6AD	proibido fumar
+1F6AE	smbolo de lixeira
+1F6AF	proibido jogar lixo no cho
+1F6B0	gua potvel
+1F6B1	gua no potvel
+1F6B2	bicicleta
+1F6B3	proibido andar de bicicleta
+1F6B4	ciclista
+1F6B4-200D-2640	mulher ciclista
+1F6B4-200D-2642	homem ciclista
+1F6B4-1F3FB	ciclista pele clara
+1F6B4-1F3FB-200D-2640	mulher ciclista pele clara
+1F6B4-1F3FB-200D-2642	homem ciclista pele clara
+1F6B4-1F3FC	ciclista pele morena clara
+1F6B4-1F3FC-200D-2640	mulher ciclista pele morena clara
+1F6B4-1F3FC-200D-2642	homem ciclista pele morena clara
+1F6B4-1F3FD	ciclista pele morena
+1F6B4-1F3FD-200D-2640	mulher ciclista pele morena
+1F6B4-1F3FD-200D-2642	homem ciclista pele morena
+1F6B4-1F3FE	ciclista pele morena escura
+1F6B4-1F3FE-200D-2640	mulher ciclista pele morena escura
+1F6B4-1F3FE-200D-2642	homem ciclista pele morena escura
+1F6B4-1F3FF	ciclista pele escura
+1F6B4-1F3FF-200D-2640	mulher ciclista pele escura
+1F6B4-1F3FF-200D-2642	homem ciclista pele escura
+1F6B5	pessoa fazendo mountain bike
+1F6B5-200D-2640	mulher fazendo mountain bike
+1F6B5-200D-2642	homem fazendo mountain bike
+1F6B5-1F3FB	pessoa fazendo mountain bike pele clara
+1F6B5-1F3FB-200D-2640	mulher fazendo mountain bike pele clara
+1F6B5-1F3FB-200D-2642	homem fazendo mountain bike pele clara
+1F6B5-1F3FC	pessoa fazendo mountain bike pele morena clara
+1F6B5-1F3FC-200D-2640	mulher fazendo mountain bike pele morena clara
+1F6B5-1F3FC-200D-2642	homem fazendo mountain bike pele morena clara
+1F6B5-1F3FD	pessoa fazendo mountain bike pele morena
+1F6B5-1F3FD-200D-2640	mulher fazendo mountain bike pele morena
+1F6B5-1F3FD-200D-2642	homem fazendo mountain bike pele morena
+1F6B5-1F3FE	pessoa fazendo mountain bike pele morena escura
+1F6B5-1F3FE-200D-2640	mulher fazendo mountain bike pele morena escura
+1F6B5-1F3FE-200D-2642	homem fazendo mountain bike pele morena escura
+1F6B5-1F3FF	pessoa fazendo mountain bike pele escura
+1F6B5-1F3FF-200D-2640	mulher fazendo mountain bike pele escura
+1F6B5-1F3FF-200D-2642	homem fazendo mountain bike pele escura
+1F6B6	pessoa andando
+1F6B6-200D-2640	mulher andando
+1F6B6-200D-2642	homem andando
+1F6B6-1F3FB	pessoa andando pele clara
+1F6B6-1F3FB-200D-2640	mulher andando pele clara
+1F6B6-1F3FB-200D-2642	homem andando pele clara
+1F6B6-1F3FC	pessoa andando pele morena clara
+1F6B6-1F3FC-200D-2640	mulher andando pele morena clara
+1F6B6-1F3FC-200D-2642	homem andando pele morena clara
+1F6B6-1F3FD	pessoa andando pele morena
+1F6B6-1F3FD-200D-2640	mulher andando pele morena
+1F6B6-1F3FD-200D-2642	homem andando pele morena
+1F6B6-1F3FE	pessoa andando pele morena escura
+1F6B6-1F3FE-200D-2640	mulher andando pele morena escura
+1F6B6-1F3FE-200D-2642	homem andando pele morena escura
+1F6B6-1F3FF	pessoa andando pele escura
+1F6B6-1F3FF-200D-2640	mulher andando pele escura
+1F6B6-1F3FF-200D-2642	homem andando pele escura
+1F6B7	proibida a passagem de pedestres
+1F6B8	crianas atravessando
+1F6B9	banheiro masculino
+1F6BA	banheiro feminino
+1F6BB	banheiro
+1F6BC	smbolo de beb
+1F6BD	vaso sanitrio
+1F6BE	WC
+1F6BF	chuveiro
+1F6C0	pessoa tomando banho
+1F6C0-1F3FB	pessoa tomando banho pele clara
+1F6C0-1F3FC	pessoa tomando banho pele morena clara
+1F6C0-1F3FD	pessoa tomando banho pele morena
+1F6C0-1F3FE	pessoa tomando banho pele morena escura
+1F6C0-1F3FF	pessoa tomando banho pele escura
+1F6C1	banheira
+1F6C2	controle de passaportes
+1F6C3	alfndega
+1F6C4	restituio de bagagem
+1F6C5	depsito de bagagem
+1F6CB	sof e luminria
+1F6CC	pessoa deitada na cama
+1F6CC-1F3FB	pessoa deitada na cama pele clara
+1F6CC-1F3FC	pessoa deitada na cama pele morena clara
+1F6CC-1F3FD	pessoa deitada na cama pele morena
+1F6CC-1F3FE	pessoa deitada na cama pele morena escura
+1F6CC-1F3FF	pessoa deitada na cama pele escura
+1F6CD	sacolas de compras
+1F6CE	sineta
+1F6CF	cama
+1F6D0	local de culto
+1F6D1	sinal de pare
+1F6D2	carrinho de compras
+1F6D5	templo hindu
+1F6D6	cabana
+1F6D7	elevador
+1F6E0	martelo e chave-inglesa
+1F6E1	escudo
+1F6E2	barril de leo
+1F6E3	estrada
+1F6E4	trilhos
+1F6E5	barco
+1F6E9	avio pequeno
+1F6EB	avio decolando
+1F6EC	avio aterrissando
+1F6F0	satlite
+1F6F3	cruzeiro
+1F6F4	patinete
+1F6F5	scooter
+1F6F6	canoa
+1F6F7	tren
+1F6F8	disco voador
+1F6F9	skate
+1F6FA	automvel riquix
+1F6FB	caminhonete
+1F6FC	patins de rodas
+1F7E0	crculo laranja
+1F7E1	crculo amarelo
+1F7E2	crculo verde
+1F7E3	crculo roxo
+1F7E4	crculo marrom
+1F7E5	quadrado vermelho
+1F7E6	quadrado azul
+1F7E7	quadrado laranja
+1F7E8	quadrado amarelo
+1F7E9	quadrado verde
+1F7EA	quadrado roxo
+1F7EB	quadrado marrom
+1F90C	dedos comprimidos
+1F90C-1F3FB	dedos comprimidos pele clara
+1F90C-1F3FC	dedos comprimidos pele morena clara
+1F90C-1F3FD	dedos comprimidos pele morena
+1F90C-1F3FE	dedos comprimidos pele morena escura
+1F90C-1F3FF	dedos comprimidos pele escura
+1F90D	corao branco
+1F90E	corao marrom
+1F90F	mo beliscando
+1F90F-1F3FB	mo beliscando pele clara
+1F90F-1F3FC	mo beliscando pele morena clara
+1F90F-1F3FD	mo beliscando pele morena
+1F90F-1F3FE	mo beliscando pele morena escura
+1F90F-1F3FF	mo beliscando pele escura
+1F910	rosto com boca de zper
+1F911	rosto com cifres
+1F912	rosto com termmetro
+1F913	rosto de nerd
+1F914	rosto pensativo
+1F915	rosto com atadura na cabea
+1F916	rosto de rob
+1F917	rosto abraando
+1F918	saudao do rock
+1F918-1F3FB	saudao do rock pele clara
+1F918-1F3FC	saudao do rock pele morena clara
+1F918-1F3FD	saudao do rock pele morena
+1F918-1F3FE	saudao do rock pele morena escura
+1F918-1F3FF	saudao do rock pele escura
+1F919	sinal me liga
+1F919-1F3FB	sinal me liga pele clara
+1F919-1F3FC	sinal me liga pele morena clara
+1F919-1F3FD	sinal me liga pele morena
+1F919-1F3FE	sinal me liga pele morena escura
+1F919-1F3FF	sinal me liga pele escura
+1F91A	dorso da mo levantado
+1F91A-1F3FB	dorso da mo levantado pele clara
+1F91A-1F3FC	dorso da mo levantado pele morena clara
+1F91A-1F3FD	dorso da mo levantado pele morena
+1F91A-1F3FE	dorso da mo levantado pele morena escura
+1F91A-1F3FF	dorso da mo levantado pele escura
+1F91B	punho esquerdo
+1F91B-1F3FB	punho esquerdo pele clara
+1F91B-1F3FC	punho esquerdo pele morena clara
+1F91B-1F3FD	punho esquerdo pele morena
+1F91B-1F3FE	punho esquerdo pele morena escura
+1F91B-1F3FF	punho esquerdo pele escura
+1F91C	punho direito
+1F91C-1F3FB	punho direito pele clara
+1F91C-1F3FC	punho direito pele morena clara
+1F91C-1F3FD	punho direito pele morena
+1F91C-1F3FE	punho direito pele morena escura
+1F91C-1F3FF	punho direito pele escura
+1F91D	aperto de mos
+1F91E	dedos cruzados
+1F91E-1F3FB	dedos cruzados pele clara
+1F91E-1F3FC	dedos cruzados pele morena clara
+1F91E-1F3FD	dedos cruzados pele morena
+1F91E-1F3FE	dedos cruzados pele morena escura
+1F91E-1F3FF	dedos cruzados pele escura
+1F91F	gesto de te amo
+1F91F-1F3FB	gesto de te amo pele clara
+1F91F-1F3FC	gesto de te amo pele morena clara
+1F91F-1F3FD	gesto de te amo pele morena
+1F91F-1F3FE	gesto de te amo pele morena escura
+1F91F-1F3FF	gesto de te amo pele escura
+1F920	rosto com chapu de caubi
+1F921	rosto de palhao
+1F922	rosto nauseado
+1F923	rolando no cho de rir
+1F924	rosto babando
+1F925	rosto de mentiroso
+1F926	pessoa decepcionada
+1F926-200D-2640	mulher decepcionada
+1F926-200D-2642	homem decepcionado
+1F926-1F3FB	pessoa decepcionada pele clara
+1F926-1F3FB-200D-2640	mulher decepcionada pele clara
+1F926-1F3FB-200D-2642	homem decepcionado pele clara
+1F926-1F3FC	pessoa decepcionada pele morena clara
+1F926-1F3FC-200D-2640	mulher decepcionada pele morena clara
+1F926-1F3FC-200D-2642	homem decepcionado pele morena clara
+1F926-1F3FD	pessoa decepcionada pele morena
+1F926-1F3FD-200D-2640	mulher decepcionada pele morena
+1F926-1F3FD-200D-2642	homem decepcionado pele morena
+1F926-1F3FE	pessoa decepcionada pele morena escura
+1F926-1F3FE-200D-2640	mulher decepcionada pele morena escura
+1F926-1F3FE-200D-2642	homem decepcionado pele morena escura
+1F926-1F3FF	pessoa decepcionada pele escura
+1F926-1F3FF-200D-2640	mulher decepcionada pele escura
+1F926-1F3FF-200D-2642	homem decepcionado pele escura
+1F927	rosto espirrando
+1F928	rosto com sobrancelha levantada
+1F929	rosto com olhar maravilhado
+1F92A	rosto bizarro
+1F92B	rosto fazendo sinal de silncio
+1F92C	rosto com smbolos na boca
+1F92D	rosto com a mo sobre a boca
+1F92E	rosto vomitando
+1F92F	cabea explodindo
+1F930	grvida
+1F930-1F3FB	grvida pele clara
+1F930-1F3FC	grvida pele morena clara
+1F930-1F3FD	grvida pele morena
+1F930-1F3FE	grvida pele morena escura
+1F930-1F3FF	grvida pele escura
+1F931	amamentando
+1F931-1F3FB	amamentando pele clara
+1F931-1F3FC	amamentando pele morena clara
+1F931-1F3FD	amamentando pele morena
+1F931-1F3FE	amamentando pele morena escura
+1F931-1F3FF	amamentando pele escura
+1F932	palmas unidas para cima
+1F932-1F3FB	palmas unidas para cima pele clara
+1F932-1F3FC	palmas unidas para cima pele morena clara
+1F932-1F3FD	palmas unidas para cima pele morena
+1F932-1F3FE	palmas unidas para cima pele morena escura
+1F932-1F3FF	palmas unidas para cima pele escura
+1F933	selfie
+1F933-1F3FB	selfie pele clara
+1F933-1F3FC	selfie pele morena clara
+1F933-1F3FD	selfie pele morena
+1F933-1F3FE	selfie pele morena escura
+1F933-1F3FF	selfie pele escura
+1F934	prncipe
+1F934-1F3FB	prncipe pele clara
+1F934-1F3FC	prncipe pele morena clara
+1F934-1F3FD	prncipe pele morena
+1F934-1F3FE	prncipe pele morena escura
+1F934-1F3FF	prncipe pele escura
+1F935	pessoa de smoking
+1F935-200D-2640	mulher de smoking
+1F935-200D-2642	homem de smoking
+1F935-1F3FB	pessoa de smoking pele clara
+1F935-1F3FB-200D-2640	mulher de smoking pele clara
+1F935-1F3FB-200D-2642	homem de smoking pele clara
+1F935-1F3FC	pessoa de smoking pele morena clara
+1F935-1F3FC-200D-2640	mulher de smoking pele morena clara
+1F935-1F3FC-200D-2642	homem de smoking pele morena clara
+1F935-1F3FD	pessoa de smoking pele morena
+1F935-1F3FD-200D-2640	mulher de smoking pele morena
+1F935-1F3FD-200D-2642	homem de smoking pele morena
+1F935-1F3FE	pessoa de smoking pele morena escura
+1F935-1F3FE-200D-2640	mulher de smoking pele morena escura
+1F935-1F3FE-200D-2642	homem de smoking pele morena escura
+1F935-1F3FF	pessoa de smoking pele escura
+1F935-1F3FF-200D-2640	mulher de smoking pele escura
+1F935-1F3FF-200D-2642	homem de smoking pele escura
+1F936	Mame Noel
+1F936-1F3FB	Mame Noel pele clara
+1F936-1F3FC	Mame Noel pele morena clara
+1F936-1F3FD	Mame Noel pele morena
+1F936-1F3FE	Mame Noel pele morena escura
+1F936-1F3FF	Mame Noel pele escura
+1F937	pessoa dando de ombros
+1F937-200D-2640	mulher dando de ombros
+1F937-200D-2642	homem dando de ombros
+1F937-1F3FB	pessoa dando de ombros pele clara
+1F937-1F3FB-200D-2640	mulher dando de ombros pele clara
+1F937-1F3FB-200D-2642	homem dando de ombros pele clara
+1F937-1F3FC	pessoa dando de ombros pele morena clara
+1F937-1F3FC-200D-2640	mulher dando de ombros pele morena clara
+1F937-1F3FC-200D-2642	homem dando de ombros pele morena clara
+1F937-1F3FD	pessoa dando de ombros pele morena
+1F937-1F3FD-200D-2640	mulher dando de ombros pele morena
+1F937-1F3FD-200D-2642	homem dando de ombros pele morena
+1F937-1F3FE	pessoa dando de ombros pele morena escura
+1F937-1F3FE-200D-2640	mulher dando de ombros pele morena escura
+1F937-1F3FE-200D-2642	homem dando de ombros pele morena escura
+1F937-1F3FF	pessoa dando de ombros pele escura
+1F937-1F3FF-200D-2640	mulher dando de ombros pele escura
+1F937-1F3FF-200D-2642	homem dando de ombros pele escura
+1F938	pessoa fazendo estrela
+1F938-200D-2640	mulher fazendo estrela
+1F938-200D-2642	homem fazendo estrela
+1F938-1F3FB	pessoa fazendo estrela pele clara
+1F938-1F3FB-200D-2640	mulher fazendo estrela pele clara
+1F938-1F3FB-200D-2642	homem fazendo estrela pele clara
+1F938-1F3FC	pessoa fazendo estrela pele morena clara
+1F938-1F3FC-200D-2640	mulher fazendo estrela pele morena clara
+1F938-1F3FC-200D-2642	homem fazendo estrela pele morena clara
+1F938-1F3FD	pessoa fazendo estrela pele morena
+1F938-1F3FD-200D-2640	mulher fazendo estrela pele morena
+1F938-1F3FD-200D-2642	homem fazendo estrela pele morena
+1F938-1F3FE	pessoa fazendo estrela pele morena escura
+1F938-1F3FE-200D-2640	mulher fazendo estrela pele morena escura
+1F938-1F3FE-200D-2642	homem fazendo estrela pele morena escura
+1F938-1F3FF	pessoa fazendo estrela pele escura
+1F938-1F3FF-200D-2640	mulher fazendo estrela pele escura
+1F938-1F3FF-200D-2642	homem fazendo estrela pele escura
+1F939	malabarista
+1F939-200D-2640	mulher malabarista
+1F939-200D-2642	homem malabarista
+1F939-1F3FB	malabarista pele clara
+1F939-1F3FB-200D-2640	mulher malabarista pele clara
+1F939-1F3FB-200D-2642	homem malabarista pele clara
+1F939-1F3FC	malabarista pele morena clara
+1F939-1F3FC-200D-2640	mulher malabarista pele morena clara
+1F939-1F3FC-200D-2642	homem malabarista pele morena clara
+1F939-1F3FD	malabarista pele morena
+1F939-1F3FD-200D-2640	mulher malabarista pele morena
+1F939-1F3FD-200D-2642	homem malabarista pele morena
+1F939-1F3FE	malabarista pele morena escura
+1F939-1F3FE-200D-2640	mulher malabarista pele morena escura
+1F939-1F3FE-200D-2642	homem malabarista pele morena escura
+1F939-1F3FF	malabarista pele escura
+1F939-1F3FF-200D-2640	mulher malabarista pele escura
+1F939-1F3FF-200D-2642	homem malabarista pele escura
+1F93A	esgrimista
+1F93C	pessoas lutando
+1F93C-200D-2640	mulheres lutando
+1F93C-200D-2642	homens lutando
+1F93D	pessoa jogando polo aqutico
+1F93D-200D-2640	mulher jogando polo aqutico
+1F93D-200D-2642	homem jogando polo aqutico
+1F93D-1F3FB	pessoa jogando polo aqutico pele clara
+1F93D-1F3FB-200D-2640	mulher jogando polo aqutico pele clara
+1F93D-1F3FB-200D-2642	homem jogando polo aqutico pele clara
+1F93D-1F3FC	pessoa jogando polo aqutico pele morena clara
+1F93D-1F3FC-200D-2640	mulher jogando polo aqutico pele morena clara
+1F93D-1F3FC-200D-2642	homem jogando polo aqutico pele morena clara
+1F93D-1F3FD	pessoa jogando polo aqutico pele morena
+1F93D-1F3FD-200D-2640	mulher jogando polo aqutico pele morena
+1F93D-1F3FD-200D-2642	homem jogando polo aqutico pele morena
+1F93D-1F3FE	pessoa jogando polo aqutico pele morena escura
+1F93D-1F3FE-200D-2640	mulher jogando polo aqutico pele morena escura
+1F93D-1F3FE-200D-2642	homem jogando polo aqutico pele morena escura
+1F93D-1F3FF	pessoa jogando polo aqutico pele escura
+1F93D-1F3FF-200D-2640	mulher jogando polo aqutico pele escura
+1F93D-1F3FF-200D-2642	homem jogando polo aqutico pele escura
+1F93E	handebol
+1F93E-200D-2640	jogadora de handebol
+1F93E-200D-2642	jogador de handebol
+1F93E-1F3FB	handebol pele clara
+1F93E-1F3FB-200D-2640	jogadora de handebol pele clara
+1F93E-1F3FB-200D-2642	jogador de handebol pele clara
+1F93E-1F3FC	handebol pele morena clara
+1F93E-1F3FC-200D-2640	jogadora de handebol pele morena clara
+1F93E-1F3FC-200D-2642	jogador de handebol pele morena clara
+1F93E-1F3FD	handebol pele morena
+1F93E-1F3FD-200D-2640	jogadora de handebol pele morena
+1F93E-1F3FD-200D-2642	jogador de handebol pele morena
+1F93E-1F3FE	handebol pele morena escura
+1F93E-1F3FE-200D-2640	jogadora de handebol pele morena escura
+1F93E-1F3FE-200D-2642	jogador de handebol pele morena escura
+1F93E-1F3FF	handebol pele escura
+1F93E-1F3FF-200D-2640	jogadora de handebol pele escura
+1F93E-1F3FF-200D-2642	jogador de handebol pele escura
+1F93F	mscara de mergulho
+1F940	flor murcha
+1F941	tambor
+1F942	taas brindando
+1F943	copo
+1F944	colher
+1F945	gol
+1F947	medalha de ouro
+1F948	medalha de prata
+1F949	medalha de bronze
+1F94A	luva de boxe
+1F94B	quimono de artes marciais
+1F94C	pedra de curling
+1F94D	lacrosse
+1F94E	softbol
+1F94F	frisbee
+1F950	croissant
+1F951	abacate
+1F952	pepino
+1F953	bacon
+1F954	batata
+1F955	cenoura
+1F956	baguete
+1F957	salada verde
+1F958	caarola com comida
+1F959	po recheado
+1F95A	ovo
+1F95B	copo de leite
+1F95C	amendoim
+1F95D	kiwi
+1F95E	panquecas
+1F95F	bolinho asitico
+1F960	biscoito da sorte
+1F961	caixa para viagem
+1F962	hashi
+1F963	tigela com colher
+1F964	copo com canudo
+1F965	coco
+1F966	brcolis
+1F967	torta
+1F968	pretzel
+1F969	corte de carne
+1F96A	sanduche
+1F96B	comida enlatada
+1F96C	verdura
+1F96D	manga
+1F96E	bolo lunar
+1F96F	rosca
+1F970	rosto sorridente com 3 coraes
+1F971	rosto bocejando
+1F972	rosto sorridente com lgrima
+1F973	rosto festivo
+1F974	rosto embriagado
+1F975	rosto fervendo de calor
+1F976	rosto gelado
+1F977	ninja
+1F977-1F3FB	ninja pele clara
+1F977-1F3FC	ninja pele morena clara
+1F977-1F3FD	ninja pele morena
+1F977-1F3FE	ninja pele morena escura
+1F977-1F3FF	ninja pele escura
+1F978	rosto disfarado
+1F97A	rosto implorando
+1F97B	sari
+1F97C	jaleco
+1F97D	culos de proteo
+1F97E	bota de trekking
+1F97F	sapatilha
+1F980	caranguejo
+1F981	rosto de leo
+1F982	escorpio
+1F983	peru
+1F984	rosto de unicrnio
+1F985	guia
+1F986	pato
+1F987	morcego
+1F988	tubaro
+1F989	coruja
+1F98A	rosto de raposa
+1F98B	borboleta
+1F98C	cervo
+1F98D	gorila
+1F98E	lagartixa
+1F98F	rinoceronte
+1F990	camaro
+1F991	lula
+1F992	girafa
+1F993	zebra
+1F994	porco-espinho
+1F995	saurpode
+1F996	tiranossauro rex
+1F997	grilo
+1F998	canguru
+1F999	lhama
+1F99A	pavo
+1F99B	hipoptamo
+1F99C	papagaio
+1F99D	guaxinim
+1F99E	lagosta
+1F99F	mosquito
+1F9A0	micrbio
+1F9A1	texugo
+1F9A2	cisne
+1F9A3	mamute
+1F9A4	dod
+1F9A5	preguia
+1F9A6	lontra
+1F9A7	orangotango
+1F9A8	gamb
+1F9A9	flamingo
+1F9AA	ostra
+1F9AB	castor
+1F9AC	biso
+1F9AD	foca
+1F9AE	co-guia
+1F9AF	bengala para cegos
+1F9B0	cabelo vermelho
+1F9B1	cabelo cacheado
+1F9B2	careca
+1F9B3	cabelo branco
+1F9B4	osso
+1F9B5	perna
+1F9B5-1F3FB	perna pele clara
+1F9B5-1F3FC	perna pele morena clara
+1F9B5-1F3FD	perna pele morena
+1F9B5-1F3FE	perna pele morena escura
+1F9B5-1F3FF	perna pele escura
+1F9B6	p
+1F9B6-1F3FB	p pele clara
+1F9B6-1F3FC	p pele morena clara
+1F9B6-1F3FD	p pele morena
+1F9B6-1F3FE	p pele morena escura
+1F9B6-1F3FF	p pele escura
+1F9B7	dente
+1F9B8	super-heri
+1F9B8-200D-2640	super-herona
+1F9B8-200D-2642	homem super-heri
+1F9B8-1F3FB	super-heri pele clara
+1F9B8-1F3FB-200D-2640	super-herona pele clara
+1F9B8-1F3FB-200D-2642	homem super-heri pele clara
+1F9B8-1F3FC	super-heri pele morena clara
+1F9B8-1F3FC-200D-2640	super-herona pele morena clara
+1F9B8-1F3FC-200D-2642	homem super-heri pele morena clara
+1F9B8-1F3FD	super-heri pele morena
+1F9B8-1F3FD-200D-2640	super-herona pele morena
+1F9B8-1F3FD-200D-2642	homem super-heri pele morena
+1F9B8-1F3FE	super-heri pele morena escura
+1F9B8-1F3FE-200D-2640	super-herona pele morena escura
+1F9B8-1F3FE-200D-2642	homem super-heri pele morena escura
+1F9B8-1F3FF	super-heri pele escura
+1F9B8-1F3FF-200D-2640	super-herona pele escura
+1F9B8-1F3FF-200D-2642	homem super-heri pele escura
+1F9B9	supervilo
+1F9B9-200D-2640	supervil
+1F9B9-200D-2642	homem supervilo
+1F9B9-1F3FB	supervilo pele clara
+1F9B9-1F3FB-200D-2640	supervil pele clara
+1F9B9-1F3FB-200D-2642	homem supervilo pele clara
+1F9B9-1F3FC	supervilo pele morena clara
+1F9B9-1F3FC-200D-2640	supervil pele morena clara
+1F9B9-1F3FC-200D-2642	homem supervilo pele morena clara
+1F9B9-1F3FD	supervilo pele morena
+1F9B9-1F3FD-200D-2640	supervil pele morena
+1F9B9-1F3FD-200D-2642	homem supervilo pele morena
+1F9B9-1F3FE	supervilo pele morena escura
+1F9B9-1F3FE-200D-2640	supervil pele morena escura
+1F9B9-1F3FE-200D-2642	homem supervilo pele morena escura
+1F9B9-1F3FF	supervilo pele escura
+1F9B9-1F3FF-200D-2640	supervil pele escura
+1F9B9-1F3FF-200D-2642	homem supervilo pele escura
+1F9BA	colete salva-vidas
+1F9BB	ouvido com aparelho auditivo
+1F9BB-1F3FB	ouvido com aparelho auditivo pele clara
+1F9BB-1F3FC	ouvido com aparelho auditivo pele morena clara
+1F9BB-1F3FD	ouvido com aparelho auditivo pele morena
+1F9BB-1F3FE	ouvido com aparelho auditivo pele morena escura
+1F9BB-1F3FF	ouvido com aparelho auditivo pele escura
+1F9BC	cadeira de rodas motorizada
+1F9BD	cadeira de rodas manual
+1F9BE	brao mecnico
+1F9BF	perna mecnica
+1F9C0	queijo
+1F9C1	cupcake
+1F9C2	sal
+1F9C3	suco de caixa
+1F9C4	alho
+1F9C5	cebola
+1F9C6	falafel
+1F9C7	waffle
+1F9C8	manteiga
+1F9C9	mate
+1F9CA	cubo de gelo
+1F9CB	ch perolado
+1F9CD	pessoa em p
+1F9CD-200D-2640	mulher em p
+1F9CD-200D-2642	homem em p
+1F9CD-1F3FB	pessoa em p pele clara
+1F9CD-1F3FB-200D-2640	mulher em p pele clara
+1F9CD-1F3FB-200D-2642	homem em p pele clara
+1F9CD-1F3FC	pessoa em p pele morena clara
+1F9CD-1F3FC-200D-2640	mulher em p pele morena clara
+1F9CD-1F3FC-200D-2642	homem em p pele morena clara
+1F9CD-1F3FD	pessoa em p pele morena
+1F9CD-1F3FD-200D-2640	mulher em p pele morena
+1F9CD-1F3FD-200D-2642	homem em p pele morena
+1F9CD-1F3FE	pessoa em p pele morena escura
+1F9CD-1F3FE-200D-2640	mulher em p pele morena escura
+1F9CD-1F3FE-200D-2642	homem em p pele morena escura
+1F9CD-1F3FF	pessoa em p pele escura
+1F9CD-1F3FF-200D-2640	mulher em p pele escura
+1F9CD-1F3FF-200D-2642	homem em p pele escura
+1F9CE	pessoa ajoelhando
+1F9CE-200D-2640	mulher ajoelhando
+1F9CE-200D-2642	homem ajoelhando
+1F9CE-1F3FB	pessoa ajoelhando pele clara
+1F9CE-1F3FB-200D-2640	mulher ajoelhando pele clara
+1F9CE-1F3FB-200D-2642	homem ajoelhando pele clara
+1F9CE-1F3FC	pessoa ajoelhando pele morena clara
+1F9CE-1F3FC-200D-2640	mulher ajoelhando pele morena clara
+1F9CE-1F3FC-200D-2642	homem ajoelhando pele morena clara
+1F9CE-1F3FD	pessoa ajoelhando pele morena
+1F9CE-1F3FD-200D-2640	mulher ajoelhando pele morena
+1F9CE-1F3FD-200D-2642	homem ajoelhando pele morena
+1F9CE-1F3FE	pessoa ajoelhando pele morena escura
+1F9CE-1F3FE-200D-2640	mulher ajoelhando pele morena escura
+1F9CE-1F3FE-200D-2642	homem ajoelhando pele morena escura
+1F9CE-1F3FF	pessoa ajoelhando pele escura
+1F9CE-1F3FF-200D-2640	mulher ajoelhando pele escura
+1F9CE-1F3FF-200D-2642	homem ajoelhando pele escura
+1F9CF	pessoa surda
+1F9CF-200D-2640	mulher surda
+1F9CF-200D-2642	homem surdo
+1F9CF-1F3FB	pessoa surda pele clara
+1F9CF-1F3FB-200D-2640	mulher surda pele clara
+1F9CF-1F3FB-200D-2642	homem surdo pele clara
+1F9CF-1F3FC	pessoa surda pele morena clara
+1F9CF-1F3FC-200D-2640	mulher surda pele morena clara
+1F9CF-1F3FC-200D-2642	homem surdo pele morena clara
+1F9CF-1F3FD	pessoa surda pele morena
+1F9CF-1F3FD-200D-2640	mulher surda pele morena
+1F9CF-1F3FD-200D-2642	homem surdo pele morena
+1F9CF-1F3FE	pessoa surda pele morena escura
+1F9CF-1F3FE-200D-2640	mulher surda pele morena escura
+1F9CF-1F3FE-200D-2642	homem surdo pele morena escura
+1F9CF-1F3FF	pessoa surda pele escura
+1F9CF-1F3FF-200D-2640	mulher surda pele escura
+1F9CF-1F3FF-200D-2642	homem surdo pele escura
+1F9D0	rosto com monculo
+1F9D1	pessoa
+1F9D1-200D-2695	profissional de sade
+1F9D1-200D-2696	juiz no tribunal
+1F9D1-200D-2708	piloto
+1F9D1-200D-1F33E	agricultor
+1F9D1-200D-1F373	chef de cozinha
+1F9D1-200D-1F37C	pessoa alimentando beb
+1F9D1-200D-1F384	noel
+1F9D1-200D-1F393	aluno
+1F9D1-200D-1F3A4	cantor
+1F9D1-200D-1F3A8	artista
+1F9D1-200D-1F3EB	professora na escola
+1F9D1-200D-1F3ED	funcionrio de fbrica
+1F9D1-200D-1F4BB	programador
+1F9D1-200D-1F4BC	trabalhador de escritrio
+1F9D1-200D-1F527	mecnico trabalhando
+1F9D1-200D-1F52C	cientista
+1F9D1-200D-1F680	astronauta
+1F9D1-200D-1F692	bombeiro
+1F9D1-200D-1F91D-200D-1F9D1	pessoas de mos dadas
+1F9D1-200D-1F9AF	pessoa com bengala para cego
+1F9D1-200D-1F9B0	pessoa cabelo vermelho
+1F9D1-200D-1F9B1	pessoa cabelo cacheado
+1F9D1-200D-1F9B2	pessoa careca
+1F9D1-200D-1F9B3	pessoa cabelo branco
+1F9D1-200D-1F9BC	pessoa em cadeira de rodas motorizada
+1F9D1-200D-1F9BD	pessoa em cadeira de rodas manual
+1F9D1-1F3FB	pessoa pele clara
+1F9D1-1F3FB-200D-2695	profissional de sade pele clara
+1F9D1-1F3FB-200D-2696	juiz no tribunal pele clara
+1F9D1-1F3FB-200D-2708	piloto pele clara
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beijo pessoa pessoa pele clara e pele morena clara
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beijo pessoa pessoa pele clara e pele morena
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beijo pessoa pessoa pele clara e pele morena escura
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beijo pessoa pessoa pele clara e pele escura
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	casal apaixonado pessoa pessoa pele clara e pele morena clara
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	casal apaixonado pessoa pessoa pele clara e pele morena
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	casal apaixonado pessoa pessoa pele clara e pele morena escura
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	casal apaixonado pessoa pessoa pele clara e pele escura
+1F9D1-1F3FB-200D-1F33E	agricultor pele clara
+1F9D1-1F3FB-200D-1F373	chef de cozinha pele clara
+1F9D1-1F3FB-200D-1F37C	pessoa alimentando beb pele clara
+1F9D1-1F3FB-200D-1F384	noel pele clara
+1F9D1-1F3FB-200D-1F393	aluno pele clara
+1F9D1-1F3FB-200D-1F3A4	cantor pele clara
+1F9D1-1F3FB-200D-1F3A8	artista pele clara
+1F9D1-1F3FB-200D-1F3EB	professora na escola pele clara
+1F9D1-1F3FB-200D-1F3ED	funcionrio de fbrica pele clara
+1F9D1-1F3FB-200D-1F4BB	programador pele clara
+1F9D1-1F3FB-200D-1F4BC	trabalhador de escritrio pele clara
+1F9D1-1F3FB-200D-1F527	mecnico trabalhando pele clara
+1F9D1-1F3FB-200D-1F52C	cientista pele clara
+1F9D1-1F3FB-200D-1F680	astronauta pele clara
+1F9D1-1F3FB-200D-1F692	bombeiro pele clara
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	pessoas de mos dadas pele clara
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	pessoas de mos dadas pele clara e pele morena clara
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	pessoas de mos dadas pele clara e pele morena
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	pessoas de mos dadas pele clara e pele morena escura
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	pessoas de mos dadas pele clara e pele escura
+1F9D1-1F3FB-200D-1F9AF	pessoa com bengala para cego pele clara
+1F9D1-1F3FB-200D-1F9B0	pessoa pele clara e cabelo vermelho
+1F9D1-1F3FB-200D-1F9B1	pessoa pele clara e cabelo cacheado
+1F9D1-1F3FB-200D-1F9B2	pessoa pele clara e careca
+1F9D1-1F3FB-200D-1F9B3	pessoa pele clara e cabelo branco
+1F9D1-1F3FB-200D-1F9BC	pessoa em cadeira de rodas motorizada pele clara
+1F9D1-1F3FB-200D-1F9BD	pessoa em cadeira de rodas manual pele clara
+1F9D1-1F3FC	pessoa pele morena clara
+1F9D1-1F3FC-200D-2695	profissional de sade pele morena clara
+1F9D1-1F3FC-200D-2696	juiz no tribunal pele morena clara
+1F9D1-1F3FC-200D-2708	piloto pele morena clara
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beijo pessoa pessoa pele morena clara e pele clara
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beijo pessoa pessoa pele morena clara e pele morena
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beijo pessoa pessoa pele morena clara e pele morena escura
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beijo pessoa pessoa pele morena clara e pele escura
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	casal apaixonado pessoa pessoa pele morena clara e pele clara
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	casal apaixonado pessoa pessoa pele morena clara e pele morena
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	casal apaixonado pessoa pessoa pele morena clara e pele morena escura
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	casal apaixonado pessoa pessoa pele morena clara e pele escura
+1F9D1-1F3FC-200D-1F33E	agricultor pele morena clara
+1F9D1-1F3FC-200D-1F373	chef de cozinha pele morena clara
+1F9D1-1F3FC-200D-1F37C	pessoa alimentando beb pele morena clara
+1F9D1-1F3FC-200D-1F384	noel pele morena clara
+1F9D1-1F3FC-200D-1F393	aluno pele morena clara
+1F9D1-1F3FC-200D-1F3A4	cantor pele morena clara
+1F9D1-1F3FC-200D-1F3A8	artista pele morena clara
+1F9D1-1F3FC-200D-1F3EB	professora na escola pele morena clara
+1F9D1-1F3FC-200D-1F3ED	funcionrio de fbrica pele morena clara
+1F9D1-1F3FC-200D-1F4BB	programador pele morena clara
+1F9D1-1F3FC-200D-1F4BC	trabalhador de escritrio pele morena clara
+1F9D1-1F3FC-200D-1F527	mecnico trabalhando pele morena clara
+1F9D1-1F3FC-200D-1F52C	cientista pele morena clara
+1F9D1-1F3FC-200D-1F680	astronauta pele morena clara
+1F9D1-1F3FC-200D-1F692	bombeiro pele morena clara
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	pessoas de mos dadas pele morena clara e pele clara
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	pessoas de mos dadas pele morena clara
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	pessoas de mos dadas pele morena clara e pele morena
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	pessoas de mos dadas pele morena clara e pele morena escura
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	pessoas de mos dadas pele morena clara e pele escura
+1F9D1-1F3FC-200D-1F9AF	pessoa com bengala para cego pele morena clara
+1F9D1-1F3FC-200D-1F9B0	pessoa pele morena clara e cabelo vermelho
+1F9D1-1F3FC-200D-1F9B1	pessoa pele morena clara e cabelo cacheado
+1F9D1-1F3FC-200D-1F9B2	pessoa pele morena clara e careca
+1F9D1-1F3FC-200D-1F9B3	pessoa pele morena clara e cabelo branco
+1F9D1-1F3FC-200D-1F9BC	pessoa em cadeira de rodas motorizada pele morena clara
+1F9D1-1F3FC-200D-1F9BD	pessoa em cadeira de rodas manual pele morena clara
+1F9D1-1F3FD	pessoa pele morena
+1F9D1-1F3FD-200D-2695	profissional de sade pele morena
+1F9D1-1F3FD-200D-2696	juiz no tribunal pele morena
+1F9D1-1F3FD-200D-2708	piloto pele morena
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beijo pessoa pessoa pele morena e pele clara
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beijo pessoa pessoa pele morena e pele morena clara
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beijo pessoa pessoa pele morena e pele morena escura
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beijo pessoa pessoa pele morena e pele escura
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	casal apaixonado pessoa pessoa pele morena e pele clara
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	casal apaixonado pessoa pessoa pele morena e pele morena clara
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	casal apaixonado pessoa pessoa pele morena e pele morena escura
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	casal apaixonado pessoa pessoa pele morena e pele escura
+1F9D1-1F3FD-200D-1F33E	agricultor pele morena
+1F9D1-1F3FD-200D-1F373	chef de cozinha pele morena
+1F9D1-1F3FD-200D-1F37C	pessoa alimentando beb pele morena
+1F9D1-1F3FD-200D-1F384	noel pele morena
+1F9D1-1F3FD-200D-1F393	aluno pele morena
+1F9D1-1F3FD-200D-1F3A4	cantor pele morena
+1F9D1-1F3FD-200D-1F3A8	artista pele morena
+1F9D1-1F3FD-200D-1F3EB	professora na escola pele morena
+1F9D1-1F3FD-200D-1F3ED	funcionrio de fbrica pele morena
+1F9D1-1F3FD-200D-1F4BB	programador pele morena
+1F9D1-1F3FD-200D-1F4BC	trabalhador de escritrio pele morena
+1F9D1-1F3FD-200D-1F527	mecnico trabalhando pele morena
+1F9D1-1F3FD-200D-1F52C	cientista pele morena
+1F9D1-1F3FD-200D-1F680	astronauta pele morena
+1F9D1-1F3FD-200D-1F692	bombeiro pele morena
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	pessoas de mos dadas pele morena e pele clara
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	pessoas de mos dadas pele morena e pele morena clara
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	pessoas de mos dadas pele morena
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	pessoas de mos dadas pele morena e pele morena escura
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	pessoas de mos dadas pele morena e pele escura
+1F9D1-1F3FD-200D-1F9AF	pessoa com bengala para cego pele morena
+1F9D1-1F3FD-200D-1F9B0	pessoa pele morena e cabelo vermelho
+1F9D1-1F3FD-200D-1F9B1	pessoa pele morena e cabelo cacheado
+1F9D1-1F3FD-200D-1F9B2	pessoa pele morena e careca
+1F9D1-1F3FD-200D-1F9B3	pessoa pele morena e cabelo branco
+1F9D1-1F3FD-200D-1F9BC	pessoa em cadeira de rodas motorizada pele morena
+1F9D1-1F3FD-200D-1F9BD	pessoa em cadeira de rodas manual pele morena
+1F9D1-1F3FE	pessoa pele morena escura
+1F9D1-1F3FE-200D-2695	profissional de sade pele morena escura
+1F9D1-1F3FE-200D-2696	juiz no tribunal pele morena escura
+1F9D1-1F3FE-200D-2708	piloto pele morena escura
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beijo pessoa pessoa pele morena escura e pele clara
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beijo pessoa pessoa pele morena escura e pele morena clara
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beijo pessoa pessoa pele morena escura e pele morena
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	beijo pessoa pessoa pele morena escura e pele escura
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	casal apaixonado pessoa pessoa pele morena escura e pele clara
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	casal apaixonado pessoa pessoa pele morena escura e pele morena clara
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	casal apaixonado pessoa pessoa pele morena escura e pele morena
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	casal apaixonado pessoa pessoa pele morena escura e pele escura
+1F9D1-1F3FE-200D-1F33E	agricultor pele morena escura
+1F9D1-1F3FE-200D-1F373	chef de cozinha pele morena escura
+1F9D1-1F3FE-200D-1F37C	pessoa alimentando beb pele morena escura
+1F9D1-1F3FE-200D-1F384	noel pele morena escura
+1F9D1-1F3FE-200D-1F393	aluno pele morena escura
+1F9D1-1F3FE-200D-1F3A4	cantor pele morena escura
+1F9D1-1F3FE-200D-1F3A8	artista pele morena escura
+1F9D1-1F3FE-200D-1F3EB	professora na escola pele morena escura
+1F9D1-1F3FE-200D-1F3ED	funcionrio de fbrica pele morena escura
+1F9D1-1F3FE-200D-1F4BB	programador pele morena escura
+1F9D1-1F3FE-200D-1F4BC	trabalhador de escritrio pele morena escura
+1F9D1-1F3FE-200D-1F527	mecnico trabalhando pele morena escura
+1F9D1-1F3FE-200D-1F52C	cientista pele morena escura
+1F9D1-1F3FE-200D-1F680	astronauta pele morena escura
+1F9D1-1F3FE-200D-1F692	bombeiro pele morena escura
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	pessoas de mos dadas pele morena escura e pele clara
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	pessoas de mos dadas pele morena escura e pele morena clara
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	pessoas de mos dadas pele morena escura e pele morena
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	pessoas de mos dadas pele morena escura
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	pessoas de mos dadas pele morena escura e pele escura
+1F9D1-1F3FE-200D-1F9AF	pessoa com bengala para cego pele morena escura
+1F9D1-1F3FE-200D-1F9B0	pessoa pele morena escura e cabelo vermelho
+1F9D1-1F3FE-200D-1F9B1	pessoa pele morena escura e cabelo cacheado
+1F9D1-1F3FE-200D-1F9B2	pessoa pele morena escura e careca
+1F9D1-1F3FE-200D-1F9B3	pessoa pele morena escura e cabelo branco
+1F9D1-1F3FE-200D-1F9BC	pessoa em cadeira de rodas motorizada pele morena escura
+1F9D1-1F3FE-200D-1F9BD	pessoa em cadeira de rodas manual pele morena escura
+1F9D1-1F3FF	pessoa pele escura
+1F9D1-1F3FF-200D-2695	profissional de sade pele escura
+1F9D1-1F3FF-200D-2696	juiz no tribunal pele escura
+1F9D1-1F3FF-200D-2708	piloto pele escura
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	beijo pessoa pessoa pele escura e pele clara
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	beijo pessoa pessoa pele escura e pele morena clara
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	beijo pessoa pessoa pele escura e pele morena
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	beijo pessoa pessoa pele escura e pele morena escura
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	casal apaixonado pessoa pessoa pele escura e pele clara
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	casal apaixonado pessoa pessoa pele escura e pele morena clara
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	casal apaixonado pessoa pessoa pele escura e pele morena
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	casal apaixonado pessoa pessoa pele escura e pele morena escura
+1F9D1-1F3FF-200D-1F33E	agricultor pele escura
+1F9D1-1F3FF-200D-1F373	chef de cozinha pele escura
+1F9D1-1F3FF-200D-1F37C	pessoa alimentando beb pele escura
+1F9D1-1F3FF-200D-1F384	noel pele escura
+1F9D1-1F3FF-200D-1F393	aluno pele escura
+1F9D1-1F3FF-200D-1F3A4	cantor pele escura
+1F9D1-1F3FF-200D-1F3A8	artista pele escura
+1F9D1-1F3FF-200D-1F3EB	professora na escola pele escura
+1F9D1-1F3FF-200D-1F3ED	funcionrio de fbrica pele escura
+1F9D1-1F3FF-200D-1F4BB	programador pele escura
+1F9D1-1F3FF-200D-1F4BC	trabalhador de escritrio pele escura
+1F9D1-1F3FF-200D-1F527	mecnico trabalhando pele escura
+1F9D1-1F3FF-200D-1F52C	cientista pele escura
+1F9D1-1F3FF-200D-1F680	astronauta pele escura
+1F9D1-1F3FF-200D-1F692	bombeiro pele escura
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	pessoas de mos dadas pele escura e pele clara
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	pessoas de mos dadas pele escura e pele morena clara
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	pessoas de mos dadas pele escura e pele morena
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	pessoas de mos dadas pele escura e pele morena escura
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	pessoas de mos dadas pele escura
+1F9D1-1F3FF-200D-1F9AF	pessoa com bengala para cego pele escura
+1F9D1-1F3FF-200D-1F9B0	pessoa pele escura e cabelo vermelho
+1F9D1-1F3FF-200D-1F9B1	pessoa pele escura e cabelo cacheado
+1F9D1-1F3FF-200D-1F9B2	pessoa pele escura e careca
+1F9D1-1F3FF-200D-1F9B3	pessoa pele escura e cabelo branco
+1F9D1-1F3FF-200D-1F9BC	pessoa em cadeira de rodas motorizada pele escura
+1F9D1-1F3FF-200D-1F9BD	pessoa em cadeira de rodas manual pele escura
+1F9D2	criana
+1F9D2-1F3FB	criana pele clara
+1F9D2-1F3FC	criana pele morena clara
+1F9D2-1F3FD	criana pele morena
+1F9D2-1F3FE	criana pele morena escura
+1F9D2-1F3FF	criana pele escura
+1F9D3	idoso
+1F9D3-1F3FB	idoso pele clara
+1F9D3-1F3FC	idoso pele morena clara
+1F9D3-1F3FD	idoso pele morena
+1F9D3-1F3FE	idoso pele morena escura
+1F9D3-1F3FF	idoso pele escura
+1F9D4	homem barba
+1F9D4-200D-2640	mulher barba
+1F9D4-200D-2642	homem barbudo
+1F9D4-1F3FB	homem pele clara e barba
+1F9D4-1F3FB-200D-2640	mulher pele clara e barba
+1F9D4-1F3FB-200D-2642	homem pele clara e barbudo
+1F9D4-1F3FC	homem pele morena clara e barba
+1F9D4-1F3FC-200D-2640	mulher pele morena clara e barba
+1F9D4-1F3FC-200D-2642	homem pele morena clara e barbudo
+1F9D4-1F3FD	homem pele morena e barba
+1F9D4-1F3FD-200D-2640	mulher pele morena e barba
+1F9D4-1F3FD-200D-2642	homem pele morena e barbudo
+1F9D4-1F3FE	homem pele morena escura e barba
+1F9D4-1F3FE-200D-2640	mulher pele morena escura e barba
+1F9D4-1F3FE-200D-2642	homem pele morena escura e barbudo
+1F9D4-1F3FF	homem pele escura e barba
+1F9D4-1F3FF-200D-2640	mulher pele escura e barba
+1F9D4-1F3FF-200D-2642	homem pele escura e barbudo
+1F9D5	mulher com vu
+1F9D5-1F3FB	mulher com vu pele clara
+1F9D5-1F3FC	mulher com vu pele morena clara
+1F9D5-1F3FD	mulher com vu pele morena
+1F9D5-1F3FE	mulher com vu pele morena escura
+1F9D5-1F3FF	mulher com vu pele escura
+1F9D6	pessoa na sauna
+1F9D6-200D-2640	mulher na sauna
+1F9D6-200D-2642	homem na sauna
+1F9D6-1F3FB	pessoa na sauna pele clara
+1F9D6-1F3FB-200D-2640	mulher na sauna pele clara
+1F9D6-1F3FB-200D-2642	homem na sauna pele clara
+1F9D6-1F3FC	pessoa na sauna pele morena clara
+1F9D6-1F3FC-200D-2640	mulher na sauna pele morena clara
+1F9D6-1F3FC-200D-2642	homem na sauna pele morena clara
+1F9D6-1F3FD	pessoa na sauna pele morena
+1F9D6-1F3FD-200D-2640	mulher na sauna pele morena
+1F9D6-1F3FD-200D-2642	homem na sauna pele morena
+1F9D6-1F3FE	pessoa na sauna pele morena escura
+1F9D6-1F3FE-200D-2640	mulher na sauna pele morena escura
+1F9D6-1F3FE-200D-2642	homem na sauna pele morena escura
+1F9D6-1F3FF	pessoa na sauna pele escura
+1F9D6-1F3FF-200D-2640	mulher na sauna pele escura
+1F9D6-1F3FF-200D-2642	homem na sauna pele escura
+1F9D7	pessoa escalando
+1F9D7-200D-2640	mulher escalando
+1F9D7-200D-2642	homem escalando
+1F9D7-1F3FB	pessoa escalando pele clara
+1F9D7-1F3FB-200D-2640	mulher escalando pele clara
+1F9D7-1F3FB-200D-2642	homem escalando pele clara
+1F9D7-1F3FC	pessoa escalando pele morena clara
+1F9D7-1F3FC-200D-2640	mulher escalando pele morena clara
+1F9D7-1F3FC-200D-2642	homem escalando pele morena clara
+1F9D7-1F3FD	pessoa escalando pele morena
+1F9D7-1F3FD-200D-2640	mulher escalando pele morena
+1F9D7-1F3FD-200D-2642	homem escalando pele morena
+1F9D7-1F3FE	pessoa escalando pele morena escura
+1F9D7-1F3FE-200D-2640	mulher escalando pele morena escura
+1F9D7-1F3FE-200D-2642	homem escalando pele morena escura
+1F9D7-1F3FF	pessoa escalando pele escura
+1F9D7-1F3FF-200D-2640	mulher escalando pele escura
+1F9D7-1F3FF-200D-2642	homem escalando pele escura
+1F9D8	pessoa na posio de ltus
+1F9D8-200D-2640	mulher na posio de ltus
+1F9D8-200D-2642	homem na posio de ltus
+1F9D8-1F3FB	pessoa na posio de ltus pele clara
+1F9D8-1F3FB-200D-2640	mulher na posio de ltus pele clara
+1F9D8-1F3FB-200D-2642	homem na posio de ltus pele clara
+1F9D8-1F3FC	pessoa na posio de ltus pele morena clara
+1F9D8-1F3FC-200D-2640	mulher na posio de ltus pele morena clara
+1F9D8-1F3FC-200D-2642	homem na posio de ltus pele morena clara
+1F9D8-1F3FD	pessoa na posio de ltus pele morena
+1F9D8-1F3FD-200D-2640	mulher na posio de ltus pele morena
+1F9D8-1F3FD-200D-2642	homem na posio de ltus pele morena
+1F9D8-1F3FE	pessoa na posio de ltus pele morena escura
+1F9D8-1F3FE-200D-2640	mulher na posio de ltus pele morena escura
+1F9D8-1F3FE-200D-2642	homem na posio de ltus pele morena escura
+1F9D8-1F3FF	pessoa na posio de ltus pele escura
+1F9D8-1F3FF-200D-2640	mulher na posio de ltus pele escura
+1F9D8-1F3FF-200D-2642	homem na posio de ltus pele escura
+1F9D9	mago
+1F9D9-200D-2640	maga
+1F9D9-200D-2642	homem mago
+1F9D9-1F3FB	mago pele clara
+1F9D9-1F3FB-200D-2640	maga pele clara
+1F9D9-1F3FB-200D-2642	homem mago pele clara
+1F9D9-1F3FC	mago pele morena clara
+1F9D9-1F3FC-200D-2640	maga pele morena clara
+1F9D9-1F3FC-200D-2642	homem mago pele morena clara
+1F9D9-1F3FD	mago pele morena
+1F9D9-1F3FD-200D-2640	maga pele morena
+1F9D9-1F3FD-200D-2642	homem mago pele morena
+1F9D9-1F3FE	mago pele morena escura
+1F9D9-1F3FE-200D-2640	maga pele morena escura
+1F9D9-1F3FE-200D-2642	homem mago pele morena escura
+1F9D9-1F3FF	mago pele escura
+1F9D9-1F3FF-200D-2640	maga pele escura
+1F9D9-1F3FF-200D-2642	homem mago pele escura
+1F9DA	fada
+1F9DA-200D-2640	mulher fada
+1F9DA-200D-2642	homem fada
+1F9DA-1F3FB	fada pele clara
+1F9DA-1F3FB-200D-2640	mulher fada pele clara
+1F9DA-1F3FB-200D-2642	homem fada pele clara
+1F9DA-1F3FC	fada pele morena clara
+1F9DA-1F3FC-200D-2640	mulher fada pele morena clara
+1F9DA-1F3FC-200D-2642	homem fada pele morena clara
+1F9DA-1F3FD	fada pele morena
+1F9DA-1F3FD-200D-2640	mulher fada pele morena
+1F9DA-1F3FD-200D-2642	homem fada pele morena
+1F9DA-1F3FE	fada pele morena escura
+1F9DA-1F3FE-200D-2640	mulher fada pele morena escura
+1F9DA-1F3FE-200D-2642	homem fada pele morena escura
+1F9DA-1F3FF	fada pele escura
+1F9DA-1F3FF-200D-2640	mulher fada pele escura
+1F9DA-1F3FF-200D-2642	homem fada pele escura
+1F9DB	vampiro
+1F9DB-200D-2640	mulher vampira
+1F9DB-200D-2642	homem vampiro
+1F9DB-1F3FB	vampiro pele clara
+1F9DB-1F3FB-200D-2640	mulher vampira pele clara
+1F9DB-1F3FB-200D-2642	homem vampiro pele clara
+1F9DB-1F3FC	vampiro pele morena clara
+1F9DB-1F3FC-200D-2640	mulher vampira pele morena clara
+1F9DB-1F3FC-200D-2642	homem vampiro pele morena clara
+1F9DB-1F3FD	vampiro pele morena
+1F9DB-1F3FD-200D-2640	mulher vampira pele morena
+1F9DB-1F3FD-200D-2642	homem vampiro pele morena
+1F9DB-1F3FE	vampiro pele morena escura
+1F9DB-1F3FE-200D-2640	mulher vampira pele morena escura
+1F9DB-1F3FE-200D-2642	homem vampiro pele morena escura
+1F9DB-1F3FF	vampiro pele escura
+1F9DB-1F3FF-200D-2640	mulher vampira pele escura
+1F9DB-1F3FF-200D-2642	homem vampiro pele escura
+1F9DC	pessoa sereia
+1F9DC-200D-2640	sereia
+1F9DC-200D-2642	sereio
+1F9DC-1F3FB	pessoa sereia pele clara
+1F9DC-1F3FB-200D-2640	sereia pele clara
+1F9DC-1F3FB-200D-2642	sereio pele clara
+1F9DC-1F3FC	pessoa sereia pele morena clara
+1F9DC-1F3FC-200D-2640	sereia pele morena clara
+1F9DC-1F3FC-200D-2642	sereio pele morena clara
+1F9DC-1F3FD	pessoa sereia pele morena
+1F9DC-1F3FD-200D-2640	sereia pele morena
+1F9DC-1F3FD-200D-2642	sereio pele morena
+1F9DC-1F3FE	pessoa sereia pele morena escura
+1F9DC-1F3FE-200D-2640	sereia pele morena escura
+1F9DC-1F3FE-200D-2642	sereio pele morena escura
+1F9DC-1F3FF	pessoa sereia pele escura
+1F9DC-1F3FF-200D-2640	sereia pele escura
+1F9DC-1F3FF-200D-2642	sereio pele escura
+1F9DD	elfo
+1F9DD-200D-2640	elfa
+1F9DD-200D-2642	elfo homem
+1F9DD-1F3FB	elfo pele clara
+1F9DD-1F3FB-200D-2640	elfa pele clara
+1F9DD-1F3FB-200D-2642	elfo homem pele clara
+1F9DD-1F3FC	elfo pele morena clara
+1F9DD-1F3FC-200D-2640	elfa pele morena clara
+1F9DD-1F3FC-200D-2642	elfo homem pele morena clara
+1F9DD-1F3FD	elfo pele morena
+1F9DD-1F3FD-200D-2640	elfa pele morena
+1F9DD-1F3FD-200D-2642	elfo homem pele morena
+1F9DD-1F3FE	elfo pele morena escura
+1F9DD-1F3FE-200D-2640	elfa pele morena escura
+1F9DD-1F3FE-200D-2642	elfo homem pele morena escura
+1F9DD-1F3FF	elfo pele escura
+1F9DD-1F3FF-200D-2640	elfa pele escura
+1F9DD-1F3FF-200D-2642	elfo homem pele escura
+1F9DE	gnio
+1F9DE-200D-2640	mulher gnio
+1F9DE-200D-2642	homem gnio
+1F9DF	zumbi
+1F9DF-200D-2640	mulher zumbi
+1F9DF-200D-2642	homem zumbi
+1F9E0	crebro
+1F9E1	corao laranja
+1F9E2	bon
+1F9E3	cachecol
+1F9E4	luvas
+1F9E5	casaco
+1F9E6	meias
+1F9E7	envelope vermelho
+1F9E8	bombinha
+1F9E9	quebra-cabea
+1F9EA	tubo de ensaio
+1F9EB	placa de Petri
+1F9EC	dna
+1F9ED	bssola
+1F9EE	baco
+1F9EF	extintor de incndio
+1F9F0	caixa de ferramentas
+1F9F1	tijolo
+1F9F2	m
+1F9F3	mala
+1F9F4	frasco de loo
+1F9F5	carretel
+1F9F6	novelo
+1F9F7	alfinete de segurana
+1F9F8	ursinho de pelcia
+1F9F9	vassoura
+1F9FA	cesta
+1F9FB	rolo de papel
+1F9FC	sabonete
+1F9FD	esponja
+1F9FE	recibo
+1F9FF	olho grego
+1FA70	sapatilha de bal
+1FA71	mai
+1FA72	cueca
+1FA73	shorts
+1FA74	chinelo
+1FA78	gota de sangue
+1FA79	atadura adesiva
+1FA7A	estetoscpio
+1FA80	ioi
+1FA81	pipa
+1FA82	paraquedas
+1FA83	bumerangue
+1FA84	varinha mgica
+1FA85	pinhata
+1FA86	boneca russa
+1FA90	planeta com anis
+1FA91	cadeira
+1FA92	lmina
+1FA93	machado
+1FA94	lmpada de leo
+1FA95	banjo
+1FA96	capacete militar
+1FA97	acordeo
+1FA98	tambor comprido
+1FA99	moeda
+1FA9A	serrote
+1FA9B	chave de fenda
+1FA9C	escada
+1FA9D	gancho
+1FA9E	espelho
+1FA9F	janela
+1FAA0	desentupidor
+1FAA1	agulha de costura
+1FAA2	n
+1FAA3	balde
+1FAA4	ratoeira
+1FAA5	escova de dentes
+1FAA6	lpide
+1FAA7	placa
+1FAA8	pedra
+1FAB0	mosca
+1FAB1	minhoca
+1FAB2	besouro
+1FAB3	barata
+1FAB4	vaso com planta
+1FAB5	madeira
+1FAB6	pena
+1FAC0	corao humano
+1FAC1	pulmes
+1FAC2	pessoas se abraando
+1FAD0	mirtilos
+1FAD1	pimento
+1FAD2	azeitona
+1FAD3	po srio
+1FAD4	tamale
+1FAD5	fondue
+1FAD6	bule

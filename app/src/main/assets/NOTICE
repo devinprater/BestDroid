@@ -1,0 +1,30 @@
+BestDroid — rights notice
+==========================
+
+BestDroid embeds the BeSTspeech / Keynote Gold speech tables (the per-build
+data compiled from C:/src/openbst-mirror `src/data/*.c`, i.e. the
+`BST_DATA_*` tables behind `bst_lifted_for`) directly inside
+`libbestdroid.so`, following the iOS port's *tables-in* configuration
+(see C:/src/ibestspeech `iOSProject/build_frameworks.py`: default build
+compiles every C source under `src/`, including `src/data`; only public
+shipping uses `--no-tables`).
+
+Those tables are third-party voice data: they belong to the original
+BeSTspeech / Keynote Gold rights holder, not to this project and not to
+the OpenBST engine authors. The engine C code that reads them is used
+under its own upstream terms; the tables themselves are reproduced here
+solely for PERSONAL use on the owner's own device.
+
+Do NOT redistribute this APK (or any build of this project made with the
+tables embedded) publicly — no Play Store listing, no public download,
+no shipping the binary to other people. A public build must either omit
+the tables (the `--no-tables` arrangement, where the user supplies their
+own copy of the engine data at run time) or ship only with an explicit
+licence from the rights holder.
+
+Text-processing sources ported from the private iBestSpeech project
+(Shared/SSMLText, CLDRText table content, Pronunciations, LanguageDetector,
+VoiceCatalog, EngineParameters, UnitPlurals) and the CLDR `tts` emoji
+annotations they embed remain under their original terms; the generated
+`app/src/main/assets/cldr/*.txt` files carry Unicode CLDR data
+(© Unicode, Inc., Unicode License).

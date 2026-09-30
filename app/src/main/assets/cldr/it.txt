@@ -1,0 +1,3674 @@
+23-20E3	tasto #
+2A-20E3	tasto *
+30-20E3	tasto 0
+31-20E3	tasto 1
+32-20E3	tasto 2
+33-20E3	tasto 3
+34-20E3	tasto 4
+35-20E3	tasto 5
+36-20E3	tasto 6
+37-20E3	tasto 7
+38-20E3	tasto 8
+39-20E3	tasto 9
+A1	punto esclamativo al contrario
+A2	centesimo
+A3	simbolo della sterlina
+A4	valuta sconosciuta
+A5	simbolo dello yen
+A7	simbolo di sezione
+A8	dieresi
+A9	copyright
+AB	virgolette basse doppie aperte
+AC	negazione
+AE	marchio registrato
+B0	simbolo di grado
+B1	pi o meno
+B2	numero due in apice
+B3	numero tre in apice
+B4	accento acuto
+B5	simbolo del micron
+B6	simbolo di paragrafo
+B7	punto mediano
+B9	numero uno in apice
+BB	virgolette basse doppie chiuse
+BF	punto interrogativo al contrario
+D7	segno di moltiplicazione
+F7	segno di divisione
+58F	dram armeno
+60B	afghani
+60C	virgola araba
+61B	punto e virgola arabo
+61F	punto interrogativo arabo
+9F3	taka bangladese
+E3F	baht thailandese
+17DB	riel cambogiano
+2010	trattino
+2013	trattino corto
+2014	trattino lungo
+2015	barra orizzontale
+2018	virgoletta a sinistra
+2019	virgoletta a destra
+201A	virgoletta bassa a destra
+201C	virgolette a sinistra
+201D	virgolette a destra
+201E	virgolette basse a destra
+2020	simbolo dellobelisco
+2021	simbolo del doppio obelisco
+2022	punto elenco
+2026	puntini di sospensione
+2027	punto di sillabazione
+2030	per mille
+2032	virgoletta singola
+2033	virgoletta doppia
+2034	virgoletta tripla
+2038	cursore
+203B	segno di riferimento
+203C	doppio punto esclamativo
+203D	punto esclarrogativo
+203E	linea in alto
+2042	asterismo
+2049	punto esclamativo e interrogativo
+207B	segno meno in apice
+20A1	coln costaricano
+20A5	mill
+20A6	naira nigeriana
+20A7	peseta spagnola
+20A9	won
+20AA	nuovo siclo israeliano
+20AB	dong vietnamita
+20AC	simbolo delleuro
+20AD	kip laotiano
+20AE	tugrik mongolo
+20B1	peso
+20B2	guaran paraguayano
+20B4	grivnia ucraina
+20B5	cedi ghanese
+20B8	tenge kazako
+20B9	simbolo della rupia indiana
+20BA	lira turca
+20BC	manat azero
+20BD	simbolo del rublo
+20BE	lari georgiano
+20BF	bitcoin
+2117	simbolo di copyright della registrazione sonora
+2122	marchio
+2139	punto informazioni
+2190	freccia verso sinistra
+2191	freccia verso lalto
+2192	freccia verso destra
+2193	freccia verso il basso
+2194	freccia sinistra-destra
+2195	freccia su-gi
+2196	freccia in alto a sinistra
+2197	freccia rivolta verso destra che punta in alto
+2198	freccia in basso a destra
+2199	freccia in basso a sinistra
+219A	freccia verso sinistra barrata
+219B	freccia verso destra barrata
+219C	freccia ondulata verso sinistra
+219D	freccia ondulata verso destra
+219E	freccia a due punte verso sinistra
+219F	freccia a due punte verso lalto
+21A0	freccia a due punte verso destra
+21A1	freccia a due punte verso il basso
+21A2	freccia verso sinistra con coda
+21A3	freccia verso destra con coda
+21A4	freccia verso sinistra dalla barra
+21A5	freccia verso lalto dalla barra
+21A6	freccia verso destra dalla barra
+21A7	freccia verso il basso dalla barra
+21A8	freccia bidirezionale con base
+21A9	freccia curva a sinistra
+21AA	freccia curva a destra
+21AB	freccia verso sinistra con anello
+21AC	freccia verso destra con anello
+21AD	freccia sinistra e destra ondulata
+21AE	freccia sinistra e destra barrata
+21AF	freccia a zigzag verso il basso
+21B0	freccia verso lalto con punta a sinistra
+21B1	freccia verso lalto con punta a destra
+21B2	freccia verso il basso con punta a sinistra
+21B3	freccia verso il basso con punta a destra
+21B4	freccia verso destra con angolo rivolto in basso
+21B5	freccia verso il basso con angolo rivolto a sinistra
+21B6	freccia semicircolare superiore in senso antiorario
+21B7	freccia semicircolare superiore in senso orario
+21B8	freccia nord-ovest verso barra lunga
+21B9	freccia a sinistra verso barra su freccia a destra verso barra
+21BA	freccia circolare aperta in senso antiorario
+21BB	freccia circolare aperta in senso orario
+21BC	arpione a sinistra con punta verso lalto
+21BD	arpione a sinistra con punta verso il basso
+21BE	arpione in alto con punta verso destra
+21BF	arpione in alto con punta verso sinistra
+21C0	arpione a destra con punta verso lalto
+21C1	arpione a destra con punta verso il basso
+21C2	arpione in basso con punta verso destra
+21C3	arpione in basso con punta verso sinistra
+21C5	freccia verso lalto e freccia verso il basso
+21C6	freccia verso sinistra su freccia verso destra
+2206	simbolo di incremento
+2207	nabla
+2208	simbolo di appartenenza
+2212	segno meno
+221A	radice quadrata
+221E	simbolo di infinito
+2229	simbolo di intersezione
+222A	simbolo di unione
+2248	quasi uguale
+2260	disuguale
+2261	simbolo di coincidenza
+2264	minore o uguale
+2265	maggiore o uguale
+2282	simbolo di sottoinsieme
+231A	orologio
+231B	clessidra
+2328	tastiera
+23CF	pulsante di espulsione
+23E9	pulsante di avanzamento rapido
+23EA	pulsante di riavvolgimento rapido
+23EB	pulsante doppia freccia in alto
+23EC	doppia freccia in basso
+23ED	traccia successiva
+23EE	pulsante traccia precedente
+23EF	pulsante riproduci/pausa
+23F0	sveglia
+23F1	cronometro
+23F2	timer
+23F3	clessidra che scorre
+23F8	pulsante pausa
+23F9	pulsante stop
+23FA	pulsante di registrazione
+24C2	pulsante M cerchiata
+25AA	quadrato nero piccolo
+25AB	quadrato bianco piccolo
+25B2	triangolo pieno rivolto verso lalto
+25B6	pulsante di riproduzione
+25BC	triangolo pieno capovolto
+25C0	pulsante di riavvolgimento
+25CA	losanga
+25CB	cerchio vuoto
+25CF	cerchio pieno
+25EF	cerchio vuoto grande
+25FB	quadrato bianco medio
+25FC	quadrato nero medio
+25FD	quadrato bianco medio-piccolo
+25FE	quadrato nero medio-piccolo
+2600	sole
+2601	nuvola
+2602	ombrello
+2603	pupazzo di neve
+2604	cometa
+260E	telefono fisso
+2611	riquadro con spunta
+2614	ombrello con gocce di pioggia
+2615	bevanda calda
+2618	trifoglio
+261D	indice verso lalto
+261D-1F3FB	indice verso lalto carnagione chiara
+261D-1F3FC	indice verso lalto carnagione abbastanza chiara
+261D-1F3FD	indice verso lalto carnagione olivastra
+261D-1F3FE	indice verso lalto carnagione abbastanza scura
+261D-1F3FF	indice verso lalto carnagione scura
+2620	teschio con ossa incrociate
+2622	simbolo della radioattivit
+2623	simbolo del rischio biologico
+2626	croce ortodossa
+262A	mezzaluna e stella
+262E	simbolo della pace
+262F	Yin e Yang
+2638	ruota del Dharma
+2639	faccina imbronciata
+263A	faccina sorridente
+2640	simbolo genere femminile
+2642	simbolo genere maschile
+2648	Segno zodiacale dellAriete
+2649	Segno zodiacale del Toro
+264A	Segno zodiacale dei Gemelli
+264B	Segno zodiacale del Cancro
+264C	Segno zodiacale del Leone
+264D	Segno zodiacale della Vergine
+264E	Segno zodiacale della Bilancia
+264F	Segno zodiacale dello Scorpione
+2650	Segno zodiacale del Saggitario
+2651	Segno zodiacale del Capricorno
+2652	Segno zodiacale dellAcquario
+2653	Segno zodiacale dei Pesci
+265F	pedina degli scacchi
+2660	picche
+2663	fiori
+2665	cuori
+2666	quadri
+2668	sorgenti termali
+266A	croma
+266D	bemolle
+266F	diesis
+267B	simbolo del riciclaggio
+267E	simbolo dellinfinito
+267F	simbolo della disabilit
+2692	piccone e martello
+2693	ancora
+2694	spade incrociate
+2695	simbolo della medicina
+2696	bilancia a doppio piatto
+2697	alambicco
+2699	ingranaggio
+269B	simbolo dellatomo
+269C	giglio araldico
+26A0	simbolo di avviso
+26A1	alta tensione
+26A7	simbolo transgender
+26AA	cerchio bianco
+26AB	cerchio nero
+26B0	bara
+26B1	urna funeraria
+26BD	pallone da calcio
+26BE	palla da baseball
+26C4	pupazzo di neve senza neve
+26C5	sole coperto
+26C8	temporale
+26CE	Segno zodiacale dellOfiuco
+26CF	piccone
+26D1	elmetto con croce bianca
+26D3	catene
+26D4	segnale di divieto di accesso
+26E9	santuario shintoista
+26EA	chiesa
+26F0	montagna
+26F1	ombrellone
+26F2	fontana
+26F3	bandiera in buca
+26F4	traghetto
+26F5	barca a vela
+26F7	sciatore
+26F8	pattinaggio su ghiaccio
+26F9	persona che fa rimbalzare una palla
+26F9-200D-2640	donna che fa rimbalzare una palla
+26F9-200D-2642	uomo che fa rimbalzare una palla
+26F9-1F3FB	persona che fa rimbalzare una palla carnagione chiara
+26F9-1F3FB-200D-2640	donna che fa rimbalzare una palla carnagione chiara
+26F9-1F3FB-200D-2642	uomo che fa rimbalzare una palla carnagione chiara
+26F9-1F3FC	persona che fa rimbalzare una palla carnagione abbastanza chiara
+26F9-1F3FC-200D-2640	donna che fa rimbalzare una palla carnagione abbastanza chiara
+26F9-1F3FC-200D-2642	uomo che fa rimbalzare una palla carnagione abbastanza chiara
+26F9-1F3FD	persona che fa rimbalzare una palla carnagione olivastra
+26F9-1F3FD-200D-2640	donna che fa rimbalzare una palla carnagione olivastra
+26F9-1F3FD-200D-2642	uomo che fa rimbalzare una palla carnagione olivastra
+26F9-1F3FE	persona che fa rimbalzare una palla carnagione abbastanza scura
+26F9-1F3FE-200D-2640	donna che fa rimbalzare una palla carnagione abbastanza scura
+26F9-1F3FE-200D-2642	uomo che fa rimbalzare una palla carnagione abbastanza scura
+26F9-1F3FF	persona che fa rimbalzare una palla carnagione scura
+26F9-1F3FF-200D-2640	donna che fa rimbalzare una palla carnagione scura
+26F9-1F3FF-200D-2642	uomo che fa rimbalzare una palla carnagione scura
+26FA	tenda
+26FD	stazione di servizio
+2702	forbici
+2705	pulsante segno di spunta
+2708	aeroplano
+2709	busta
+270A	pugno
+270A-1F3FB	pugno carnagione chiara
+270A-1F3FC	pugno carnagione abbastanza chiara
+270A-1F3FD	pugno carnagione olivastra
+270A-1F3FE	pugno carnagione abbastanza scura
+270A-1F3FF	pugno carnagione scura
+270B	mano alzata
+270B-1F3FB	mano alzata carnagione chiara
+270B-1F3FC	mano alzata carnagione abbastanza chiara
+270B-1F3FD	mano alzata carnagione olivastra
+270B-1F3FE	mano alzata carnagione abbastanza scura
+270B-1F3FF	mano alzata carnagione scura
+270C	vittoria
+270C-1F3FB	vittoria carnagione chiara
+270C-1F3FC	vittoria carnagione abbastanza chiara
+270C-1F3FD	vittoria carnagione olivastra
+270C-1F3FE	vittoria carnagione abbastanza scura
+270C-1F3FF	vittoria carnagione scura
+270D	mano che scrive
+270D-1F3FB	mano che scrive carnagione chiara
+270D-1F3FC	mano che scrive carnagione abbastanza chiara
+270D-1F3FD	mano che scrive carnagione olivastra
+270D-1F3FE	mano che scrive carnagione abbastanza scura
+270D-1F3FF	mano che scrive carnagione scura
+270F	matita
+2712	pennino
+2714	segno di spunta
+2716	segno moltiplicazione
+271D	croce latina
+2721	stella di David
+2728	stelline
+2733	asterisco
+2734	stella stilizzata
+2744	fiocco di neve
+2747	scintilla stilizzata
+274C	croce
+274E	croce con quadrato
+2753	punto interrogativo rosso
+2754	punto interrogativo bianco
+2755	punto esclamativo bianco
+2757	punto esclamativo rosso
+2763	punto esclamativo a cuore
+2764	cuore rosso
+2764-200D-1F525	cuore in fiamme
+2764-200D-1FA79	cuore guarito
+2795	simbolo delladdizione
+2796	simbolo della sottrazione
+2797	simbolo della divisione
+27A1	freccia rivolta verso destra
+27B0	occhiello
+27BF	doppio occhiello
+2934	freccia curva in alto
+2935	freccia curva in basso
+2B05	freccia rivolta a sinistra
+2B06	freccia rivolta verso lalto
+2B07	freccia rivolta verso il basso
+2B1B	quadrato nero grande
+2B1C	quadrato bianco grande
+2B50	stella
+2B55	cerchio
+3001	virgola ideografica
+3002	punto ideografico
+3008	parentesi angolare aperta
+3009	parentesi angolare chiusa
+300A	parentesi angolare doppia aperta
+300B	parentesi angolare doppia chiusa
+300C	mezza parentesi quadra aperta in alto
+300D	mezza parentesi quadra chiusa in basso
+300E	mezza parentesi quadra vuota aperta in alto
+300F	mezza parentesi quadra vuota chiusa in basso
+3010	parentesi lenticolare piena aperta
+3011	parentesi lenticolare piena chiusa
+3014	pParentesi quadra spezzata aperta
+3015	parentesi quadra spezzata chiusa
+3016	parentesi lenticolare vuota aperta
+3017	parentesi lenticolare vota chiusa
+3030	trattino ondulato
+303D	simbolo di alternanza delle parti
+30FB	punto mediano katakana
+3297	ideogramma giapponese di Congratulazioni
+3299	ideogramma giapponese di Segreto
+1F004	tessera Mahjong
+1F0CF	jolly
+1F170	gruppo sanguigno A
+1F171	gruppo sanguigno B
+1F17E	gruppo sanguigno 0
+1F17F	pulsante P
+1F18E	gruppo sanguigno AB
+1F191	pulsante CL
+1F192	pulsante COOL
+1F193	pulsante FREE
+1F194	pulsante ID
+1F195	pulsante NEW
+1F196	pulsante NG
+1F197	pulsante OK
+1F198	pulsante SOS
+1F199	pulsante UP
+1F19A	pulsante VS
+1F1E6-1F1E8	bandiera Isola Ascensione
+1F1E6-1F1E9	bandiera Andorra
+1F1E6-1F1EA	bandiera Emirati Arabi Uniti
+1F1E6-1F1EB	bandiera Afghanistan
+1F1E6-1F1EC	bandiera Antigua e Barbuda
+1F1E6-1F1EE	bandiera Anguilla
+1F1E6-1F1F1	bandiera Albania
+1F1E6-1F1F2	bandiera Armenia
+1F1E6-1F1F4	bandiera Angola
+1F1E6-1F1F6	bandiera Antartide
+1F1E6-1F1F7	bandiera Argentina
+1F1E6-1F1F8	bandiera Samoa americane
+1F1E6-1F1F9	bandiera Austria
+1F1E6-1F1FA	bandiera Australia
+1F1E6-1F1FC	bandiera Aruba
+1F1E6-1F1FD	bandiera Isole land
+1F1E6-1F1FF	bandiera Azerbaigian
+1F1E7-1F1E6	bandiera Bosnia ed Erzegovina
+1F1E7-1F1E7	bandiera Barbados
+1F1E7-1F1E9	bandiera Bangladesh
+1F1E7-1F1EA	bandiera Belgio
+1F1E7-1F1EB	bandiera Burkina Faso
+1F1E7-1F1EC	bandiera Bulgaria
+1F1E7-1F1ED	bandiera Bahrein
+1F1E7-1F1EE	bandiera Burundi
+1F1E7-1F1EF	bandiera Benin
+1F1E7-1F1F1	bandiera Saint-Barthlemy
+1F1E7-1F1F2	bandiera Bermuda
+1F1E7-1F1F3	bandiera Brunei
+1F1E7-1F1F4	bandiera Bolivia
+1F1E7-1F1F6	bandiera Caraibi olandesi
+1F1E7-1F1F7	bandiera Brasile
+1F1E7-1F1F8	bandiera Bahamas
+1F1E7-1F1F9	bandiera Bhutan
+1F1E7-1F1FB	bandiera Isola Bouvet
+1F1E7-1F1FC	bandiera Botswana
+1F1E7-1F1FE	bandiera Bielorussia
+1F1E7-1F1FF	bandiera Belize
+1F1E8-1F1E6	bandiera Canada
+1F1E8-1F1E8	bandiera Isole Cocos Keeling
+1F1E8-1F1E9	bandiera Congo - Kinshasa
+1F1E8-1F1EB	bandiera Repubblica Centrafricana
+1F1E8-1F1EC	bandiera Congo-Brazzaville
+1F1E8-1F1ED	bandiera Svizzera
+1F1E8-1F1EE	bandiera Costa dAvorio
+1F1E8-1F1F0	bandiera Isole Cook
+1F1E8-1F1F1	bandiera Cile
+1F1E8-1F1F2	bandiera Camerun
+1F1E8-1F1F3	bandiera Cina
+1F1E8-1F1F4	bandiera Colombia
+1F1E8-1F1F5	bandiera Isola di Clipperton
+1F1E8-1F1F7	bandiera Costa Rica
+1F1E8-1F1FA	bandiera Cuba
+1F1E8-1F1FB	bandiera Capo Verde
+1F1E8-1F1FC	bandiera Curaao
+1F1E8-1F1FD	bandiera Isola Christmas
+1F1E8-1F1FE	bandiera Cipro
+1F1E8-1F1FF	bandiera Cechia
+1F1E9-1F1EA	bandiera Germania
+1F1E9-1F1EC	bandiera Diego Garcia
+1F1E9-1F1EF	bandiera Gibuti
+1F1E9-1F1F0	bandiera Danimarca
+1F1E9-1F1F2	bandiera Dominica
+1F1E9-1F1F4	bandiera Repubblica Dominicana
+1F1E9-1F1FF	bandiera Algeria
+1F1EA-1F1E6	bandiera Ceuta e Melilla
+1F1EA-1F1E8	bandiera Ecuador
+1F1EA-1F1EA	bandiera Estonia
+1F1EA-1F1EC	bandiera Egitto
+1F1EA-1F1ED	bandiera Sahara occidentale
+1F1EA-1F1F7	bandiera Eritrea
+1F1EA-1F1F8	bandiera Spagna
+1F1EA-1F1F9	bandiera Etiopia
+1F1EA-1F1FA	bandiera Unione europea
+1F1EB-1F1EE	bandiera Finlandia
+1F1EB-1F1EF	bandiera Figi
+1F1EB-1F1F0	bandiera Isole Falkland
+1F1EB-1F1F2	bandiera Micronesia
+1F1EB-1F1F4	bandiera Isole Fr er
+1F1EB-1F1F7	bandiera Francia
+1F1EC-1F1E6	bandiera Gabon
+1F1EC-1F1E7	bandiera Regno Unito
+1F1EC-1F1E9	bandiera Grenada
+1F1EC-1F1EA	bandiera Georgia
+1F1EC-1F1EB	bandiera Guyana francese
+1F1EC-1F1EC	bandiera Guernsey
+1F1EC-1F1ED	bandiera Ghana
+1F1EC-1F1EE	bandiera Gibilterra
+1F1EC-1F1F1	bandiera Groenlandia
+1F1EC-1F1F2	bandiera Gambia
+1F1EC-1F1F3	bandiera Guinea
+1F1EC-1F1F5	bandiera Guadalupa
+1F1EC-1F1F6	bandiera Guinea Equatoriale
+1F1EC-1F1F7	bandiera Grecia
+1F1EC-1F1F8	bandiera Georgia del Sud e Sandwich australi
+1F1EC-1F1F9	bandiera Guatemala
+1F1EC-1F1FA	bandiera Guam
+1F1EC-1F1FC	bandiera Guinea-Bissau
+1F1EC-1F1FE	bandiera Guyana
+1F1ED-1F1F0	bandiera RAS di Hong Kong
+1F1ED-1F1F2	bandiera Isole Heard e McDonald
+1F1ED-1F1F3	bandiera Honduras
+1F1ED-1F1F7	bandiera Croazia
+1F1ED-1F1F9	bandiera Haiti
+1F1ED-1F1FA	bandiera Ungheria
+1F1EE-1F1E8	bandiera Isole Canarie
+1F1EE-1F1E9	bandiera Indonesia
+1F1EE-1F1EA	bandiera Irlanda
+1F1EE-1F1F1	bandiera Israele
+1F1EE-1F1F2	bandiera Isola di Man
+1F1EE-1F1F3	bandiera India
+1F1EE-1F1F4	bandiera Territorio britannico dellOceano Indiano
+1F1EE-1F1F6	bandiera Iraq
+1F1EE-1F1F7	bandiera Iran
+1F1EE-1F1F8	bandiera Islanda
+1F1EE-1F1F9	bandiera Italia
+1F1EF-1F1EA	bandiera Jersey
+1F1EF-1F1F2	bandiera Giamaica
+1F1EF-1F1F4	bandiera Giordania
+1F1EF-1F1F5	bandiera Giappone
+1F1F0-1F1EA	bandiera Kenya
+1F1F0-1F1EC	bandiera Kirghizistan
+1F1F0-1F1ED	bandiera Cambogia
+1F1F0-1F1EE	bandiera Kiribati
+1F1F0-1F1F2	bandiera Comore
+1F1F0-1F1F3	bandiera Saint Kitts e Nevis
+1F1F0-1F1F5	bandiera Corea del Nord
+1F1F0-1F1F7	bandiera Corea del Sud
+1F1F0-1F1FC	bandiera Kuwait
+1F1F0-1F1FE	bandiera Isole Cayman
+1F1F0-1F1FF	bandiera Kazakistan
+1F1F1-1F1E6	bandiera Laos
+1F1F1-1F1E7	bandiera Libano
+1F1F1-1F1E8	bandiera Saint Lucia
+1F1F1-1F1EE	bandiera Liechtenstein
+1F1F1-1F1F0	bandiera Sri Lanka
+1F1F1-1F1F7	bandiera Liberia
+1F1F1-1F1F8	bandiera Lesotho
+1F1F1-1F1F9	bandiera Lituania
+1F1F1-1F1FA	bandiera Lussemburgo
+1F1F1-1F1FB	bandiera Lettonia
+1F1F1-1F1FE	bandiera Libia
+1F1F2-1F1E6	bandiera Marocco
+1F1F2-1F1E8	bandiera Monaco
+1F1F2-1F1E9	bandiera Moldavia
+1F1F2-1F1EA	bandiera Montenegro
+1F1F2-1F1EB	bandiera Saint Martin
+1F1F2-1F1EC	bandiera Madagascar
+1F1F2-1F1ED	bandiera Isole Marshall
+1F1F2-1F1F0	bandiera Macedonia del Nord
+1F1F2-1F1F1	bandiera Mali
+1F1F2-1F1F2	bandiera Myanmar Birmania
+1F1F2-1F1F3	bandiera Mongolia
+1F1F2-1F1F4	bandiera RAS di Macao
+1F1F2-1F1F5	bandiera Isole Marianne settentrionali
+1F1F2-1F1F6	bandiera Martinica
+1F1F2-1F1F7	bandiera Mauritania
+1F1F2-1F1F8	bandiera Montserrat
+1F1F2-1F1F9	bandiera Malta
+1F1F2-1F1FA	bandiera Mauritius
+1F1F2-1F1FB	bandiera Maldive
+1F1F2-1F1FC	bandiera Malawi
+1F1F2-1F1FD	bandiera Messico
+1F1F2-1F1FE	bandiera Malaysia
+1F1F2-1F1FF	bandiera Mozambico
+1F1F3-1F1E6	bandiera Namibia
+1F1F3-1F1E8	bandiera Nuova Caledonia
+1F1F3-1F1EA	bandiera Niger
+1F1F3-1F1EB	bandiera Isola Norfolk
+1F1F3-1F1EC	bandiera Nigeria
+1F1F3-1F1EE	bandiera Nicaragua
+1F1F3-1F1F1	bandiera Paesi Bassi
+1F1F3-1F1F4	bandiera Norvegia
+1F1F3-1F1F5	bandiera Nepal
+1F1F3-1F1F7	bandiera Nauru
+1F1F3-1F1FA	bandiera Niue
+1F1F3-1F1FF	bandiera Nuova Zelanda
+1F1F4-1F1F2	bandiera Oman
+1F1F5-1F1E6	bandiera Panam
+1F1F5-1F1EA	bandiera Per
+1F1F5-1F1EB	bandiera Polinesia francese
+1F1F5-1F1EC	bandiera Papua Nuova Guinea
+1F1F5-1F1ED	bandiera Filippine
+1F1F5-1F1F0	bandiera Pakistan
+1F1F5-1F1F1	bandiera Polonia
+1F1F5-1F1F2	bandiera Saint-Pierre e Miquelon
+1F1F5-1F1F3	bandiera Isole Pitcairn
+1F1F5-1F1F7	bandiera Portorico
+1F1F5-1F1F8	bandiera Territori palestinesi
+1F1F5-1F1F9	bandiera Portogallo
+1F1F5-1F1FC	bandiera Palau
+1F1F5-1F1FE	bandiera Paraguay
+1F1F6-1F1E6	bandiera Qatar
+1F1F7-1F1EA	bandiera Riunione
+1F1F7-1F1F4	bandiera Romania
+1F1F7-1F1F8	bandiera Serbia
+1F1F7-1F1FA	bandiera Russia
+1F1F7-1F1FC	bandiera Ruanda
+1F1F8-1F1E6	bandiera Arabia Saudita
+1F1F8-1F1E7	bandiera Isole Salomone
+1F1F8-1F1E8	bandiera Seychelles
+1F1F8-1F1E9	bandiera Sudan
+1F1F8-1F1EA	bandiera Svezia
+1F1F8-1F1EC	bandiera Singapore
+1F1F8-1F1ED	bandiera SantElena
+1F1F8-1F1EE	bandiera Slovenia
+1F1F8-1F1EF	bandiera Svalbard e Jan Mayen
+1F1F8-1F1F0	bandiera Slovacchia
+1F1F8-1F1F1	bandiera Sierra Leone
+1F1F8-1F1F2	bandiera San Marino
+1F1F8-1F1F3	bandiera Senegal
+1F1F8-1F1F4	bandiera Somalia
+1F1F8-1F1F7	bandiera Suriname
+1F1F8-1F1F8	bandiera Sud Sudan
+1F1F8-1F1F9	bandiera So Tom e Prncipe
+1F1F8-1F1FB	bandiera El Salvador
+1F1F8-1F1FD	bandiera Sint Maarten
+1F1F8-1F1FE	bandiera Siria
+1F1F8-1F1FF	bandiera Swaziland
+1F1F9-1F1E6	bandiera Tristan da Cunha
+1F1F9-1F1E8	bandiera Isole Turks e Caicos
+1F1F9-1F1E9	bandiera Ciad
+1F1F9-1F1EB	bandiera Terre australi francesi
+1F1F9-1F1EC	bandiera Togo
+1F1F9-1F1ED	bandiera Thailandia
+1F1F9-1F1EF	bandiera Tagikistan
+1F1F9-1F1F0	bandiera Tokelau
+1F1F9-1F1F1	bandiera Timor Est
+1F1F9-1F1F2	bandiera Turkmenistan
+1F1F9-1F1F3	bandiera Tunisia
+1F1F9-1F1F4	bandiera Tonga
+1F1F9-1F1F7	bandiera Turchia
+1F1F9-1F1F9	bandiera Trinidad e Tobago
+1F1F9-1F1FB	bandiera Tuvalu
+1F1F9-1F1FC	bandiera Taiwan
+1F1F9-1F1FF	bandiera Tanzania
+1F1FA-1F1E6	bandiera Ucraina
+1F1FA-1F1EC	bandiera Uganda
+1F1FA-1F1F2	bandiera Altre isole americane del Pacifico
+1F1FA-1F1F3	bandiera Nazioni Unite
+1F1FA-1F1F8	bandiera Stati Uniti
+1F1FA-1F1FE	bandiera Uruguay
+1F1FA-1F1FF	bandiera Uzbekistan
+1F1FB-1F1E6	bandiera Citt del Vaticano
+1F1FB-1F1E8	bandiera Saint Vincent e Grenadine
+1F1FB-1F1EA	bandiera Venezuela
+1F1FB-1F1EC	bandiera Isole Vergini Britanniche
+1F1FB-1F1EE	bandiera Isole Vergini Americane
+1F1FB-1F1F3	bandiera Vietnam
+1F1FB-1F1FA	bandiera Vanuatu
+1F1FC-1F1EB	bandiera Wallis e Futuna
+1F1FC-1F1F8	bandiera Samoa
+1F1FD-1F1F0	bandiera Kosovo
+1F1FE-1F1EA	bandiera Yemen
+1F1FE-1F1F9	bandiera Mayotte
+1F1FF-1F1E6	bandiera Sudafrica
+1F1FF-1F1F2	bandiera Zambia
+1F1FF-1F1FC	bandiera Zimbabwe
+1F201	ideogramma giapponese per Qui
+1F202	ideogramma giapponese di Costo del servizio
+1F21A	ideogramma giapponese di Gratis
+1F22F	ideogramma giapponese di Riservato
+1F232	ideogramma giapponese di Proibito
+1F233	ideogramma giapponese di Posto libero
+1F234	ideogramma giapponese di Voto di sufficienza
+1F235	ideogramma giapponese di Nessun posto libero
+1F236	ideogramma giapponese di A pagamento
+1F237	ideogramma giapponese di Importo mensile
+1F238	ideogramma giapponese di Candidatura
+1F239	ideogramma giapponese di Sconto
+1F23A	ideogramma giapponese di Aperto al pubblico
+1F250	ideogramma giapponese di Occasione
+1F251	ideogramma giapponese di Accettabile
+1F300	ciclone
+1F301	nebbioso
+1F302	ombrello chiuso
+1F303	notte stellata
+1F304	alba sulle montagne
+1F305	alba
+1F306	citt al tramonto
+1F307	tramonto
+1F308	arcobaleno
+1F309	ponte di notte
+1F30A	onda
+1F30B	vulcano
+1F30C	Via Lattea
+1F30D	Europa e Africa
+1F30E	America
+1F30F	Asia e Australia
+1F310	globo con meridiani
+1F311	luna nuova
+1F312	luna crescente
+1F313	primo quarto di luna
+1F314	luna gibbosa crescente
+1F315	luna piena
+1F316	luna gibbosa calante
+1F317	ultimo quarto di luna
+1F318	luna calante
+1F319	spicchio di luna
+1F31A	faccina luna nuova
+1F31B	faccina primo quarto di luna
+1F31C	faccina ultimo quarto di luna
+1F31D	faccina luna piena
+1F31E	faccina sole
+1F31F	stella che brilla
+1F320	stella cadente
+1F321	termometro
+1F324	parzialmente nuvoloso
+1F325	molto nuvoloso
+1F326	sole coperto e pioggia
+1F327	pioggia
+1F328	neve
+1F329	fulmini
+1F32A	tornado
+1F32B	nebbia
+1F32C	vento
+1F32D	hot dog
+1F32E	taco
+1F32F	burrito
+1F330	castagna
+1F331	germoglio
+1F332	albero sempreverde
+1F333	albero deciduo
+1F334	palma
+1F335	cactus
+1F336	peperoncino
+1F337	tulipano
+1F338	fiore di ciliegio
+1F339	rosa
+1F33A	ibisco
+1F33B	girasole
+1F33C	fiore
+1F33D	pannocchia
+1F33E	pianta di riso
+1F33F	pianta
+1F340	quadrifoglio
+1F341	foglia dacero
+1F342	foglia caduta
+1F343	foglia al vento
+1F344	fungo
+1F345	pomodoro
+1F346	melanzana
+1F347	uva
+1F348	melone
+1F349	anguria
+1F34A	mandarino
+1F34B	limone
+1F34C	banana
+1F34D	ananas
+1F34E	mela rossa
+1F34F	mela verde
+1F350	pera
+1F351	pesca
+1F352	ciliegie
+1F353	fragola
+1F354	hamburger
+1F355	pizza
+1F356	carne
+1F357	coscia di pollo
+1F358	galletta di riso
+1F359	onigiri
+1F35A	riso bollito
+1F35B	riso al curry
+1F35C	ciotola fumante
+1F35D	spaghetti
+1F35E	pane in cassetta
+1F35F	patatine
+1F360	patata dolce arrosto
+1F361	dango
+1F362	oden giapponese
+1F363	sushi
+1F364	gambero fritto
+1F365	tortino di pesce a spirale
+1F366	cono gelato
+1F367	granita
+1F368	coppa di gelato
+1F369	ciambella
+1F36A	biscotto
+1F36B	cioccolato
+1F36C	caramella
+1F36D	lecca lecca
+1F36E	budino
+1F36F	barattolo di miele
+1F370	fetta di torta
+1F371	bento box
+1F372	pentola di cibo
+1F373	cucinare
+1F374	forchetta e coltello
+1F375	tazza da t senza manico
+1F376	sak
+1F377	bicchiere di vino
+1F378	cocktail
+1F379	cocktail tropicale
+1F37A	boccale di birra
+1F37B	boccali di birra
+1F37C	biberon
+1F37D	piatto e posate
+1F37E	bottiglia stappata
+1F37F	popcorn
+1F380	fiocco
+1F381	regalo
+1F382	torta di compleanno
+1F383	zucca di Halloween
+1F384	albero di Natale
+1F385	Babbo Natale
+1F385-1F3FB	Babbo Natale carnagione chiara
+1F385-1F3FC	Babbo Natale carnagione abbastanza chiara
+1F385-1F3FD	Babbo Natale carnagione olivastra
+1F385-1F3FE	Babbo Natale carnagione abbastanza scura
+1F385-1F3FF	Babbo Natale carnagione scura
+1F386	fuochi dartificio
+1F387	stellina scintillante
+1F388	palloncino
+1F389	spara coriandoli
+1F38A	coriandoli
+1F38B	albero di Tanabata
+1F38C	bandiere del Giappone incrociate
+1F38D	bamb decorato
+1F38E	bambole giapponesi
+1F38F	aquilone a forma di carpa
+1F390	campana al vento
+1F391	contemplazione della luna
+1F392	zaino
+1F393	cappello da laureato
+1F396	medaglia militare
+1F397	nastro
+1F399	microfono radiofonico
+1F39A	cursore del volume
+1F39B	manopole di controllo
+1F39E	pellicola cinematografica
+1F39F	biglietto dingresso
+1F3A0	cavallo da giostra
+1F3A1	ruota panoramica
+1F3A2	montagne russe
+1F3A3	canna da pesca
+1F3A4	microfono
+1F3A5	cinepresa
+1F3A6	simbolo del cinema
+1F3A7	cuffie
+1F3A8	tavolozza
+1F3A9	cilindro
+1F3AA	circo
+1F3AB	biglietto
+1F3AC	ciak
+1F3AD	maschere
+1F3AE	gamepad
+1F3AF	bersaglio
+1F3B0	slot machine
+1F3B1	palla da biliardo
+1F3B2	dado
+1F3B3	bowling
+1F3B4	carta da gioco Hanafuda
+1F3B5	nota musicale
+1F3B6	note musicali
+1F3B7	sassofono
+1F3B8	chitarra
+1F3B9	piano
+1F3BA	tromba
+1F3BB	violino
+1F3BC	pentagramma
+1F3BD	maglia da corsa
+1F3BE	tennis
+1F3BF	sci
+1F3C0	palla da pallacanestro
+1F3C1	bandiera a scacchi
+1F3C2	persona sullo snowboard
+1F3C2-1F3FB	persona sullo snowboard carnagione chiara
+1F3C2-1F3FC	persona sullo snowboard carnagione abbastanza chiara
+1F3C2-1F3FD	persona sullo snowboard carnagione olivastra
+1F3C2-1F3FE	persona sullo snowboard carnagione abbastanza scura
+1F3C2-1F3FF	persona sullo snowboard carnagione scura
+1F3C3	persona che corre
+1F3C3-200D-2640	donna che corre
+1F3C3-200D-2642	uomo che corre
+1F3C3-1F3FB	persona che corre carnagione chiara
+1F3C3-1F3FB-200D-2640	donna che corre carnagione chiara
+1F3C3-1F3FB-200D-2642	uomo che corre carnagione chiara
+1F3C3-1F3FC	persona che corre carnagione abbastanza chiara
+1F3C3-1F3FC-200D-2640	donna che corre carnagione abbastanza chiara
+1F3C3-1F3FC-200D-2642	uomo che corre carnagione abbastanza chiara
+1F3C3-1F3FD	persona che corre carnagione olivastra
+1F3C3-1F3FD-200D-2640	donna che corre carnagione olivastra
+1F3C3-1F3FD-200D-2642	uomo che corre carnagione olivastra
+1F3C3-1F3FE	persona che corre carnagione abbastanza scura
+1F3C3-1F3FE-200D-2640	donna che corre carnagione abbastanza scura
+1F3C3-1F3FE-200D-2642	uomo che corre carnagione abbastanza scura
+1F3C3-1F3FF	persona che corre carnagione scura
+1F3C3-1F3FF-200D-2640	donna che corre carnagione scura
+1F3C3-1F3FF-200D-2642	uomo che corre carnagione scura
+1F3C4	persona che fa surf
+1F3C4-200D-2640	surfista donna
+1F3C4-200D-2642	surfista uomo
+1F3C4-1F3FB	persona che fa surf carnagione chiara
+1F3C4-1F3FB-200D-2640	surfista donna carnagione chiara
+1F3C4-1F3FB-200D-2642	surfista uomo carnagione chiara
+1F3C4-1F3FC	persona che fa surf carnagione abbastanza chiara
+1F3C4-1F3FC-200D-2640	surfista donna carnagione abbastanza chiara
+1F3C4-1F3FC-200D-2642	surfista uomo carnagione abbastanza chiara
+1F3C4-1F3FD	persona che fa surf carnagione olivastra
+1F3C4-1F3FD-200D-2640	surfista donna carnagione olivastra
+1F3C4-1F3FD-200D-2642	surfista uomo carnagione olivastra
+1F3C4-1F3FE	persona che fa surf carnagione abbastanza scura
+1F3C4-1F3FE-200D-2640	surfista donna carnagione abbastanza scura
+1F3C4-1F3FE-200D-2642	surfista uomo carnagione abbastanza scura
+1F3C4-1F3FF	persona che fa surf carnagione scura
+1F3C4-1F3FF-200D-2640	surfista donna carnagione scura
+1F3C4-1F3FF-200D-2642	surfista uomo carnagione scura
+1F3C5	medaglia sportiva
+1F3C6	coppa
+1F3C7	ippica
+1F3C7-1F3FB	ippica carnagione chiara
+1F3C7-1F3FC	ippica carnagione abbastanza chiara
+1F3C7-1F3FD	ippica carnagione olivastra
+1F3C7-1F3FE	ippica carnagione abbastanza scura
+1F3C7-1F3FF	ippica carnagione scura
+1F3C8	football americano
+1F3C9	pallone da rugby
+1F3CA	persona che nuota
+1F3CA-200D-2640	nuotatrice
+1F3CA-200D-2642	nuotatore
+1F3CA-1F3FB	persona che nuota carnagione chiara
+1F3CA-1F3FB-200D-2640	nuotatrice carnagione chiara
+1F3CA-1F3FB-200D-2642	nuotatore carnagione chiara
+1F3CA-1F3FC	persona che nuota carnagione abbastanza chiara
+1F3CA-1F3FC-200D-2640	nuotatrice carnagione abbastanza chiara
+1F3CA-1F3FC-200D-2642	nuotatore carnagione abbastanza chiara
+1F3CA-1F3FD	persona che nuota carnagione olivastra
+1F3CA-1F3FD-200D-2640	nuotatrice carnagione olivastra
+1F3CA-1F3FD-200D-2642	nuotatore carnagione olivastra
+1F3CA-1F3FE	persona che nuota carnagione abbastanza scura
+1F3CA-1F3FE-200D-2640	nuotatrice carnagione abbastanza scura
+1F3CA-1F3FE-200D-2642	nuotatore carnagione abbastanza scura
+1F3CA-1F3FF	persona che nuota carnagione scura
+1F3CA-1F3FF-200D-2640	nuotatrice carnagione scura
+1F3CA-1F3FF-200D-2642	nuotatore carnagione scura
+1F3CB	persona che solleva pesi
+1F3CB-200D-2640	donna che solleva pesi
+1F3CB-200D-2642	uomo che solleva pesi
+1F3CB-1F3FB	persona che solleva pesi carnagione chiara
+1F3CB-1F3FB-200D-2640	donna che solleva pesi carnagione chiara
+1F3CB-1F3FB-200D-2642	uomo che solleva pesi carnagione chiara
+1F3CB-1F3FC	persona che solleva pesi carnagione abbastanza chiara
+1F3CB-1F3FC-200D-2640	donna che solleva pesi carnagione abbastanza chiara
+1F3CB-1F3FC-200D-2642	uomo che solleva pesi carnagione abbastanza chiara
+1F3CB-1F3FD	persona che solleva pesi carnagione olivastra
+1F3CB-1F3FD-200D-2640	donna che solleva pesi carnagione olivastra
+1F3CB-1F3FD-200D-2642	uomo che solleva pesi carnagione olivastra
+1F3CB-1F3FE	persona che solleva pesi carnagione abbastanza scura
+1F3CB-1F3FE-200D-2640	donna che solleva pesi carnagione abbastanza scura
+1F3CB-1F3FE-200D-2642	uomo che solleva pesi carnagione abbastanza scura
+1F3CB-1F3FF	persona che solleva pesi carnagione scura
+1F3CB-1F3FF-200D-2640	donna che solleva pesi carnagione scura
+1F3CB-1F3FF-200D-2642	uomo che solleva pesi carnagione scura
+1F3CC	persona che gioca a golf
+1F3CC-200D-2640	golfista donna
+1F3CC-200D-2642	golfista uomo
+1F3CC-1F3FB	persona che gioca a golf carnagione chiara
+1F3CC-1F3FB-200D-2640	golfista donna carnagione chiara
+1F3CC-1F3FB-200D-2642	golfista uomo carnagione chiara
+1F3CC-1F3FC	persona che gioca a golf carnagione abbastanza chiara
+1F3CC-1F3FC-200D-2640	golfista donna carnagione abbastanza chiara
+1F3CC-1F3FC-200D-2642	golfista uomo carnagione abbastanza chiara
+1F3CC-1F3FD	persona che gioca a golf carnagione olivastra
+1F3CC-1F3FD-200D-2640	golfista donna carnagione olivastra
+1F3CC-1F3FD-200D-2642	golfista uomo carnagione olivastra
+1F3CC-1F3FE	persona che gioca a golf carnagione abbastanza scura
+1F3CC-1F3FE-200D-2640	golfista donna carnagione abbastanza scura
+1F3CC-1F3FE-200D-2642	golfista uomo carnagione abbastanza scura
+1F3CC-1F3FF	persona che gioca a golf carnagione scura
+1F3CC-1F3FF-200D-2640	golfista donna carnagione scura
+1F3CC-1F3FF-200D-2642	golfista uomo carnagione scura
+1F3CD	motocicletta
+1F3CE	auto da corsa
+1F3CF	cricket
+1F3D0	palla da pallavolo
+1F3D1	hockey su prato
+1F3D2	hockey su ghiaccio
+1F3D3	ping pong
+1F3D4	montagna innevata
+1F3D5	campeggio
+1F3D6	spiaggia con ombrellone
+1F3D7	edificio in costruzione
+1F3D8	case
+1F3D9	paesaggio urbano
+1F3DA	casa in rovina
+1F3DB	edificio classico
+1F3DC	deserto
+1F3DD	isola deserta
+1F3DE	parco nazionale
+1F3DF	stadio
+1F3E0	casa
+1F3E1	casa con giardino
+1F3E2	edificio
+1F3E3	ufficio postale giapponese
+1F3E4	ufficio postale
+1F3E5	ospedale
+1F3E6	banca
+1F3E7	simbolo dello sportello bancomat
+1F3E8	hotel
+1F3E9	love hotel
+1F3EA	minimarket
+1F3EB	scuola
+1F3EC	grande magazzino
+1F3ED	fabbrica
+1F3EE	lanterna rossa
+1F3EF	castello giapponese
+1F3F0	castello
+1F3F3	bandiera bianca
+1F3F3-200D-26A7	bandiera transgender
+1F3F3-200D-1F308	bandiera arcobaleno
+1F3F4	bandiera nera
+1F3F4-200D-2620	bandiera dei pirati
+1F3F4-E0067-E0062-E0065-E006E-E0067-E007F	bandiera Inghilterra
+1F3F4-E0067-E0062-E0073-E0063-E0074-E007F	bandiera Scozia
+1F3F4-E0067-E0062-E0077-E006C-E0073-E007F	bandiera Galles
+1F3F5	rosetta
+1F3F7	etichetta
+1F3F8	badminton
+1F3F9	arco e freccia
+1F3FA	anfora
+1F3FB	carnagione chiara
+1F3FC	carnagione abbastanza chiara
+1F3FD	carnagione olivastra
+1F3FE	carnagione abbastanza scura
+1F3FF	carnagione scura
+1F400	ratto
+1F401	topo
+1F402	bue
+1F403	bufalo dacqua
+1F404	mucca
+1F405	tigre
+1F406	leopardo
+1F407	coniglio
+1F408	gatto
+1F408-200D-2B1B	gatto nero
+1F409	drago
+1F40A	coccodrillo
+1F40B	balena
+1F40C	lumaca
+1F40D	serpente
+1F40E	cavallo
+1F40F	montone
+1F410	capra
+1F411	pecora
+1F412	scimmia
+1F413	gallo
+1F414	gallina
+1F415	cane
+1F415-200D-1F9BA	cane da assistenza
+1F416	maiale
+1F417	cinghiale
+1F418	elefante
+1F419	polpo
+1F41A	conchiglia
+1F41B	insetto
+1F41C	formica
+1F41D	ape
+1F41E	coccinella
+1F41F	pesce
+1F420	pesce tropicale
+1F421	pesce palla
+1F422	tartaruga
+1F423	pulcino che nasce
+1F424	pulcino
+1F425	pulcino visto di fronte
+1F426	uccello
+1F427	pinguino
+1F428	koala
+1F429	barboncino
+1F42A	dromedario
+1F42B	cammello
+1F42C	delfino
+1F42D	muso di topo
+1F42E	muso di mucca
+1F42F	muso di tigre
+1F430	muso di coniglio
+1F431	muso di gatto
+1F432	testa di drago
+1F433	balena che spruzza acqua
+1F434	muso di cavallo
+1F435	muso di scimmia
+1F436	muso di cane
+1F437	muso di maiale
+1F438	rana
+1F439	criceto
+1F43A	lupo
+1F43B	orso
+1F43B-200D-2744	orso polare
+1F43C	panda
+1F43D	naso da maiale
+1F43E	impronte di zampe
+1F43F	scoiattolo
+1F440	occhi
+1F441	occhio
+1F441-200D-1F5E8	occhio nel fumetto
+1F442	orecchio
+1F442-1F3FB	orecchio carnagione chiara
+1F442-1F3FC	orecchio carnagione abbastanza chiara
+1F442-1F3FD	orecchio carnagione olivastra
+1F442-1F3FE	orecchio carnagione abbastanza scura
+1F442-1F3FF	orecchio carnagione scura
+1F443	naso
+1F443-1F3FB	naso carnagione chiara
+1F443-1F3FC	naso carnagione abbastanza chiara
+1F443-1F3FD	naso carnagione olivastra
+1F443-1F3FE	naso carnagione abbastanza scura
+1F443-1F3FF	naso carnagione scura
+1F444	bocca
+1F445	lingua
+1F446	indice alzato
+1F446-1F3FB	indice alzato carnagione chiara
+1F446-1F3FC	indice alzato carnagione abbastanza chiara
+1F446-1F3FD	indice alzato carnagione olivastra
+1F446-1F3FE	indice alzato carnagione abbastanza scura
+1F446-1F3FF	indice alzato carnagione scura
+1F447	indice abbassato
+1F447-1F3FB	indice abbassato carnagione chiara
+1F447-1F3FC	indice abbassato carnagione abbastanza chiara
+1F447-1F3FD	indice abbassato carnagione olivastra
+1F447-1F3FE	indice abbassato carnagione abbastanza scura
+1F447-1F3FF	indice abbassato carnagione scura
+1F448	indice verso sinistra
+1F448-1F3FB	indice verso sinistra carnagione chiara
+1F448-1F3FC	indice verso sinistra carnagione abbastanza chiara
+1F448-1F3FD	indice verso sinistra carnagione olivastra
+1F448-1F3FE	indice verso sinistra carnagione abbastanza scura
+1F448-1F3FF	indice verso sinistra carnagione scura
+1F449	indice verso destra
+1F449-1F3FB	indice verso destra carnagione chiara
+1F449-1F3FC	indice verso destra carnagione abbastanza chiara
+1F449-1F3FD	indice verso destra carnagione olivastra
+1F449-1F3FE	indice verso destra carnagione abbastanza scura
+1F449-1F3FF	indice verso destra carnagione scura
+1F44A	pugno chiuso
+1F44A-1F3FB	pugno chiuso carnagione chiara
+1F44A-1F3FC	pugno chiuso carnagione abbastanza chiara
+1F44A-1F3FD	pugno chiuso carnagione olivastra
+1F44A-1F3FE	pugno chiuso carnagione abbastanza scura
+1F44A-1F3FF	pugno chiuso carnagione scura
+1F44B	mano che saluta
+1F44B-1F3FB	mano che saluta carnagione chiara
+1F44B-1F3FC	mano che saluta carnagione abbastanza chiara
+1F44B-1F3FD	mano che saluta carnagione olivastra
+1F44B-1F3FE	mano che saluta carnagione abbastanza scura
+1F44B-1F3FF	mano che saluta carnagione scura
+1F44C	mano che fa OK
+1F44C-1F3FB	mano che fa OK carnagione chiara
+1F44C-1F3FC	mano che fa OK carnagione abbastanza chiara
+1F44C-1F3FD	mano che fa OK carnagione olivastra
+1F44C-1F3FE	mano che fa OK carnagione abbastanza scura
+1F44C-1F3FF	mano che fa OK carnagione scura
+1F44D	pollice in su
+1F44D-1F3FB	pollice in su carnagione chiara
+1F44D-1F3FC	pollice in su carnagione abbastanza chiara
+1F44D-1F3FD	pollice in su carnagione olivastra
+1F44D-1F3FE	pollice in su carnagione abbastanza scura
+1F44D-1F3FF	pollice in su carnagione scura
+1F44E	pollice verso
+1F44E-1F3FB	pollice verso carnagione chiara
+1F44E-1F3FC	pollice verso carnagione abbastanza chiara
+1F44E-1F3FD	pollice verso carnagione olivastra
+1F44E-1F3FE	pollice verso carnagione abbastanza scura
+1F44E-1F3FF	pollice verso carnagione scura
+1F44F	mani che applaudono
+1F44F-1F3FB	mani che applaudono carnagione chiara
+1F44F-1F3FC	mani che applaudono carnagione abbastanza chiara
+1F44F-1F3FD	mani che applaudono carnagione olivastra
+1F44F-1F3FE	mani che applaudono carnagione abbastanza scura
+1F44F-1F3FF	mani che applaudono carnagione scura
+1F450	mani aperte
+1F450-1F3FB	mani aperte carnagione chiara
+1F450-1F3FC	mani aperte carnagione abbastanza chiara
+1F450-1F3FD	mani aperte carnagione olivastra
+1F450-1F3FE	mani aperte carnagione abbastanza scura
+1F450-1F3FF	mani aperte carnagione scura
+1F451	corona
+1F452	cappello da donna
+1F453	occhiali da vista
+1F454	cravatta
+1F455	t-shirt
+1F456	jeans
+1F457	vestito
+1F458	kimono
+1F459	bikini
+1F45A	maglietta da donna
+1F45B	borsellino
+1F45C	borsa
+1F45D	pochette
+1F45E	scarpa da uomo
+1F45F	scarpa sportiva
+1F460	scarpa con il tacco
+1F461	sandalo da donna
+1F462	stivale da donna
+1F463	impronta di piedi
+1F464	profilo di persona
+1F465	profilo di due persone
+1F466	bambino
+1F466-1F3FB	bambino carnagione chiara
+1F466-1F3FC	bambino carnagione abbastanza chiara
+1F466-1F3FD	bambino carnagione olivastra
+1F466-1F3FE	bambino carnagione abbastanza scura
+1F466-1F3FF	bambino carnagione scura
+1F467	bambina
+1F467-1F3FB	bambina carnagione chiara
+1F467-1F3FC	bambina carnagione abbastanza chiara
+1F467-1F3FD	bambina carnagione olivastra
+1F467-1F3FE	bambina carnagione abbastanza scura
+1F467-1F3FF	bambina carnagione scura
+1F468	uomo
+1F468-200D-2695	operatore sanitario
+1F468-200D-2696	giudice uomo
+1F468-200D-2708	pilota uomo
+1F468-200D-2764-200D-1F468	coppia con cuore uomo e uomo
+1F468-200D-2764-200D-1F48B-200D-1F468	bacio tra coppia uomo e uomo
+1F468-200D-1F33E	contadino
+1F468-200D-1F373	cuoco
+1F468-200D-1F37C	uomo che allatta
+1F468-200D-1F393	studente maschio
+1F468-200D-1F3A4	cantante uomo
+1F468-200D-1F3A8	artista uomo
+1F468-200D-1F3EB	professore
+1F468-200D-1F3ED	operaio
+1F468-200D-1F466	famiglia uomo e bambino
+1F468-200D-1F466-200D-1F466	famiglia uomo bambino e bambino
+1F468-200D-1F467	famiglia uomo e bambina
+1F468-200D-1F467-200D-1F466	famiglia uomo bambina e bambino
+1F468-200D-1F467-200D-1F467	famiglia uomo bambina e bambina
+1F468-200D-1F468-200D-1F466	famiglia uomo uomo e bambino
+1F468-200D-1F468-200D-1F466-200D-1F466	famiglia uomo uomo bambino e bambino
+1F468-200D-1F468-200D-1F467	famiglia uomo uomo e bambina
+1F468-200D-1F468-200D-1F467-200D-1F466	famiglia uomo uomo bambina e bambino
+1F468-200D-1F468-200D-1F467-200D-1F467	famiglia uomo uomo bambina e bambina
+1F468-200D-1F469-200D-1F466	famiglia uomo donna e bambino
+1F468-200D-1F469-200D-1F466-200D-1F466	famiglia uomo donna bambino e bambino
+1F468-200D-1F469-200D-1F467	famiglia uomo donna e bambina
+1F468-200D-1F469-200D-1F467-200D-1F466	famiglia uomo donna bambina e bambino
+1F468-200D-1F469-200D-1F467-200D-1F467	famiglia uomo donna bambina e bambina
+1F468-200D-1F4BB	tecnologo
+1F468-200D-1F4BC	impiegato
+1F468-200D-1F527	meccanico uomo
+1F468-200D-1F52C	scienziato
+1F468-200D-1F680	astronauta uomo
+1F468-200D-1F692	pompiere uomo
+1F468-200D-1F9AF	uomo con bastone bianco di orientamento
+1F468-200D-1F9B0	uomo capelli rossi
+1F468-200D-1F9B1	uomo capelli ricci
+1F468-200D-1F9B2	uomo calvo
+1F468-200D-1F9B3	uomo capelli bianchi
+1F468-200D-1F9BC	uomo su sedia a rotelle motorizzata
+1F468-200D-1F9BD	uomo su sedia a rotelle manuale
+1F468-1F3FB	uomo carnagione chiara
+1F468-1F3FB-200D-2695	operatore sanitario carnagione chiara
+1F468-1F3FB-200D-2696	giudice uomo carnagione chiara
+1F468-1F3FB-200D-2708	pilota uomo carnagione chiara
+1F468-1F3FB-200D-2764-200D-1F468-1F3FB	coppia con cuore uomo uomo e carnagione chiara
+1F468-1F3FB-200D-2764-200D-1F468-1F3FC	coppia con cuore uomo uomo carnagione chiara e carnagione abbastanza chiara
+1F468-1F3FB-200D-2764-200D-1F468-1F3FD	coppia con cuore uomo uomo carnagione chiara e carnagione olivastra
+1F468-1F3FB-200D-2764-200D-1F468-1F3FE	coppia con cuore uomo uomo carnagione chiara e carnagione abbastanza scura
+1F468-1F3FB-200D-2764-200D-1F468-1F3FF	coppia con cuore uomo uomo carnagione chiara e carnagione scura
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia uomo uomo e carnagione chiara
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia uomo uomo carnagione chiara e carnagione abbastanza chiara
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia uomo uomo carnagione chiara e carnagione olivastra
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia uomo uomo carnagione chiara e carnagione abbastanza scura
+1F468-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia uomo uomo carnagione chiara e carnagione scura
+1F468-1F3FB-200D-1F33E	contadino carnagione chiara
+1F468-1F3FB-200D-1F373	cuoco carnagione chiara
+1F468-1F3FB-200D-1F37C	uomo che allatta carnagione chiara
+1F468-1F3FB-200D-1F393	studente maschio carnagione chiara
+1F468-1F3FB-200D-1F3A4	cantante uomo carnagione chiara
+1F468-1F3FB-200D-1F3A8	artista uomo carnagione chiara
+1F468-1F3FB-200D-1F3EB	professore carnagione chiara
+1F468-1F3FB-200D-1F3ED	operaio carnagione chiara
+1F468-1F3FB-200D-1F4BB	tecnologo carnagione chiara
+1F468-1F3FB-200D-1F4BC	impiegato carnagione chiara
+1F468-1F3FB-200D-1F527	meccanico uomo carnagione chiara
+1F468-1F3FB-200D-1F52C	scienziato carnagione chiara
+1F468-1F3FB-200D-1F680	astronauta uomo carnagione chiara
+1F468-1F3FB-200D-1F692	pompiere uomo carnagione chiara
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC	due uomini che si tengono per mano carnagione chiara e carnagione abbastanza chiara
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD	due uomini che si tengono per mano carnagione chiara e carnagione olivastra
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE	due uomini che si tengono per mano carnagione chiara e carnagione abbastanza scura
+1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF	due uomini che si tengono per mano carnagione chiara e carnagione scura
+1F468-1F3FB-200D-1F9AF	uomo con bastone bianco di orientamento carnagione chiara
+1F468-1F3FB-200D-1F9B0	uomo carnagione chiara e capelli rossi
+1F468-1F3FB-200D-1F9B1	uomo carnagione chiara e capelli ricci
+1F468-1F3FB-200D-1F9B2	uomo carnagione chiara e calvo
+1F468-1F3FB-200D-1F9B3	uomo carnagione chiara e capelli bianchi
+1F468-1F3FB-200D-1F9BC	uomo su sedia a rotelle motorizzata carnagione chiara
+1F468-1F3FB-200D-1F9BD	uomo su sedia a rotelle manuale carnagione chiara
+1F468-1F3FC	uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-2695	operatore sanitario carnagione abbastanza chiara
+1F468-1F3FC-200D-2696	giudice uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-2708	pilota uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-2764-200D-1F468-1F3FB	coppia con cuore uomo uomo carnagione abbastanza chiara e carnagione chiara
+1F468-1F3FC-200D-2764-200D-1F468-1F3FC	coppia con cuore uomo uomo e carnagione abbastanza chiara
+1F468-1F3FC-200D-2764-200D-1F468-1F3FD	coppia con cuore uomo uomo carnagione abbastanza chiara e carnagione olivastra
+1F468-1F3FC-200D-2764-200D-1F468-1F3FE	coppia con cuore uomo uomo carnagione abbastanza chiara e carnagione abbastanza scura
+1F468-1F3FC-200D-2764-200D-1F468-1F3FF	coppia con cuore uomo uomo carnagione abbastanza chiara e carnagione scura
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia uomo uomo carnagione abbastanza chiara e carnagione chiara
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia uomo uomo e carnagione abbastanza chiara
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia uomo uomo carnagione abbastanza chiara e carnagione olivastra
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia uomo uomo carnagione abbastanza chiara e carnagione abbastanza scura
+1F468-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia uomo uomo carnagione abbastanza chiara e carnagione scura
+1F468-1F3FC-200D-1F33E	contadino carnagione abbastanza chiara
+1F468-1F3FC-200D-1F373	cuoco carnagione abbastanza chiara
+1F468-1F3FC-200D-1F37C	uomo che allatta carnagione abbastanza chiara
+1F468-1F3FC-200D-1F393	studente maschio carnagione abbastanza chiara
+1F468-1F3FC-200D-1F3A4	cantante uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-1F3A8	artista uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-1F3EB	professore carnagione abbastanza chiara
+1F468-1F3FC-200D-1F3ED	operaio carnagione abbastanza chiara
+1F468-1F3FC-200D-1F4BB	tecnologo carnagione abbastanza chiara
+1F468-1F3FC-200D-1F4BC	impiegato carnagione abbastanza chiara
+1F468-1F3FC-200D-1F527	meccanico uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-1F52C	scienziato carnagione abbastanza chiara
+1F468-1F3FC-200D-1F680	astronauta uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-1F692	pompiere uomo carnagione abbastanza chiara
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB	due uomini che si tengono per mano carnagione abbastanza chiara e carnagione chiara
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD	due uomini che si tengono per mano carnagione abbastanza chiara e carnagione olivastra
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE	due uomini che si tengono per mano carnagione abbastanza chiara e carnagione abbastanza scura
+1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF	due uomini che si tengono per mano carnagione abbastanza chiara e carnagione scura
+1F468-1F3FC-200D-1F9AF	uomo con bastone bianco di orientamento carnagione abbastanza chiara
+1F468-1F3FC-200D-1F9B0	uomo carnagione abbastanza chiara e capelli rossi
+1F468-1F3FC-200D-1F9B1	uomo carnagione abbastanza chiara e capelli ricci
+1F468-1F3FC-200D-1F9B2	uomo carnagione abbastanza chiara e calvo
+1F468-1F3FC-200D-1F9B3	uomo carnagione abbastanza chiara e capelli bianchi
+1F468-1F3FC-200D-1F9BC	uomo su sedia a rotelle motorizzata carnagione abbastanza chiara
+1F468-1F3FC-200D-1F9BD	uomo su sedia a rotelle manuale carnagione abbastanza chiara
+1F468-1F3FD	uomo carnagione olivastra
+1F468-1F3FD-200D-2695	operatore sanitario carnagione olivastra
+1F468-1F3FD-200D-2696	giudice uomo carnagione olivastra
+1F468-1F3FD-200D-2708	pilota uomo carnagione olivastra
+1F468-1F3FD-200D-2764-200D-1F468-1F3FB	coppia con cuore uomo uomo carnagione olivastra e carnagione chiara
+1F468-1F3FD-200D-2764-200D-1F468-1F3FC	coppia con cuore uomo uomo carnagione olivastra e carnagione abbastanza chiara
+1F468-1F3FD-200D-2764-200D-1F468-1F3FD	coppia con cuore uomo uomo e carnagione olivastra
+1F468-1F3FD-200D-2764-200D-1F468-1F3FE	coppia con cuore uomo uomo carnagione olivastra e carnagione abbastanza scura
+1F468-1F3FD-200D-2764-200D-1F468-1F3FF	coppia con cuore uomo uomo carnagione olivastra e carnagione scura
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia uomo uomo carnagione olivastra e carnagione chiara
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia uomo uomo carnagione olivastra e carnagione abbastanza chiara
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia uomo uomo e carnagione olivastra
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia uomo uomo carnagione olivastra e carnagione abbastanza scura
+1F468-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia uomo uomo carnagione olivastra e carnagione scura
+1F468-1F3FD-200D-1F33E	contadino carnagione olivastra
+1F468-1F3FD-200D-1F373	cuoco carnagione olivastra
+1F468-1F3FD-200D-1F37C	uomo che allatta carnagione olivastra
+1F468-1F3FD-200D-1F393	studente maschio carnagione olivastra
+1F468-1F3FD-200D-1F3A4	cantante uomo carnagione olivastra
+1F468-1F3FD-200D-1F3A8	artista uomo carnagione olivastra
+1F468-1F3FD-200D-1F3EB	professore carnagione olivastra
+1F468-1F3FD-200D-1F3ED	operaio carnagione olivastra
+1F468-1F3FD-200D-1F4BB	tecnologo carnagione olivastra
+1F468-1F3FD-200D-1F4BC	impiegato carnagione olivastra
+1F468-1F3FD-200D-1F527	meccanico uomo carnagione olivastra
+1F468-1F3FD-200D-1F52C	scienziato carnagione olivastra
+1F468-1F3FD-200D-1F680	astronauta uomo carnagione olivastra
+1F468-1F3FD-200D-1F692	pompiere uomo carnagione olivastra
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB	due uomini che si tengono per mano carnagione olivastra e carnagione chiara
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC	due uomini che si tengono per mano carnagione olivastra e carnagione abbastanza chiara
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE	due uomini che si tengono per mano carnagione olivastra e carnagione abbastanza scura
+1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF	due uomini che si tengono per mano carnagione olivastra e carnagione scura
+1F468-1F3FD-200D-1F9AF	uomo con bastone bianco di orientamento carnagione olivastra
+1F468-1F3FD-200D-1F9B0	uomo carnagione olivastra e capelli rossi
+1F468-1F3FD-200D-1F9B1	uomo carnagione olivastra e capelli ricci
+1F468-1F3FD-200D-1F9B2	uomo carnagione olivastra e calvo
+1F468-1F3FD-200D-1F9B3	uomo carnagione olivastra e capelli bianchi
+1F468-1F3FD-200D-1F9BC	uomo su sedia a rotelle motorizzata carnagione olivastra
+1F468-1F3FD-200D-1F9BD	uomo su sedia a rotelle manuale carnagione olivastra
+1F468-1F3FE	uomo carnagione abbastanza scura
+1F468-1F3FE-200D-2695	operatore sanitario carnagione abbastanza scura
+1F468-1F3FE-200D-2696	giudice uomo carnagione abbastanza scura
+1F468-1F3FE-200D-2708	pilota uomo carnagione abbastanza scura
+1F468-1F3FE-200D-2764-200D-1F468-1F3FB	coppia con cuore uomo uomo carnagione abbastanza scura e carnagione chiara
+1F468-1F3FE-200D-2764-200D-1F468-1F3FC	coppia con cuore uomo uomo carnagione abbastanza scura e carnagione abbastanza chiara
+1F468-1F3FE-200D-2764-200D-1F468-1F3FD	coppia con cuore uomo uomo carnagione abbastanza scura e carnagione olivastra
+1F468-1F3FE-200D-2764-200D-1F468-1F3FE	coppia con cuore uomo uomo e carnagione abbastanza scura
+1F468-1F3FE-200D-2764-200D-1F468-1F3FF	coppia con cuore uomo uomo carnagione abbastanza scura e carnagione scura
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia uomo uomo carnagione abbastanza scura e carnagione chiara
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia uomo uomo carnagione abbastanza scura e carnagione abbastanza chiara
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia uomo uomo carnagione abbastanza scura e carnagione olivastra
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia uomo uomo e carnagione abbastanza scura
+1F468-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia uomo uomo carnagione abbastanza scura e carnagione scura
+1F468-1F3FE-200D-1F33E	contadino carnagione abbastanza scura
+1F468-1F3FE-200D-1F373	cuoco carnagione abbastanza scura
+1F468-1F3FE-200D-1F37C	uomo che allatta carnagione abbastanza scura
+1F468-1F3FE-200D-1F393	studente maschio carnagione abbastanza scura
+1F468-1F3FE-200D-1F3A4	cantante uomo carnagione abbastanza scura
+1F468-1F3FE-200D-1F3A8	artista uomo carnagione abbastanza scura
+1F468-1F3FE-200D-1F3EB	professore carnagione abbastanza scura
+1F468-1F3FE-200D-1F3ED	operaio carnagione abbastanza scura
+1F468-1F3FE-200D-1F4BB	tecnologo carnagione abbastanza scura
+1F468-1F3FE-200D-1F4BC	impiegato carnagione abbastanza scura
+1F468-1F3FE-200D-1F527	meccanico uomo carnagione abbastanza scura
+1F468-1F3FE-200D-1F52C	scienziato carnagione abbastanza scura
+1F468-1F3FE-200D-1F680	astronauta uomo carnagione abbastanza scura
+1F468-1F3FE-200D-1F692	pompiere uomo carnagione abbastanza scura
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB	due uomini che si tengono per mano carnagione abbastanza scura e carnagione chiara
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC	due uomini che si tengono per mano carnagione abbastanza scura e carnagione abbastanza chiara
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD	due uomini che si tengono per mano carnagione abbastanza scura e carnagione olivastra
+1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF	due uomini che si tengono per mano carnagione abbastanza scura e carnagione scura
+1F468-1F3FE-200D-1F9AF	uomo con bastone bianco di orientamento carnagione abbastanza scura
+1F468-1F3FE-200D-1F9B0	uomo carnagione abbastanza scura e capelli rossi
+1F468-1F3FE-200D-1F9B1	uomo carnagione abbastanza scura e capelli ricci
+1F468-1F3FE-200D-1F9B2	uomo carnagione abbastanza scura e calvo
+1F468-1F3FE-200D-1F9B3	uomo carnagione abbastanza scura e capelli bianchi
+1F468-1F3FE-200D-1F9BC	uomo su sedia a rotelle motorizzata carnagione abbastanza scura
+1F468-1F3FE-200D-1F9BD	uomo su sedia a rotelle manuale carnagione abbastanza scura
+1F468-1F3FF	uomo carnagione scura
+1F468-1F3FF-200D-2695	operatore sanitario carnagione scura
+1F468-1F3FF-200D-2696	giudice uomo carnagione scura
+1F468-1F3FF-200D-2708	pilota uomo carnagione scura
+1F468-1F3FF-200D-2764-200D-1F468-1F3FB	coppia con cuore uomo uomo carnagione scura e carnagione chiara
+1F468-1F3FF-200D-2764-200D-1F468-1F3FC	coppia con cuore uomo uomo carnagione scura e carnagione abbastanza chiara
+1F468-1F3FF-200D-2764-200D-1F468-1F3FD	coppia con cuore uomo uomo carnagione scura e carnagione olivastra
+1F468-1F3FF-200D-2764-200D-1F468-1F3FE	coppia con cuore uomo uomo carnagione scura e carnagione abbastanza scura
+1F468-1F3FF-200D-2764-200D-1F468-1F3FF	coppia con cuore uomo uomo e carnagione scura
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia uomo uomo carnagione scura e carnagione chiara
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia uomo uomo carnagione scura e carnagione abbastanza chiara
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia uomo uomo carnagione scura e carnagione olivastra
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia uomo uomo carnagione scura e carnagione abbastanza scura
+1F468-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia uomo uomo e carnagione scura
+1F468-1F3FF-200D-1F33E	contadino carnagione scura
+1F468-1F3FF-200D-1F373	cuoco carnagione scura
+1F468-1F3FF-200D-1F37C	uomo che allatta carnagione scura
+1F468-1F3FF-200D-1F393	studente maschio carnagione scura
+1F468-1F3FF-200D-1F3A4	cantante uomo carnagione scura
+1F468-1F3FF-200D-1F3A8	artista uomo carnagione scura
+1F468-1F3FF-200D-1F3EB	professore carnagione scura
+1F468-1F3FF-200D-1F3ED	operaio carnagione scura
+1F468-1F3FF-200D-1F4BB	tecnologo carnagione scura
+1F468-1F3FF-200D-1F4BC	impiegato carnagione scura
+1F468-1F3FF-200D-1F527	meccanico uomo carnagione scura
+1F468-1F3FF-200D-1F52C	scienziato carnagione scura
+1F468-1F3FF-200D-1F680	astronauta uomo carnagione scura
+1F468-1F3FF-200D-1F692	pompiere uomo carnagione scura
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB	due uomini che si tengono per mano carnagione scura e carnagione chiara
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC	due uomini che si tengono per mano carnagione scura e carnagione abbastanza chiara
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD	due uomini che si tengono per mano carnagione scura e carnagione olivastra
+1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE	due uomini che si tengono per mano carnagione scura e carnagione abbastanza scura
+1F468-1F3FF-200D-1F9AF	uomo con bastone bianco di orientamento carnagione scura
+1F468-1F3FF-200D-1F9B0	uomo carnagione scura e capelli rossi
+1F468-1F3FF-200D-1F9B1	uomo carnagione scura e capelli ricci
+1F468-1F3FF-200D-1F9B2	uomo carnagione scura e calvo
+1F468-1F3FF-200D-1F9B3	uomo carnagione scura e capelli bianchi
+1F468-1F3FF-200D-1F9BC	uomo su sedia a rotelle motorizzata carnagione scura
+1F468-1F3FF-200D-1F9BD	uomo su sedia a rotelle manuale carnagione scura
+1F469	donna
+1F469-200D-2695	operatrice sanitaria
+1F469-200D-2696	giudice donna
+1F469-200D-2708	pilota donna
+1F469-200D-2764-200D-1F468	coppia con cuore donna e uomo
+1F469-200D-2764-200D-1F469	coppia con cuore donna e donna
+1F469-200D-2764-200D-1F48B-200D-1F468	bacio tra coppia donna e uomo
+1F469-200D-2764-200D-1F48B-200D-1F469	bacio tra coppia donna e donna
+1F469-200D-1F33E	contadina
+1F469-200D-1F373	cuoca
+1F469-200D-1F37C	donna che allatta
+1F469-200D-1F393	studentessa
+1F469-200D-1F3A4	cantante donna
+1F469-200D-1F3A8	artista donna
+1F469-200D-1F3EB	professoressa
+1F469-200D-1F3ED	operaia
+1F469-200D-1F466	famiglia donna e bambino
+1F469-200D-1F466-200D-1F466	famiglia donna bambino e bambino
+1F469-200D-1F467	famiglia donna e bambina
+1F469-200D-1F467-200D-1F466	famiglia donna bambina e bambino
+1F469-200D-1F467-200D-1F467	famiglia donna bambina e bambina
+1F469-200D-1F469-200D-1F466	famiglia donna donna e bambino
+1F469-200D-1F469-200D-1F466-200D-1F466	famiglia donna donna bambino e bambino
+1F469-200D-1F469-200D-1F467	famiglia donna donna e bambina
+1F469-200D-1F469-200D-1F467-200D-1F466	famiglia donna donna bambina e bambino
+1F469-200D-1F469-200D-1F467-200D-1F467	famiglia donna donna bambina e bambina
+1F469-200D-1F4BB	tecnologa
+1F469-200D-1F4BC	impiegata
+1F469-200D-1F527	meccanico donna
+1F469-200D-1F52C	scienziata
+1F469-200D-1F680	astronauta donna
+1F469-200D-1F692	pompiere donna
+1F469-200D-1F9AF	donna con bastone bianco di orientamento
+1F469-200D-1F9B0	donna capelli rossi
+1F469-200D-1F9B1	donna capelli ricci
+1F469-200D-1F9B2	donna calvo
+1F469-200D-1F9B3	donna capelli bianchi
+1F469-200D-1F9BC	donna su sedia a rotelle motorizzata
+1F469-200D-1F9BD	donna su sedia a rotelle manuale
+1F469-1F3FB	donna carnagione chiara
+1F469-1F3FB-200D-2695	operatrice sanitaria carnagione chiara
+1F469-1F3FB-200D-2696	giudice donna carnagione chiara
+1F469-1F3FB-200D-2708	pilota donna carnagione chiara
+1F469-1F3FB-200D-2764-200D-1F468-1F3FB	coppia con cuore donna uomo e carnagione chiara
+1F469-1F3FB-200D-2764-200D-1F468-1F3FC	coppia con cuore donna uomo carnagione chiara e carnagione abbastanza chiara
+1F469-1F3FB-200D-2764-200D-1F468-1F3FD	coppia con cuore donna uomo carnagione chiara e carnagione olivastra
+1F469-1F3FB-200D-2764-200D-1F468-1F3FE	coppia con cuore donna uomo carnagione chiara e carnagione abbastanza scura
+1F469-1F3FB-200D-2764-200D-1F468-1F3FF	coppia con cuore donna uomo carnagione chiara e carnagione scura
+1F469-1F3FB-200D-2764-200D-1F469-1F3FB	coppia con cuore donna donna e carnagione chiara
+1F469-1F3FB-200D-2764-200D-1F469-1F3FC	coppia con cuore donna donna carnagione chiara e carnagione abbastanza chiara
+1F469-1F3FB-200D-2764-200D-1F469-1F3FD	coppia con cuore donna donna carnagione chiara e carnagione olivastra
+1F469-1F3FB-200D-2764-200D-1F469-1F3FE	coppia con cuore donna donna carnagione chiara e carnagione abbastanza scura
+1F469-1F3FB-200D-2764-200D-1F469-1F3FF	coppia con cuore donna donna carnagione chiara e carnagione scura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia donna uomo e carnagione chiara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia donna uomo carnagione chiara e carnagione abbastanza chiara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia donna uomo carnagione chiara e carnagione olivastra
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia donna uomo carnagione chiara e carnagione abbastanza scura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia donna uomo carnagione chiara e carnagione scura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FB	bacio tra coppia donna donna e carnagione chiara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FC	bacio tra coppia donna donna carnagione chiara e carnagione abbastanza chiara
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FD	bacio tra coppia donna donna carnagione chiara e carnagione olivastra
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FE	bacio tra coppia donna donna carnagione chiara e carnagione abbastanza scura
+1F469-1F3FB-200D-2764-200D-1F48B-200D-1F469-1F3FF	bacio tra coppia donna donna carnagione chiara e carnagione scura
+1F469-1F3FB-200D-1F33E	contadina carnagione chiara
+1F469-1F3FB-200D-1F373	cuoca carnagione chiara
+1F469-1F3FB-200D-1F37C	donna che allatta carnagione chiara
+1F469-1F3FB-200D-1F393	studentessa carnagione chiara
+1F469-1F3FB-200D-1F3A4	cantante donna carnagione chiara
+1F469-1F3FB-200D-1F3A8	artista donna carnagione chiara
+1F469-1F3FB-200D-1F3EB	professoressa carnagione chiara
+1F469-1F3FB-200D-1F3ED	operaia carnagione chiara
+1F469-1F3FB-200D-1F4BB	tecnologa carnagione chiara
+1F469-1F3FB-200D-1F4BC	impiegata carnagione chiara
+1F469-1F3FB-200D-1F527	meccanico donna carnagione chiara
+1F469-1F3FB-200D-1F52C	scienziata carnagione chiara
+1F469-1F3FB-200D-1F680	astronauta donna carnagione chiara
+1F469-1F3FB-200D-1F692	pompiere donna carnagione chiara
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC	uomo e donna che si tengono per mano carnagione chiara e carnagione abbastanza chiara
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD	uomo e donna che si tengono per mano carnagione chiara e carnagione olivastra
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE	uomo e donna che si tengono per mano carnagione chiara e carnagione abbastanza scura
+1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF	uomo e donna che si tengono per mano carnagione chiara e carnagione scura
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC	due donne che si tengono per mano carnagione chiara e carnagione abbastanza chiara
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD	due donne che si tengono per mano carnagione chiara e carnagione olivastra
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE	due donne che si tengono per mano carnagione chiara e carnagione abbastanza scura
+1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF	due donne che si tengono per mano carnagione chiara e carnagione scura
+1F469-1F3FB-200D-1F9AF	donna con bastone bianco di orientamento carnagione chiara
+1F469-1F3FB-200D-1F9B0	donna carnagione chiara e capelli rossi
+1F469-1F3FB-200D-1F9B1	donna carnagione chiara e capelli ricci
+1F469-1F3FB-200D-1F9B2	donna carnagione chiara e calvo
+1F469-1F3FB-200D-1F9B3	donna carnagione chiara e capelli bianchi
+1F469-1F3FB-200D-1F9BC	donna su sedia a rotelle motorizzata carnagione chiara
+1F469-1F3FB-200D-1F9BD	donna su sedia a rotelle manuale carnagione chiara
+1F469-1F3FC	donna carnagione abbastanza chiara
+1F469-1F3FC-200D-2695	operatrice sanitaria carnagione abbastanza chiara
+1F469-1F3FC-200D-2696	giudice donna carnagione abbastanza chiara
+1F469-1F3FC-200D-2708	pilota donna carnagione abbastanza chiara
+1F469-1F3FC-200D-2764-200D-1F468-1F3FB	coppia con cuore donna uomo carnagione abbastanza chiara e carnagione chiara
+1F469-1F3FC-200D-2764-200D-1F468-1F3FC	coppia con cuore donna uomo e carnagione abbastanza chiara
+1F469-1F3FC-200D-2764-200D-1F468-1F3FD	coppia con cuore donna uomo carnagione abbastanza chiara e carnagione olivastra
+1F469-1F3FC-200D-2764-200D-1F468-1F3FE	coppia con cuore donna uomo carnagione abbastanza chiara e carnagione abbastanza scura
+1F469-1F3FC-200D-2764-200D-1F468-1F3FF	coppia con cuore donna uomo carnagione abbastanza chiara e carnagione scura
+1F469-1F3FC-200D-2764-200D-1F469-1F3FB	coppia con cuore donna donna carnagione abbastanza chiara e carnagione chiara
+1F469-1F3FC-200D-2764-200D-1F469-1F3FC	coppia con cuore donna donna e carnagione abbastanza chiara
+1F469-1F3FC-200D-2764-200D-1F469-1F3FD	coppia con cuore donna donna carnagione abbastanza chiara e carnagione olivastra
+1F469-1F3FC-200D-2764-200D-1F469-1F3FE	coppia con cuore donna donna carnagione abbastanza chiara e carnagione abbastanza scura
+1F469-1F3FC-200D-2764-200D-1F469-1F3FF	coppia con cuore donna donna carnagione abbastanza chiara e carnagione scura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia donna uomo carnagione abbastanza chiara e carnagione chiara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia donna uomo e carnagione abbastanza chiara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia donna uomo carnagione abbastanza chiara e carnagione olivastra
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia donna uomo carnagione abbastanza chiara e carnagione abbastanza scura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia donna uomo carnagione abbastanza chiara e carnagione scura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FB	bacio tra coppia donna donna carnagione abbastanza chiara e carnagione chiara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FC	bacio tra coppia donna donna e carnagione abbastanza chiara
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FD	bacio tra coppia donna donna carnagione abbastanza chiara e carnagione olivastra
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FE	bacio tra coppia donna donna carnagione abbastanza chiara e carnagione abbastanza scura
+1F469-1F3FC-200D-2764-200D-1F48B-200D-1F469-1F3FF	bacio tra coppia donna donna carnagione abbastanza chiara e carnagione scura
+1F469-1F3FC-200D-1F33E	contadina carnagione abbastanza chiara
+1F469-1F3FC-200D-1F373	cuoca carnagione abbastanza chiara
+1F469-1F3FC-200D-1F37C	donna che allatta carnagione abbastanza chiara
+1F469-1F3FC-200D-1F393	studentessa carnagione abbastanza chiara
+1F469-1F3FC-200D-1F3A4	cantante donna carnagione abbastanza chiara
+1F469-1F3FC-200D-1F3A8	artista donna carnagione abbastanza chiara
+1F469-1F3FC-200D-1F3EB	professoressa carnagione abbastanza chiara
+1F469-1F3FC-200D-1F3ED	operaia carnagione abbastanza chiara
+1F469-1F3FC-200D-1F4BB	tecnologa carnagione abbastanza chiara
+1F469-1F3FC-200D-1F4BC	impiegata carnagione abbastanza chiara
+1F469-1F3FC-200D-1F527	meccanico donna carnagione abbastanza chiara
+1F469-1F3FC-200D-1F52C	scienziata carnagione abbastanza chiara
+1F469-1F3FC-200D-1F680	astronauta donna carnagione abbastanza chiara
+1F469-1F3FC-200D-1F692	pompiere donna carnagione abbastanza chiara
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB	uomo e donna che si tengono per mano carnagione abbastanza chiara e carnagione chiara
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD	uomo e donna che si tengono per mano carnagione abbastanza chiara e carnagione olivastra
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE	uomo e donna che si tengono per mano carnagione abbastanza chiara e carnagione abbastanza scura
+1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF	uomo e donna che si tengono per mano carnagione abbastanza chiara e carnagione scura
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB	due donne che si tengono per mano carnagione abbastanza chiara e carnagione chiara
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD	due donne che si tengono per mano carnagione abbastanza chiara e carnagione olivastra
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE	due donne che si tengono per mano carnagione abbastanza chiara e carnagione abbastanza scura
+1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF	due donne che si tengono per mano carnagione abbastanza chiara e carnagione scura
+1F469-1F3FC-200D-1F9AF	donna con bastone bianco di orientamento carnagione abbastanza chiara
+1F469-1F3FC-200D-1F9B0	donna carnagione abbastanza chiara e capelli rossi
+1F469-1F3FC-200D-1F9B1	donna carnagione abbastanza chiara e capelli ricci
+1F469-1F3FC-200D-1F9B2	donna carnagione abbastanza chiara e calvo
+1F469-1F3FC-200D-1F9B3	donna carnagione abbastanza chiara e capelli bianchi
+1F469-1F3FC-200D-1F9BC	donna su sedia a rotelle motorizzata carnagione abbastanza chiara
+1F469-1F3FC-200D-1F9BD	donna su sedia a rotelle manuale carnagione abbastanza chiara
+1F469-1F3FD	donna carnagione olivastra
+1F469-1F3FD-200D-2695	operatrice sanitaria carnagione olivastra
+1F469-1F3FD-200D-2696	giudice donna carnagione olivastra
+1F469-1F3FD-200D-2708	pilota donna carnagione olivastra
+1F469-1F3FD-200D-2764-200D-1F468-1F3FB	coppia con cuore donna uomo carnagione olivastra e carnagione chiara
+1F469-1F3FD-200D-2764-200D-1F468-1F3FC	coppia con cuore donna uomo carnagione olivastra e carnagione abbastanza chiara
+1F469-1F3FD-200D-2764-200D-1F468-1F3FD	coppia con cuore donna uomo e carnagione olivastra
+1F469-1F3FD-200D-2764-200D-1F468-1F3FE	coppia con cuore donna uomo carnagione olivastra e carnagione abbastanza scura
+1F469-1F3FD-200D-2764-200D-1F468-1F3FF	coppia con cuore donna uomo carnagione olivastra e carnagione scura
+1F469-1F3FD-200D-2764-200D-1F469-1F3FB	coppia con cuore donna donna carnagione olivastra e carnagione chiara
+1F469-1F3FD-200D-2764-200D-1F469-1F3FC	coppia con cuore donna donna carnagione olivastra e carnagione abbastanza chiara
+1F469-1F3FD-200D-2764-200D-1F469-1F3FD	coppia con cuore donna donna e carnagione olivastra
+1F469-1F3FD-200D-2764-200D-1F469-1F3FE	coppia con cuore donna donna carnagione olivastra e carnagione abbastanza scura
+1F469-1F3FD-200D-2764-200D-1F469-1F3FF	coppia con cuore donna donna carnagione olivastra e carnagione scura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia donna uomo carnagione olivastra e carnagione chiara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia donna uomo carnagione olivastra e carnagione abbastanza chiara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia donna uomo e carnagione olivastra
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia donna uomo carnagione olivastra e carnagione abbastanza scura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia donna uomo carnagione olivastra e carnagione scura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FB	bacio tra coppia donna donna carnagione olivastra e carnagione chiara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FC	bacio tra coppia donna donna carnagione olivastra e carnagione abbastanza chiara
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FD	bacio tra coppia donna donna e carnagione olivastra
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FE	bacio tra coppia donna donna carnagione olivastra e carnagione abbastanza scura
+1F469-1F3FD-200D-2764-200D-1F48B-200D-1F469-1F3FF	bacio tra coppia donna donna carnagione olivastra e carnagione scura
+1F469-1F3FD-200D-1F33E	contadina carnagione olivastra
+1F469-1F3FD-200D-1F373	cuoca carnagione olivastra
+1F469-1F3FD-200D-1F37C	donna che allatta carnagione olivastra
+1F469-1F3FD-200D-1F393	studentessa carnagione olivastra
+1F469-1F3FD-200D-1F3A4	cantante donna carnagione olivastra
+1F469-1F3FD-200D-1F3A8	artista donna carnagione olivastra
+1F469-1F3FD-200D-1F3EB	professoressa carnagione olivastra
+1F469-1F3FD-200D-1F3ED	operaia carnagione olivastra
+1F469-1F3FD-200D-1F4BB	tecnologa carnagione olivastra
+1F469-1F3FD-200D-1F4BC	impiegata carnagione olivastra
+1F469-1F3FD-200D-1F527	meccanico donna carnagione olivastra
+1F469-1F3FD-200D-1F52C	scienziata carnagione olivastra
+1F469-1F3FD-200D-1F680	astronauta donna carnagione olivastra
+1F469-1F3FD-200D-1F692	pompiere donna carnagione olivastra
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB	uomo e donna che si tengono per mano carnagione olivastra e carnagione chiara
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC	uomo e donna che si tengono per mano carnagione olivastra e carnagione abbastanza chiara
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE	uomo e donna che si tengono per mano carnagione olivastra e carnagione abbastanza scura
+1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF	uomo e donna che si tengono per mano carnagione olivastra e carnagione scura
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB	due donne che si tengono per mano carnagione olivastra e carnagione chiara
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC	due donne che si tengono per mano carnagione olivastra e carnagione abbastanza chiara
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE	due donne che si tengono per mano carnagione olivastra e carnagione abbastanza scura
+1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF	due donne che si tengono per mano carnagione olivastra e carnagione scura
+1F469-1F3FD-200D-1F9AF	donna con bastone bianco di orientamento carnagione olivastra
+1F469-1F3FD-200D-1F9B0	donna carnagione olivastra e capelli rossi
+1F469-1F3FD-200D-1F9B1	donna carnagione olivastra e capelli ricci
+1F469-1F3FD-200D-1F9B2	donna carnagione olivastra e calvo
+1F469-1F3FD-200D-1F9B3	donna carnagione olivastra e capelli bianchi
+1F469-1F3FD-200D-1F9BC	donna su sedia a rotelle motorizzata carnagione olivastra
+1F469-1F3FD-200D-1F9BD	donna su sedia a rotelle manuale carnagione olivastra
+1F469-1F3FE	donna carnagione abbastanza scura
+1F469-1F3FE-200D-2695	operatrice sanitaria carnagione abbastanza scura
+1F469-1F3FE-200D-2696	giudice donna carnagione abbastanza scura
+1F469-1F3FE-200D-2708	pilota donna carnagione abbastanza scura
+1F469-1F3FE-200D-2764-200D-1F468-1F3FB	coppia con cuore donna uomo carnagione abbastanza scura e carnagione chiara
+1F469-1F3FE-200D-2764-200D-1F468-1F3FC	coppia con cuore donna uomo carnagione abbastanza scura e carnagione abbastanza chiara
+1F469-1F3FE-200D-2764-200D-1F468-1F3FD	coppia con cuore donna uomo carnagione abbastanza scura e carnagione olivastra
+1F469-1F3FE-200D-2764-200D-1F468-1F3FE	coppia con cuore donna uomo e carnagione abbastanza scura
+1F469-1F3FE-200D-2764-200D-1F468-1F3FF	coppia con cuore donna uomo carnagione abbastanza scura e carnagione scura
+1F469-1F3FE-200D-2764-200D-1F469-1F3FB	coppia con cuore donna donna carnagione abbastanza scura e carnagione chiara
+1F469-1F3FE-200D-2764-200D-1F469-1F3FC	coppia con cuore donna donna carnagione abbastanza scura e carnagione abbastanza chiara
+1F469-1F3FE-200D-2764-200D-1F469-1F3FD	coppia con cuore donna donna carnagione abbastanza scura e carnagione olivastra
+1F469-1F3FE-200D-2764-200D-1F469-1F3FE	coppia con cuore donna donna e carnagione abbastanza scura
+1F469-1F3FE-200D-2764-200D-1F469-1F3FF	coppia con cuore donna donna carnagione abbastanza scura e carnagione scura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia donna uomo carnagione abbastanza scura e carnagione chiara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia donna uomo carnagione abbastanza scura e carnagione abbastanza chiara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia donna uomo carnagione abbastanza scura e carnagione olivastra
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia donna uomo e carnagione abbastanza scura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia donna uomo carnagione abbastanza scura e carnagione scura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FB	bacio tra coppia donna donna carnagione abbastanza scura e carnagione chiara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FC	bacio tra coppia donna donna carnagione abbastanza scura e carnagione abbastanza chiara
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FD	bacio tra coppia donna donna carnagione abbastanza scura e carnagione olivastra
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FE	bacio tra coppia donna donna e carnagione abbastanza scura
+1F469-1F3FE-200D-2764-200D-1F48B-200D-1F469-1F3FF	bacio tra coppia donna donna carnagione abbastanza scura e carnagione scura
+1F469-1F3FE-200D-1F33E	contadina carnagione abbastanza scura
+1F469-1F3FE-200D-1F373	cuoca carnagione abbastanza scura
+1F469-1F3FE-200D-1F37C	donna che allatta carnagione abbastanza scura
+1F469-1F3FE-200D-1F393	studentessa carnagione abbastanza scura
+1F469-1F3FE-200D-1F3A4	cantante donna carnagione abbastanza scura
+1F469-1F3FE-200D-1F3A8	artista donna carnagione abbastanza scura
+1F469-1F3FE-200D-1F3EB	professoressa carnagione abbastanza scura
+1F469-1F3FE-200D-1F3ED	operaia carnagione abbastanza scura
+1F469-1F3FE-200D-1F4BB	tecnologa carnagione abbastanza scura
+1F469-1F3FE-200D-1F4BC	impiegata carnagione abbastanza scura
+1F469-1F3FE-200D-1F527	meccanico donna carnagione abbastanza scura
+1F469-1F3FE-200D-1F52C	scienziata carnagione abbastanza scura
+1F469-1F3FE-200D-1F680	astronauta donna carnagione abbastanza scura
+1F469-1F3FE-200D-1F692	pompiere donna carnagione abbastanza scura
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB	uomo e donna che si tengono per mano carnagione abbastanza scura e carnagione chiara
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC	uomo e donna che si tengono per mano carnagione abbastanza scura e carnagione abbastanza chiara
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD	uomo e donna che si tengono per mano carnagione abbastanza scura e carnagione olivastra
+1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF	uomo e donna che si tengono per mano carnagione abbastanza scura e carnagione scura
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB	due donne che si tengono per mano carnagione abbastanza scura e carnagione chiara
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC	due donne che si tengono per mano carnagione abbastanza scura e carnagione abbastanza chiara
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD	due donne che si tengono per mano carnagione abbastanza scura e carnagione olivastra
+1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF	due donne che si tengono per mano carnagione abbastanza scura e carnagione scura
+1F469-1F3FE-200D-1F9AF	donna con bastone bianco di orientamento carnagione abbastanza scura
+1F469-1F3FE-200D-1F9B0	donna carnagione abbastanza scura e capelli rossi
+1F469-1F3FE-200D-1F9B1	donna carnagione abbastanza scura e capelli ricci
+1F469-1F3FE-200D-1F9B2	donna carnagione abbastanza scura e calvo
+1F469-1F3FE-200D-1F9B3	donna carnagione abbastanza scura e capelli bianchi
+1F469-1F3FE-200D-1F9BC	donna su sedia a rotelle motorizzata carnagione abbastanza scura
+1F469-1F3FE-200D-1F9BD	donna su sedia a rotelle manuale carnagione abbastanza scura
+1F469-1F3FF	donna carnagione scura
+1F469-1F3FF-200D-2695	operatrice sanitaria carnagione scura
+1F469-1F3FF-200D-2696	giudice donna carnagione scura
+1F469-1F3FF-200D-2708	pilota donna carnagione scura
+1F469-1F3FF-200D-2764-200D-1F468-1F3FB	coppia con cuore donna uomo carnagione scura e carnagione chiara
+1F469-1F3FF-200D-2764-200D-1F468-1F3FC	coppia con cuore donna uomo carnagione scura e carnagione abbastanza chiara
+1F469-1F3FF-200D-2764-200D-1F468-1F3FD	coppia con cuore donna uomo carnagione scura e carnagione olivastra
+1F469-1F3FF-200D-2764-200D-1F468-1F3FE	coppia con cuore donna uomo carnagione scura e carnagione abbastanza scura
+1F469-1F3FF-200D-2764-200D-1F468-1F3FF	coppia con cuore donna uomo e carnagione scura
+1F469-1F3FF-200D-2764-200D-1F469-1F3FB	coppia con cuore donna donna carnagione scura e carnagione chiara
+1F469-1F3FF-200D-2764-200D-1F469-1F3FC	coppia con cuore donna donna carnagione scura e carnagione abbastanza chiara
+1F469-1F3FF-200D-2764-200D-1F469-1F3FD	coppia con cuore donna donna carnagione scura e carnagione olivastra
+1F469-1F3FF-200D-2764-200D-1F469-1F3FE	coppia con cuore donna donna carnagione scura e carnagione abbastanza scura
+1F469-1F3FF-200D-2764-200D-1F469-1F3FF	coppia con cuore donna donna e carnagione scura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FB	bacio tra coppia donna uomo carnagione scura e carnagione chiara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FC	bacio tra coppia donna uomo carnagione scura e carnagione abbastanza chiara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FD	bacio tra coppia donna uomo carnagione scura e carnagione olivastra
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FE	bacio tra coppia donna uomo carnagione scura e carnagione abbastanza scura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F468-1F3FF	bacio tra coppia donna uomo e carnagione scura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FB	bacio tra coppia donna donna carnagione scura e carnagione chiara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FC	bacio tra coppia donna donna carnagione scura e carnagione abbastanza chiara
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FD	bacio tra coppia donna donna carnagione scura e carnagione olivastra
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FE	bacio tra coppia donna donna carnagione scura e carnagione abbastanza scura
+1F469-1F3FF-200D-2764-200D-1F48B-200D-1F469-1F3FF	bacio tra coppia donna donna e carnagione scura
+1F469-1F3FF-200D-1F33E	contadina carnagione scura
+1F469-1F3FF-200D-1F373	cuoca carnagione scura
+1F469-1F3FF-200D-1F37C	donna che allatta carnagione scura
+1F469-1F3FF-200D-1F393	studentessa carnagione scura
+1F469-1F3FF-200D-1F3A4	cantante donna carnagione scura
+1F469-1F3FF-200D-1F3A8	artista donna carnagione scura
+1F469-1F3FF-200D-1F3EB	professoressa carnagione scura
+1F469-1F3FF-200D-1F3ED	operaia carnagione scura
+1F469-1F3FF-200D-1F4BB	tecnologa carnagione scura
+1F469-1F3FF-200D-1F4BC	impiegata carnagione scura
+1F469-1F3FF-200D-1F527	meccanico donna carnagione scura
+1F469-1F3FF-200D-1F52C	scienziata carnagione scura
+1F469-1F3FF-200D-1F680	astronauta donna carnagione scura
+1F469-1F3FF-200D-1F692	pompiere donna carnagione scura
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB	uomo e donna che si tengono per mano carnagione scura e carnagione chiara
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC	uomo e donna che si tengono per mano carnagione scura e carnagione abbastanza chiara
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD	uomo e donna che si tengono per mano carnagione scura e carnagione olivastra
+1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE	uomo e donna che si tengono per mano carnagione scura e carnagione abbastanza scura
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB	due donne che si tengono per mano carnagione scura e carnagione chiara
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC	due donne che si tengono per mano carnagione scura e carnagione abbastanza chiara
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD	due donne che si tengono per mano carnagione scura e carnagione olivastra
+1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE	due donne che si tengono per mano carnagione scura e carnagione abbastanza scura
+1F469-1F3FF-200D-1F9AF	donna con bastone bianco di orientamento carnagione scura
+1F469-1F3FF-200D-1F9B0	donna carnagione scura e capelli rossi
+1F469-1F3FF-200D-1F9B1	donna carnagione scura e capelli ricci
+1F469-1F3FF-200D-1F9B2	donna carnagione scura e calvo
+1F469-1F3FF-200D-1F9B3	donna carnagione scura e capelli bianchi
+1F469-1F3FF-200D-1F9BC	donna su sedia a rotelle motorizzata carnagione scura
+1F469-1F3FF-200D-1F9BD	donna su sedia a rotelle manuale carnagione scura
+1F46A	famiglia
+1F46B	uomo e donna che si tengono per mano
+1F46B-1F3FB	uomo e donna che si tengono per mano carnagione chiara
+1F46B-1F3FC	uomo e donna che si tengono per mano carnagione abbastanza chiara
+1F46B-1F3FD	uomo e donna che si tengono per mano carnagione olivastra
+1F46B-1F3FE	uomo e donna che si tengono per mano carnagione abbastanza scura
+1F46B-1F3FF	uomo e donna che si tengono per mano carnagione scura
+1F46C	due uomini che si tengono per mano
+1F46C-1F3FB	due uomini che si tengono per mano carnagione chiara
+1F46C-1F3FC	due uomini che si tengono per mano carnagione abbastanza chiara
+1F46C-1F3FD	due uomini che si tengono per mano carnagione olivastra
+1F46C-1F3FE	due uomini che si tengono per mano carnagione abbastanza scura
+1F46C-1F3FF	due uomini che si tengono per mano carnagione scura
+1F46D	due donne che si tengono per mano
+1F46D-1F3FB	due donne che si tengono per mano carnagione chiara
+1F46D-1F3FC	due donne che si tengono per mano carnagione abbastanza chiara
+1F46D-1F3FD	due donne che si tengono per mano carnagione olivastra
+1F46D-1F3FE	due donne che si tengono per mano carnagione abbastanza scura
+1F46D-1F3FF	due donne che si tengono per mano carnagione scura
+1F46E	agente di polizia
+1F46E-200D-2640	poliziotta
+1F46E-200D-2642	poliziotto uomo
+1F46E-1F3FB	agente di polizia carnagione chiara
+1F46E-1F3FB-200D-2640	poliziotta carnagione chiara
+1F46E-1F3FB-200D-2642	poliziotto uomo carnagione chiara
+1F46E-1F3FC	agente di polizia carnagione abbastanza chiara
+1F46E-1F3FC-200D-2640	poliziotta carnagione abbastanza chiara
+1F46E-1F3FC-200D-2642	poliziotto uomo carnagione abbastanza chiara
+1F46E-1F3FD	agente di polizia carnagione olivastra
+1F46E-1F3FD-200D-2640	poliziotta carnagione olivastra
+1F46E-1F3FD-200D-2642	poliziotto uomo carnagione olivastra
+1F46E-1F3FE	agente di polizia carnagione abbastanza scura
+1F46E-1F3FE-200D-2640	poliziotta carnagione abbastanza scura
+1F46E-1F3FE-200D-2642	poliziotto uomo carnagione abbastanza scura
+1F46E-1F3FF	agente di polizia carnagione scura
+1F46E-1F3FF-200D-2640	poliziotta carnagione scura
+1F46E-1F3FF-200D-2642	poliziotto uomo carnagione scura
+1F46F	persone con orecchie da coniglio
+1F46F-200D-2640	donne con orecchie da coniglio
+1F46F-200D-2642	uomini con orecchie da coniglio
+1F470	persona con velo
+1F470-200D-2640	sposa con velo
+1F470-200D-2642	sposo con velo
+1F470-1F3FB	persona con velo carnagione chiara
+1F470-1F3FB-200D-2640	sposa con velo carnagione chiara
+1F470-1F3FB-200D-2642	sposo con velo carnagione chiara
+1F470-1F3FC	persona con velo carnagione abbastanza chiara
+1F470-1F3FC-200D-2640	sposa con velo carnagione abbastanza chiara
+1F470-1F3FC-200D-2642	sposo con velo carnagione abbastanza chiara
+1F470-1F3FD	persona con velo carnagione olivastra
+1F470-1F3FD-200D-2640	sposa con velo carnagione olivastra
+1F470-1F3FD-200D-2642	sposo con velo carnagione olivastra
+1F470-1F3FE	persona con velo carnagione abbastanza scura
+1F470-1F3FE-200D-2640	sposa con velo carnagione abbastanza scura
+1F470-1F3FE-200D-2642	sposo con velo carnagione abbastanza scura
+1F470-1F3FF	persona con velo carnagione scura
+1F470-1F3FF-200D-2640	sposa con velo carnagione scura
+1F470-1F3FF-200D-2642	sposo con velo carnagione scura
+1F471	persona bionda
+1F471-200D-2640	donna bionda
+1F471-200D-2642	uomo biondo
+1F471-1F3FB	persona bionda carnagione chiara
+1F471-1F3FB-200D-2640	donna bionda carnagione chiara
+1F471-1F3FB-200D-2642	uomo biondo carnagione chiara
+1F471-1F3FC	persona bionda carnagione abbastanza chiara
+1F471-1F3FC-200D-2640	donna bionda carnagione abbastanza chiara
+1F471-1F3FC-200D-2642	uomo biondo carnagione abbastanza chiara
+1F471-1F3FD	persona bionda carnagione olivastra
+1F471-1F3FD-200D-2640	donna bionda carnagione olivastra
+1F471-1F3FD-200D-2642	uomo biondo carnagione olivastra
+1F471-1F3FE	persona bionda carnagione abbastanza scura
+1F471-1F3FE-200D-2640	donna bionda carnagione abbastanza scura
+1F471-1F3FE-200D-2642	uomo biondo carnagione abbastanza scura
+1F471-1F3FF	persona bionda carnagione scura
+1F471-1F3FF-200D-2640	donna bionda carnagione scura
+1F471-1F3FF-200D-2642	uomo biondo carnagione scura
+1F472	uomo con zucchetto cinese
+1F472-1F3FB	uomo con zucchetto cinese carnagione chiara
+1F472-1F3FC	uomo con zucchetto cinese carnagione abbastanza chiara
+1F472-1F3FD	uomo con zucchetto cinese carnagione olivastra
+1F472-1F3FE	uomo con zucchetto cinese carnagione abbastanza scura
+1F472-1F3FF	uomo con zucchetto cinese carnagione scura
+1F473	persona con turbante
+1F473-200D-2640	donna con turbante
+1F473-200D-2642	uomo con turbante
+1F473-1F3FB	persona con turbante carnagione chiara
+1F473-1F3FB-200D-2640	donna con turbante carnagione chiara
+1F473-1F3FB-200D-2642	uomo con turbante carnagione chiara
+1F473-1F3FC	persona con turbante carnagione abbastanza chiara
+1F473-1F3FC-200D-2640	donna con turbante carnagione abbastanza chiara
+1F473-1F3FC-200D-2642	uomo con turbante carnagione abbastanza chiara
+1F473-1F3FD	persona con turbante carnagione olivastra
+1F473-1F3FD-200D-2640	donna con turbante carnagione olivastra
+1F473-1F3FD-200D-2642	uomo con turbante carnagione olivastra
+1F473-1F3FE	persona con turbante carnagione abbastanza scura
+1F473-1F3FE-200D-2640	donna con turbante carnagione abbastanza scura
+1F473-1F3FE-200D-2642	uomo con turbante carnagione abbastanza scura
+1F473-1F3FF	persona con turbante carnagione scura
+1F473-1F3FF-200D-2640	donna con turbante carnagione scura
+1F473-1F3FF-200D-2642	uomo con turbante carnagione scura
+1F474	uomo anziano
+1F474-1F3FB	uomo anziano carnagione chiara
+1F474-1F3FC	uomo anziano carnagione abbastanza chiara
+1F474-1F3FD	uomo anziano carnagione olivastra
+1F474-1F3FE	uomo anziano carnagione abbastanza scura
+1F474-1F3FF	uomo anziano carnagione scura
+1F475	donna anziana
+1F475-1F3FB	donna anziana carnagione chiara
+1F475-1F3FC	donna anziana carnagione abbastanza chiara
+1F475-1F3FD	donna anziana carnagione olivastra
+1F475-1F3FE	donna anziana carnagione abbastanza scura
+1F475-1F3FF	donna anziana carnagione scura
+1F476	neonato
+1F476-1F3FB	neonato carnagione chiara
+1F476-1F3FC	neonato carnagione abbastanza chiara
+1F476-1F3FD	neonato carnagione olivastra
+1F476-1F3FE	neonato carnagione abbastanza scura
+1F476-1F3FF	neonato carnagione scura
+1F477	operaio edile
+1F477-200D-2640	operaia edile
+1F477-200D-2642	operaio edile uomo
+1F477-1F3FB	operaio edile carnagione chiara
+1F477-1F3FB-200D-2640	operaia edile carnagione chiara
+1F477-1F3FB-200D-2642	operaio edile uomo carnagione chiara
+1F477-1F3FC	operaio edile carnagione abbastanza chiara
+1F477-1F3FC-200D-2640	operaia edile carnagione abbastanza chiara
+1F477-1F3FC-200D-2642	operaio edile uomo carnagione abbastanza chiara
+1F477-1F3FD	operaio edile carnagione olivastra
+1F477-1F3FD-200D-2640	operaia edile carnagione olivastra
+1F477-1F3FD-200D-2642	operaio edile uomo carnagione olivastra
+1F477-1F3FE	operaio edile carnagione abbastanza scura
+1F477-1F3FE-200D-2640	operaia edile carnagione abbastanza scura
+1F477-1F3FE-200D-2642	operaio edile uomo carnagione abbastanza scura
+1F477-1F3FF	operaio edile carnagione scura
+1F477-1F3FF-200D-2640	operaia edile carnagione scura
+1F477-1F3FF-200D-2642	operaio edile uomo carnagione scura
+1F478	principessa
+1F478-1F3FB	principessa carnagione chiara
+1F478-1F3FC	principessa carnagione abbastanza chiara
+1F478-1F3FD	principessa carnagione olivastra
+1F478-1F3FE	principessa carnagione abbastanza scura
+1F478-1F3FF	principessa carnagione scura
+1F479	orco
+1F47A	goblin
+1F47B	fantasma
+1F47C	angioletto
+1F47C-1F3FB	angioletto carnagione chiara
+1F47C-1F3FC	angioletto carnagione abbastanza chiara
+1F47C-1F3FD	angioletto carnagione olivastra
+1F47C-1F3FE	angioletto carnagione abbastanza scura
+1F47C-1F3FF	angioletto carnagione scura
+1F47D	alieno
+1F47E	mostro alieno
+1F47F	faccina arrabbiata con corna
+1F480	teschio
+1F481	persona al punto informazioni
+1F481-200D-2640	donna al punto informazioni
+1F481-200D-2642	uomo al punto informazioni
+1F481-1F3FB	persona al punto informazioni carnagione chiara
+1F481-1F3FB-200D-2640	donna al punto informazioni carnagione chiara
+1F481-1F3FB-200D-2642	uomo al punto informazioni carnagione chiara
+1F481-1F3FC	persona al punto informazioni carnagione abbastanza chiara
+1F481-1F3FC-200D-2640	donna al punto informazioni carnagione abbastanza chiara
+1F481-1F3FC-200D-2642	uomo al punto informazioni carnagione abbastanza chiara
+1F481-1F3FD	persona al punto informazioni carnagione olivastra
+1F481-1F3FD-200D-2640	donna al punto informazioni carnagione olivastra
+1F481-1F3FD-200D-2642	uomo al punto informazioni carnagione olivastra
+1F481-1F3FE	persona al punto informazioni carnagione abbastanza scura
+1F481-1F3FE-200D-2640	donna al punto informazioni carnagione abbastanza scura
+1F481-1F3FE-200D-2642	uomo al punto informazioni carnagione abbastanza scura
+1F481-1F3FF	persona al punto informazioni carnagione scura
+1F481-1F3FF-200D-2640	donna al punto informazioni carnagione scura
+1F481-1F3FF-200D-2642	uomo al punto informazioni carnagione scura
+1F482	guardia
+1F482-200D-2640	guardia donna
+1F482-200D-2642	guardia uomo
+1F482-1F3FB	guardia carnagione chiara
+1F482-1F3FB-200D-2640	guardia donna carnagione chiara
+1F482-1F3FB-200D-2642	guardia uomo carnagione chiara
+1F482-1F3FC	guardia carnagione abbastanza chiara
+1F482-1F3FC-200D-2640	guardia donna carnagione abbastanza chiara
+1F482-1F3FC-200D-2642	guardia uomo carnagione abbastanza chiara
+1F482-1F3FD	guardia carnagione olivastra
+1F482-1F3FD-200D-2640	guardia donna carnagione olivastra
+1F482-1F3FD-200D-2642	guardia uomo carnagione olivastra
+1F482-1F3FE	guardia carnagione abbastanza scura
+1F482-1F3FE-200D-2640	guardia donna carnagione abbastanza scura
+1F482-1F3FE-200D-2642	guardia uomo carnagione abbastanza scura
+1F482-1F3FF	guardia carnagione scura
+1F482-1F3FF-200D-2640	guardia donna carnagione scura
+1F482-1F3FF-200D-2642	guardia uomo carnagione scura
+1F483	donna che balla
+1F483-1F3FB	donna che balla carnagione chiara
+1F483-1F3FC	donna che balla carnagione abbastanza chiara
+1F483-1F3FD	donna che balla carnagione olivastra
+1F483-1F3FE	donna che balla carnagione abbastanza scura
+1F483-1F3FF	donna che balla carnagione scura
+1F484	rossetto
+1F485	smalto per unghie
+1F485-1F3FB	smalto per unghie carnagione chiara
+1F485-1F3FC	smalto per unghie carnagione abbastanza chiara
+1F485-1F3FD	smalto per unghie carnagione olivastra
+1F485-1F3FE	smalto per unghie carnagione abbastanza scura
+1F485-1F3FF	smalto per unghie carnagione scura
+1F486	persona che riceve un massaggio
+1F486-200D-2640	donna che riceve un massaggio
+1F486-200D-2642	uomo che riceve un massaggio
+1F486-1F3FB	persona che riceve un massaggio carnagione chiara
+1F486-1F3FB-200D-2640	donna che riceve un massaggio carnagione chiara
+1F486-1F3FB-200D-2642	uomo che riceve un massaggio carnagione chiara
+1F486-1F3FC	persona che riceve un massaggio carnagione abbastanza chiara
+1F486-1F3FC-200D-2640	donna che riceve un massaggio carnagione abbastanza chiara
+1F486-1F3FC-200D-2642	uomo che riceve un massaggio carnagione abbastanza chiara
+1F486-1F3FD	persona che riceve un massaggio carnagione olivastra
+1F486-1F3FD-200D-2640	donna che riceve un massaggio carnagione olivastra
+1F486-1F3FD-200D-2642	uomo che riceve un massaggio carnagione olivastra
+1F486-1F3FE	persona che riceve un massaggio carnagione abbastanza scura
+1F486-1F3FE-200D-2640	donna che riceve un massaggio carnagione abbastanza scura
+1F486-1F3FE-200D-2642	uomo che riceve un massaggio carnagione abbastanza scura
+1F486-1F3FF	persona che riceve un massaggio carnagione scura
+1F486-1F3FF-200D-2640	donna che riceve un massaggio carnagione scura
+1F486-1F3FF-200D-2642	uomo che riceve un massaggio carnagione scura
+1F487	taglio di capelli
+1F487-200D-2640	taglio di capelli per donna
+1F487-200D-2642	taglio di capelli per uomo
+1F487-1F3FB	taglio di capelli carnagione chiara
+1F487-1F3FB-200D-2640	taglio di capelli per donna carnagione chiara
+1F487-1F3FB-200D-2642	taglio di capelli per uomo carnagione chiara
+1F487-1F3FC	taglio di capelli carnagione abbastanza chiara
+1F487-1F3FC-200D-2640	taglio di capelli per donna carnagione abbastanza chiara
+1F487-1F3FC-200D-2642	taglio di capelli per uomo carnagione abbastanza chiara
+1F487-1F3FD	taglio di capelli carnagione olivastra
+1F487-1F3FD-200D-2640	taglio di capelli per donna carnagione olivastra
+1F487-1F3FD-200D-2642	taglio di capelli per uomo carnagione olivastra
+1F487-1F3FE	taglio di capelli carnagione abbastanza scura
+1F487-1F3FE-200D-2640	taglio di capelli per donna carnagione abbastanza scura
+1F487-1F3FE-200D-2642	taglio di capelli per uomo carnagione abbastanza scura
+1F487-1F3FF	taglio di capelli carnagione scura
+1F487-1F3FF-200D-2640	taglio di capelli per donna carnagione scura
+1F487-1F3FF-200D-2642	taglio di capelli per uomo carnagione scura
+1F488	barbiere
+1F489	siringa
+1F48A	pillola
+1F48B	impronta della bocca
+1F48C	lettera damore
+1F48D	anello
+1F48E	gemma
+1F48F	bacio tra coppia
+1F490	mazzo di fiori
+1F491	coppia con cuore
+1F492	chiesa per matrimonio
+1F493	cuore che batte
+1F494	cuore infranto
+1F495	due cuori
+1F496	cuore che luccica
+1F497	cuore che cresce
+1F498	cuore con freccia
+1F499	cuore azzurro
+1F49A	cuore verde
+1F49B	cuore giallo
+1F49C	cuore viola
+1F49D	cuore con fiocco
+1F49E	cuori che girano
+1F49F	decorazione con cuore
+1F4A0	petalo di fiore
+1F4A1	lampadina
+1F4A2	rabbia
+1F4A3	bomba
+1F4A4	sonno
+1F4A5	collisione
+1F4A6	gocce di sudore
+1F4A7	goccia
+1F4A8	nuvola di polvere
+1F4A9	cacca
+1F4AA	bicipite
+1F4AA-1F3FB	bicipite carnagione chiara
+1F4AA-1F3FC	bicipite carnagione abbastanza chiara
+1F4AA-1F3FD	bicipite carnagione olivastra
+1F4AA-1F3FE	bicipite carnagione abbastanza scura
+1F4AA-1F3FF	bicipite carnagione scura
+1F4AB	stella con scia
+1F4AC	fumetto
+1F4AD	nuvoletta
+1F4AE	fiore bianco
+1F4AF	100 punti
+1F4B0	sacco di soldi
+1F4B1	cambio valuta
+1F4B2	Dollaro
+1F4B3	carta di credito
+1F4B4	banconota Yen
+1F4B5	banconota Dollaro
+1F4B6	banconota Euro
+1F4B7	banconota Sterlina
+1F4B8	soldi con le ali
+1F4B9	grafico ascendente
+1F4BA	sedile
+1F4BB	computer portatile
+1F4BC	valigetta 24 ore
+1F4BD	minidisc
+1F4BE	floppy disc
+1F4BF	disco ottico
+1F4C0	DVD
+1F4C1	cartella file
+1F4C2	cartella aperta
+1F4C3	pagina con piega
+1F4C4	pagina
+1F4C5	calendario
+1F4C6	calendario a strappo
+1F4C7	schedario
+1F4C8	grafico con andamento positivo
+1F4C9	grafico con andamento negativo
+1F4CA	grafico a barre
+1F4CB	portablocco
+1F4CC	puntina
+1F4CD	puntina arrotondata
+1F4CE	graffetta
+1F4CF	righello
+1F4D0	squadra
+1F4D1	etichette segnalibro
+1F4D2	quaderno ad anelli
+1F4D3	quaderno
+1F4D4	quaderno con copertina decorata
+1F4D5	libro chiuso
+1F4D6	libro aperto
+1F4D7	libro verde
+1F4D8	libro blu
+1F4D9	libro arancione
+1F4DA	libri
+1F4DB	tesserino per nome
+1F4DC	pergamena
+1F4DD	memo
+1F4DE	cornetta
+1F4DF	cercapersone
+1F4E0	fax
+1F4E1	antenna satellitare
+1F4E2	altoparlante
+1F4E3	megafono
+1F4E4	posta inviata
+1F4E5	posta ricevuta
+1F4E6	pacco
+1F4E7	e-mail
+1F4E8	posta in arrivo
+1F4E9	posta in uscita
+1F4EA	cassetta postale chiusa bandierina abbassata
+1F4EB	cassetta postale chiusa bandierina alzata
+1F4EC	cassetta postale aperta bandierina alzata
+1F4ED	cassetta postale con bandierina abbassata
+1F4EE	cassetta delle lettere
+1F4EF	corno postale
+1F4F0	quotidiano
+1F4F1	telefono cellulare
+1F4F2	telefono cellulare con freccia
+1F4F3	modalit vibrazione
+1F4F4	cellulare spento
+1F4F5	simbolo che vieta lutilizzo dei telefoni cellulari
+1F4F6	segnale cellulare
+1F4F7	fotocamera
+1F4F8	fotocamera con flash
+1F4F9	videocamera
+1F4FA	televisore
+1F4FB	radio
+1F4FC	videocassetta
+1F4FD	proiettore cinematografico
+1F4FF	rosario
+1F500	pulsante di riproduzione casuale
+1F501	pulsante di ripetizione della riproduzione
+1F502	pulsante di ripetizione della riproduzione di una traccia
+1F503	frecce verticali che ruotano in senso orario
+1F504	pulsante con frecce che ruotano in senso antiorario
+1F505	luminosit bassa
+1F506	luminosit elevata
+1F507	altoparlante disattivato
+1F508	altoparlante a volume basso
+1F509	altoparlante a volume intermedio
+1F50A	altoparlante a volume alto
+1F50B	batteria
+1F50C	spina elettrica
+1F50D	lente di ingrandimento rivolta a sinistra
+1F50E	lente di ingrandimento rivolta a destra
+1F50F	lucchetto con penna stilo
+1F510	lucchetto chiuso con chiave
+1F511	chiave
+1F512	lucchetto chiuso
+1F513	lucchetto aperto
+1F514	campana
+1F515	campana sbarrata
+1F516	segnalibro
+1F517	collegamento
+1F518	pulsante rotondo
+1F519	freccia BACK
+1F51A	freccia END
+1F51B	freccia ON
+1F51C	freccia SOON
+1F51D	freccia TOP
+1F51E	simbolo di divieto ai minorenni
+1F51F	tasto 10
+1F520	pulsante con lettere latine maiuscole
+1F521	pulsante con lettere latine minuscole
+1F522	pulsante con numeri
+1F523	pulsante con simboli
+1F524	pulsante con lettere latine
+1F525	fuoco
+1F526	torcia
+1F527	chiave inglese
+1F528	martello
+1F529	vite e bullone
+1F52A	coltello da cucina
+1F52B	pistola ad acqua
+1F52C	microscopio
+1F52D	telescopio
+1F52E	sfera di cristallo
+1F52F	stella a sei punte
+1F530	ideogramma giapponese di Principiante
+1F531	tridente
+1F532	tasto quadrato bianco con bordo nero
+1F533	tasto quadrato nero con bordo bianco
+1F534	cerchio rosso
+1F535	cerchio blu
+1F536	rombo arancione grande
+1F537	rombo blu grande
+1F538	rombo arancione piccolo
+1F539	rombo blu piccolo
+1F53A	triangolo rosso con punta verso lalto
+1F53B	triangolo rosso con punta verso il basso
+1F53C	pulsante a triangolo rivolto verso lalto
+1F53D	pulsante a triangolo rivolto verso il basso
+1F549	Om
+1F54A	colomba
+1F54B	Kaaba
+1F54C	moschea
+1F54D	sinagoga
+1F54E	Menorah
+1F550	ore una
+1F551	ore due
+1F552	ore tre
+1F553	ore quattro
+1F554	ore cinque
+1F555	ore sei
+1F556	ore sette
+1F557	ore otto
+1F558	ore nove
+1F559	ore dieci
+1F55A	ore undici
+1F55B	ore dodici
+1F55C	ore una e mezza
+1F55D	ore due e mezza
+1F55E	ore tre e mezza
+1F55F	ore quattro e mezza
+1F560	ore cinque e mezza
+1F561	ore sei e mezza
+1F562	ore sette e mezza
+1F563	ore otto e mezza
+1F564	ore nove e mezza
+1F565	ore dieci e mezza
+1F566	ore undici e mezza
+1F567	ore dodici e mezza
+1F56F	candela
+1F570	orologio da mensola
+1F573	buco
+1F574	uomo con completo che levita
+1F574-1F3FB	uomo con completo che levita carnagione chiara
+1F574-1F3FC	uomo con completo che levita carnagione abbastanza chiara
+1F574-1F3FD	uomo con completo che levita carnagione olivastra
+1F574-1F3FE	uomo con completo che levita carnagione abbastanza scura
+1F574-1F3FF	uomo con completo che levita carnagione scura
+1F575	detective
+1F575-200D-2640	investigatrice
+1F575-200D-2642	investigatore
+1F575-1F3FB	detective carnagione chiara
+1F575-1F3FB-200D-2640	investigatrice carnagione chiara
+1F575-1F3FB-200D-2642	investigatore carnagione chiara
+1F575-1F3FC	detective carnagione abbastanza chiara
+1F575-1F3FC-200D-2640	investigatrice carnagione abbastanza chiara
+1F575-1F3FC-200D-2642	investigatore carnagione abbastanza chiara
+1F575-1F3FD	detective carnagione olivastra
+1F575-1F3FD-200D-2640	investigatrice carnagione olivastra
+1F575-1F3FD-200D-2642	investigatore carnagione olivastra
+1F575-1F3FE	detective carnagione abbastanza scura
+1F575-1F3FE-200D-2640	investigatrice carnagione abbastanza scura
+1F575-1F3FE-200D-2642	investigatore carnagione abbastanza scura
+1F575-1F3FF	detective carnagione scura
+1F575-1F3FF-200D-2640	investigatrice carnagione scura
+1F575-1F3FF-200D-2642	investigatore carnagione scura
+1F576	occhiali da sole
+1F577	ragno
+1F578	ragnatela
+1F579	joystick
+1F57A	uomo che balla
+1F57A-1F3FB	uomo che balla carnagione chiara
+1F57A-1F3FC	uomo che balla carnagione abbastanza chiara
+1F57A-1F3FD	uomo che balla carnagione olivastra
+1F57A-1F3FE	uomo che balla carnagione abbastanza scura
+1F57A-1F3FF	uomo che balla carnagione scura
+1F587	graffette attaccate
+1F58A	penna a sfera
+1F58B	penna stilografica
+1F58C	pennello
+1F58D	pastello a cera
+1F590	mano aperta
+1F590-1F3FB	mano aperta carnagione chiara
+1F590-1F3FC	mano aperta carnagione abbastanza chiara
+1F590-1F3FD	mano aperta carnagione olivastra
+1F590-1F3FE	mano aperta carnagione abbastanza scura
+1F590-1F3FF	mano aperta carnagione scura
+1F595	dito medio
+1F595-1F3FB	dito medio carnagione chiara
+1F595-1F3FC	dito medio carnagione abbastanza chiara
+1F595-1F3FD	dito medio carnagione olivastra
+1F595-1F3FE	dito medio carnagione abbastanza scura
+1F595-1F3FF	dito medio carnagione scura
+1F596	saluto vulcaniano
+1F596-1F3FB	saluto vulcaniano carnagione chiara
+1F596-1F3FC	saluto vulcaniano carnagione abbastanza chiara
+1F596-1F3FD	saluto vulcaniano carnagione olivastra
+1F596-1F3FE	saluto vulcaniano carnagione abbastanza scura
+1F596-1F3FF	saluto vulcaniano carnagione scura
+1F5A4	cuore nero
+1F5A5	computer fisso
+1F5A8	stampante
+1F5B1	mouse
+1F5B2	trackball
+1F5BC	quadro incorniciato
+1F5C2	divisori per schedario
+1F5C3	schedario da tavolo
+1F5C4	schedario da ufficio
+1F5D1	cestino
+1F5D2	blocco per appunti con spirale
+1F5D3	calendario a spirale
+1F5DC	morsetto
+1F5DD	chiave antica
+1F5DE	quotidiano arrotolato
+1F5E1	pugnale
+1F5E3	persona che parla
+1F5E8	nuvoletta nera
+1F5EF	nuvoletta rabbia
+1F5F3	urna elettorale con scheda
+1F5FA	mappa mondiale
+1F5FB	Monte Fuji
+1F5FC	Torre di Tokyo
+1F5FD	Statua della Libert
+1F5FE	mappa del Giappone
+1F5FF	Moai
+1F600	faccina con un gran sorriso
+1F601	faccina raggiante con occhi felici
+1F602	faccina con lacrime di gioia
+1F603	faccina con un gran sorriso e occhi spalancati
+1F604	faccina con sorriso e occhi sorridenti
+1F605	faccina con un gran sorriso e goccia di sudore
+1F606	sorriso a bocca aperta con occhi chiusi
+1F607	faccina con sorriso e aureola
+1F608	faccina con sorriso e corna
+1F609	faccina che fa locchiolino
+1F60A	faccina con occhi sorridenti
+1F60B	faccina che si lecca i baffi
+1F60C	faccina sollevata
+1F60D	faccina con sorriso e occhi a cuore
+1F60E	faccina con sorriso e occhiali da sole
+1F60F	faccina con sorrisetto
+1F610	faccina neutra
+1F611	faccina inespressiva
+1F612	faccina contrariata
+1F613	faccina abbattuta sudata
+1F614	faccina pensierosa
+1F615	faccina confusa
+1F616	faccina frustrata
+1F617	faccina che bacia
+1F618	faccina che manda un bacio
+1F619	faccina che bacia con occhi sorridenti
+1F61A	faccina che bacia con occhi chiusi
+1F61B	faccina che mostra la lingua
+1F61C	faccina che fa locchiolino e mostra la lingua
+1F61D	faccina con un gran sorriso che mostra la lingua
+1F61E	faccina delusa
+1F61F	faccina preoccupata
+1F620	faccina arrabbiata
+1F621	faccina accigliata
+1F622	faccina che piange
+1F623	faccina perseverante
+1F624	faccina che sbuffa
+1F625	faccina delusa ma sollevata
+1F626	faccina imbronciata con bocca aperta
+1F627	faccina angosciata
+1F628	faccina impaurita
+1F629	faccina esausta
+1F62A	faccina assonnata
+1F62B	faccina stanca
+1F62C	faccina con smorfia
+1F62D	faccina disperata
+1F62E	faccina con bocca aperta
+1F62E-200D-1F4A8	faccina che espira
+1F62F	faccina sorpresa
+1F630	faccina sudata in ansia
+1F631	faccina terrorizzata
+1F632	faccina stupita
+1F633	faccina imbarazzata
+1F634	faccina che dorme
+1F635	faccina frastornata
+1F635-200D-1F4AB	faccina con occhi a spirale
+1F636	faccina senza bocca
+1F636-200D-1F32B	testa tra le nuvole
+1F637	faccina con mascherina
+1F638	gatto che sogghigna
+1F639	gatto con lacrime di gioia
+1F63A	gatto che sorride
+1F63B	gatto innamorato
+1F63C	gatto con sorriso sarcastico
+1F63D	gatto che manda baci
+1F63E	gatto imbronciato
+1F63F	gatto che piange
+1F640	gatto esterrefatto
+1F641	faccina leggermente imbronciata
+1F642	faccina con sorriso accennato
+1F643	faccina sottosopra
+1F644	faccina con occhi al cielo
+1F645	persona che fa segno di no
+1F645-200D-2640	donna con gesto di rifiuto
+1F645-200D-2642	uomo con gesto di rifiuto
+1F645-1F3FB	persona che fa segno di no carnagione chiara
+1F645-1F3FB-200D-2640	donna con gesto di rifiuto carnagione chiara
+1F645-1F3FB-200D-2642	uomo con gesto di rifiuto carnagione chiara
+1F645-1F3FC	persona che fa segno di no carnagione abbastanza chiara
+1F645-1F3FC-200D-2640	donna con gesto di rifiuto carnagione abbastanza chiara
+1F645-1F3FC-200D-2642	uomo con gesto di rifiuto carnagione abbastanza chiara
+1F645-1F3FD	persona che fa segno di no carnagione olivastra
+1F645-1F3FD-200D-2640	donna con gesto di rifiuto carnagione olivastra
+1F645-1F3FD-200D-2642	uomo con gesto di rifiuto carnagione olivastra
+1F645-1F3FE	persona che fa segno di no carnagione abbastanza scura
+1F645-1F3FE-200D-2640	donna con gesto di rifiuto carnagione abbastanza scura
+1F645-1F3FE-200D-2642	uomo con gesto di rifiuto carnagione abbastanza scura
+1F645-1F3FF	persona che fa segno di no carnagione scura
+1F645-1F3FF-200D-2640	donna con gesto di rifiuto carnagione scura
+1F645-1F3FF-200D-2642	uomo con gesto di rifiuto carnagione scura
+1F646	persona con gesto OK
+1F646-200D-2640	donna con gesto OK
+1F646-200D-2642	uomo con gesto OK
+1F646-1F3FB	persona con gesto OK carnagione chiara
+1F646-1F3FB-200D-2640	donna con gesto OK carnagione chiara
+1F646-1F3FB-200D-2642	uomo con gesto OK carnagione chiara
+1F646-1F3FC	persona con gesto OK carnagione abbastanza chiara
+1F646-1F3FC-200D-2640	donna con gesto OK carnagione abbastanza chiara
+1F646-1F3FC-200D-2642	uomo con gesto OK carnagione abbastanza chiara
+1F646-1F3FD	persona con gesto OK carnagione olivastra
+1F646-1F3FD-200D-2640	donna con gesto OK carnagione olivastra
+1F646-1F3FD-200D-2642	uomo con gesto OK carnagione olivastra
+1F646-1F3FE	persona con gesto OK carnagione abbastanza scura
+1F646-1F3FE-200D-2640	donna con gesto OK carnagione abbastanza scura
+1F646-1F3FE-200D-2642	uomo con gesto OK carnagione abbastanza scura
+1F646-1F3FF	persona con gesto OK carnagione scura
+1F646-1F3FF-200D-2640	donna con gesto OK carnagione scura
+1F646-1F3FF-200D-2642	uomo con gesto OK carnagione scura
+1F647	persona che fa un inchino profondo
+1F647-200D-2640	donna che fa inchino profondo
+1F647-200D-2642	uomo che fa inchino profondo
+1F647-1F3FB	persona che fa un inchino profondo carnagione chiara
+1F647-1F3FB-200D-2640	donna che fa inchino profondo carnagione chiara
+1F647-1F3FB-200D-2642	uomo che fa inchino profondo carnagione chiara
+1F647-1F3FC	persona che fa un inchino profondo carnagione abbastanza chiara
+1F647-1F3FC-200D-2640	donna che fa inchino profondo carnagione abbastanza chiara
+1F647-1F3FC-200D-2642	uomo che fa inchino profondo carnagione abbastanza chiara
+1F647-1F3FD	persona che fa un inchino profondo carnagione olivastra
+1F647-1F3FD-200D-2640	donna che fa inchino profondo carnagione olivastra
+1F647-1F3FD-200D-2642	uomo che fa inchino profondo carnagione olivastra
+1F647-1F3FE	persona che fa un inchino profondo carnagione abbastanza scura
+1F647-1F3FE-200D-2640	donna che fa inchino profondo carnagione abbastanza scura
+1F647-1F3FE-200D-2642	uomo che fa inchino profondo carnagione abbastanza scura
+1F647-1F3FF	persona che fa un inchino profondo carnagione scura
+1F647-1F3FF-200D-2640	donna che fa inchino profondo carnagione scura
+1F647-1F3FF-200D-2642	uomo che fa inchino profondo carnagione scura
+1F648	non vedo
+1F649	non sento
+1F64A	non parlo
+1F64B	persona con mano alzata
+1F64B-200D-2640	donna con mano alzata
+1F64B-200D-2642	uomo con mano alzata
+1F64B-1F3FB	persona con mano alzata carnagione chiara
+1F64B-1F3FB-200D-2640	donna con mano alzata carnagione chiara
+1F64B-1F3FB-200D-2642	uomo con mano alzata carnagione chiara
+1F64B-1F3FC	persona con mano alzata carnagione abbastanza chiara
+1F64B-1F3FC-200D-2640	donna con mano alzata carnagione abbastanza chiara
+1F64B-1F3FC-200D-2642	uomo con mano alzata carnagione abbastanza chiara
+1F64B-1F3FD	persona con mano alzata carnagione olivastra
+1F64B-1F3FD-200D-2640	donna con mano alzata carnagione olivastra
+1F64B-1F3FD-200D-2642	uomo con mano alzata carnagione olivastra
+1F64B-1F3FE	persona con mano alzata carnagione abbastanza scura
+1F64B-1F3FE-200D-2640	donna con mano alzata carnagione abbastanza scura
+1F64B-1F3FE-200D-2642	uomo con mano alzata carnagione abbastanza scura
+1F64B-1F3FF	persona con mano alzata carnagione scura
+1F64B-1F3FF-200D-2640	donna con mano alzata carnagione scura
+1F64B-1F3FF-200D-2642	uomo con mano alzata carnagione scura
+1F64C	mani alzate
+1F64C-1F3FB	mani alzate carnagione chiara
+1F64C-1F3FC	mani alzate carnagione abbastanza chiara
+1F64C-1F3FD	mani alzate carnagione olivastra
+1F64C-1F3FE	mani alzate carnagione abbastanza scura
+1F64C-1F3FF	mani alzate carnagione scura
+1F64D	persona corrucciata
+1F64D-200D-2640	donna corrucciata
+1F64D-200D-2642	uomo corrucciato
+1F64D-1F3FB	persona corrucciata carnagione chiara
+1F64D-1F3FB-200D-2640	donna corrucciata carnagione chiara
+1F64D-1F3FB-200D-2642	uomo corrucciato carnagione chiara
+1F64D-1F3FC	persona corrucciata carnagione abbastanza chiara
+1F64D-1F3FC-200D-2640	donna corrucciata carnagione abbastanza chiara
+1F64D-1F3FC-200D-2642	uomo corrucciato carnagione abbastanza chiara
+1F64D-1F3FD	persona corrucciata carnagione olivastra
+1F64D-1F3FD-200D-2640	donna corrucciata carnagione olivastra
+1F64D-1F3FD-200D-2642	uomo corrucciato carnagione olivastra
+1F64D-1F3FE	persona corrucciata carnagione abbastanza scura
+1F64D-1F3FE-200D-2640	donna corrucciata carnagione abbastanza scura
+1F64D-1F3FE-200D-2642	uomo corrucciato carnagione abbastanza scura
+1F64D-1F3FF	persona corrucciata carnagione scura
+1F64D-1F3FF-200D-2640	donna corrucciata carnagione scura
+1F64D-1F3FF-200D-2642	uomo corrucciato carnagione scura
+1F64E	persona imbronciata
+1F64E-200D-2640	donna imbronciata
+1F64E-200D-2642	uomo imbronciato
+1F64E-1F3FB	persona imbronciata carnagione chiara
+1F64E-1F3FB-200D-2640	donna imbronciata carnagione chiara
+1F64E-1F3FB-200D-2642	uomo imbronciato carnagione chiara
+1F64E-1F3FC	persona imbronciata carnagione abbastanza chiara
+1F64E-1F3FC-200D-2640	donna imbronciata carnagione abbastanza chiara
+1F64E-1F3FC-200D-2642	uomo imbronciato carnagione abbastanza chiara
+1F64E-1F3FD	persona imbronciata carnagione olivastra
+1F64E-1F3FD-200D-2640	donna imbronciata carnagione olivastra
+1F64E-1F3FD-200D-2642	uomo imbronciato carnagione olivastra
+1F64E-1F3FE	persona imbronciata carnagione abbastanza scura
+1F64E-1F3FE-200D-2640	donna imbronciata carnagione abbastanza scura
+1F64E-1F3FE-200D-2642	uomo imbronciato carnagione abbastanza scura
+1F64E-1F3FF	persona imbronciata carnagione scura
+1F64E-1F3FF-200D-2640	donna imbronciata carnagione scura
+1F64E-1F3FF-200D-2642	uomo imbronciato carnagione scura
+1F64F	mani giunte
+1F64F-1F3FB	mani giunte carnagione chiara
+1F64F-1F3FC	mani giunte carnagione abbastanza chiara
+1F64F-1F3FD	mani giunte carnagione olivastra
+1F64F-1F3FE	mani giunte carnagione abbastanza scura
+1F64F-1F3FF	mani giunte carnagione scura
+1F680	razzo
+1F681	elicottero
+1F682	locomotiva
+1F683	vagone
+1F684	treno alta velocit
+1F685	treno alta velocit punta arrotondata
+1F686	treno
+1F687	metropolitana
+1F688	metrotranvia
+1F689	stazione
+1F68A	tram
+1F68B	vagone del tram
+1F68C	bus
+1F68D	bus in arrivo
+1F68E	filobus
+1F68F	fermata dellautobus
+1F690	pulmino
+1F691	ambulanza
+1F692	camion dei pompieri
+1F693	macchina della polizia
+1F694	macchina della polizia in arrivo
+1F695	taxi
+1F696	taxi in arrivo
+1F697	auto
+1F698	auto in arrivo
+1F699	SUV
+1F69A	camion
+1F69B	autoarticolato
+1F69C	trattore
+1F69D	monorotaia
+1F69E	ferrovia di montagna
+1F69F	ferrovia sospesa
+1F6A0	funivia
+1F6A1	funivia aerea
+1F6A2	nave
+1F6A3	persona in barca a remi
+1F6A3-200D-2640	donna in barca a remi
+1F6A3-200D-2642	uomo in barca a remi
+1F6A3-1F3FB	persona in barca a remi carnagione chiara
+1F6A3-1F3FB-200D-2640	donna in barca a remi carnagione chiara
+1F6A3-1F3FB-200D-2642	uomo in barca a remi carnagione chiara
+1F6A3-1F3FC	persona in barca a remi carnagione abbastanza chiara
+1F6A3-1F3FC-200D-2640	donna in barca a remi carnagione abbastanza chiara
+1F6A3-1F3FC-200D-2642	uomo in barca a remi carnagione abbastanza chiara
+1F6A3-1F3FD	persona in barca a remi carnagione olivastra
+1F6A3-1F3FD-200D-2640	donna in barca a remi carnagione olivastra
+1F6A3-1F3FD-200D-2642	uomo in barca a remi carnagione olivastra
+1F6A3-1F3FE	persona in barca a remi carnagione abbastanza scura
+1F6A3-1F3FE-200D-2640	donna in barca a remi carnagione abbastanza scura
+1F6A3-1F3FE-200D-2642	uomo in barca a remi carnagione abbastanza scura
+1F6A3-1F3FF	persona in barca a remi carnagione scura
+1F6A3-1F3FF-200D-2640	donna in barca a remi carnagione scura
+1F6A3-1F3FF-200D-2642	uomo in barca a remi carnagione scura
+1F6A4	motoscafo
+1F6A5	semaforo orizzontale
+1F6A6	semaforo verticale
+1F6A7	area cantiere
+1F6A8	lampeggiante
+1F6A9	bandierina rossa
+1F6AA	porta
+1F6AB	segnale di divieto
+1F6AC	sigaretta
+1F6AD	segnale di vietato fumare
+1F6AE	simbolo per la raccolta dei rifiuti
+1F6AF	simbolo del divieto di gettare rifiuti
+1F6B0	acqua potabile
+1F6B1	simbolo di acqua non potabile
+1F6B2	bicicletta
+1F6B3	segnale di divieto di transito delle biciclette
+1F6B4	ciclista
+1F6B4-200D-2640	ciclista donna
+1F6B4-200D-2642	ciclista uomo
+1F6B4-1F3FB	ciclista carnagione chiara
+1F6B4-1F3FB-200D-2640	ciclista donna carnagione chiara
+1F6B4-1F3FB-200D-2642	ciclista uomo carnagione chiara
+1F6B4-1F3FC	ciclista carnagione abbastanza chiara
+1F6B4-1F3FC-200D-2640	ciclista donna carnagione abbastanza chiara
+1F6B4-1F3FC-200D-2642	ciclista uomo carnagione abbastanza chiara
+1F6B4-1F3FD	ciclista carnagione olivastra
+1F6B4-1F3FD-200D-2640	ciclista donna carnagione olivastra
+1F6B4-1F3FD-200D-2642	ciclista uomo carnagione olivastra
+1F6B4-1F3FE	ciclista carnagione abbastanza scura
+1F6B4-1F3FE-200D-2640	ciclista donna carnagione abbastanza scura
+1F6B4-1F3FE-200D-2642	ciclista uomo carnagione abbastanza scura
+1F6B4-1F3FF	ciclista carnagione scura
+1F6B4-1F3FF-200D-2640	ciclista donna carnagione scura
+1F6B4-1F3FF-200D-2642	ciclista uomo carnagione scura
+1F6B5	ciclista di mountain bike
+1F6B5-200D-2640	ciclista donna di mountain bike
+1F6B5-200D-2642	ciclista uomo di mountain bike
+1F6B5-1F3FB	ciclista di mountain bike carnagione chiara
+1F6B5-1F3FB-200D-2640	ciclista donna di mountain bike carnagione chiara
+1F6B5-1F3FB-200D-2642	ciclista uomo di mountain bike carnagione chiara
+1F6B5-1F3FC	ciclista di mountain bike carnagione abbastanza chiara
+1F6B5-1F3FC-200D-2640	ciclista donna di mountain bike carnagione abbastanza chiara
+1F6B5-1F3FC-200D-2642	ciclista uomo di mountain bike carnagione abbastanza chiara
+1F6B5-1F3FD	ciclista di mountain bike carnagione olivastra
+1F6B5-1F3FD-200D-2640	ciclista donna di mountain bike carnagione olivastra
+1F6B5-1F3FD-200D-2642	ciclista uomo di mountain bike carnagione olivastra
+1F6B5-1F3FE	ciclista di mountain bike carnagione abbastanza scura
+1F6B5-1F3FE-200D-2640	ciclista donna di mountain bike carnagione abbastanza scura
+1F6B5-1F3FE-200D-2642	ciclista uomo di mountain bike carnagione abbastanza scura
+1F6B5-1F3FF	ciclista di mountain bike carnagione scura
+1F6B5-1F3FF-200D-2640	ciclista donna di mountain bike carnagione scura
+1F6B5-1F3FF-200D-2642	ciclista uomo di mountain bike carnagione scura
+1F6B6	pedone
+1F6B6-200D-2640	donna che cammina
+1F6B6-200D-2642	uomo che cammina
+1F6B6-1F3FB	pedone carnagione chiara
+1F6B6-1F3FB-200D-2640	donna che cammina carnagione chiara
+1F6B6-1F3FB-200D-2642	uomo che cammina carnagione chiara
+1F6B6-1F3FC	pedone carnagione abbastanza chiara
+1F6B6-1F3FC-200D-2640	donna che cammina carnagione abbastanza chiara
+1F6B6-1F3FC-200D-2642	uomo che cammina carnagione abbastanza chiara
+1F6B6-1F3FD	pedone carnagione olivastra
+1F6B6-1F3FD-200D-2640	donna che cammina carnagione olivastra
+1F6B6-1F3FD-200D-2642	uomo che cammina carnagione olivastra
+1F6B6-1F3FE	pedone carnagione abbastanza scura
+1F6B6-1F3FE-200D-2640	donna che cammina carnagione abbastanza scura
+1F6B6-1F3FE-200D-2642	uomo che cammina carnagione abbastanza scura
+1F6B6-1F3FF	pedone carnagione scura
+1F6B6-1F3FF-200D-2640	donna che cammina carnagione scura
+1F6B6-1F3FF-200D-2642	uomo che cammina carnagione scura
+1F6B7	simbolo del divieto di transito pedoni
+1F6B8	attraversamento bambini
+1F6B9	simbolo del bagno degli uomini
+1F6BA	simbolo del bagno delle donne
+1F6BB	simbolo dei servizi igienici
+1F6BC	simbolo con immagine di bambino
+1F6BD	toilette
+1F6BE	simbolo del WC
+1F6BF	doccia
+1F6C0	persona che fa il bagno
+1F6C0-1F3FB	persona che fa il bagno carnagione chiara
+1F6C0-1F3FC	persona che fa il bagno carnagione abbastanza chiara
+1F6C0-1F3FD	persona che fa il bagno carnagione olivastra
+1F6C0-1F3FE	persona che fa il bagno carnagione abbastanza scura
+1F6C0-1F3FF	persona che fa il bagno carnagione scura
+1F6C1	vasca
+1F6C2	simbolo del controllo passaporti
+1F6C3	simbolo della dogana
+1F6C4	simbolo del ritiro bagagli
+1F6C5	simbolo del deposito bagagli
+1F6CB	divano e lampada
+1F6CC	persona a letto
+1F6CC-1F3FB	persona a letto carnagione chiara
+1F6CC-1F3FC	persona a letto carnagione abbastanza chiara
+1F6CC-1F3FD	persona a letto carnagione olivastra
+1F6CC-1F3FE	persona a letto carnagione abbastanza scura
+1F6CC-1F3FF	persona a letto carnagione scura
+1F6CD	borse della spesa
+1F6CE	campanello da hotel
+1F6CF	letto
+1F6D0	luogo di culto
+1F6D1	segnale di stop
+1F6D2	carrello
+1F6D5	tempio ind
+1F6D6	capanna
+1F6D7	ascensore
+1F6E0	martello e chiave inglese
+1F6E1	scudo
+1F6E2	barile di petrolio
+1F6E3	autostrada
+1F6E4	binari
+1F6E5	barca a motore
+1F6E9	aereo turistico
+1F6EB	decollo
+1F6EC	atterraggio
+1F6F0	satellite
+1F6F3	nave da crociera
+1F6F4	monopattino
+1F6F5	scooter
+1F6F6	canoa
+1F6F7	slitta
+1F6F8	disco volante
+1F6F9	skateboard
+1F6FA	risci a motore
+1F6FB	pickup
+1F6FC	pattini a rotelle
+1F7E0	cerchio arancione
+1F7E1	cerchio giallo
+1F7E2	cerchio verde
+1F7E3	cerchio viola
+1F7E4	cerchio marrone
+1F7E5	quadrato rosso
+1F7E6	quadrato blu
+1F7E7	quadrato arancione
+1F7E8	quadrato giallo
+1F7E9	quadrato verde
+1F7EA	quadrato viola
+1F7EB	quadrato marrone
+1F90C	mano a pigna
+1F90C-1F3FB	mano a pigna carnagione chiara
+1F90C-1F3FC	mano a pigna carnagione abbastanza chiara
+1F90C-1F3FD	mano a pigna carnagione olivastra
+1F90C-1F3FE	mano a pigna carnagione abbastanza scura
+1F90C-1F3FF	mano a pigna carnagione scura
+1F90D	cuore bianco
+1F90E	cuore marrone
+1F90F	mano che fa il gesto del pizzico
+1F90F-1F3FB	mano che fa il gesto del pizzico carnagione chiara
+1F90F-1F3FC	mano che fa il gesto del pizzico carnagione abbastanza chiara
+1F90F-1F3FD	mano che fa il gesto del pizzico carnagione olivastra
+1F90F-1F3FE	mano che fa il gesto del pizzico carnagione abbastanza scura
+1F90F-1F3FF	mano che fa il gesto del pizzico carnagione scura
+1F910	faccina con bocca con cerniera
+1F911	faccina avida di denaro
+1F912	faccina con termometro
+1F913	faccina nerd
+1F914	faccina concentrata
+1F915	faccina con la testa bendata
+1F916	faccina di robot
+1F917	faccina che abbraccia
+1F918	segno delle corna
+1F918-1F3FB	segno delle corna carnagione chiara
+1F918-1F3FC	segno delle corna carnagione abbastanza chiara
+1F918-1F3FD	segno delle corna carnagione olivastra
+1F918-1F3FE	segno delle corna carnagione abbastanza scura
+1F918-1F3FF	segno delle corna carnagione scura
+1F919	mano con gesto di chiamata
+1F919-1F3FB	mano con gesto di chiamata carnagione chiara
+1F919-1F3FC	mano con gesto di chiamata carnagione abbastanza chiara
+1F919-1F3FD	mano con gesto di chiamata carnagione olivastra
+1F919-1F3FE	mano con gesto di chiamata carnagione abbastanza scura
+1F919-1F3FF	mano con gesto di chiamata carnagione scura
+1F91A	dorso mano alzata
+1F91A-1F3FB	dorso mano alzata carnagione chiara
+1F91A-1F3FC	dorso mano alzata carnagione abbastanza chiara
+1F91A-1F3FD	dorso mano alzata carnagione olivastra
+1F91A-1F3FE	dorso mano alzata carnagione abbastanza scura
+1F91A-1F3FF	dorso mano alzata carnagione scura
+1F91B	pugno a sinistra
+1F91B-1F3FB	pugno a sinistra carnagione chiara
+1F91B-1F3FC	pugno a sinistra carnagione abbastanza chiara
+1F91B-1F3FD	pugno a sinistra carnagione olivastra
+1F91B-1F3FE	pugno a sinistra carnagione abbastanza scura
+1F91B-1F3FF	pugno a sinistra carnagione scura
+1F91C	pugno a destra
+1F91C-1F3FB	pugno a destra carnagione chiara
+1F91C-1F3FC	pugno a destra carnagione abbastanza chiara
+1F91C-1F3FD	pugno a destra carnagione olivastra
+1F91C-1F3FE	pugno a destra carnagione abbastanza scura
+1F91C-1F3FF	pugno a destra carnagione scura
+1F91D	stretta di mano
+1F91E	dita incrociate
+1F91E-1F3FB	dita incrociate carnagione chiara
+1F91E-1F3FC	dita incrociate carnagione abbastanza chiara
+1F91E-1F3FD	dita incrociate carnagione olivastra
+1F91E-1F3FE	dita incrociate carnagione abbastanza scura
+1F91E-1F3FF	dita incrociate carnagione scura
+1F91F	gesto ti amo
+1F91F-1F3FB	gesto ti amo carnagione chiara
+1F91F-1F3FC	gesto ti amo carnagione abbastanza chiara
+1F91F-1F3FD	gesto ti amo carnagione olivastra
+1F91F-1F3FE	gesto ti amo carnagione abbastanza scura
+1F91F-1F3FF	gesto ti amo carnagione scura
+1F920	faccina con cappello da cowboy
+1F921	faccina pagliaccio
+1F922	faccina nauseata
+1F923	ridere a crepapelle
+1F924	faccina che sbava
+1F925	faccina bugiarda
+1F926	persona esasperata
+1F926-200D-2640	donna esasperata
+1F926-200D-2642	uomo esasperato
+1F926-1F3FB	persona esasperata carnagione chiara
+1F926-1F3FB-200D-2640	donna esasperata carnagione chiara
+1F926-1F3FB-200D-2642	uomo esasperato carnagione chiara
+1F926-1F3FC	persona esasperata carnagione abbastanza chiara
+1F926-1F3FC-200D-2640	donna esasperata carnagione abbastanza chiara
+1F926-1F3FC-200D-2642	uomo esasperato carnagione abbastanza chiara
+1F926-1F3FD	persona esasperata carnagione olivastra
+1F926-1F3FD-200D-2640	donna esasperata carnagione olivastra
+1F926-1F3FD-200D-2642	uomo esasperato carnagione olivastra
+1F926-1F3FE	persona esasperata carnagione abbastanza scura
+1F926-1F3FE-200D-2640	donna esasperata carnagione abbastanza scura
+1F926-1F3FE-200D-2642	uomo esasperato carnagione abbastanza scura
+1F926-1F3FF	persona esasperata carnagione scura
+1F926-1F3FF-200D-2640	donna esasperata carnagione scura
+1F926-1F3FF-200D-2642	uomo esasperato carnagione scura
+1F927	faccina che starnutisce
+1F928	faccia con sopracciglia alzate
+1F929	colpo di fulmine
+1F92A	faccina impazzita
+1F92B	faccina che zittisce
+1F92C	faccina con simboli sulla bocca
+1F92D	faccina con mano sulla bocca
+1F92E	faccina che vomita
+1F92F	testa che esplode
+1F930	donna incinta
+1F930-1F3FB	donna incinta carnagione chiara
+1F930-1F3FC	donna incinta carnagione abbastanza chiara
+1F930-1F3FD	donna incinta carnagione olivastra
+1F930-1F3FE	donna incinta carnagione abbastanza scura
+1F930-1F3FF	donna incinta carnagione scura
+1F931	allattare
+1F931-1F3FB	allattare carnagione chiara
+1F931-1F3FC	allattare carnagione abbastanza chiara
+1F931-1F3FD	allattare carnagione olivastra
+1F931-1F3FE	allattare carnagione abbastanza scura
+1F931-1F3FF	allattare carnagione scura
+1F932	mani unite in alto
+1F932-1F3FB	mani unite in alto carnagione chiara
+1F932-1F3FC	mani unite in alto carnagione abbastanza chiara
+1F932-1F3FD	mani unite in alto carnagione olivastra
+1F932-1F3FE	mani unite in alto carnagione abbastanza scura
+1F932-1F3FF	mani unite in alto carnagione scura
+1F933	selfie
+1F933-1F3FB	selfie carnagione chiara
+1F933-1F3FC	selfie carnagione abbastanza chiara
+1F933-1F3FD	selfie carnagione olivastra
+1F933-1F3FE	selfie carnagione abbastanza scura
+1F933-1F3FF	selfie carnagione scura
+1F934	principe
+1F934-1F3FB	principe carnagione chiara
+1F934-1F3FC	principe carnagione abbastanza chiara
+1F934-1F3FD	principe carnagione olivastra
+1F934-1F3FE	principe carnagione abbastanza scura
+1F934-1F3FF	principe carnagione scura
+1F935	persona in smoking
+1F935-200D-2640	donna in smoking
+1F935-200D-2642	uomo in smoking
+1F935-1F3FB	persona in smoking carnagione chiara
+1F935-1F3FB-200D-2640	donna in smoking carnagione chiara
+1F935-1F3FB-200D-2642	uomo in smoking carnagione chiara
+1F935-1F3FC	persona in smoking carnagione abbastanza chiara
+1F935-1F3FC-200D-2640	donna in smoking carnagione abbastanza chiara
+1F935-1F3FC-200D-2642	uomo in smoking carnagione abbastanza chiara
+1F935-1F3FD	persona in smoking carnagione olivastra
+1F935-1F3FD-200D-2640	donna in smoking carnagione olivastra
+1F935-1F3FD-200D-2642	uomo in smoking carnagione olivastra
+1F935-1F3FE	persona in smoking carnagione abbastanza scura
+1F935-1F3FE-200D-2640	donna in smoking carnagione abbastanza scura
+1F935-1F3FE-200D-2642	uomo in smoking carnagione abbastanza scura
+1F935-1F3FF	persona in smoking carnagione scura
+1F935-1F3FF-200D-2640	donna in smoking carnagione scura
+1F935-1F3FF-200D-2642	uomo in smoking carnagione scura
+1F936	Mamma Natale
+1F936-1F3FB	Mamma Natale carnagione chiara
+1F936-1F3FC	Mamma Natale carnagione abbastanza chiara
+1F936-1F3FD	Mamma Natale carnagione olivastra
+1F936-1F3FE	Mamma Natale carnagione abbastanza scura
+1F936-1F3FF	Mamma Natale carnagione scura
+1F937	persona che scrolla le spalle
+1F937-200D-2640	donna che scrolla le spalle
+1F937-200D-2642	uomo che scrolla le spalle
+1F937-1F3FB	persona che scrolla le spalle carnagione chiara
+1F937-1F3FB-200D-2640	donna che scrolla le spalle carnagione chiara
+1F937-1F3FB-200D-2642	uomo che scrolla le spalle carnagione chiara
+1F937-1F3FC	persona che scrolla le spalle carnagione abbastanza chiara
+1F937-1F3FC-200D-2640	donna che scrolla le spalle carnagione abbastanza chiara
+1F937-1F3FC-200D-2642	uomo che scrolla le spalle carnagione abbastanza chiara
+1F937-1F3FD	persona che scrolla le spalle carnagione olivastra
+1F937-1F3FD-200D-2640	donna che scrolla le spalle carnagione olivastra
+1F937-1F3FD-200D-2642	uomo che scrolla le spalle carnagione olivastra
+1F937-1F3FE	persona che scrolla le spalle carnagione abbastanza scura
+1F937-1F3FE-200D-2640	donna che scrolla le spalle carnagione abbastanza scura
+1F937-1F3FE-200D-2642	uomo che scrolla le spalle carnagione abbastanza scura
+1F937-1F3FF	persona che scrolla le spalle carnagione scura
+1F937-1F3FF-200D-2640	donna che scrolla le spalle carnagione scura
+1F937-1F3FF-200D-2642	uomo che scrolla le spalle carnagione scura
+1F938	persona che fa la ruota
+1F938-200D-2640	donna che fa la ruota
+1F938-200D-2642	uomo che fa la ruota
+1F938-1F3FB	persona che fa la ruota carnagione chiara
+1F938-1F3FB-200D-2640	donna che fa la ruota carnagione chiara
+1F938-1F3FB-200D-2642	uomo che fa la ruota carnagione chiara
+1F938-1F3FC	persona che fa la ruota carnagione abbastanza chiara
+1F938-1F3FC-200D-2640	donna che fa la ruota carnagione abbastanza chiara
+1F938-1F3FC-200D-2642	uomo che fa la ruota carnagione abbastanza chiara
+1F938-1F3FD	persona che fa la ruota carnagione olivastra
+1F938-1F3FD-200D-2640	donna che fa la ruota carnagione olivastra
+1F938-1F3FD-200D-2642	uomo che fa la ruota carnagione olivastra
+1F938-1F3FE	persona che fa la ruota carnagione abbastanza scura
+1F938-1F3FE-200D-2640	donna che fa la ruota carnagione abbastanza scura
+1F938-1F3FE-200D-2642	uomo che fa la ruota carnagione abbastanza scura
+1F938-1F3FF	persona che fa la ruota carnagione scura
+1F938-1F3FF-200D-2640	donna che fa la ruota carnagione scura
+1F938-1F3FF-200D-2642	uomo che fa la ruota carnagione scura
+1F939	persona che fa giocoleria
+1F939-200D-2640	giocoliere donna
+1F939-200D-2642	giocoliere uomo
+1F939-1F3FB	persona che fa giocoleria carnagione chiara
+1F939-1F3FB-200D-2640	giocoliere donna carnagione chiara
+1F939-1F3FB-200D-2642	giocoliere uomo carnagione chiara
+1F939-1F3FC	persona che fa giocoleria carnagione abbastanza chiara
+1F939-1F3FC-200D-2640	giocoliere donna carnagione abbastanza chiara
+1F939-1F3FC-200D-2642	giocoliere uomo carnagione abbastanza chiara
+1F939-1F3FD	persona che fa giocoleria carnagione olivastra
+1F939-1F3FD-200D-2640	giocoliere donna carnagione olivastra
+1F939-1F3FD-200D-2642	giocoliere uomo carnagione olivastra
+1F939-1F3FE	persona che fa giocoleria carnagione abbastanza scura
+1F939-1F3FE-200D-2640	giocoliere donna carnagione abbastanza scura
+1F939-1F3FE-200D-2642	giocoliere uomo carnagione abbastanza scura
+1F939-1F3FF	persona che fa giocoleria carnagione scura
+1F939-1F3FF-200D-2640	giocoliere donna carnagione scura
+1F939-1F3FF-200D-2642	giocoliere uomo carnagione scura
+1F93A	schermidore
+1F93C	persone che fanno la lotta
+1F93C-200D-2640	lottatrici
+1F93C-200D-2642	lottatori
+1F93D	persona che gioca a pallanuoto
+1F93D-200D-2640	pallanuotista donna
+1F93D-200D-2642	pallanuotista uomo
+1F93D-1F3FB	persona che gioca a pallanuoto carnagione chiara
+1F93D-1F3FB-200D-2640	pallanuotista donna carnagione chiara
+1F93D-1F3FB-200D-2642	pallanuotista uomo carnagione chiara
+1F93D-1F3FC	persona che gioca a pallanuoto carnagione abbastanza chiara
+1F93D-1F3FC-200D-2640	pallanuotista donna carnagione abbastanza chiara
+1F93D-1F3FC-200D-2642	pallanuotista uomo carnagione abbastanza chiara
+1F93D-1F3FD	persona che gioca a pallanuoto carnagione olivastra
+1F93D-1F3FD-200D-2640	pallanuotista donna carnagione olivastra
+1F93D-1F3FD-200D-2642	pallanuotista uomo carnagione olivastra
+1F93D-1F3FE	persona che gioca a pallanuoto carnagione abbastanza scura
+1F93D-1F3FE-200D-2640	pallanuotista donna carnagione abbastanza scura
+1F93D-1F3FE-200D-2642	pallanuotista uomo carnagione abbastanza scura
+1F93D-1F3FF	persona che gioca a pallanuoto carnagione scura
+1F93D-1F3FF-200D-2640	pallanuotista donna carnagione scura
+1F93D-1F3FF-200D-2642	pallanuotista uomo carnagione scura
+1F93E	persona che gioca a pallamano
+1F93E-200D-2640	pallamanista donna
+1F93E-200D-2642	pallamanista uomo
+1F93E-1F3FB	persona che gioca a pallamano carnagione chiara
+1F93E-1F3FB-200D-2640	pallamanista donna carnagione chiara
+1F93E-1F3FB-200D-2642	pallamanista uomo carnagione chiara
+1F93E-1F3FC	persona che gioca a pallamano carnagione abbastanza chiara
+1F93E-1F3FC-200D-2640	pallamanista donna carnagione abbastanza chiara
+1F93E-1F3FC-200D-2642	pallamanista uomo carnagione abbastanza chiara
+1F93E-1F3FD	persona che gioca a pallamano carnagione olivastra
+1F93E-1F3FD-200D-2640	pallamanista donna carnagione olivastra
+1F93E-1F3FD-200D-2642	pallamanista uomo carnagione olivastra
+1F93E-1F3FE	persona che gioca a pallamano carnagione abbastanza scura
+1F93E-1F3FE-200D-2640	pallamanista donna carnagione abbastanza scura
+1F93E-1F3FE-200D-2642	pallamanista uomo carnagione abbastanza scura
+1F93E-1F3FF	persona che gioca a pallamano carnagione scura
+1F93E-1F3FF-200D-2640	pallamanista donna carnagione scura
+1F93E-1F3FF-200D-2642	pallamanista uomo carnagione scura
+1F93F	maschera da sub
+1F940	fiore appassito
+1F941	tamburo
+1F942	brindisi
+1F943	bicchiere tumbler
+1F944	cucchiaio
+1F945	porta da calcio
+1F947	medaglia doro
+1F948	medaglia dargento
+1F949	medaglia di bronzo
+1F94A	guantone da pugilato
+1F94B	kimono per arti marziali
+1F94C	stone da curling
+1F94D	lacrosse
+1F94E	palla da softball
+1F94F	frisbee
+1F950	croissant
+1F951	avocado
+1F952	cetriolo
+1F953	pancetta
+1F954	patata
+1F955	carota
+1F956	baguette
+1F957	insalata verde
+1F958	padella con cibo
+1F959	pita farcita
+1F95A	uovo
+1F95B	bicchiere di latte
+1F95C	arachidi
+1F95D	kiwi
+1F95E	pancake
+1F95F	raviolo
+1F960	biscotto della fortuna
+1F961	confezione da asporto
+1F962	bacchette
+1F963	ciotola con cucchiaio
+1F964	bicchiere con cannuccia
+1F965	cocco
+1F966	broccoli
+1F967	torta
+1F968	pretzel
+1F969	taglio di carne
+1F96A	sandwich
+1F96B	cibo in scatola
+1F96C	verdure a foglia
+1F96D	mango
+1F96E	torta della luna
+1F96F	bagel
+1F970	faccina con cuoricini
+1F971	faccina che sbadiglia
+1F972	faccina sorridente con lacrima
+1F973	faccina che festeggia
+1F974	faccina stordita
+1F975	faccina accaldata
+1F976	faccina congelata
+1F977	ninja
+1F977-1F3FB	ninja carnagione chiara
+1F977-1F3FC	ninja carnagione abbastanza chiara
+1F977-1F3FD	ninja carnagione olivastra
+1F977-1F3FE	ninja carnagione abbastanza scura
+1F977-1F3FF	ninja carnagione scura
+1F978	faccina travestita
+1F97A	faccina supplichevole
+1F97B	sari
+1F97C	camice
+1F97D	maschera
+1F97E	stivale da trekking
+1F97F	ballerina
+1F980	granchio
+1F981	leone
+1F982	scorpione
+1F983	tacchino
+1F984	unicorno
+1F985	aquila
+1F986	anatra
+1F987	pipistrello
+1F988	squalo
+1F989	gufo
+1F98A	volpe
+1F98B	farfalla
+1F98C	cervo
+1F98D	gorilla
+1F98E	lucertola
+1F98F	rinoceronte
+1F990	gamberetto
+1F991	calamaro
+1F992	giraffa
+1F993	zebra
+1F994	riccio
+1F995	sauropode
+1F996	T-Rex
+1F997	grillo
+1F998	canguro
+1F999	lama
+1F99A	pavone
+1F99B	ippopotamo
+1F99C	pappagallo
+1F99D	procione
+1F99E	aragosta
+1F99F	zanzara
+1F9A0	microbo
+1F9A1	tasso
+1F9A2	cigno
+1F9A3	mammut
+1F9A4	dodo
+1F9A5	bradipo
+1F9A6	lontra
+1F9A7	orangotango
+1F9A8	puzzola
+1F9A9	fenicottero
+1F9AA	ostrica
+1F9AB	castoro
+1F9AC	bisonte
+1F9AD	foca
+1F9AE	cane guida
+1F9AF	bastone per non vedenti
+1F9B0	capelli rossi
+1F9B1	capelli ricci
+1F9B2	calvo
+1F9B3	capelli bianchi
+1F9B4	osso
+1F9B5	gamba
+1F9B5-1F3FB	gamba carnagione chiara
+1F9B5-1F3FC	gamba carnagione abbastanza chiara
+1F9B5-1F3FD	gamba carnagione olivastra
+1F9B5-1F3FE	gamba carnagione abbastanza scura
+1F9B5-1F3FF	gamba carnagione scura
+1F9B6	piede
+1F9B6-1F3FB	piede carnagione chiara
+1F9B6-1F3FC	piede carnagione abbastanza chiara
+1F9B6-1F3FD	piede carnagione olivastra
+1F9B6-1F3FE	piede carnagione abbastanza scura
+1F9B6-1F3FF	piede carnagione scura
+1F9B7	dente
+1F9B8	supereroe
+1F9B8-200D-2640	supereroina
+1F9B8-200D-2642	supereroe uomo
+1F9B8-1F3FB	supereroe carnagione chiara
+1F9B8-1F3FB-200D-2640	supereroina carnagione chiara
+1F9B8-1F3FB-200D-2642	supereroe uomo carnagione chiara
+1F9B8-1F3FC	supereroe carnagione abbastanza chiara
+1F9B8-1F3FC-200D-2640	supereroina carnagione abbastanza chiara
+1F9B8-1F3FC-200D-2642	supereroe uomo carnagione abbastanza chiara
+1F9B8-1F3FD	supereroe carnagione olivastra
+1F9B8-1F3FD-200D-2640	supereroina carnagione olivastra
+1F9B8-1F3FD-200D-2642	supereroe uomo carnagione olivastra
+1F9B8-1F3FE	supereroe carnagione abbastanza scura
+1F9B8-1F3FE-200D-2640	supereroina carnagione abbastanza scura
+1F9B8-1F3FE-200D-2642	supereroe uomo carnagione abbastanza scura
+1F9B8-1F3FF	supereroe carnagione scura
+1F9B8-1F3FF-200D-2640	supereroina carnagione scura
+1F9B8-1F3FF-200D-2642	supereroe uomo carnagione scura
+1F9B9	supercattivo
+1F9B9-200D-2640	supercattiva
+1F9B9-200D-2642	supercattivo uomo
+1F9B9-1F3FB	supercattivo carnagione chiara
+1F9B9-1F3FB-200D-2640	supercattiva carnagione chiara
+1F9B9-1F3FB-200D-2642	supercattivo uomo carnagione chiara
+1F9B9-1F3FC	supercattivo carnagione abbastanza chiara
+1F9B9-1F3FC-200D-2640	supercattiva carnagione abbastanza chiara
+1F9B9-1F3FC-200D-2642	supercattivo uomo carnagione abbastanza chiara
+1F9B9-1F3FD	supercattivo carnagione olivastra
+1F9B9-1F3FD-200D-2640	supercattiva carnagione olivastra
+1F9B9-1F3FD-200D-2642	supercattivo uomo carnagione olivastra
+1F9B9-1F3FE	supercattivo carnagione abbastanza scura
+1F9B9-1F3FE-200D-2640	supercattiva carnagione abbastanza scura
+1F9B9-1F3FE-200D-2642	supercattivo uomo carnagione abbastanza scura
+1F9B9-1F3FF	supercattivo carnagione scura
+1F9B9-1F3FF-200D-2640	supercattiva carnagione scura
+1F9B9-1F3FF-200D-2642	supercattivo uomo carnagione scura
+1F9BA	gilet di sicurezza
+1F9BB	orecchio con apparecchio acustico
+1F9BB-1F3FB	orecchio con apparecchio acustico carnagione chiara
+1F9BB-1F3FC	orecchio con apparecchio acustico carnagione abbastanza chiara
+1F9BB-1F3FD	orecchio con apparecchio acustico carnagione olivastra
+1F9BB-1F3FE	orecchio con apparecchio acustico carnagione abbastanza scura
+1F9BB-1F3FF	orecchio con apparecchio acustico carnagione scura
+1F9BC	sedia a rotelle motorizzata
+1F9BD	sedia a rotelle manuale
+1F9BE	protesi robotica per il braccio
+1F9BF	protesi robotica per la gamba
+1F9C0	fetta di formaggio
+1F9C1	cupcake
+1F9C2	sale
+1F9C3	bevanda monodose
+1F9C4	aglio
+1F9C5	cipolla
+1F9C6	falafel
+1F9C7	waffle
+1F9C8	burro
+1F9C9	mate
+1F9CA	cubetto di ghiaccio
+1F9CB	bubble tea
+1F9CD	persona in piedi
+1F9CD-200D-2640	donna in piedi
+1F9CD-200D-2642	uomo in piedi
+1F9CD-1F3FB	persona in piedi carnagione chiara
+1F9CD-1F3FB-200D-2640	donna in piedi carnagione chiara
+1F9CD-1F3FB-200D-2642	uomo in piedi carnagione chiara
+1F9CD-1F3FC	persona in piedi carnagione abbastanza chiara
+1F9CD-1F3FC-200D-2640	donna in piedi carnagione abbastanza chiara
+1F9CD-1F3FC-200D-2642	uomo in piedi carnagione abbastanza chiara
+1F9CD-1F3FD	persona in piedi carnagione olivastra
+1F9CD-1F3FD-200D-2640	donna in piedi carnagione olivastra
+1F9CD-1F3FD-200D-2642	uomo in piedi carnagione olivastra
+1F9CD-1F3FE	persona in piedi carnagione abbastanza scura
+1F9CD-1F3FE-200D-2640	donna in piedi carnagione abbastanza scura
+1F9CD-1F3FE-200D-2642	uomo in piedi carnagione abbastanza scura
+1F9CD-1F3FF	persona in piedi carnagione scura
+1F9CD-1F3FF-200D-2640	donna in piedi carnagione scura
+1F9CD-1F3FF-200D-2642	uomo in piedi carnagione scura
+1F9CE	persona inginocchiata
+1F9CE-200D-2640	donna inginocchiata
+1F9CE-200D-2642	uomo inginocchiato
+1F9CE-1F3FB	persona inginocchiata carnagione chiara
+1F9CE-1F3FB-200D-2640	donna inginocchiata carnagione chiara
+1F9CE-1F3FB-200D-2642	uomo inginocchiato carnagione chiara
+1F9CE-1F3FC	persona inginocchiata carnagione abbastanza chiara
+1F9CE-1F3FC-200D-2640	donna inginocchiata carnagione abbastanza chiara
+1F9CE-1F3FC-200D-2642	uomo inginocchiato carnagione abbastanza chiara
+1F9CE-1F3FD	persona inginocchiata carnagione olivastra
+1F9CE-1F3FD-200D-2640	donna inginocchiata carnagione olivastra
+1F9CE-1F3FD-200D-2642	uomo inginocchiato carnagione olivastra
+1F9CE-1F3FE	persona inginocchiata carnagione abbastanza scura
+1F9CE-1F3FE-200D-2640	donna inginocchiata carnagione abbastanza scura
+1F9CE-1F3FE-200D-2642	uomo inginocchiato carnagione abbastanza scura
+1F9CE-1F3FF	persona inginocchiata carnagione scura
+1F9CE-1F3FF-200D-2640	donna inginocchiata carnagione scura
+1F9CE-1F3FF-200D-2642	uomo inginocchiato carnagione scura
+1F9CF	persona con problemi di udito
+1F9CF-200D-2640	donna con problemi di udito
+1F9CF-200D-2642	uomo con problemi di udito
+1F9CF-1F3FB	persona con problemi di udito carnagione chiara
+1F9CF-1F3FB-200D-2640	donna con problemi di udito carnagione chiara
+1F9CF-1F3FB-200D-2642	uomo con problemi di udito carnagione chiara
+1F9CF-1F3FC	persona con problemi di udito carnagione abbastanza chiara
+1F9CF-1F3FC-200D-2640	donna con problemi di udito carnagione abbastanza chiara
+1F9CF-1F3FC-200D-2642	uomo con problemi di udito carnagione abbastanza chiara
+1F9CF-1F3FD	persona con problemi di udito carnagione olivastra
+1F9CF-1F3FD-200D-2640	donna con problemi di udito carnagione olivastra
+1F9CF-1F3FD-200D-2642	uomo con problemi di udito carnagione olivastra
+1F9CF-1F3FE	persona con problemi di udito carnagione abbastanza scura
+1F9CF-1F3FE-200D-2640	donna con problemi di udito carnagione abbastanza scura
+1F9CF-1F3FE-200D-2642	uomo con problemi di udito carnagione abbastanza scura
+1F9CF-1F3FF	persona con problemi di udito carnagione scura
+1F9CF-1F3FF-200D-2640	donna con problemi di udito carnagione scura
+1F9CF-1F3FF-200D-2642	uomo con problemi di udito carnagione scura
+1F9D0	faccina con monocolo
+1F9D1	persona
+1F9D1-200D-2695	persona che lavora nella sanit
+1F9D1-200D-2696	giudice
+1F9D1-200D-2708	pilota
+1F9D1-200D-1F33E	agricoltore
+1F9D1-200D-1F373	persona che cucina
+1F9D1-200D-1F37C	persona che allatta
+1F9D1-200D-1F384	Santa Claus
+1F9D1-200D-1F393	studente
+1F9D1-200D-1F3A4	cantante
+1F9D1-200D-1F3A8	artista
+1F9D1-200D-1F3EB	insegnante
+1F9D1-200D-1F3ED	persona che lavora in fabbrica
+1F9D1-200D-1F4BB	persona esperta di tecnologia
+1F9D1-200D-1F4BC	persona che fa un lavoro dufficio
+1F9D1-200D-1F527	meccanico
+1F9D1-200D-1F52C	persona che lavora in campo scientifico
+1F9D1-200D-1F680	astronauta
+1F9D1-200D-1F692	pompiere
+1F9D1-200D-1F91D-200D-1F9D1	persone che si tengono per mano
+1F9D1-200D-1F9AF	persona con bastone di orientamento
+1F9D1-200D-1F9B0	persona capelli rossi
+1F9D1-200D-1F9B1	persona capelli ricci
+1F9D1-200D-1F9B2	persona calvo
+1F9D1-200D-1F9B3	persona capelli bianchi
+1F9D1-200D-1F9BC	persona su sedia a rotelle motorizzata
+1F9D1-200D-1F9BD	persona su sedia a rotelle manuale
+1F9D1-1F3FB	persona carnagione chiara
+1F9D1-1F3FB-200D-2695	persona che lavora nella sanit carnagione chiara
+1F9D1-1F3FB-200D-2696	giudice carnagione chiara
+1F9D1-1F3FB-200D-2708	pilota carnagione chiara
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bacio tra coppia persona persona carnagione chiara e carnagione abbastanza chiara
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bacio tra coppia persona persona carnagione chiara e carnagione olivastra
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bacio tra coppia persona persona carnagione chiara e carnagione abbastanza scura
+1F9D1-1F3FB-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bacio tra coppia persona persona carnagione chiara e carnagione scura
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FC	coppia con cuore persona persona carnagione chiara e carnagione abbastanza chiara
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FD	coppia con cuore persona persona carnagione chiara e carnagione olivastra
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FE	coppia con cuore persona persona carnagione chiara e carnagione abbastanza scura
+1F9D1-1F3FB-200D-2764-200D-1F9D1-1F3FF	coppia con cuore persona persona carnagione chiara e carnagione scura
+1F9D1-1F3FB-200D-1F33E	agricoltore carnagione chiara
+1F9D1-1F3FB-200D-1F373	persona che cucina carnagione chiara
+1F9D1-1F3FB-200D-1F37C	persona che allatta carnagione chiara
+1F9D1-1F3FB-200D-1F384	Santa Claus carnagione chiara
+1F9D1-1F3FB-200D-1F393	studente carnagione chiara
+1F9D1-1F3FB-200D-1F3A4	cantante carnagione chiara
+1F9D1-1F3FB-200D-1F3A8	artista carnagione chiara
+1F9D1-1F3FB-200D-1F3EB	insegnante carnagione chiara
+1F9D1-1F3FB-200D-1F3ED	persona che lavora in fabbrica carnagione chiara
+1F9D1-1F3FB-200D-1F4BB	persona esperta di tecnologia carnagione chiara
+1F9D1-1F3FB-200D-1F4BC	persona che fa un lavoro dufficio carnagione chiara
+1F9D1-1F3FB-200D-1F527	meccanico carnagione chiara
+1F9D1-1F3FB-200D-1F52C	persona che lavora in campo scientifico carnagione chiara
+1F9D1-1F3FB-200D-1F680	astronauta carnagione chiara
+1F9D1-1F3FB-200D-1F692	pompiere carnagione chiara
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB	persone che si tengono per mano carnagione chiara
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC	persone che si tengono per mano carnagione chiara e carnagione abbastanza chiara
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD	persone che si tengono per mano carnagione chiara e carnagione olivastra
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE	persone che si tengono per mano carnagione chiara e carnagione abbastanza scura
+1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF	persone che si tengono per mano carnagione chiara e carnagione scura
+1F9D1-1F3FB-200D-1F9AF	persona con bastone di orientamento carnagione chiara
+1F9D1-1F3FB-200D-1F9B0	persona carnagione chiara e capelli rossi
+1F9D1-1F3FB-200D-1F9B1	persona carnagione chiara e capelli ricci
+1F9D1-1F3FB-200D-1F9B2	persona carnagione chiara e calvo
+1F9D1-1F3FB-200D-1F9B3	persona carnagione chiara e capelli bianchi
+1F9D1-1F3FB-200D-1F9BC	persona su sedia a rotelle motorizzata carnagione chiara
+1F9D1-1F3FB-200D-1F9BD	persona su sedia a rotelle manuale carnagione chiara
+1F9D1-1F3FC	persona carnagione abbastanza chiara
+1F9D1-1F3FC-200D-2695	persona che lavora nella sanit carnagione abbastanza chiara
+1F9D1-1F3FC-200D-2696	giudice carnagione abbastanza chiara
+1F9D1-1F3FC-200D-2708	pilota carnagione abbastanza chiara
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bacio tra coppia persona persona carnagione abbastanza chiara e carnagione chiara
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bacio tra coppia persona persona carnagione abbastanza chiara e carnagione olivastra
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bacio tra coppia persona persona carnagione abbastanza chiara e carnagione abbastanza scura
+1F9D1-1F3FC-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bacio tra coppia persona persona carnagione abbastanza chiara e carnagione scura
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FB	coppia con cuore persona persona carnagione abbastanza chiara e carnagione chiara
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FD	coppia con cuore persona persona carnagione abbastanza chiara e carnagione olivastra
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FE	coppia con cuore persona persona carnagione abbastanza chiara e carnagione abbastanza scura
+1F9D1-1F3FC-200D-2764-200D-1F9D1-1F3FF	coppia con cuore persona persona carnagione abbastanza chiara e carnagione scura
+1F9D1-1F3FC-200D-1F33E	agricoltore carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F373	persona che cucina carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F37C	persona che allatta carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F384	Santa Claus carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F393	studente carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F3A4	cantante carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F3A8	artista carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F3EB	insegnante carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F3ED	persona che lavora in fabbrica carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F4BB	persona esperta di tecnologia carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F4BC	persona che fa un lavoro dufficio carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F527	meccanico carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F52C	persona che lavora in campo scientifico carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F680	astronauta carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F692	pompiere carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB	persone che si tengono per mano carnagione abbastanza chiara e carnagione chiara
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC	persone che si tengono per mano carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD	persone che si tengono per mano carnagione abbastanza chiara e carnagione olivastra
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE	persone che si tengono per mano carnagione abbastanza chiara e carnagione abbastanza scura
+1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF	persone che si tengono per mano carnagione abbastanza chiara e carnagione scura
+1F9D1-1F3FC-200D-1F9AF	persona con bastone di orientamento carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F9B0	persona carnagione abbastanza chiara e capelli rossi
+1F9D1-1F3FC-200D-1F9B1	persona carnagione abbastanza chiara e capelli ricci
+1F9D1-1F3FC-200D-1F9B2	persona carnagione abbastanza chiara e calvo
+1F9D1-1F3FC-200D-1F9B3	persona carnagione abbastanza chiara e capelli bianchi
+1F9D1-1F3FC-200D-1F9BC	persona su sedia a rotelle motorizzata carnagione abbastanza chiara
+1F9D1-1F3FC-200D-1F9BD	persona su sedia a rotelle manuale carnagione abbastanza chiara
+1F9D1-1F3FD	persona carnagione olivastra
+1F9D1-1F3FD-200D-2695	persona che lavora nella sanit carnagione olivastra
+1F9D1-1F3FD-200D-2696	giudice carnagione olivastra
+1F9D1-1F3FD-200D-2708	pilota carnagione olivastra
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bacio tra coppia persona persona carnagione olivastra e carnagione chiara
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bacio tra coppia persona persona carnagione olivastra e carnagione abbastanza chiara
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bacio tra coppia persona persona carnagione olivastra e carnagione abbastanza scura
+1F9D1-1F3FD-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bacio tra coppia persona persona carnagione olivastra e carnagione scura
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FB	coppia con cuore persona persona carnagione olivastra e carnagione chiara
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FC	coppia con cuore persona persona carnagione olivastra e carnagione abbastanza chiara
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FE	coppia con cuore persona persona carnagione olivastra e carnagione abbastanza scura
+1F9D1-1F3FD-200D-2764-200D-1F9D1-1F3FF	coppia con cuore persona persona carnagione olivastra e carnagione scura
+1F9D1-1F3FD-200D-1F33E	agricoltore carnagione olivastra
+1F9D1-1F3FD-200D-1F373	persona che cucina carnagione olivastra
+1F9D1-1F3FD-200D-1F37C	persona che allatta carnagione olivastra
+1F9D1-1F3FD-200D-1F384	Santa Claus carnagione olivastra
+1F9D1-1F3FD-200D-1F393	studente carnagione olivastra
+1F9D1-1F3FD-200D-1F3A4	cantante carnagione olivastra
+1F9D1-1F3FD-200D-1F3A8	artista carnagione olivastra
+1F9D1-1F3FD-200D-1F3EB	insegnante carnagione olivastra
+1F9D1-1F3FD-200D-1F3ED	persona che lavora in fabbrica carnagione olivastra
+1F9D1-1F3FD-200D-1F4BB	persona esperta di tecnologia carnagione olivastra
+1F9D1-1F3FD-200D-1F4BC	persona che fa un lavoro dufficio carnagione olivastra
+1F9D1-1F3FD-200D-1F527	meccanico carnagione olivastra
+1F9D1-1F3FD-200D-1F52C	persona che lavora in campo scientifico carnagione olivastra
+1F9D1-1F3FD-200D-1F680	astronauta carnagione olivastra
+1F9D1-1F3FD-200D-1F692	pompiere carnagione olivastra
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB	persone che si tengono per mano carnagione olivastra e carnagione chiara
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC	persone che si tengono per mano carnagione olivastra e carnagione abbastanza chiara
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD	persone che si tengono per mano carnagione olivastra
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE	persone che si tengono per mano carnagione olivastra e carnagione abbastanza scura
+1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF	persone che si tengono per mano carnagione olivastra e carnagione scura
+1F9D1-1F3FD-200D-1F9AF	persona con bastone di orientamento carnagione olivastra
+1F9D1-1F3FD-200D-1F9B0	persona carnagione olivastra e capelli rossi
+1F9D1-1F3FD-200D-1F9B1	persona carnagione olivastra e capelli ricci
+1F9D1-1F3FD-200D-1F9B2	persona carnagione olivastra e calvo
+1F9D1-1F3FD-200D-1F9B3	persona carnagione olivastra e capelli bianchi
+1F9D1-1F3FD-200D-1F9BC	persona su sedia a rotelle motorizzata carnagione olivastra
+1F9D1-1F3FD-200D-1F9BD	persona su sedia a rotelle manuale carnagione olivastra
+1F9D1-1F3FE	persona carnagione abbastanza scura
+1F9D1-1F3FE-200D-2695	persona che lavora nella sanit carnagione abbastanza scura
+1F9D1-1F3FE-200D-2696	giudice carnagione abbastanza scura
+1F9D1-1F3FE-200D-2708	pilota carnagione abbastanza scura
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bacio tra coppia persona persona carnagione abbastanza scura e carnagione chiara
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bacio tra coppia persona persona carnagione abbastanza scura e carnagione abbastanza chiara
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bacio tra coppia persona persona carnagione abbastanza scura e carnagione olivastra
+1F9D1-1F3FE-200D-2764-200D-1F48B-200D-1F9D1-1F3FF	bacio tra coppia persona persona carnagione abbastanza scura e carnagione scura
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FB	coppia con cuore persona persona carnagione abbastanza scura e carnagione chiara
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FC	coppia con cuore persona persona carnagione abbastanza scura e carnagione abbastanza chiara
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FD	coppia con cuore persona persona carnagione abbastanza scura e carnagione olivastra
+1F9D1-1F3FE-200D-2764-200D-1F9D1-1F3FF	coppia con cuore persona persona carnagione abbastanza scura e carnagione scura
+1F9D1-1F3FE-200D-1F33E	agricoltore carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F373	persona che cucina carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F37C	persona che allatta carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F384	Santa Claus carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F393	studente carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F3A4	cantante carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F3A8	artista carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F3EB	insegnante carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F3ED	persona che lavora in fabbrica carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F4BB	persona esperta di tecnologia carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F4BC	persona che fa un lavoro dufficio carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F527	meccanico carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F52C	persona che lavora in campo scientifico carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F680	astronauta carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F692	pompiere carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB	persone che si tengono per mano carnagione abbastanza scura e carnagione chiara
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC	persone che si tengono per mano carnagione abbastanza scura e carnagione abbastanza chiara
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD	persone che si tengono per mano carnagione abbastanza scura e carnagione olivastra
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE	persone che si tengono per mano carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF	persone che si tengono per mano carnagione abbastanza scura e carnagione scura
+1F9D1-1F3FE-200D-1F9AF	persona con bastone di orientamento carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F9B0	persona carnagione abbastanza scura e capelli rossi
+1F9D1-1F3FE-200D-1F9B1	persona carnagione abbastanza scura e capelli ricci
+1F9D1-1F3FE-200D-1F9B2	persona carnagione abbastanza scura e calvo
+1F9D1-1F3FE-200D-1F9B3	persona carnagione abbastanza scura e capelli bianchi
+1F9D1-1F3FE-200D-1F9BC	persona su sedia a rotelle motorizzata carnagione abbastanza scura
+1F9D1-1F3FE-200D-1F9BD	persona su sedia a rotelle manuale carnagione abbastanza scura
+1F9D1-1F3FF	persona carnagione scura
+1F9D1-1F3FF-200D-2695	persona che lavora nella sanit carnagione scura
+1F9D1-1F3FF-200D-2696	giudice carnagione scura
+1F9D1-1F3FF-200D-2708	pilota carnagione scura
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FB	bacio tra coppia persona persona carnagione scura e carnagione chiara
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FC	bacio tra coppia persona persona carnagione scura e carnagione abbastanza chiara
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FD	bacio tra coppia persona persona carnagione scura e carnagione olivastra
+1F9D1-1F3FF-200D-2764-200D-1F48B-200D-1F9D1-1F3FE	bacio tra coppia persona persona carnagione scura e carnagione abbastanza scura
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FB	coppia con cuore persona persona carnagione scura e carnagione chiara
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FC	coppia con cuore persona persona carnagione scura e carnagione abbastanza chiara
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FD	coppia con cuore persona persona carnagione scura e carnagione olivastra
+1F9D1-1F3FF-200D-2764-200D-1F9D1-1F3FE	coppia con cuore persona persona carnagione scura e carnagione abbastanza scura
+1F9D1-1F3FF-200D-1F33E	agricoltore carnagione scura
+1F9D1-1F3FF-200D-1F373	persona che cucina carnagione scura
+1F9D1-1F3FF-200D-1F37C	persona che allatta carnagione scura
+1F9D1-1F3FF-200D-1F384	Santa Claus carnagione scura
+1F9D1-1F3FF-200D-1F393	studente carnagione scura
+1F9D1-1F3FF-200D-1F3A4	cantante carnagione scura
+1F9D1-1F3FF-200D-1F3A8	artista carnagione scura
+1F9D1-1F3FF-200D-1F3EB	insegnante carnagione scura
+1F9D1-1F3FF-200D-1F3ED	persona che lavora in fabbrica carnagione scura
+1F9D1-1F3FF-200D-1F4BB	persona esperta di tecnologia carnagione scura
+1F9D1-1F3FF-200D-1F4BC	persona che fa un lavoro dufficio carnagione scura
+1F9D1-1F3FF-200D-1F527	meccanico carnagione scura
+1F9D1-1F3FF-200D-1F52C	persona che lavora in campo scientifico carnagione scura
+1F9D1-1F3FF-200D-1F680	astronauta carnagione scura
+1F9D1-1F3FF-200D-1F692	pompiere carnagione scura
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB	persone che si tengono per mano carnagione scura e carnagione chiara
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC	persone che si tengono per mano carnagione scura e carnagione abbastanza chiara
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD	persone che si tengono per mano carnagione scura e carnagione olivastra
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE	persone che si tengono per mano carnagione scura e carnagione abbastanza scura
+1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF	persone che si tengono per mano carnagione scura
+1F9D1-1F3FF-200D-1F9AF	persona con bastone di orientamento carnagione scura
+1F9D1-1F3FF-200D-1F9B0	persona carnagione scura e capelli rossi
+1F9D1-1F3FF-200D-1F9B1	persona carnagione scura e capelli ricci
+1F9D1-1F3FF-200D-1F9B2	persona carnagione scura e calvo
+1F9D1-1F3FF-200D-1F9B3	persona carnagione scura e capelli bianchi
+1F9D1-1F3FF-200D-1F9BC	persona su sedia a rotelle motorizzata carnagione scura
+1F9D1-1F3FF-200D-1F9BD	persona su sedia a rotelle manuale carnagione scura
+1F9D2	bimbo
+1F9D2-1F3FB	bimbo carnagione chiara
+1F9D2-1F3FC	bimbo carnagione abbastanza chiara
+1F9D2-1F3FD	bimbo carnagione olivastra
+1F9D2-1F3FE	bimbo carnagione abbastanza scura
+1F9D2-1F3FF	bimbo carnagione scura
+1F9D3	persona anziana
+1F9D3-1F3FB	persona anziana carnagione chiara
+1F9D3-1F3FC	persona anziana carnagione abbastanza chiara
+1F9D3-1F3FD	persona anziana carnagione olivastra
+1F9D3-1F3FE	persona anziana carnagione abbastanza scura
+1F9D3-1F3FF	persona anziana carnagione scura
+1F9D4	persona con la barba
+1F9D4-200D-2640	donna con la barba
+1F9D4-200D-2642	uomo con la barba
+1F9D4-1F3FB	persona con la barba carnagione chiara
+1F9D4-1F3FB-200D-2640	donna con la barba carnagione chiara
+1F9D4-1F3FB-200D-2642	uomo con la barba carnagione chiara
+1F9D4-1F3FC	persona con la barba carnagione abbastanza chiara
+1F9D4-1F3FC-200D-2640	donna con la barba carnagione abbastanza chiara
+1F9D4-1F3FC-200D-2642	uomo con la barba carnagione abbastanza chiara
+1F9D4-1F3FD	persona con la barba carnagione olivastra
+1F9D4-1F3FD-200D-2640	donna con la barba carnagione olivastra
+1F9D4-1F3FD-200D-2642	uomo con la barba carnagione olivastra
+1F9D4-1F3FE	persona con la barba carnagione abbastanza scura
+1F9D4-1F3FE-200D-2640	donna con la barba carnagione abbastanza scura
+1F9D4-1F3FE-200D-2642	uomo con la barba carnagione abbastanza scura
+1F9D4-1F3FF	persona con la barba carnagione scura
+1F9D4-1F3FF-200D-2640	donna con la barba carnagione scura
+1F9D4-1F3FF-200D-2642	uomo con la barba carnagione scura
+1F9D5	donna con velo
+1F9D5-1F3FB	donna con velo carnagione chiara
+1F9D5-1F3FC	donna con velo carnagione abbastanza chiara
+1F9D5-1F3FD	donna con velo carnagione olivastra
+1F9D5-1F3FE	donna con velo carnagione abbastanza scura
+1F9D5-1F3FF	donna con velo carnagione scura
+1F9D6	persona in sauna
+1F9D6-200D-2640	donna in sauna
+1F9D6-200D-2642	uomo in sauna
+1F9D6-1F3FB	persona in sauna carnagione chiara
+1F9D6-1F3FB-200D-2640	donna in sauna carnagione chiara
+1F9D6-1F3FB-200D-2642	uomo in sauna carnagione chiara
+1F9D6-1F3FC	persona in sauna carnagione abbastanza chiara
+1F9D6-1F3FC-200D-2640	donna in sauna carnagione abbastanza chiara
+1F9D6-1F3FC-200D-2642	uomo in sauna carnagione abbastanza chiara
+1F9D6-1F3FD	persona in sauna carnagione olivastra
+1F9D6-1F3FD-200D-2640	donna in sauna carnagione olivastra
+1F9D6-1F3FD-200D-2642	uomo in sauna carnagione olivastra
+1F9D6-1F3FE	persona in sauna carnagione abbastanza scura
+1F9D6-1F3FE-200D-2640	donna in sauna carnagione abbastanza scura
+1F9D6-1F3FE-200D-2642	uomo in sauna carnagione abbastanza scura
+1F9D6-1F3FF	persona in sauna carnagione scura
+1F9D6-1F3FF-200D-2640	donna in sauna carnagione scura
+1F9D6-1F3FF-200D-2642	uomo in sauna carnagione scura
+1F9D7	persona che scala
+1F9D7-200D-2640	scalatrice
+1F9D7-200D-2642	scalatore
+1F9D7-1F3FB	persona che scala carnagione chiara
+1F9D7-1F3FB-200D-2640	scalatrice carnagione chiara
+1F9D7-1F3FB-200D-2642	scalatore carnagione chiara
+1F9D7-1F3FC	persona che scala carnagione abbastanza chiara
+1F9D7-1F3FC-200D-2640	scalatrice carnagione abbastanza chiara
+1F9D7-1F3FC-200D-2642	scalatore carnagione abbastanza chiara
+1F9D7-1F3FD	persona che scala carnagione olivastra
+1F9D7-1F3FD-200D-2640	scalatrice carnagione olivastra
+1F9D7-1F3FD-200D-2642	scalatore carnagione olivastra
+1F9D7-1F3FE	persona che scala carnagione abbastanza scura
+1F9D7-1F3FE-200D-2640	scalatrice carnagione abbastanza scura
+1F9D7-1F3FE-200D-2642	scalatore carnagione abbastanza scura
+1F9D7-1F3FF	persona che scala carnagione scura
+1F9D7-1F3FF-200D-2640	scalatrice carnagione scura
+1F9D7-1F3FF-200D-2642	scalatore carnagione scura
+1F9D8	persona in posizione del loto
+1F9D8-200D-2640	donna in posizione del loto
+1F9D8-200D-2642	uomo in posizione del loto
+1F9D8-1F3FB	persona in posizione del loto carnagione chiara
+1F9D8-1F3FB-200D-2640	donna in posizione del loto carnagione chiara
+1F9D8-1F3FB-200D-2642	uomo in posizione del loto carnagione chiara
+1F9D8-1F3FC	persona in posizione del loto carnagione abbastanza chiara
+1F9D8-1F3FC-200D-2640	donna in posizione del loto carnagione abbastanza chiara
+1F9D8-1F3FC-200D-2642	uomo in posizione del loto carnagione abbastanza chiara
+1F9D8-1F3FD	persona in posizione del loto carnagione olivastra
+1F9D8-1F3FD-200D-2640	donna in posizione del loto carnagione olivastra
+1F9D8-1F3FD-200D-2642	uomo in posizione del loto carnagione olivastra
+1F9D8-1F3FE	persona in posizione del loto carnagione abbastanza scura
+1F9D8-1F3FE-200D-2640	donna in posizione del loto carnagione abbastanza scura
+1F9D8-1F3FE-200D-2642	uomo in posizione del loto carnagione abbastanza scura
+1F9D8-1F3FF	persona in posizione del loto carnagione scura
+1F9D8-1F3FF-200D-2640	donna in posizione del loto carnagione scura
+1F9D8-1F3FF-200D-2642	uomo in posizione del loto carnagione scura
+1F9D9	mago
+1F9D9-200D-2640	maga
+1F9D9-200D-2642	mago uomo
+1F9D9-1F3FB	mago carnagione chiara
+1F9D9-1F3FB-200D-2640	maga carnagione chiara
+1F9D9-1F3FB-200D-2642	mago uomo carnagione chiara
+1F9D9-1F3FC	mago carnagione abbastanza chiara
+1F9D9-1F3FC-200D-2640	maga carnagione abbastanza chiara
+1F9D9-1F3FC-200D-2642	mago uomo carnagione abbastanza chiara
+1F9D9-1F3FD	mago carnagione olivastra
+1F9D9-1F3FD-200D-2640	maga carnagione olivastra
+1F9D9-1F3FD-200D-2642	mago uomo carnagione olivastra
+1F9D9-1F3FE	mago carnagione abbastanza scura
+1F9D9-1F3FE-200D-2640	maga carnagione abbastanza scura
+1F9D9-1F3FE-200D-2642	mago uomo carnagione abbastanza scura
+1F9D9-1F3FF	mago carnagione scura
+1F9D9-1F3FF-200D-2640	maga carnagione scura
+1F9D9-1F3FF-200D-2642	mago uomo carnagione scura
+1F9DA	fata
+1F9DA-200D-2640	fata donna
+1F9DA-200D-2642	folletto alato
+1F9DA-1F3FB	fata carnagione chiara
+1F9DA-1F3FB-200D-2640	fata donna carnagione chiara
+1F9DA-1F3FB-200D-2642	folletto alato carnagione chiara
+1F9DA-1F3FC	fata carnagione abbastanza chiara
+1F9DA-1F3FC-200D-2640	fata donna carnagione abbastanza chiara
+1F9DA-1F3FC-200D-2642	folletto alato carnagione abbastanza chiara
+1F9DA-1F3FD	fata carnagione olivastra
+1F9DA-1F3FD-200D-2640	fata donna carnagione olivastra
+1F9DA-1F3FD-200D-2642	folletto alato carnagione olivastra
+1F9DA-1F3FE	fata carnagione abbastanza scura
+1F9DA-1F3FE-200D-2640	fata donna carnagione abbastanza scura
+1F9DA-1F3FE-200D-2642	folletto alato carnagione abbastanza scura
+1F9DA-1F3FF	fata carnagione scura
+1F9DA-1F3FF-200D-2640	fata donna carnagione scura
+1F9DA-1F3FF-200D-2642	folletto alato carnagione scura
+1F9DB	vampiro
+1F9DB-200D-2640	vampira
+1F9DB-200D-2642	vampiro uomo
+1F9DB-1F3FB	vampiro carnagione chiara
+1F9DB-1F3FB-200D-2640	vampira carnagione chiara
+1F9DB-1F3FB-200D-2642	vampiro uomo carnagione chiara
+1F9DB-1F3FC	vampiro carnagione abbastanza chiara
+1F9DB-1F3FC-200D-2640	vampira carnagione abbastanza chiara
+1F9DB-1F3FC-200D-2642	vampiro uomo carnagione abbastanza chiara
+1F9DB-1F3FD	vampiro carnagione olivastra
+1F9DB-1F3FD-200D-2640	vampira carnagione olivastra
+1F9DB-1F3FD-200D-2642	vampiro uomo carnagione olivastra
+1F9DB-1F3FE	vampiro carnagione abbastanza scura
+1F9DB-1F3FE-200D-2640	vampira carnagione abbastanza scura
+1F9DB-1F3FE-200D-2642	vampiro uomo carnagione abbastanza scura
+1F9DB-1F3FF	vampiro carnagione scura
+1F9DB-1F3FF-200D-2640	vampira carnagione scura
+1F9DB-1F3FF-200D-2642	vampiro uomo carnagione scura
+1F9DC	sirena
+1F9DC-200D-2640	sirena donna
+1F9DC-200D-2642	tritone
+1F9DC-1F3FB	sirena carnagione chiara
+1F9DC-1F3FB-200D-2640	sirena donna carnagione chiara
+1F9DC-1F3FB-200D-2642	tritone carnagione chiara
+1F9DC-1F3FC	sirena carnagione abbastanza chiara
+1F9DC-1F3FC-200D-2640	sirena donna carnagione abbastanza chiara
+1F9DC-1F3FC-200D-2642	tritone carnagione abbastanza chiara
+1F9DC-1F3FD	sirena carnagione olivastra
+1F9DC-1F3FD-200D-2640	sirena donna carnagione olivastra
+1F9DC-1F3FD-200D-2642	tritone carnagione olivastra
+1F9DC-1F3FE	sirena carnagione abbastanza scura
+1F9DC-1F3FE-200D-2640	sirena donna carnagione abbastanza scura
+1F9DC-1F3FE-200D-2642	tritone carnagione abbastanza scura
+1F9DC-1F3FF	sirena carnagione scura
+1F9DC-1F3FF-200D-2640	sirena donna carnagione scura
+1F9DC-1F3FF-200D-2642	tritone carnagione scura
+1F9DD	elfo
+1F9DD-200D-2640	elfo donna
+1F9DD-200D-2642	elfo uomo
+1F9DD-1F3FB	elfo carnagione chiara
+1F9DD-1F3FB-200D-2640	elfo donna carnagione chiara
+1F9DD-1F3FB-200D-2642	elfo uomo carnagione chiara
+1F9DD-1F3FC	elfo carnagione abbastanza chiara
+1F9DD-1F3FC-200D-2640	elfo donna carnagione abbastanza chiara
+1F9DD-1F3FC-200D-2642	elfo uomo carnagione abbastanza chiara
+1F9DD-1F3FD	elfo carnagione olivastra
+1F9DD-1F3FD-200D-2640	elfo donna carnagione olivastra
+1F9DD-1F3FD-200D-2642	elfo uomo carnagione olivastra
+1F9DD-1F3FE	elfo carnagione abbastanza scura
+1F9DD-1F3FE-200D-2640	elfo donna carnagione abbastanza scura
+1F9DD-1F3FE-200D-2642	elfo uomo carnagione abbastanza scura
+1F9DD-1F3FF	elfo carnagione scura
+1F9DD-1F3FF-200D-2640	elfo donna carnagione scura
+1F9DD-1F3FF-200D-2642	elfo uomo carnagione scura
+1F9DE	genio
+1F9DE-200D-2640	genio donna
+1F9DE-200D-2642	genio uomo
+1F9DF	zombie
+1F9DF-200D-2640	zombie donna
+1F9DF-200D-2642	zombie uomo
+1F9E0	cervello
+1F9E1	cuore arancione
+1F9E2	cappello con visiera
+1F9E3	sciarpa
+1F9E4	guanti
+1F9E5	cappotto
+1F9E6	calzini
+1F9E7	busta hongbao
+1F9E8	petardo
+1F9E9	pezzo di puzzle
+1F9EA	provetta
+1F9EB	piastra di Petri
+1F9EC	dna
+1F9ED	bussola
+1F9EE	abaco
+1F9EF	estintore
+1F9F0	cassetta degli attrezzi
+1F9F1	mattoni
+1F9F2	calamita
+1F9F3	valigia
+1F9F4	flacone
+1F9F5	filo
+1F9F6	gomitolo
+1F9F7	spilla da balia
+1F9F8	orsetto
+1F9F9	scopa
+1F9FA	cesto
+1F9FB	rotolo di carta igienica
+1F9FC	sapone
+1F9FD	spugna
+1F9FE	scontrino
+1F9FF	occhio di Allah
+1FA70	scarpette da ballerina
+1FA71	costume da bagno intero
+1FA72	slip
+1FA73	pantaloncini
+1FA74	infradito
+1FA78	goccia di sangue
+1FA79	cerotto
+1FA7A	stetoscopio
+1FA80	yo-yo
+1FA81	aquilone
+1FA82	paracadute
+1FA83	boomerang
+1FA84	bacchetta magica
+1FA85	pentolaccia
+1FA86	matrioska
+1FA90	pianeta con satellite
+1FA91	sedia
+1FA92	rasoio
+1FA93	ascia
+1FA94	diya
+1FA95	banjo
+1FA96	elmetto militare
+1FA97	fisarmonica
+1FA98	tamburo lungo
+1FA99	moneta
+1FA9A	sega da falegname
+1FA9B	cacciavite
+1FA9C	scala
+1FA9D	gancio
+1FA9E	specchio
+1FA9F	finestra
+1FAA0	sturalavandini
+1FAA1	ago da cucito
+1FAA2	nodo
+1FAA3	secchio
+1FAA4	trappola per topi
+1FAA5	spazzolino da denti
+1FAA6	lapide
+1FAA7	cartello
+1FAA8	roccia
+1FAB0	mosca
+1FAB1	verme
+1FAB2	coleottero
+1FAB3	scarafaggio
+1FAB4	pianta in vaso
+1FAB5	legna
+1FAB6	piuma
+1FAC0	organo del cuore
+1FAC1	polmoni
+1FAC2	persone che si abbracciano
+1FAD0	mirtilli
+1FAD1	peperone
+1FAD2	oliva
+1FAD3	focaccia
+1FAD4	tamale
+1FAD5	fonduta
+1FAD6	teiera
