@@ -56,14 +56,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
-            android:text="Rate: 100%"
+            android:text="Test line rate: 100%"
             android:textStyle="bold" />
 
         <SeekBar
             android:id="@+id/rateBar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:contentDescription="Speech rate"
+            android:contentDescription="Test line speech rate"
             android:max="375"
             android:progress="75" />
 
@@ -72,16 +72,24 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="Pitch: 100%"
+            android:text="Test line pitch: 100%"
             android:textStyle="bold" />
 
         <SeekBar
             android:id="@+id/pitchBar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:contentDescription="Speech pitch"
+            android:contentDescription="Test line speech pitch"
             android:max="375"
             android:progress="75" />
+
+        <TextView
+            android:id="@+id/ratePitchHint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="These two change only the test line when you press Speak. The speech your screen reader gives you uses its own rate and pitch, set in the screen reader."
+            android:textSize="13sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

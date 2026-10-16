@@ -60,10 +60,10 @@ class MainActivity : AppCompatActivity() {
         }
 
         rateBar.setOnSeekBarChangeListener(simpleListener {
-            rateLabel.text = "Rate: ${rateBar.progress + 25}%"
+            rateLabel.text = "Test line rate: ${rateBar.progress + 25}%"
         })
         pitchBar.setOnSeekBarChangeListener(simpleListener {
-            pitchLabel.text = "Pitch: ${pitchBar.progress + 25}%"
+            pitchLabel.text = "Test line pitch: ${pitchBar.progress + 25}%"
         })
 
         fallbackCheck.isChecked = prefs.getBoolean(BestDroidService.KEY_FALLBACK_ENABLED, true)
