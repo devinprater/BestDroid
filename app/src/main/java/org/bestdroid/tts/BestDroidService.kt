@@ -91,7 +91,7 @@ class BestDroidService : TextToSpeechService() {
             } catch (t: Throwable) {
                 android.util.Log.e("BestDroid", "engine worker warm-up failed", t)
             }
-        }.name = "bestdroid-worker-warmup"
+        }.apply { name = "bestdroid-worker-warmup" }.start()
     }
 
     override fun onDestroy() {
@@ -129,7 +129,7 @@ class BestDroidService : TextToSpeechService() {
                 android.util.Log.w("BestDroid", "engine still busy after stop: retiring worker")
                 BestDroidWorkers.retire(worker)
             }
-        }.name = "bestdroid-retire-check"
+        }.apply { name = "bestdroid-retire-check" }.start()
     }
 
     // ------------------------------------------------------------------
