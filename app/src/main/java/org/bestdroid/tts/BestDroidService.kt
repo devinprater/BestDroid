@@ -14,7 +14,6 @@ import java.io.File
 import java.util.Locale
 import java.util.UUID
 import java.util.concurrent.CountDownLatch
-import java.util.concurrent.Executors
 import java.util.concurrent.TimeUnit
 import java.util.concurrent.atomic.AtomicBoolean
 import kotlin.math.roundToInt
@@ -58,8 +57,22 @@ class BestDroidService : TextToSpeechService() {
     }
 
     private val stopped = AtomicBoolean(false)
-    private val nativeExecutor = Executors.newCachedThreadPool()
     @Volatile private var defaultBuild: String = DEFAULT_VOICE
+
+    // The engine lives in its own process; these are the service's handle on it.
+    @Volatile private var currentWorker: IBestDroidWorker? = null
+    @Volatile private var currentRequest: Int = -1
+
+    /** How long a stopped request may take to leave native code before the
+     *  worker is retired.  Normal interruptions finish well inside this. */
+    private val retireGraceMs = 1_500L
+
+    /** How long a new request waits for the previous one to finish before the
+     *  worker is judged wedged and replaced. */
+    private val sayWaitMs = 400
+
+    private val pullBytes = 64 * 1024
+    private val pullWaitMs = 200
 
     // ------------------------------------------------------------------
     // Lifecycle
@@ -69,21 +82,54 @@ class BestDroidService : TextToSpeechService() {
         super.onCreate()
         CldrText.init(this)
         defaultBuild = prefs(this).getString(KEY_DEFAULT_VOICE, DEFAULT_VOICE) ?: DEFAULT_VOICE
-        // Warm the native library so the first utterance pays no load cost.
-        try {
-            NativeBst.builds()
-        } catch (e: Throwable) {
-            android.util.Log.e("BestDroid", "native load failed", e)
-        }
+        // Bind the engine worker now, off the main thread, so the first
+        // utterance does not pay the process start and library load.
+        Thread {
+            try {
+                currentWorker = BestDroidWorkers.acquire(this)
+                android.util.Log.i("BestDroid", "engine worker ready")
+            } catch (t: Throwable) {
+                android.util.Log.e("BestDroid", "engine worker warm-up failed", t)
+            }
+        }.name = "bestdroid-worker-warmup"
     }
 
     override fun onDestroy() {
-        nativeExecutor.shutdownNow()
+        val worker = currentWorker
+        currentWorker = null
+        BestDroidWorkers.retire(worker)
         super.onDestroy()
     }
 
     override fun onStop() {
         stopped.set(true)
+        val worker = currentWorker ?: return
+        val id = currentRequest
+        if (id <= 0) return
+        try {
+            worker.cancel(id)
+        } catch (t: Throwable) {
+            android.util.Log.w("BestDroid", "cancel failed", t)
+        }
+        // The engine is untouched for a normal interruption.  If it does not
+        // leave native code in time, retire it: the next utterance gets a
+        // fresh process instead of a wedged one.
+        Thread {
+            try {
+                Thread.sleep(retireGraceMs)
+            } catch (e: InterruptedException) {
+                return@Thread
+            }
+            val done = try {
+                worker.finished(id)
+            } catch (t: Throwable) {
+                false
+            }
+            if (!done) {
+                android.util.Log.w("BestDroid", "engine still busy after stop: retiring worker")
+                BestDroidWorkers.retire(worker)
+            }
+        }.name = "bestdroid-retire-check"
     }
 
     // ------------------------------------------------------------------
@@ -312,12 +358,6 @@ class BestDroidService : TextToSpeechService() {
         val synthBytes = checkNotNull(encoded)
         val synthPitch = enginePitch
         val synthRate = engineRate
-        data class SegPlan(
-            val chunks: List<ByteArray>,
-            val pitch: Int,
-            val rate: Int,
-            val gapAfterMs: Int
-        )
         val segPlans: List<SegPlan>
         val chunkList: List<ByteArray>
         if (!multiSegment) {
@@ -356,48 +396,26 @@ class BestDroidService : TextToSpeechService() {
                 "segments=${segPlans.size} chunks=${chunkList.size} " +
                 "timeout=${timeoutMs}ms rate=$rate"
         )
-        val future = nativeExecutor.submit<SegSynth> {
-            val out = mutableListOf<ShortArray>()
-            val verbatim = mutableSetOf<Int>()
-            val gaps = mutableMapOf<Int, Int>()
-            for (plan in segPlans) {
-                for (chunk in plan.chunks) {
-                    if (stopped.get()) break
-                    val pcm = try {
-                        NativeBst.nativeSay(synthBuild, chunk, plan.pitch, plan.rate)
-                    } catch (e: Throwable) {
-                        android.util.Log.e("BestDroid", "nativeSay failed", e)
-                        null
-                    }
-                    if (pcm != null && pcm.isNotEmpty()) out.add(pcm)
-                }
-                if (plan.gapAfterMs > 0 && !stopped.get()) {
-                    // Gap silence is materialized below once the sample rate
-                    // is known. Empty arrays are never emitted by nativeSay
-                    // (isNotEmpty guard above), so they are safe markers;
-                    // the duration map rides alongside.
-                    out.add(ShortArray(0))
-                    verbatim.add(out.lastIndex)
-                    gaps[out.lastIndex] = plan.gapAfterMs
-                }
-            }
-            SegSynth(out, verbatim, gaps)
-        }
-
+        // 4) Synthesize in the engine worker process, pulling bounded blocks.
+        // A worker that is gone, wedged or too slow is replaced and the chunk
+        // retried once; nothing here can wedge the TTS service itself.
+        val deadline = System.currentTimeMillis() + timeoutMs
+        var worker = currentWorker
         val synth: SegSynth? = try {
-            future.get(timeoutMs.toLong(), TimeUnit.MILLISECONDS)
-        } catch (e: java.util.concurrent.TimeoutException) {
-            android.util.Log.w("BestDroid", "native synth timed out after ${timeoutMs}ms")
-            future.cancel(true)
-            null
-        } catch (e: Exception) {
-            android.util.Log.e("BestDroid", "native synth failed", e)
+            if (worker == null || !worker.asBinder().isBinderAlive) {
+                worker = BestDroidWorkers.acquire(this)
+                currentWorker = worker
+            }
+            synthesizeChunks(worker, segPlans, synthBuild, deadline)
+        } catch (t: Throwable) {
+            android.util.Log.e("BestDroid", "worker synthesis failed", t)
             null
         }
 
+        val rateWorker = currentWorker
         val nativeRate = try {
-            NativeBst.nativeRate(synthBuild)
-        } catch (e: Throwable) {
+            rateWorker?.rate(synthBuild) ?: 0
+        } catch (t: Throwable) {
             0
         }.takeIf { it > 0 } ?: 11025
 
@@ -442,6 +460,14 @@ class BestDroidService : TextToSpeechService() {
         fallbackOrError(text, rate, pitch, callback, "native produced no speech")
     }
 
+    /** One SSML section's chunks and the engine parameters they speak with. */
+    private data class SegPlan(
+        val chunks: List<ByteArray>,
+        val pitch: Int,
+        val rate: Int,
+        val gapAfterMs: Int
+    )
+
     /** Native synth result: PCM per chunk, <break> gap markers, and chunk
      * indexes whose pauses must stream verbatim (the shortener skips them,
      * so an explicit break keeps its full duration). */
@@ -450,6 +476,126 @@ class BestDroidService : TextToSpeechService() {
         val verbatim: Set<Int>,
         val gaps: Map<Int, Int>
     )
+
+    /** The worker is gone, wedged or failed; callers may replace it once. */
+    private class WorkerGone(message: String, cause: Throwable? = null) : Exception(message, cause)
+
+    /**
+     * Synthesizes every plan's chunks through the worker.  A WorkerGone from
+     * one chunk replaces the worker and retries that chunk exactly once.
+     */
+    private fun synthesizeChunks(
+        startWorker: IBestDroidWorker,
+        plans: List<SegPlan>,
+        build: String,
+        deadline: Long
+    ): SegSynth {
+        var worker = startWorker
+        val out = mutableListOf<ShortArray>()
+        val verbatim = mutableSetOf<Int>()
+        val gaps = mutableMapOf<Int, Int>()
+        for (plan in plans) {
+            for (chunk in plan.chunks) {
+                if (stopped.get()) return SegSynth(out, verbatim, gaps)
+                var pcm: ShortArray? = null
+                var replaced = false
+                while (true) {
+                    try {
+                        pcm = sayBlocking(worker, build, chunk, plan.pitch, plan.rate, deadline)
+                        break
+                    } catch (e: WorkerGone) {
+                        if (replaced || stopped.get()) throw e
+                        if (System.currentTimeMillis() > deadline) throw e
+                        replaced = true
+                        android.util.Log.w("BestDroid", "replacing engine worker: ${e.message}")
+                        worker = BestDroidWorkers.replace(this, worker)
+                        currentWorker = worker
+                    }
+                }
+                if (pcm != null && pcm.isNotEmpty()) out.add(pcm)
+            }
+            if (plan.gapAfterMs > 0 && !stopped.get()) {
+                // Gap silence is materialized below once the sample rate is
+                // known. Empty arrays are never emitted for real speech, so
+                // they are safe markers; the duration map rides alongside.
+                out.add(ShortArray(0))
+                verbatim.add(out.lastIndex)
+                gaps[out.lastIndex] = plan.gapAfterMs
+            }
+        }
+        currentWorker = worker
+        return SegSynth(out, verbatim, gaps)
+    }
+
+    /**
+     * One chunk through the worker.  Never interrupts native code: stopping,
+     * timing out or losing the worker all end in the worker being retired and
+     * a replacement bound, which is the only way to clear a wedged engine.
+     */
+    private fun sayBlocking(
+        worker: IBestDroidWorker,
+        build: String,
+        text: ByteArray,
+        pitch: Int,
+        rate: Int,
+        deadline: Long
+    ): ShortArray {
+        val id = try {
+            worker.say(build, text, pitch, rate, sayWaitMs)
+        } catch (t: Throwable) {
+            BestDroidWorkers.retire(worker)
+            throw WorkerGone("say failed", t)
+        }
+        if (id == BestDroidWorkerService.BUSY) {
+            BestDroidWorkers.retire(worker)
+            throw WorkerGone("engine stayed busy")
+        }
+        if (id < 0) throw WorkerGone("say refused ($id)")
+        currentRequest = id
+        val buffer = java.io.ByteArrayOutputStream(text.size * 16)
+        try {
+            while (true) {
+                if (stopped.get()) {
+                    try {
+                        worker.cancel(id)
+                    } catch (t: Throwable) {
+                        android.util.Log.w("BestDroid", "cancel failed", t)
+                    }
+                    return ShortArray(0)
+                }
+                val block = worker.pull(id, pullBytes, pullWaitMs)
+                if (block != null && block.isNotEmpty()) {
+                    buffer.write(block)
+                    continue
+                }
+                if (worker.finished(id)) break
+                if (System.currentTimeMillis() > deadline) {
+                    BestDroidWorkers.retire(worker)
+                    throw WorkerGone("chunk timed out")
+                }
+            }
+        } catch (e: WorkerGone) {
+            throw e
+        } catch (t: Throwable) {
+            BestDroidWorkers.retire(worker)
+            throw WorkerGone("pull failed", t)
+        } finally {
+            currentRequest = -1
+        }
+        return littleEndianToShorts(buffer.toByteArray())
+    }
+
+    private fun littleEndianToShorts(bytes: ByteArray): ShortArray {
+        val count = bytes.size / 2
+        if (count == 0) return ShortArray(0)
+        val out = ShortArray(count)
+        var j = 0
+        for (i in 0 until count) {
+            out[i] = ((bytes[j].toInt() and 0xFF) or (bytes[j + 1].toInt() shl 8)).toShort()
+            j += 2
+        }
+        return out
+    }
 
     /** Splits encoded bytes into chunks at spaces (never mid-word). */
     private fun chunkBytes(bytes: ByteArray): List<ByteArray> {

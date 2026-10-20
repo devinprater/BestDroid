@@ -38,5 +38,13 @@
                 android:resource="@xml/tts_engine" />
         </service>
 
+        <!-- The engine, in a process of its own.  Never exported: only the
+             TTS service binds it, and retiring it is how a wedged native call
+             is cleared. -->
+        <service
+            android:name=".BestDroidWorkerService"
+            android:exported="false"
+            android:process=":engine" />
+
     </application>
 </manifest>
