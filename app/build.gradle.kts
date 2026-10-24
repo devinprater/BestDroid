@@ -11,8 +11,8 @@ android {
         applicationId = "org.bestdroid.tts"
         minSdk = 26
         targetSdk = 34
-        versionCode = 5
-        versionName = "0.4.1"
+        versionCode = 6
+        versionName = "0.4.2"
 
         ndk {
             // 64-bit first; 32-bit kept for old devices.

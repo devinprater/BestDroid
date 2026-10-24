@@ -143,7 +143,11 @@ class BestDroidService : TextToSpeechService() {
             Voice.QUALITY_HIGH,
             Voice.LATENCY_NORMAL,
             false,
-            null
+            // Must be a real set: Voice.writeToParcel() does
+            // new ArrayList<String>(mFeatures), so null throws inside
+            // getVoices() and every client that lists voices sees the
+            // engine as broken (and picks another one).
+            emptySet<String>()
         )
     }
 

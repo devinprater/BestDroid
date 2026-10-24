@@ -100,6 +100,20 @@ internal object BestDroidWorkers {
 
     private var connection: Connection? = null
 
+    /** Starts a binding.  Caller holds [lock]. */
+    private fun bind(ctx: Context): Connection = Connection(ctx).also { c ->
+        c.bound = ctx.bindService(
+            Intent(ctx, BestDroidWorkerService::class.java),
+            c,
+            Context.BIND_AUTO_CREATE
+        )
+        if (!c.bound) {
+            c.ready.countDown()
+            c.closed.countDown()
+        }
+        connection = c
+    }
+
     /** The live worker, binding one if needed.  Never call on the main thread. */
     fun acquire(context: Context): IBestDroidWorker {
         check(Looper.myLooper() != Looper.getMainLooper()) { "worker binding on main thread" }
@@ -107,21 +121,21 @@ internal object BestDroidWorkers {
         val conn: Connection
         synchronized(lock) {
             val existing = connection
-            if (existing != null && !existing.retired) {
-                existing.api?.let { if (it.asBinder().isBinderAlive) return it }
-                existing.retire()
-            }
-            conn = Connection(ctx).also { c ->
-                c.bound = ctx.bindService(
-                    Intent(ctx, BestDroidWorkerService::class.java),
-                    c,
-                    Context.BIND_AUTO_CREATE
-                )
-                if (!c.bound) {
-                    c.ready.countDown()
-                    c.closed.countDown()
-                }
-                connection = c
+            conn = when {
+                existing == null -> bind(ctx)
+                existing.retired -> bind(ctx)
+                existing.api != null ->
+                    // A connected worker is reused if its binder is alive.
+                    // If it is not, the connection is stale: replace it.
+                    if (existing.api!!.asBinder().isBinderAlive) return existing.api!!
+                    else { existing.retire(); bind(ctx) }
+                existing.bound ->
+                    // A bind is already in flight (the onCreate warm-up and
+                    // the first utterance race here).  Wait on that one:
+                    // retiring it would hand this caller a dead connection
+                    // and send the utterance to the Google fallback.
+                    existing
+                else -> { existing.retire(); bind(ctx) }
             }
         }
         if (!conn.ready.await(BIND_TIMEOUT_S, TimeUnit.SECONDS)) {

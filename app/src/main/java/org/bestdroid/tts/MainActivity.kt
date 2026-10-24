@@ -161,7 +161,7 @@ class MainActivity : AppCompatActivity() {
                 engine.setVoice(
                     Voice(
                         build, locale,
-                        Voice.QUALITY_HIGH, Voice.LATENCY_NORMAL, false, null
+                        Voice.QUALITY_HIGH, Voice.LATENCY_NORMAL, false, emptySet()
                     )
                 )
             }
